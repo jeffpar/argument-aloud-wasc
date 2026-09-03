@@ -1,0 +1,7 @@
+.DS_Store
+.claude
+.history
+Gemfile.lock
+package-lock.json
+node_modules
+_site
