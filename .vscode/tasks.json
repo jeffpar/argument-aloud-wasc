@@ -7,7 +7,6 @@
       "command": "bundle exec jekyll serve --host 0.0.0.0 --port 4013 --source courts/wasc --config _config.yml",
       "isBackground": true,
       "runOptions": {
-        "runOn": "folderOpen"
       },
       "problemMatcher": []
     }

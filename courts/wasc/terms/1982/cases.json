@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1982-001",
+    "title": "State v. Chrisman",
+    "number": "46750-1",
+    "argument": "1982-06-15",
+    "argument_day": "Tuesday, June 15, 1982",
+    "decision": "1984-01-26",
+    "decision_day": "Thursday, January 26, 1984",
+    "citation": "100 Wn.2d 814 (1984)",
+    "votes": [
+      {
+        "name": "WILLIAM H. WILLIAMS",
+        "side": "majority"
+      },
+      {
+        "name": "HUGH J. ROSELLINI",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES F. STAFFORD",
+        "side": "minority"
+      },
+      {
+        "name": "ROBERT F. UTTER",
+        "side": "majority"
+      },
+      {
+        "name": "ROBERT F. BRACHTENBACH",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. DOLLIVER",
+        "side": "majority"
+      },
+      {
+        "name": "CAROLYN R. DIMMICK",
+        "side": "minority"
+      },
+      {
+        "name": "FRED H. DORE",
+        "side": "minority"
+      },
+      {
+        "name": "VERNON R. PEARSON",
+        "side": "majority"
+      }
+    ]
+  }
+]

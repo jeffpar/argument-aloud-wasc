@@ -1,0 +1,248 @@
+[
+  {
+    "name": "1890s",
+    "groups": [
+      {
+        "id": "1891",
+        "name": "1891",
+        "file": "/courts/wasc/terms/1891/cases.json",
+        "cases": 2
+      }
+    ]
+  },
+  {
+    "name": "1980s",
+    "groups": [
+      {
+        "id": "1981",
+        "name": "1981",
+        "file": "/courts/wasc/terms/1981/cases.json",
+        "cases": 1
+      },
+      {
+        "id": "1982",
+        "name": "1982",
+        "file": "/courts/wasc/terms/1982/cases.json",
+        "cases": 1
+      },
+      {
+        "id": "1985",
+        "name": "1985",
+        "file": "/courts/wasc/terms/1985/cases.json",
+        "cases": 2
+      }
+    ]
+  },
+  {
+    "name": "1990s",
+    "groups": [
+      {
+        "id": "1995",
+        "name": "1995",
+        "file": "/courts/wasc/terms/1995/cases.json",
+        "cases": 1
+      },
+      {
+        "id": "1996",
+        "name": "1996",
+        "file": "/courts/wasc/terms/1996/cases.json",
+        "cases": 116
+      },
+      {
+        "id": "1997",
+        "name": "1997",
+        "file": "/courts/wasc/terms/1997/cases.json",
+        "cases": 129
+      },
+      {
+        "id": "1998",
+        "name": "1998",
+        "file": "/courts/wasc/terms/1998/cases.json",
+        "cases": 141
+      },
+      {
+        "id": "1999",
+        "name": "1999",
+        "file": "/courts/wasc/terms/1999/cases.json",
+        "cases": 123
+      }
+    ]
+  },
+  {
+    "name": "2000s",
+    "groups": [
+      {
+        "id": "2000",
+        "name": "2000",
+        "file": "/courts/wasc/terms/2000/cases.json",
+        "cases": 125
+      },
+      {
+        "id": "2001",
+        "name": "2001",
+        "file": "/courts/wasc/terms/2001/cases.json",
+        "cases": 126
+      },
+      {
+        "id": "2002",
+        "name": "2002",
+        "file": "/courts/wasc/terms/2002/cases.json",
+        "cases": 132
+      },
+      {
+        "id": "2003",
+        "name": "2003",
+        "file": "/courts/wasc/terms/2003/cases.json",
+        "cases": 125
+      },
+      {
+        "id": "2004",
+        "name": "2004",
+        "file": "/courts/wasc/terms/2004/cases.json",
+        "cases": 142
+      },
+      {
+        "id": "2005",
+        "name": "2005",
+        "file": "/courts/wasc/terms/2005/cases.json",
+        "cases": 143
+      },
+      {
+        "id": "2006",
+        "name": "2006",
+        "file": "/courts/wasc/terms/2006/cases.json",
+        "cases": 123
+      },
+      {
+        "id": "2007",
+        "name": "2007",
+        "file": "/courts/wasc/terms/2007/cases.json",
+        "cases": 125
+      },
+      {
+        "id": "2008",
+        "name": "2008",
+        "file": "/courts/wasc/terms/2008/cases.json",
+        "cases": 120
+      },
+      {
+        "id": "2009",
+        "name": "2009",
+        "file": "/courts/wasc/terms/2009/cases.json",
+        "cases": 127
+      }
+    ]
+  },
+  {
+    "name": "2010s",
+    "groups": [
+      {
+        "id": "2010",
+        "name": "2010",
+        "file": "/courts/wasc/terms/2010/cases.json",
+        "cases": 120
+      },
+      {
+        "id": "2011",
+        "name": "2011",
+        "file": "/courts/wasc/terms/2011/cases.json",
+        "cases": 125
+      },
+      {
+        "id": "2012",
+        "name": "2012",
+        "file": "/courts/wasc/terms/2012/cases.json",
+        "cases": 118
+      },
+      {
+        "id": "2013",
+        "name": "2013",
+        "file": "/courts/wasc/terms/2013/cases.json",
+        "cases": 97
+      },
+      {
+        "id": "2014",
+        "name": "2014",
+        "file": "/courts/wasc/terms/2014/cases.json",
+        "cases": 91
+      },
+      {
+        "id": "2015",
+        "name": "2015",
+        "file": "/courts/wasc/terms/2015/cases.json",
+        "cases": 93
+      },
+      {
+        "id": "2016",
+        "name": "2016",
+        "file": "/courts/wasc/terms/2016/cases.json",
+        "cases": 102
+      },
+      {
+        "id": "2017",
+        "name": "2017",
+        "file": "/courts/wasc/terms/2017/cases.json",
+        "cases": 78
+      },
+      {
+        "id": "2018",
+        "name": "2018",
+        "file": "/courts/wasc/terms/2018/cases.json",
+        "cases": 80
+      },
+      {
+        "id": "2019",
+        "name": "2019",
+        "file": "/courts/wasc/terms/2019/cases.json",
+        "cases": 83
+      }
+    ]
+  },
+  {
+    "name": "2020s",
+    "groups": [
+      {
+        "id": "2020",
+        "name": "2020",
+        "file": "/courts/wasc/terms/2020/cases.json",
+        "cases": 68
+      },
+      {
+        "id": "2021",
+        "name": "2021",
+        "file": "/courts/wasc/terms/2021/cases.json",
+        "cases": 66
+      },
+      {
+        "id": "2022",
+        "name": "2022",
+        "file": "/courts/wasc/terms/2022/cases.json",
+        "cases": 65
+      },
+      {
+        "id": "2023",
+        "name": "2023",
+        "file": "/courts/wasc/terms/2023/cases.json",
+        "cases": 50
+      },
+      {
+        "id": "2024",
+        "name": "2024",
+        "file": "/courts/wasc/terms/2024/cases.json",
+        "cases": 59
+      },
+      {
+        "id": "2025",
+        "name": "2025",
+        "file": "/courts/wasc/terms/2025/cases.json",
+        "cases": 60
+      },
+      {
+        "id": "2026",
+        "name": "2026",
+        "file": "/courts/wasc/terms/2026/cases.json",
+        "cases": 8
+      }
+    ]
+  }
+]

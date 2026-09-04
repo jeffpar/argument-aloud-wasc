@@ -1,0 +1,64 @@
+[
+  {
+    "id": "1995-001",
+    "title": "Hayes v. Seattle",
+    "number": "62820-3",
+    "facts": "Respondent Michael Hayes filed suit seeking damages against the city of Seattle in the Superior Court for King County, alleging that the city had previously conditioned approval of his application for a building permit on a reduction in the size of the proposed development on arbitrary and capricious grounds in violation of Washington Revised Code §64.40.020. The trial court granted summary judgment to Hayes, concluding that the city had acted arbitrarily and capriciously and awarded Hayes damages. The city of Seattle appealed the trial court's decision, arguing that the statute of limitations had expired and that Hayes was barred by the doctrine of res judicata from seeking damages as the issue of whether the city had acted arbitrarily and capriciously had been decided in an earlier action commenced by Hayes that sought to reverse the city's initial denial of his application. The Washington Court of Appeals held that while Hayes's claim was time barred by the statute of limitations, he was nonetheless entitled to damages under federal law for deprivation of his civil rights. The city of Seattle appealed this decision to the Supreme Court of Washington.",
+    "questions": "Is Hayes's claim barred by the statute of limitations? If not, is it barred by the doctrine of res judicata? If not, did the city act arbitrarily and capriciously in conditioning Hayes's application upon a reduction in the size of his proposed development?",
+    "conclusions": "Justice Alexander's opinion for the Court ruled that Hayes's action was not time barred as the statute of limitations did not begin to toll when Hayes had exhausted his administrative remedies but rather when the city took final action and actually issued its conditional land use permit, which had occurred only thirty days before Hayes filed suit. Furthermore, the Court held that Hayes's action was also not barred by the doctrine of res judicata as although the facts giving rise to Hayes's current action and the facts giving rise to Hayes's previous action were identical and the two actions could therefore have been joined, the burden of proof required to obtain a writ overturning the city council's decision to and the burden of proof required to obtain damages were sufficiently different that res judicata could not be invoked. Finally, the Court concluded that the city of Seattle had acted arbitrarily and capriciously in conditioning Hayes's application for a building permit upon a reduction in the size of the development as it had not specifically described the adverse environmental impacts that provided the basis for this decision and had not either outlined mitigation measures or specified why any such measures would be insufficient.",
+    "argument": "1995-10-26",
+    "argument_day": "Thursday, October 26, 1995",
+    "decision": "1997-04-17",
+    "decision_day": "Thursday, April 17, 1997",
+    "citation": "131 Wn.2d 706 (1997)",
+    "score": "5-3",
+    "votes": [
+      {
+        "name": "BARBARA DURHAM",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. DOLLIVER",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES Z. SMITH",
+        "side": "majority"
+      },
+      {
+        "name": "RICHARD P. GUY",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "GERRY ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "PHILIP A. TALMADGE",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1995-10-26",
+        "title": "Oral Argument on Thursday, October 26, 1995",
+        "page_url": "https://tvw.org/video/state-supreme-court-1995101030/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/431b63ccc5de138ec6e3646fa2e18504dc51b747.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1995101030/media.m3u8",
+        "length": "00:59:57",
+        "size": 1402994688,
+        "captions_url": "https://m-download.invintus.com/9375922947/7e73754e9e2f8ba31c3dc6121bae79f10c20acc8.vtt"
+      }
+    ]
+  }
+]

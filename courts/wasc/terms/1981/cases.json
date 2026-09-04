@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1981-001",
+    "title": "Seattle School District No. 1 v. State",
+    "number": "47947-0; 48067-2; 48068-1",
+    "argument": "1981-10-05",
+    "argument_day": "Monday, October 5, 1981",
+    "decision": "1982-06-24",
+    "decision_day": "Thursday, June 24, 1982",
+    "citation": "97 Wn.2d 534 (1982)",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "ROBERT F. BRACHTENBACH",
+        "side": "majority"
+      },
+      {
+        "name": "HUGH J. ROSELLINI",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES F. STAFFORD",
+        "side": "majority"
+      },
+      {
+        "name": "ROBERT F. UTTER",
+        "side": "minority"
+      },
+      {
+        "name": "JAMES M. DOLLIVER",
+        "side": "majority"
+      },
+      {
+        "name": "WILLIAM H. WILLIAMS",
+        "side": "minority"
+      },
+      {
+        "name": "CAROLYN R. DIMMICK",
+        "side": "majority"
+      },
+      {
+        "name": "FRED H. DORE",
+        "side": "minority"
+      }
+    ]
+  }
+]

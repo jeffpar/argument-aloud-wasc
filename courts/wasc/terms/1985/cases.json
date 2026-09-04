@@ -1,0 +1,103 @@
+[
+  {
+    "id": "1985-001",
+    "title": "Northwest Airlines v. Hughes Air Corp.",
+    "number": "50855-1",
+    "argument": "1985-02-20",
+    "argument_day": "Wednesday, February 20, 1985",
+    "decision": "1985-07-18",
+    "decision_day": "Thursday, July 18, 1985",
+    "citation": "104 Wn.2d 152 (1985)",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "JAMES M. DOLLIVER",
+        "side": "majority"
+      },
+      {
+        "name": "ROBERT F. UTTER",
+        "side": "majority"
+      },
+      {
+        "name": "ROBERT F. BRACHTENBACH",
+        "side": "majority"
+      },
+      {
+        "name": "FRED H. DORE",
+        "side": "majority"
+      },
+      {
+        "name": "VERNON R. PEARSON",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES A. ANDERSEN",
+        "side": "majority"
+      },
+      {
+        "name": "KEITH M. CALLOW",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA DURHAM",
+        "side": "majority"
+      },
+      {
+        "name": "WILLIAM C. GOODLOE",
+        "side": "majority"
+      }
+    ]
+  },
+  {
+    "id": "1985-002",
+    "title": "Washington v. Gunwall",
+    "number": "50979-4",
+    "facts": "Petitioner Laura Gunwall was convicted of conspiring to deliver and possessing cocaine after the Superior Court for Snohomish County denied her motion to suppress evidence derived from telephone records obtained by police without obtaining a warrant. These telephone records had been included in the affidavit that supported the warrant issued for the search of Gunwall's home that produced large quantities of cocaine and cash. Gunwall appealed her conviction to the Washington Supreme Court.",
+    "questions": "Should the Washington State Constitution be construed as extending broader protections to citizens against warrantless searches than the United States Constitution? If so, does the Washington State Constitution prohibit obtaining phone records without a warrant? If so, did the affidavit supporting the warrant issued to search Gunwall's home provide sufficient cause independent of Gunwall's phone records to justify a search?",
+    "conclusions": "Justice Andersen's opinion for the Court held that several factors should generally be considered in determining whether rights guaranteed by the Washington State Constitution should be construed more broadly than analogous rights guaranteed by the United States Constitution: whether the language of the Washington State Constitution is more explicit than or significantly different from the United States Constitution, whether state common law reflects an intention to confer greater protection upon citizens, the scope of the right created by any preexisting state statutory provisions, and whether there is a need for national uniformity. The Court concluded after considering how these factors related to the case that the provision relating to search and seizure of the Washington State Constitution (Article I §7) should be construed more broadly than the protection offered against warrantless searches by the United States Constitution. However, the Court decided that even if Gunwall's phone records had not been available in support of the warrant issued to search her home there would have nonetheless been sufficient evidence to issue the warrant.",
+    "argument": "1985-10-02",
+    "argument_day": "Wednesday, October 2, 1985",
+    "decision": "1986-06-12",
+    "decision_day": "Thursday, June 12, 1986",
+    "citation": "106 Wn.2d 54 (1986)",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "JAMES M. DOLLIVER",
+        "side": "majority"
+      },
+      {
+        "name": "ROBERT F. UTTER",
+        "side": "majority"
+      },
+      {
+        "name": "ROBERT F. BRACHTENBACH",
+        "side": "majority"
+      },
+      {
+        "name": "FRED H. DORE",
+        "side": "majority"
+      },
+      {
+        "name": "VERNON R. PEARSON",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES A. ANDERSEN",
+        "side": "majority"
+      },
+      {
+        "name": "KEITH M. CALLOW",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA DURHAM",
+        "side": "majority"
+      },
+      {
+        "name": "WILLIAM C. GOODLOE",
+        "side": "majority"
+      }
+    ]
+  }
+]

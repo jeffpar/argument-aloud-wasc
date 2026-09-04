@@ -1,0 +1,3842 @@
+[
+  {
+    "id": "2020-001",
+    "title": "Gronquist v. Dep't of Corrections",
+    "number": "97277-0",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200114",
+    "questions": "Is a civil contempt motion necessarily moot when no coercive, remedial sanctions are available under RCW 7.21.030(2)?",
+    "argument": "2020-01-14",
+    "argument_day": "Tuesday, January 14, 2020",
+    "decision": "2020-11-12",
+    "decision_day": "Thursday, November 12, 2020",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-01-14",
+        "title": "Oral Argument on Tuesday, January 14, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020011019/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/84d45eb9c22a9b41f6c00405d2f57421e698234a.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020011019/media.m3u8",
+        "length": "00:44:32",
+        "size": 747634688
+      }
+    ]
+  },
+  {
+    "id": "2020-002",
+    "title": "State v. Haggard",
+    "number": "97375-0",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200114",
+    "questions": "Whether a dismissed misdemeanor conviction interrupts the washout period set out in RCW 9.94A.525?",
+    "argument": "2020-01-14",
+    "argument_day": "Tuesday, January 14, 2020",
+    "decision": "2020-04-23",
+    "decision_day": "Thursday, April 23, 2020",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "minority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "minority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "minority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-01-14",
+        "title": "Oral Argument on Tuesday, January 14, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020011018/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/ac6e9d6008323d821f0d8a738cbb0df76723354a.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020011018/media.m3u8",
+        "length": "00:42:44",
+        "size": 741343232
+      }
+    ]
+  },
+  {
+    "id": "2020-003",
+    "title": "In re Muenster",
+    "number": "201,872-6",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200116",
+    "questions": "Can a lawyer charged with ethical violations escape sanctions and disbarment by resigning from the bar?",
+    "argument": "2020-01-16",
+    "argument_day": "Thursday, January 16, 2020",
+    "decision": "2020-02-20",
+    "decision_day": "Thursday, February 20, 2020",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      }
+    ]
+  },
+  {
+    "id": "2020-004",
+    "title": "Lakehaven Water & Sewer Dist. v. City of Federal Way",
+    "number": "96585-4",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200116",
+    "questions": "May a code city impose a business and occupation excise tax on water-sewer utilities doing business within its borders?",
+    "argument": "2020-01-16",
+    "argument_day": "Thursday, January 16, 2020",
+    "decision": "2020-06-18",
+    "decision_day": "Thursday, June 18, 2020",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "minority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "minority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-01-16",
+        "title": "Oral Argument on Thursday, January 16, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020011020/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/9a5ebc625df42fec695eff3414e43a4ace057c2d.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020011020/media.m3u8",
+        "length": "00:43:14",
+        "size": 747634688
+      }
+    ]
+  },
+  {
+    "id": "2020-005",
+    "title": "Peterson v. Dep't of Revenue",
+    "number": "97410-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200121",
+    "questions": "A port got land on condition it allow a railroad to use some of it for free. Is this free use a gift of public funds?",
+    "argument": "2020-01-21",
+    "argument_day": "Tuesday, January 21, 2020",
+    "decision": "2020-04-16",
+    "decision_day": "Thursday, April 16, 2020",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-01-21",
+        "title": "Oral Argument on Tuesday, January 21, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020011163/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/55c3d154d15c264cdd24b2b152e69c73111415f7.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020011163/media.m3u8",
+        "length": "00:42:19",
+        "size": 742391808
+      }
+    ]
+  },
+  {
+    "id": "2020-006",
+    "title": "State v. Van Wolvelaere",
+    "number": "97283-4",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200121",
+    "questions": "Is a snowmobile a \"motor vehicle\" for purposes of the theft of a motor vehicle statute?",
+    "argument": "2020-01-21",
+    "argument_day": "Tuesday, January 21, 2020",
+    "decision": "2020-04-30",
+    "decision_day": "Thursday, April 30, 2020",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "minority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "minority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-01-21",
+        "title": "Oral Argument on Tuesday, January 21, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020011164/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/08517d3afb6910456b71dd22e11c7a9c36409fc3.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020011164/media.m3u8",
+        "length": "00:31:56",
+        "size": 326107136
+      }
+    ]
+  },
+  {
+    "id": "2020-007",
+    "title": "LYON v. State",
+    "number": "97826-3",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200121",
+    "questions": "If a firefighter is injured in the course of their duties, can they sue the person whose negligence caused the fire?",
+    "argument": "2020-01-21",
+    "argument_day": "Tuesday, January 21, 2020",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-01-21",
+        "title": "Oral Argument on Tuesday, January 21, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020011165/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/29d5c01a7b4f8eb8a9f0a4779c8b875dffa6b337.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020011165/media.m3u8",
+        "length": "00:16:57",
+        "size": 317718528
+      }
+    ]
+  },
+  {
+    "id": "2020-008",
+    "title": "STEVEN BURNETT, v. PAGLIACCI PIZZA , a Washington corporation",
+    "number": "97429-2",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200123",
+    "questions": "Is the employer's mandatory arbitration policy enforceable?",
+    "argument": "2020-01-23",
+    "argument_day": "Thursday, January 23, 2020",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-01-23",
+        "title": "Oral Argument on Thursday, January 23, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020011167/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/8f9b94828849cad310af65b611e3fc2441ca21e5.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020011167/media.m3u8",
+        "length": "00:42:15",
+        "size": 801112064
+      }
+    ]
+  },
+  {
+    "id": "2020-009",
+    "title": "Wash. State Nurses Ass'n v. Yakima HMA, LLC",
+    "number": "97532-9",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200123",
+    "questions": "Does a union have associational standing when it establishes member damages through representative testimony?",
+    "argument": "2020-01-23",
+    "argument_day": "Thursday, January 23, 2020",
+    "decision": "2020-08-13",
+    "decision_day": "Thursday, August 13, 2020",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "minority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "minority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "minority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-01-23",
+        "title": "Oral Argument on Thursday, January 23, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020011166/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/c6e5dacf811761c89d00fcc9a78e9e1478406247.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020011166/media.m3u8",
+        "length": "00:45:05",
+        "size": 832569344
+      }
+    ]
+  },
+  {
+    "id": "2020-010",
+    "title": "In re Estate of Petelle",
+    "number": "97463-2",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200123",
+    "questions": "Spouses signed a separation contract but did not divorce before one died without a will. Were inheritance rights waived?",
+    "argument": "2020-01-23",
+    "argument_day": "Thursday, January 23, 2020",
+    "decision": "2020-05-14",
+    "decision_day": "Thursday, May 14, 2020",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "minority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "minority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-01-23",
+        "title": "Oral Argument on Thursday, January 23, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020011168/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/8b403b7b4e3069d9499bec302718752c67d09366.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020011168/media.m3u8",
+        "length": "00:41:08",
+        "size": 704643072
+      }
+    ]
+  },
+  {
+    "id": "2020-011",
+    "title": "In re Pers. Restraint of Ali",
+    "number": "95578-6",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200213",
+    "questions": "Is Houston-Sconiers a significant, material, and retroactive change in law, and is this untimely petitioner prejudiced?",
+    "argument": "2020-02-13",
+    "argument_day": "Thursday, February 13, 2020",
+    "decision": "2020-09-17",
+    "decision_day": "Thursday, September 17, 2020",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "minority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-02-13",
+        "title": "Oral Argument on Thursday, February 13, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020021134/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/efa3edd7bd1e167e61b3c2dcc828b2fe25d294c5.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020021134/media.m3u8",
+        "length": "00:43:47",
+        "size": 772800512
+      }
+    ]
+  },
+  {
+    "id": "2020-012",
+    "title": "In re Pers. Restraint of Domingo-Cornelio",
+    "number": "97205-2",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200213",
+    "questions": "Is Houston-Sconiers a significant, material, and retroactive change in law, and is this timely petitioner prejudiced?",
+    "argument": "2020-02-13",
+    "argument_day": "Thursday, February 13, 2020",
+    "decision": "2020-09-17",
+    "decision_day": "Thursday, September 17, 2020",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "minority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-02-13",
+        "title": "Oral Argument on Thursday, February 13, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020021135/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/ccbbf23d32566ea502bcbf05c39c5af7bc27e983.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020021135/media.m3u8",
+        "length": "00:41:03",
+        "size": 676331520
+      }
+    ]
+  },
+  {
+    "id": "2020-013",
+    "title": "In re Parental Rights to D.H.",
+    "number": "97311-3",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200213",
+    "questions": "Whether DSHS provided a parent all ordered and necessary services before terminating parental rights?",
+    "argument": "2020-02-13",
+    "argument_day": "Thursday, February 13, 2020",
+    "decision": "2020-06-04",
+    "decision_day": "Thursday, June 4, 2020",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "minority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-02-13",
+        "title": "Oral Argument on Thursday, February 13, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020021136/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/8f399adae3474e1d99bc0555930358bc9049c54e.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020021136/media.m3u8",
+        "length": "00:42:15",
+        "size": 706740224
+      }
+    ]
+  },
+  {
+    "id": "2020-014",
+    "title": "State v. Cyr",
+    "number": "97323-7",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200225",
+    "questions": "What is Cyr's statutory maximum sentence for selling heroin for profit?",
+    "argument": "2020-02-25",
+    "argument_day": "Tuesday, February 25, 2020",
+    "decision": "2020-04-16",
+    "decision_day": "Thursday, April 16, 2020",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-02-25",
+        "title": "Oral Argument on Tuesday, February 25, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020021301/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/cdc0d4ec199d05ef05e62c264f858533d8e81fb2.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020021301/media.m3u8",
+        "length": "00:40:29",
+        "size": 501219328
+      }
+    ]
+  },
+  {
+    "id": "2020-015",
+    "title": "State v. Gregg",
+    "number": "97517-5",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200225",
+    "questions": "Does a minor in adult court bear the burden of proving mitigation? Is a plea invalid if misinformed of a consequence?",
+    "argument": "2020-02-25",
+    "argument_day": "Tuesday, February 25, 2020",
+    "decision": "2020-09-17",
+    "decision_day": "Thursday, September 17, 2020",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "minority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "minority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "minority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-02-25",
+        "title": "Oral Argument on Tuesday, February 25, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020021300/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/3bf15c50eea76e60e6518c5528a515abea23e888.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020021300/media.m3u8",
+        "length": "00:42:26",
+        "size": 538968064
+      }
+    ]
+  },
+  {
+    "id": "2020-016",
+    "title": "Plein v. USAA Cas. Ins. Co.",
+    "number": "97563-9",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200225",
+    "questions": "May a law firm that represented an insurance company later represent an insured against that company?",
+    "argument": "2020-02-25",
+    "argument_day": "Tuesday, February 25, 2020",
+    "decision": "2020-05-21",
+    "decision_day": "Thursday, May 21, 2020",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-02-25",
+        "title": "Oral Argument on Tuesday, February 25, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020021302/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/f0ab95662d7a5de5c21c0d509511489abfe9f3ca.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020021302/media.m3u8",
+        "length": "00:43:00",
+        "size": 705691648
+      }
+    ]
+  },
+  {
+    "id": "2020-017",
+    "title": "In re Pers. Restraint of Knight",
+    "number": "97066-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200505",
+    "questions": "Do Knight's multiple convictions violate the constitutional protection against double jeopardy?",
+    "argument": "2020-05-05",
+    "argument_day": "Tuesday, May 5, 2020",
+    "decision": "2020-10-08",
+    "decision_day": "Thursday, October 8, 2020",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "minority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "minority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "minority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-05-05",
+        "title": "Oral Argument on Tuesday, May 5, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020051001/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/08db7edc07ff723cd1ae2a510a1841e8fdb89912.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020051001/media.m3u8",
+        "length": "00:42:58",
+        "size": 498073600
+      }
+    ]
+  },
+  {
+    "id": "2020-018",
+    "title": "Mancini v. City Of Tacoma",
+    "number": "97583-3",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200505",
+    "questions": "Does Washington recognize the tort of negligent police investigation or negligent police execution of a search warrant?",
+    "argument": "2020-05-05",
+    "argument_day": "Tuesday, May 5, 2020",
+    "decision": "2021-01-28",
+    "decision_day": "Thursday, January 28, 2021",
+    "score": "8-1",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-05-05",
+        "title": "Oral Argument on Tuesday, May 5, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020051002/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/2f93d0e58933881f17c1a5403dc8cfd04b793130.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020051002/media.m3u8",
+        "length": "00:41:48",
+        "size": 719323136
+      }
+    ]
+  },
+  {
+    "id": "2020-019",
+    "title": "In re Welfare of M.B.",
+    "number": "97731-3",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200505",
+    "questions": "Did it violate due process to terminate an incarcerated parent's parental rights at a trial held mostly in his absence?",
+    "argument": "2020-05-05",
+    "argument_day": "Tuesday, May 5, 2020",
+    "decision": "2020-07-23",
+    "decision_day": "Thursday, July 23, 2020",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-05-05",
+        "title": "Oral Argument on Tuesday, May 5, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020051003/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/183333b73bd11f213397328e1c302657773b1d18.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020051003/media.m3u8",
+        "length": "00:41:22",
+        "size": 608174080
+      }
+    ]
+  },
+  {
+    "id": "2020-020",
+    "title": "Ctr. for Envtl. Law & Policy v. Dep't of Ecology",
+    "number": "97684-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200514",
+    "questions": "Did the Department of Ecology's rule, WAC 173-557-050, validly set minimum summer flow rates for the Spokane River?",
+    "argument": "2020-05-14",
+    "argument_day": "Thursday, May 14, 2020",
+    "decision": "2020-08-06",
+    "decision_day": "Thursday, August 6, 2020",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-05-14",
+        "title": "Oral Argument on Thursday, May 14, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020051036/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/0900a25f3ddf24474c3cb4c05a7ee46a4996b4db.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020051036/media.m3u8",
+        "length": "00:42:48",
+        "size": 619708416
+      }
+    ]
+  },
+  {
+    "id": "2020-021",
+    "title": "State v. Burke",
+    "number": "96783-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200514",
+    "questions": "Did admitting statements a victim made to a sexual assault nurse violate a defendant's right to confront witnesses?",
+    "argument": "2020-05-14",
+    "argument_day": "Thursday, May 14, 2020",
+    "decision": "2021-01-14",
+    "decision_day": "Thursday, January 14, 2021",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-05-14",
+        "title": "Oral Argument on Thursday, May 14, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020051037/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/7f137d864058cd1442a79fbd97f80426196f155f.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020051037/media.m3u8",
+        "length": "00:42:37",
+        "size": 667942912
+      }
+    ]
+  },
+  {
+    "id": "2020-022",
+    "title": "In re Pers. Restraint of Monschke",
+    "number": "96772-5",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200514",
+    "questions": "Does State v. O'Dell, holding courts can consider youthfulness in sentencing adult defendants, apply retroactively?",
+    "argument": "2020-05-14",
+    "argument_day": "Thursday, May 14, 2020",
+    "decision": "2021-03-11",
+    "decision_day": "Thursday, March 11, 2021",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "minority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "minority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "minority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-05-14",
+        "title": "Oral Argument on Thursday, May 14, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020051038/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/6deeb61b354a84d7e7fa92fe3866b7ff148a4ba7.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020051038/media.m3u8",
+        "length": "00:42:52",
+        "size": 584056832
+      }
+    ]
+  },
+  {
+    "id": "2020-023",
+    "title": "In re Pers. Restraint of Winton",
+    "number": "97452-7",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200514",
+    "questions": "A community custody condition bars travel in a county without permission. Is this an unreasonable restriction on travel?",
+    "argument": "2020-05-14",
+    "argument_day": "Thursday, May 14, 2020",
+    "decision": "2020-09-17",
+    "decision_day": "Thursday, September 17, 2020",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-05-14",
+        "title": "Oral Argument on Thursday, May 14, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020051038/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/6deeb61b354a84d7e7fa92fe3866b7ff148a4ba7.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020051038/media.m3u8",
+        "length": "00:42:52",
+        "size": 584056832
+      }
+    ]
+  },
+  {
+    "id": "2020-024",
+    "title": "Freedom Found. v. Teamsters Local 117 Segregated Fund",
+    "number": "97109-9",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200526",
+    "questions": "Does the Fair Campaign Practices Act impose a ten-day deadline on citizen's actions after the government fails to act?",
+    "argument": "2020-05-26",
+    "argument_day": "Tuesday, May 26, 2020",
+    "decision": "2021-02-18",
+    "decision_day": "Thursday, February 18, 2021",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "minority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-05-26",
+        "title": "Oral Argument on Tuesday, May 26, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020051078/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/6a0da7edd8dcfcd20e2a992eecf6a2196d724e3b.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020051078/media.m3u8",
+        "length": "01:02:54",
+        "size": 833617920
+      }
+    ]
+  },
+  {
+    "id": "2020-025",
+    "title": "PeaceHealth St. Joseph Med. Ctr. v. Dep't of Revenue",
+    "number": "97557-4",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200526",
+    "questions": "Does RCW 82.04.4311 authorize a B&O tax deduction to hospitals for Medicaid and CHIP receipts received from any state?",
+    "argument": "2020-05-26",
+    "argument_day": "Tuesday, May 26, 2020",
+    "decision": "2020-08-06",
+    "decision_day": "Thursday, August 6, 2020",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-05-26",
+        "title": "Oral Argument on Tuesday, May 26, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020051077/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/cd707b2464fd89fafd4bc6c27bd203cc9c3e236e.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020051077/media.m3u8",
+        "length": "00:37:28",
+        "size": 142606336
+      }
+    ]
+  },
+  {
+    "id": "2020-026",
+    "title": "Ronald Wastewater Dist. v. Olympic View Water& Sewer Dist.",
+    "number": "97599-0",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200526",
+    "questions": "In a sewer system transfer under RCW 36.94.410-.440, can a sewer district annex area that is within another district?",
+    "argument": "2020-05-26",
+    "argument_day": "Tuesday, May 26, 2020",
+    "decision": "2020-10-15",
+    "decision_day": "Thursday, October 15, 2020",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-05-26",
+        "title": "Oral Argument on Tuesday, May 26, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020051079/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/c6aa4afed1fbbadfd3f41da78e37cd2cbfa1d267.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020051079/media.m3u8",
+        "length": "00:37:55",
+        "size": 743440384
+      }
+    ]
+  },
+  {
+    "id": "2020-027",
+    "title": "Borton & Sons, Inc. v. Burbank Properties, LLC",
+    "number": "97690-2",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200528",
+    "questions": "What is the standard for reviewing an equitable grace period, and are property improvements required to receive one?",
+    "argument": "2020-05-28",
+    "argument_day": "Thursday, May 28, 2020",
+    "decision": "2020-09-10",
+    "decision_day": "Thursday, September 10, 2020",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-05-28",
+        "title": "Oral Argument on Thursday, May 28, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020051081/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/7d0e80d55a03ea846f555f7617ed12aae56b9648.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020051081/media.m3u8",
+        "length": "00:41:49",
+        "size": 687865856
+      }
+    ]
+  },
+  {
+    "id": "2020-028",
+    "title": "TODD MCLAUGHLIN v. TRAVELERS COMMERCIAL INSURANCE COMPANY",
+    "number": "976652-0",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200528",
+    "questions": "A bicyclist was struck by a motor vehicle. Does the term \"pedestrian\" in his insurance policy include bicyclists?",
+    "argument": "2020-05-28",
+    "argument_day": "Thursday, May 28, 2020",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-05-28",
+        "title": "Oral Argument on Thursday, May 28, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020051080/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/a80fd379feb23f89efb19970d0142a7722c22b00.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020051080/media.m3u8",
+        "length": "00:42:04",
+        "size": 652214272
+      }
+    ]
+  },
+  {
+    "id": "2020-029",
+    "title": "Young v. Toyota Motor Sales, U.S.A.",
+    "number": "97576-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200528",
+    "questions": "Must a misrepresentation about a vehicleâ€™s features be material to be the basis of a Consumer Protection Act claim?",
+    "argument": "2020-05-28",
+    "argument_day": "Thursday, May 28, 2020",
+    "decision": "2020-09-24",
+    "decision_day": "Thursday, September 24, 2020",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-05-28",
+        "title": "Oral Argument on Thursday, May 28, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020051082/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/6b9aca3264cc752871aad149c5df97adf7a79128.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020051082/media.m3u8",
+        "length": "00:42:27",
+        "size": 544210944
+      }
+    ]
+  },
+  {
+    "id": "2020-030",
+    "title": "Burgess v. Lithia Motors, Inc.",
+    "number": "98083-7",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200609",
+    "questions": "Does the Federal Arbitration Act authorize courts to intervene and potentially rescind the arbitration agreement once arbitration begins?",
+    "argument": "2020-06-09",
+    "argument_day": "Tuesday, June 9, 2020",
+    "decision": "2020-09-03",
+    "decision_day": "Thursday, September 3, 2020",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-06-09",
+        "title": "Oral Argument on Tuesday, June 9, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020061056/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/41eb372bd83ad9e4b7d0b53e2fe40d4b77ad9cf8.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020061056/media.m3u8",
+        "length": "00:33:40",
+        "size": 545259520
+      }
+    ]
+  },
+  {
+    "id": "2020-031",
+    "title": "State v. Jackson",
+    "number": "97681-3",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200609",
+    "questions": "Was the use of restraints at Jackson's court proceedings without an inquiry into need for restraints harmless error?",
+    "argument": "2020-06-09",
+    "argument_day": "Tuesday, June 9, 2020",
+    "decision": "2020-07-16",
+    "decision_day": "Thursday, July 16, 2020",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-06-09",
+        "title": "Oral Argument on Tuesday, June 9, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020061055/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/3556ffc5adfd13ff2502693574bbf55d8b0eccfc.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020061055/media.m3u8",
+        "length": "00:44:05",
+        "size": 836763648
+      }
+    ]
+  },
+  {
+    "id": "2020-032",
+    "title": "Leishman v. Ogden Murphy Wallace, PLLC",
+    "number": "97734-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200609",
+    "questions": "Under Washington's anti-SLAPP act, is a government contractor a \"person\" entitled to immunity?",
+    "argument": "2020-06-09",
+    "argument_day": "Tuesday, June 9, 2020",
+    "decision": "2021-01-28",
+    "decision_day": "Thursday, January 28, 2021",
+    "score": "4-5",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "minority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "minority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-06-09",
+        "title": "Oral Argument on Tuesday, June 9, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020061057/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/fee9347ef6858e9381ca89030cf3a743238f1022.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020061057/media.m3u8",
+        "length": "00:42:20",
+        "size": 758120448
+      }
+    ]
+  },
+  {
+    "id": "2020-033",
+    "title": "State v. Martinez",
+    "number": "97496-9",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200609",
+    "questions": "Should we adhere to a doctrine that lets the State introduce a complainant's out-of-court complaints of sexual assault?",
+    "argument": "2020-06-09",
+    "argument_day": "Tuesday, June 9, 2020",
+    "decision": "2020-11-19",
+    "decision_day": "Thursday, November 19, 2020",
+    "score": "8-1",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "minority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-06-09",
+        "title": "Oral Argument on Tuesday, June 9, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020061058/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/eeeeec34f3792ac9dac4faf0e1d1b0bb3fc02451.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020061058/media.m3u8",
+        "length": "00:41:29",
+        "size": 715128832
+      }
+    ]
+  },
+  {
+    "id": "2020-034",
+    "title": "Hermanson v. Multicare Health Sys., Inc.",
+    "number": "97783-6",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200611",
+    "questions": "Can a hospital have ex parte contact with a plaintiff's physician when the physician is contracted with the hospital?",
+    "argument": "2020-06-11",
+    "argument_day": "Thursday, June 11, 2020",
+    "decision": "2020-11-12",
+    "decision_day": "Thursday, November 12, 2020",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "minority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "minority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-06-11",
+        "title": "Oral Argument on Thursday, June 11, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020061059/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/8c75cbdc13980c0d86bd2406a23064d9361ee6ec.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020061059/media.m3u8",
+        "length": "00:44:07",
+        "size": 730857472
+      }
+    ]
+  },
+  {
+    "id": "2020-035",
+    "title": "State v. Blake",
+    "number": "96873-0",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200611",
+    "questions": "Is intent an element of the unlawful drug possession statute? Does the unwitting possession defense violate due process?",
+    "argument": "2020-06-11",
+    "argument_day": "Thursday, June 11, 2020",
+    "decision": "2021-02-25",
+    "decision_day": "Thursday, February 25, 2021",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "minority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "minority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "minority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-06-11",
+        "title": "Oral Argument on Thursday, June 11, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020061060/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/34caadcdcf2a2609a0a8bfb508f1d3e6d6180181.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020061060/media.m3u8",
+        "length": "00:41:24",
+        "size": 821035008
+      }
+    ]
+  },
+  {
+    "id": "2020-036",
+    "title": "Confederated Tribes & Bands of the Yakama Nation v. Yakima County",
+    "number": "97910-3",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200611",
+    "questions": "When a county code requires written land use decisions, does a resolution trigger LUPA's 21-day filing deadline?",
+    "argument": "2020-06-11",
+    "argument_day": "Thursday, June 11, 2020",
+    "decision": "2020-07-02",
+    "decision_day": "Thursday, July 2, 2020",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-06-11",
+        "title": "Oral Argument on Thursday, June 11, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020061061/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/0fd30d6ee1ae1f988bdbc36eade1a45ae15dd943.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020061061/media.m3u8",
+        "length": "00:41:39",
+        "size": 437256192
+      }
+    ]
+  },
+  {
+    "id": "2020-037",
+    "title": "State v. LOUGHBOM",
+    "number": "97443-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200611",
+    "questions": "Is it reversible error for a prosecutor to reference the \"war on drugs\" during a trial?",
+    "argument": "2020-06-11",
+    "argument_day": "Thursday, June 11, 2020",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-06-11",
+        "title": "Oral Argument on Thursday, June 11, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020061062/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/8eddcd2ba624ff175f4cb526287062632cbd67f1.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020061062/media.m3u8",
+        "length": "00:42:01",
+        "size": 697303040
+      }
+    ]
+  },
+  {
+    "id": "2020-038",
+    "title": "Beauregard v. Wash. State Bar Ass'n",
+    "number": "97249-4",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200623",
+    "questions": "May the trial court require the Washington State Bar Association to meet openly through a preliminary injunction?",
+    "argument": "2020-06-23",
+    "argument_day": "Tuesday, June 23, 2020",
+    "decision": "2021-02-11",
+    "decision_day": "Thursday, February 11, 2021",
+    "score": "8-1",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-06-23",
+        "title": "Oral Argument on Tuesday, June 23, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020061163/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/fc813b7d0634f2f7f064372a5aa3a47ae90778a8.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020061163/media.m3u8",
+        "length": "00:43:52",
+        "size": 817889280
+      }
+    ]
+  },
+  {
+    "id": "2020-039",
+    "title": "In re Pers. Restraint of Fowler",
+    "number": "97456-0",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200623",
+    "questions": "Does Fowler overcome the time bar for his personal restraint petition?",
+    "argument": "2020-06-23",
+    "argument_day": "Tuesday, June 23, 2020",
+    "decision": "2021-02-04",
+    "decision_day": "Thursday, February 4, 2021",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "minority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "minority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-06-23",
+        "title": "Oral Argument on Tuesday, June 23, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020061164/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/d4e789fa8e2c9945bfc1c8bea2854fcaf5ff0f50.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020061164/media.m3u8",
+        "length": "00:43:57",
+        "size": 620756992
+      }
+    ]
+  },
+  {
+    "id": "2020-040",
+    "title": "In re Dependency of Z.J.G.",
+    "number": "98003-9",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200625",
+    "questions": "Did a court have reason to know a child is an Indian child, triggering the protections of the Indian Child Welfare Act?",
+    "argument": "2020-06-25",
+    "argument_day": "Thursday, June 25, 2020",
+    "decision": "2020-09-03",
+    "decision_day": "Thursday, September 3, 2020",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-06-25",
+        "title": "Oral Argument on Thursday, June 25, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020061172/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/eff4a0f3346ae0ff764528b7f603cceb906be541.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020061172/media.m3u8",
+        "length": "01:02:32",
+        "size": 881852416
+      }
+    ]
+  },
+  {
+    "id": "2020-041",
+    "title": "State v. Numrich",
+    "number": "96365-7",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200625",
+    "questions": "Does WISHA limit the available criminal charges in the workplace death of an employee?",
+    "argument": "2020-06-25",
+    "argument_day": "Thursday, June 25, 2020",
+    "decision": "2021-02-04",
+    "decision_day": "Thursday, February 4, 2021",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "minority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "minority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-06-25",
+        "title": "Oral Argument on Thursday, June 25, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020061171/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/faac99283a4d57e62be244c4a8dbafa6a3f5ac05.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020061171/media.m3u8",
+        "length": "00:44:16",
+        "size": 786432000
+      }
+    ]
+  },
+  {
+    "id": "2020-042",
+    "title": "ROSKELLEY and WASHINGTON v. State",
+    "number": "97739-9",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200625",
+    "questions": "Is a statute requiring Spokane County to have five commissioners and hold district elections constitutional?",
+    "argument": "2020-06-25",
+    "argument_day": "Thursday, June 25, 2020",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-06-25",
+        "title": "Oral Argument on Thursday, June 25, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020061173/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/30a78998ff13c278ec8f537cb30d00361857157f.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020061173/media.m3u8",
+        "length": "00:41:16",
+        "size": 331350016
+      }
+    ]
+  },
+  {
+    "id": "2020-043",
+    "title": "In re Children",
+    "number": "98043-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200630",
+    "questions": "Does it violate due process to continue a termination trial after a finding that the Department has not met its burden?",
+    "argument": "2020-06-30",
+    "argument_day": "Tuesday, June 30, 2020",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-06-30",
+        "title": "Oral Argument on Tuesday, June 30, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020061186/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/fbe92b6f804e110823e2e6d22dc5b4984c699488.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020061186/media.m3u8",
+        "length": "00:42:08",
+        "size": 743440384
+      }
+    ]
+  },
+  {
+    "id": "2020-044",
+    "title": "In re Dependency of A.M.-S.",
+    "number": "98094-2",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200630",
+    "questions": "Does a court have authority to give a parent immunity for statements made during court-ordered dependency services?",
+    "argument": "2020-06-30",
+    "argument_day": "Tuesday, June 30, 2020",
+    "decision": "2020-10-22",
+    "decision_day": "Thursday, October 22, 2020",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-06-30",
+        "title": "Oral Argument on Tuesday, June 30, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020061187/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/ca7fcb6f9a3a3f43cae9fc6be683c2ca5e034aba.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020061187/media.m3u8",
+        "length": "00:42:50",
+        "size": 683671552
+      }
+    ]
+  },
+  {
+    "id": "2020-045",
+    "title": "Garfield Cty. Transp. Auth. v. State",
+    "number": "98320-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200630",
+    "questions": "I-976 reduces car tabs, among other things. Is it unconstitutional? If parts are unconstitutional, are they severable?",
+    "argument": "2020-06-30",
+    "argument_day": "Tuesday, June 30, 2020",
+    "decision": "2020-10-15",
+    "decision_day": "Thursday, October 15, 2020",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-06-30",
+        "title": "Oral Argument on Tuesday, June 30, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020061188/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/52046b46f785a3fbde9ce139e172c3e7ae73ec37.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020061188/media.m3u8",
+        "length": "01:03:04",
+        "size": 1007681536
+      }
+    ]
+  },
+  {
+    "id": "2020-046",
+    "title": "State v. D.L.",
+    "number": "96143-3",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200922",
+    "questions": "Before pleading guilty, must juveniles receive notice of facts that could support a sentence above the standard range?",
+    "argument": "2020-09-22",
+    "argument_day": "Tuesday, September 22, 2020",
+    "decision": "2021-04-15",
+    "decision_day": "Thursday, April 15, 2021",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ]
+  },
+  {
+    "id": "2020-047",
+    "title": "State v. M.S.",
+    "number": "96894-2",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200922",
+    "questions": "Before pleading guilty, must juveniles receive notice of facts that could support a sentence above the standard range?",
+    "argument": "2020-09-22",
+    "argument_day": "Tuesday, September 22, 2020",
+    "decision": "2021-04-15",
+    "decision_day": "Thursday, April 15, 2021",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "minority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "minority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "minority"
+      }
+    ]
+  },
+  {
+    "id": "2020-048",
+    "title": "State v. Knapp",
+    "number": "98067-5",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200924",
+    "questions": "Are Washington's pattern jury instructions for second degree rape by forcible compulsion constitutionally adequate?",
+    "argument": "2020-09-24",
+    "argument_day": "Thursday, September 24, 2020",
+    "decision": "2021-05-06",
+    "decision_day": "Thursday, May 6, 2021",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-09-24",
+        "title": "Oral Argument on Thursday, September 24, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020091175/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/3f7fb7b28ebc79b49b341bbd95fe93999d6ef0f4.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020091175/media.m3u8",
+        "length": "00:42:02",
+        "size": 580911104
+      }
+    ]
+  },
+  {
+    "id": "2020-049",
+    "title": "State v. Orn",
+    "number": "98056-0",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200924",
+    "questions": "Does the 6th Amendment guarantee the right to cross-examine a Stateâ€™s witness about a confidential informant agreement?",
+    "argument": "2020-09-24",
+    "argument_day": "Thursday, September 24, 2020",
+    "decision": "2021-03-18",
+    "decision_day": "Thursday, March 18, 2021",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-09-24",
+        "title": "Oral Argument on Thursday, September 24, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020091174/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/bd3120a9b01eca6d882eb304fe3907540983282a.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020091174/media.m3u8",
+        "length": "00:42:06",
+        "size": 620756992
+      }
+    ]
+  },
+  {
+    "id": "2020-050",
+    "title": "775 v. State",
+    "number": "97216-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200924",
+    "questions": "Can Medicaid paid home care be reduced when a provider benefits from a task or is family and willing to volunteer?",
+    "argument": "2020-09-24",
+    "argument_day": "Thursday, September 24, 2020",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-09-24",
+        "title": "Oral Argument on Thursday, September 24, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020091174/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/bd3120a9b01eca6d882eb304fe3907540983282a.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020091174/media.m3u8",
+        "length": "00:42:06",
+        "size": 620756992
+      }
+    ]
+  },
+  {
+    "id": "2020-051",
+    "title": "Silver v. Rudeen Mgmt. Co., Inc.",
+    "number": "98024-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20201020",
+    "questions": "What statute of limitations applies to a tenant's action for his deposit under the Residential Landlord-Tenant Act?",
+    "argument": "2020-10-20",
+    "argument_day": "Tuesday, October 20, 2020",
+    "decision": "2021-04-22",
+    "decision_day": "Thursday, April 22, 2021",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-10-20",
+        "title": "Oral Argument on Tuesday, October 20, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020101111/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/065ae1a37865a5458699208c78a17a2dc3f961c4.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020101111/media.m3u8",
+        "length": "00:39:13",
+        "size": 346030080
+      }
+    ]
+  },
+  {
+    "id": "2020-052",
+    "title": "State v. Pratt",
+    "number": "98066-7",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20201020",
+    "questions": "Did Pratt have a sufficient connection to his victim to be eligible for a Special Sex Offender Sentencing Alternative?",
+    "argument": "2020-10-20",
+    "argument_day": "Tuesday, October 20, 2020",
+    "decision": "2021-01-28",
+    "decision_day": "Thursday, January 28, 2021",
+    "score": "8-1",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "minority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-10-20",
+        "title": "Oral Argument on Tuesday, October 20, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020101112/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/18807bd5277d4263945b9e8e97f633eea79e7875.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020101112/media.m3u8",
+        "length": "00:41:24",
+        "size": 370147328
+      }
+    ]
+  },
+  {
+    "id": "2020-053",
+    "title": "State v. Haag",
+    "number": "97766-6",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20201020",
+    "questions": "Did the trial court violate juvenile resentencing rules when it resentenced Haag to a 46-year minimum term?",
+    "argument": "2020-10-20",
+    "argument_day": "Tuesday, October 20, 2020",
+    "decision": "2021-09-23",
+    "decision_day": "Thursday, September 23, 2021",
+    "score": "8-1",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "minority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-10-20",
+        "title": "Oral Argument on Tuesday, October 20, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020101113/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/8b7dcb40042c12cec8cd2cbcb4fd117fc4d4c581.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020101113/media.m3u8",
+        "length": "00:42:01",
+        "size": 381681664
+      }
+    ]
+  },
+  {
+    "id": "2020-054",
+    "title": "Meyers v. Ferndale Sch. Dist.",
+    "number": "98280-5",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20201022",
+    "questions": "Did the actions of the Ferndale School District proximately cause the death of a student?",
+    "argument": "2020-10-22",
+    "argument_day": "Thursday, October 22, 2020",
+    "decision": "2021-03-04",
+    "decision_day": "Thursday, March 4, 2021",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-10-22",
+        "title": "Oral Argument on Thursday, October 22, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020101115/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/5b86a552da446ce8337691ac5c1c35f1ee6bc2fd.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020101115/media.m3u8",
+        "length": "00:44:33",
+        "size": 452984832
+      }
+    ]
+  },
+  {
+    "id": "2020-055",
+    "title": "In re Pers. Restraint of Garcia-Mendoza",
+    "number": "98026-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20201027",
+    "questions": "Garcia Mendoza was not told his 2007 plea would result in deportation. May he withdraw his plea?",
+    "argument": "2020-10-27",
+    "argument_day": "Tuesday, October 27, 2020",
+    "decision": "2021-01-28",
+    "decision_day": "Thursday, January 28, 2021",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-10-27",
+        "title": "Oral Argument on Tuesday, October 27, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020101152/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/d78599712da6a27c1db2d0cb076b68feec4db013.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020101152/media.m3u8",
+        "length": "00:43:53",
+        "size": 385875968
+      }
+    ]
+  },
+  {
+    "id": "2020-056",
+    "title": "State v. Waller",
+    "number": "98326-7",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20201027",
+    "questions": "Did the trial court grant Waller's motion for relief from judgment? And, if so, does the State have the right to appeal?",
+    "argument": "2020-10-27",
+    "argument_day": "Tuesday, October 27, 2020",
+    "decision": "2021-02-25",
+    "decision_day": "Thursday, February 25, 2021",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-10-27",
+        "title": "Oral Argument on Tuesday, October 27, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020101150/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/0af13342e31bf93a167a12cd3e70d80d496f9abb.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020101150/media.m3u8",
+        "length": "00:40:50",
+        "size": 558891008
+      }
+    ]
+  },
+  {
+    "id": "2020-057",
+    "title": "Green v. Pierce County",
+    "number": "98768-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20201029",
+    "questions": "Are Green and the \"Libertys Champion\" YouTube channel news media for the purposes of the Public Records Act?",
+    "argument": "2020-10-29",
+    "argument_day": "Thursday, October 29, 2020",
+    "decision": "2021-05-27",
+    "decision_day": "Thursday, May 27, 2021",
+    "score": "7-2",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "minority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-10-29",
+        "title": "Oral Argument on Thursday, October 29, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020101153/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/bbf2360f0b753b025783374f717f8a3064ffb9a6.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020101153/media.m3u8",
+        "length": "00:42:22",
+        "size": 146800640
+      }
+    ]
+  },
+  {
+    "id": "2020-058",
+    "title": "Hester v. State",
+    "number": "98495-6",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20201029",
+    "questions": "Can the legislature exclude certain overtime when calculating the monthly pension for Washington State Patrol employees?",
+    "argument": "2020-10-29",
+    "argument_day": "Thursday, October 29, 2020",
+    "decision": "2021-03-25",
+    "decision_day": "Thursday, March 25, 2021",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "minority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "minority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-10-29",
+        "title": "Oral Argument on Thursday, October 29, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020101154/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/1094ea9fce0de4b0394340cdc603b7a099d34ed0.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020101154/media.m3u8",
+        "length": "00:42:01",
+        "size": 407896064
+      }
+    ]
+  },
+  {
+    "id": "2020-059",
+    "title": "In re Dependency of A.L.K., L.R.C.K.-S., D.B.C.K.-S.",
+    "number": "98487-5",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20201029",
+    "questions": "Did the mother invite error precluding appellate review? If not, did she receive \"active efforts\" under ICWA and WICWA?",
+    "argument": "2020-10-29",
+    "argument_day": "Thursday, October 29, 2020",
+    "decision": "2020-12-24",
+    "decision_day": "Thursday, December 24, 2020",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ]
+  },
+  {
+    "id": "2020-060",
+    "title": "Coogan v. Genuine Parts Co.",
+    "number": "98296-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20201110",
+    "questions": "In this asbestos tort case, did the trial court err in its rulings necessitating a new trial?",
+    "argument": "2020-11-10",
+    "argument_day": "Tuesday, November 10, 2020",
+    "decision": "2021-07-08",
+    "decision_day": "Thursday, July 8, 2021",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-11-10",
+        "title": "Oral Argument on Tuesday, November 10, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020111041/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/797185b5726d7f60a8458b48629b9c62579614b6.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020111041/media.m3u8",
+        "length": "00:42:57",
+        "size": 563085312
+      }
+    ]
+  },
+  {
+    "id": "2020-061",
+    "title": "In re Pers. Restraint of Brooks",
+    "number": "97689-9",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20201110",
+    "questions": "Does the Miller-fix statute apply to a juvenile sentenced before the SRA, and if not, is his sentence constitutional?",
+    "argument": "2020-11-10",
+    "argument_day": "Tuesday, November 10, 2020",
+    "decision": "2021-02-11",
+    "decision_day": "Thursday, February 11, 2021",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-11-10",
+        "title": "Oral Argument on Tuesday, November 10, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020111040/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/0d72386cdd99284c824a2eba2762febae67d63a8.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020111040/media.m3u8",
+        "length": "00:41:45",
+        "size": 587202560
+      }
+    ]
+  },
+  {
+    "id": "2020-062",
+    "title": "State v. Coryell",
+    "number": "98256-2",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20201110",
+    "questions": "Does a lesser included instruction require evidence that a lesser crime occurred to the exclusion of the greater crime?",
+    "argument": "2020-11-10",
+    "argument_day": "Tuesday, November 10, 2020",
+    "decision": "2021-03-25",
+    "decision_day": "Thursday, March 25, 2021",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-11-10",
+        "title": "Oral Argument on Tuesday, November 10, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020111042/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/7d2db7f557706e790690077c397921ad1564a772.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020111042/media.m3u8",
+        "length": "00:41:51",
+        "size": 356515840
+      }
+    ]
+  },
+  {
+    "id": "2020-063",
+    "title": "In re Child",
+    "number": "98825-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20201112",
+    "questions": "Is a parent collaterally estopped from disputing termination findings in the subsequent dependency of a different child?",
+    "argument": "2020-11-12",
+    "argument_day": "Thursday, November 12, 2020",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-11-12",
+        "title": "Oral Argument on Thursday, November 12, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020111043/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/ee7828f924a24f5dc56d70fe5d90646a70fa3e4b.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020111043/media.m3u8",
+        "length": "00:41:48",
+        "size": 383778816
+      }
+    ]
+  },
+  {
+    "id": "2020-064",
+    "title": "Pimentel v. Judges of King Cty. Superior Court",
+    "number": "98154-0",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20201117",
+    "questions": "Should a writ issue to prohibit King County Superior Court's bail practice? Is a county prosecutor a state officer?",
+    "argument": "2020-11-17",
+    "argument_day": "Tuesday, November 17, 2020",
+    "decision": "2021-03-18",
+    "decision_day": "Thursday, March 18, 2021",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-11-17",
+        "title": "Oral Argument on Tuesday, November 17, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020111072/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/9f3d50d5d50c19949d6c28991bff2da436c18eaf.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020111072/media.m3u8",
+        "length": "01:05:13",
+        "size": 912261120
+      }
+    ]
+  },
+  {
+    "id": "2020-065",
+    "title": "State v. Jenks",
+    "number": "98496-4",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20201117",
+    "questions": "Does an amendment to the Persistent Offender Accountability Act enacted after Jenks' conviction apply to his case?",
+    "argument": "2020-11-17",
+    "argument_day": "Tuesday, November 17, 2020",
+    "decision": "2021-05-27",
+    "decision_day": "Thursday, May 27, 2021",
+    "score": "8-1",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-11-17",
+        "title": "Oral Argument on Tuesday, November 17, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020111073/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/c7967dcdca638abf6ff4d408a561dee360ce07c7.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020111073/media.m3u8",
+        "length": "00:43:01",
+        "size": 631242752
+      }
+    ]
+  },
+  {
+    "id": "2020-066",
+    "title": "Fox v. City of Bellingham",
+    "number": "98514-6",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20201117",
+    "questions": "Does a brother have standing to sue the City of Bellingham for mishandling his deceased brother's remains?",
+    "argument": "2020-11-17",
+    "argument_day": "Tuesday, November 17, 2020",
+    "decision": "2021-03-18",
+    "decision_day": "Thursday, March 18, 2021",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "minority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "minority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-11-17",
+        "title": "Oral Argument on Tuesday, November 17, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020111077/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/afd71c1870bf34dcea0b76c3f6d9ae58a612a998.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020111077/media.m3u8",
+        "length": "00:41:19",
+        "size": 412090368
+      }
+    ]
+  },
+  {
+    "id": "2020-067",
+    "title": "State v. Johnson",
+    "number": "98493-0",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20201117",
+    "questions": "A judge barred a sex offender from using the internet except with a parole officer's approval. Is this constitutional?",
+    "argument": "2020-11-17",
+    "argument_day": "Tuesday, November 17, 2020",
+    "decision": "2021-06-10",
+    "decision_day": "Thursday, June 10, 2021",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "minority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-11-17",
+        "title": "Oral Argument on Tuesday, November 17, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020111076/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/9d9849b60bd04df024e4c24a367b00a46069f87b.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020111076/media.m3u8",
+        "length": "00:41:42",
+        "size": 573571072
+      }
+    ]
+  },
+  {
+    "id": "2020-068",
+    "title": "State v. Peterson",
+    "number": "98201-5",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20201119",
+    "questions": "Is RCW 69.50.410, criminalizing the sale of heroin, repealed by implication or disuse? If not, is it unconstitutional?",
+    "argument": "2020-11-19",
+    "argument_day": "Thursday, November 19, 2020",
+    "decision": "2021-11-18",
+    "decision_day": "Thursday, November 18, 2021",
+    "score": "7-2",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "RAQUEL MONTOYA-LEWIS",
+        "side": "majority"
+      },
+      {
+        "name": "G. HELEN WHITENER",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-11-19",
+        "title": "Oral Argument on Thursday, November 19, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020111078/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/4f992fa6c423f22e52d8076b972897781b2b38e9.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020111078/media.m3u8",
+        "length": "00:42:35",
+        "size": 404750336
+      }
+    ]
+  }
+]
