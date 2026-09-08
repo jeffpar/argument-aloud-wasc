@@ -1046,7 +1046,7 @@
   },
   {
     "id": "2020-019",
-    "title": "THE JUDGES OF THE BENTON AND FRANKLIN COUNTIES SUPERIOR COURT: Judge Joe Burrowes, Judge Alex Ekstrom, Judge Cameron Mitchell, Judge Carrie Runge, Judge Jacqueline Shea-Brown, Judge Bruce Spanner And Judge Sam Swanberg v. MICHAEL J. KILLIAN, FRANKLIN COUNTY SUPERIOR COURT CLERK",
+    "title": "Benton and Franklin County Superior Court Judges v. Killian",
     "number": "96821-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2019&file=20191112",
     "questions": "May superior court judges require the county clerk to maintain paper files of court records?",
@@ -2574,12 +2574,15 @@
   },
   {
     "id": "2020-047",
-    "title": "TODD MCLAUGHLIN v. TRAVELERS COMMERCIAL INSURANCE COMPANY",
-    "number": "976652-0",
+    "title": "McLaughlin v. Travelers Commercial Insurance Co.",
+    "number": "97652-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200528",
     "questions": "A bicyclist was struck by a motor vehicle. Does the term \"pedestrian\" in his insurance policy include bicyclists?",
     "argument": "2020-05-28",
     "argument_day": "Thursday, May 28, 2020",
+    "decision": "2020-12-10",
+    "decision_day": "Thursday, December 10, 2020",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/97652-0%20Opinion.pdf",
     "events": [
       {
         "source": "tvw",
@@ -3461,14 +3464,6 @@
   },
   {
     "id": "2020-073",
-    "title": "McLaughlin v. Travelers Commercial Ins. Co.",
-    "number": "97652-0",
-    "decision": "2020-12-10",
-    "decision_day": "Thursday, December 10, 2020",
-    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/97652-0%20Opinion.pdf"
-  },
-  {
-    "id": "2020-074",
     "title": "In re Recall of Durkan",
     "number": "98897-8",
     "decision": "2020-12-10",
@@ -3476,7 +3471,7 @@
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/98897-8%20Opinion.pdf"
   },
   {
-    "id": "2020-075",
+    "id": "2020-074",
     "title": "State v. Batson",
     "number": "97617-1",
     "decision": "2020-12-24",
