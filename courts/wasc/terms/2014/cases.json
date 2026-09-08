@@ -1,7 +1,7 @@
 [
   {
     "id": "2014-001",
-    "title": "State v. Lui",
+    "title": "State of Washington v. Lui",
     "number": "84045-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100914",
     "questions": "Whether a criminal defendant's right to confront witnesses is violated when an expert witness for the State testifies based on a nontestifying expert's report.",
@@ -49,7 +49,7 @@
   },
   {
     "id": "2014-003",
-    "title": "State v. Franklin",
+    "title": "State of Washington v. Franklin",
     "number": "87253-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130115",
     "questions": "Whether the trial court in a prosecution for cyberstalking erroneously disallowed evidence that someone else committed the crime after allowing the alleged other suspect to assert her Fifth Amendment right to remain silent.",
@@ -73,7 +73,7 @@
   },
   {
     "id": "2014-004",
-    "title": "State v. Dobbs",
+    "title": "State of Washington v. Dobbs",
     "number": "87472-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130122",
     "questions": "Whether in a prosecution for domestic violence offenses the defendant’s conduct toward the victim before and after his arrest supported a ruling that he forfeited his right to challenge the admission of the unavailable victim’s out-of-court statements, even though there was no evidence that the defendant threatened the victim not to testify or direct evidence that the victim refused to appear because of threats.",
@@ -193,7 +193,7 @@
   },
   {
     "id": "2014-009",
-    "title": "State v. Johnson",
+    "title": "State of Washington v. Johnson",
     "number": "86885-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130319",
     "questions": "Johnson appealed his conviction for driving while license suspended in the third degree (DWLS), claiming that the DWLS law does not criminalize driving with a license suspended for failing to pay traffic fines. He also argued that the State could not constitutionally suspend his license because of his indigence. Finally, he contended that the State must pay the costs of his appeal.",
@@ -217,7 +217,7 @@
   },
   {
     "id": "2014-010",
-    "title": "State v. Roden",
+    "title": "State of Washington v. Roden",
     "number": "87669-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130507",
     "questions": "Does a person have a privacy interest in a text message once it is sent?",
@@ -229,15 +229,15 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
@@ -245,7 +245,7 @@
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -253,15 +253,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       }
     ],
@@ -281,7 +281,7 @@
   },
   {
     "id": "2014-011",
-    "title": "State v. Hinton",
+    "title": "State of Washington v. Hinton",
     "number": "87663-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130507",
     "questions": "Did police violate the defendant's constitutionally protected right to privacy when, without a warrant, they observed and responded to the defendant's text messages which appeared on the screen of a third party's wireless device?",
@@ -293,15 +293,15 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
@@ -309,7 +309,7 @@
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -317,15 +317,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       }
     ],
@@ -355,15 +355,15 @@
     "score": "4-5",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -371,7 +371,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
@@ -379,15 +379,15 @@
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       }
     ],
@@ -417,11 +417,11 @@
     "score": "4-5",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
@@ -429,23 +429,23 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -479,15 +479,15 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
@@ -495,7 +495,7 @@
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -503,11 +503,11 @@
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       }
     ],
@@ -537,11 +537,11 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -549,23 +549,23 @@
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -599,11 +599,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -611,23 +611,23 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -661,11 +661,11 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
@@ -673,19 +673,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
@@ -693,7 +693,7 @@
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority"
       }
     ],
@@ -723,15 +723,15 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -739,7 +739,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
@@ -747,11 +747,11 @@
         "side": "minority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       }
     ],
@@ -781,11 +781,11 @@
     "score": "8-1",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -793,19 +793,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       }
     ],
@@ -823,7 +823,7 @@
   },
   {
     "id": "2014-020",
-    "title": "State v. Piatnitsky",
+    "title": "State of Washington v. Piatnitsky",
     "number": "87904-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130625",
     "questions": "When a suspect under custodial interrogation tells police \"I don't want to talk right now, man,\" 1) is the suspect more protected under the state constitution than under the federal constitution, and 2) is the suspect's statement an unequivocal invocation of his right to remain silent?",
@@ -835,11 +835,11 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -847,19 +847,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -867,7 +867,7 @@
         "side": "minority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       }
     ],
@@ -897,11 +897,11 @@
     "score": "8-1",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -909,19 +909,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -943,7 +943,7 @@
   },
   {
     "id": "2014-022",
-    "title": "State v. Deskins",
+    "title": "State of Washington v. Deskins",
     "number": "88140-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130910",
     "questions": "After the defendant was convicted of confining dogs in an unsafe manner, did the trial court have authority to order the defendant to forfeit all of her pets and livestock, pay $21,582 in restitution to the sheriff's office, and live away from all pets and livestock during her two year probationary period?",
@@ -955,11 +955,11 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -967,23 +967,23 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1005,7 +1005,7 @@
   },
   {
     "id": "2014-023",
-    "title": "State v. Jordan",
+    "title": "State of Washington v. Jordan",
     "number": "85410-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130910",
     "questions": "The court considers whether a sentencing court erred in finding that a manslaughter conviction from Texas was legally comparable to a manslaughter conviction from Washington for the purposes of calculating an offender score",
@@ -1017,11 +1017,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -1029,19 +1029,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1049,7 +1049,7 @@
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       }
     ],
@@ -1067,7 +1067,7 @@
   },
   {
     "id": "2014-024",
-    "title": "State v. Gower",
+    "title": "State of Washington v. Gower",
     "number": "88207-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130912",
     "questions": "Gower was convicted of incest and indecent liberties at a bench trial. Based on a statute that has since been found unconstitutional, the trial judge admitted evidence of Gower's prior sex crimes. Was that reversible error?",
@@ -1079,11 +1079,11 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -1091,23 +1091,23 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
@@ -1129,7 +1129,7 @@
   },
   {
     "id": "2014-025",
-    "title": "State v. Pena Fuentes",
+    "title": "State of Washington v. Pena Fuentes",
     "number": "88422-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130912",
     "questions": "After the defendant's conviction but while a motion for a new trial was pending, a detective listened to phone conversations between the defendant and his attorney. Should the defendant's criminal charges be dismissed with prejudice?",
@@ -1141,11 +1141,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -1153,23 +1153,23 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       }
     ],
@@ -1187,7 +1187,7 @@
   },
   {
     "id": "2014-026",
-    "title": "State v. Humphries",
+    "title": "State of Washington v. Humphries",
     "number": "88234-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130912",
     "questions": "Did the trial court err in allowing the defense attorney to stipulate to an element of the charged crime over the objection of the defendant?",
@@ -1199,11 +1199,11 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -1211,19 +1211,19 @@
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1257,11 +1257,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -1269,23 +1269,23 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1296,7 +1296,7 @@
   },
   {
     "id": "2014-028",
-    "title": "State v. K.L.B.",
+    "title": "State of Washington v. K.L.B.",
     "number": "88270-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130917",
     "questions": "The court must decide: (1) whether a Sound Transit Fare Enforcement Officer whose employment is contracted through a private security firm is a \"public servant,\" and (2) whether the definition of \"public servant\" is unconstitutionally vague",
@@ -1308,15 +1308,15 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
@@ -1324,7 +1324,7 @@
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1332,18 +1332,18 @@
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       }
     ]
   },
   {
     "id": "2014-029",
-    "title": "State v. Garcia",
+    "title": "State of Washington v. Garcia",
     "number": "88020-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130917",
     "questions": "The petitioner asks the court to review the elements of kidnapping in the first degree. He also asks the court to consider whether there was sufficient evidence to sustain a kidnapping conviction, whether his right to present a defense was violated, and whether there was prosecutorial misconduct at trial.",
@@ -1355,11 +1355,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -1367,23 +1367,23 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1417,15 +1417,15 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -1433,7 +1433,7 @@
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1441,22 +1441,22 @@
         "side": "minority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ]
   },
   {
     "id": "2014-031",
-    "title": "State v. Coley",
+    "title": "State of Washington v. Coley",
     "number": "88111-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130919",
     "questions": "Did the trial court err in placing the burden of proof on competency after an initial finding of incompetency and what is the remedy if the burden is misallocated? Was the defendant denied his right to self-representation?",
@@ -1468,11 +1468,11 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -1480,19 +1480,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1514,7 +1514,7 @@
   },
   {
     "id": "2014-032",
-    "title": "State v. Kipp",
+    "title": "State of Washington v. Kipp",
     "number": "88083-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130919",
     "questions": "Did the trial court err in admitting into evidence a secretly recorded conversation between Kipp and his brother-in-law in violation of the privacy act?",
@@ -1526,15 +1526,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -1542,7 +1542,7 @@
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1550,15 +1550,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -1576,7 +1576,7 @@
   },
   {
     "id": "2014-033",
-    "title": "State v. MacDicken",
+    "title": "State of Washington v. MacDicken",
     "number": "88267-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130919",
     "questions": "When police arrested Abraham MacDicken, they moved the stolen bags he was carrying a car's length away and searched them without a warrant. Were the bags too far away for the search to be valid? Can MacDicken challenge a search of stolen property?",
@@ -1588,11 +1588,11 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -1600,23 +1600,23 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1639,15 +1639,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -1655,7 +1655,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -1663,15 +1663,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -1701,11 +1701,11 @@
     "score": "8-1",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -1713,19 +1713,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1759,11 +1759,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -1771,19 +1771,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1817,11 +1817,11 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -1829,19 +1829,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1863,7 +1863,7 @@
   },
   {
     "id": "2014-038",
-    "title": "State v. Koss",
+    "title": "State of Washington v. Koss",
     "number": "85306-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131015",
     "questions": "The court must decide whether a discussion in private between the judge and counsel about jury instructions violated the defendant's right to a public trial",
@@ -1875,11 +1875,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -1887,19 +1887,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1921,7 +1921,7 @@
   },
   {
     "id": "2014-039",
-    "title": "State v. Shearer",
+    "title": "State of Washington v. Shearer",
     "number": "86216-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131015",
     "questions": "During each of the defendants' criminal trials, one potential juror was questioned in the judge's chambers. Did this violate the constitutional right to a public trial?",
@@ -1933,15 +1933,15 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
@@ -1949,7 +1949,7 @@
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
@@ -1957,11 +1957,11 @@
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       }
     ],
@@ -1979,7 +1979,7 @@
   },
   {
     "id": "2014-040",
-    "title": "State v. Smith",
+    "title": "State of Washington v. Smith",
     "number": "85809-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131015",
     "questions": "The trial court held sidebar conferences on objections to evidence in a hallway outside the courtroom. This court must decide whether these conferences violated Mr. Smith's right to a public trial.",
@@ -1991,11 +1991,11 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -2003,19 +2003,19 @@
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -2037,7 +2037,7 @@
   },
   {
     "id": "2014-041",
-    "title": "State v. Frawley",
+    "title": "State of Washington v. Frawley",
     "number": "80727-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131017",
     "questions": "Can a defendant waive his public trial right under the Washington State Constitution?",
@@ -2049,15 +2049,15 @@
     "score": "4-5",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
@@ -2065,7 +2065,7 @@
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
@@ -2073,11 +2073,11 @@
         "side": "minority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       }
     ],
@@ -2095,7 +2095,7 @@
   },
   {
     "id": "2014-042",
-    "title": "State v. Njonge",
+    "title": "State of Washington v. Njonge",
     "number": "86072-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131017",
     "questions": "The court considers several questions connected to Njonge's claim that his right to a public trial was violated.",
@@ -2107,15 +2107,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -2123,7 +2123,7 @@
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -2131,11 +2131,11 @@
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       }
     ],
@@ -2153,7 +2153,7 @@
   },
   {
     "id": "2014-043",
-    "title": "State v. Slert",
+    "title": "State of Washington v. Slert",
     "number": "87844-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131017",
     "questions": "The Washington State Constitution requires open public trials. Was the constitution violated when four potential jurors were dismissed after an in-chambers review of their answers to a jury questionnaire?",
@@ -2165,15 +2165,15 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -2181,7 +2181,7 @@
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -2189,11 +2189,11 @@
         "side": "minority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       }
     ],
@@ -2223,15 +2223,15 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
@@ -2239,7 +2239,7 @@
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -2247,11 +2247,11 @@
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       }
     ],
@@ -2281,11 +2281,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -2293,19 +2293,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -2327,7 +2327,7 @@
   },
   {
     "id": "2014-046",
-    "title": "State v. Witherspoon",
+    "title": "State of Washington v. Witherspoon",
     "number": "88118-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131022",
     "questions": "Mr. Witherspoon challenges his robbery conviction and Persistent Offender Accountability Act sentence of life in prison without the possibility of release.",
@@ -2339,11 +2339,11 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -2351,19 +2351,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
@@ -2397,11 +2397,11 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
@@ -2409,23 +2409,23 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
@@ -2459,11 +2459,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -2471,19 +2471,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -2517,11 +2517,11 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -2529,19 +2529,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -2575,11 +2575,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -2587,19 +2587,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -2633,11 +2633,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -2645,19 +2645,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -2691,11 +2691,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -2703,19 +2703,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -2737,7 +2737,7 @@
   },
   {
     "id": "2014-053",
-    "title": "State v. Johnson",
+    "title": "State of Washington v. Johnson",
     "number": "88683-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140121",
     "questions": "This case presents two issues: (1) whether the information charging the crime of unlawful imprisonment must include elements found in the definition of \"restrain,\" and, if so, whether the information in this case fairly included those elements; and (2) whether defense counsel provided effective assistance by proposing that the jury instructions include a generic definition of \"reckless\" for the crime of assault in the second degree",
@@ -2749,11 +2749,11 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -2761,23 +2761,23 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -2831,11 +2831,11 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
@@ -2843,15 +2843,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
@@ -2873,7 +2873,7 @@
   },
   {
     "id": "2014-056",
-    "title": "State v. Owens",
+    "title": "State of Washington v. Owens",
     "number": "88905-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140121",
     "questions": "Does RCW 9A.82.050(1) describe alternative means of committing first degree trafficking in stolen property, and if so, is there substantial evidence to support each of the alternative means?",
@@ -2885,11 +2885,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -2897,23 +2897,23 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -2947,11 +2947,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -2959,19 +2959,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3005,11 +3005,11 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
@@ -3017,19 +3017,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3063,11 +3063,11 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -3075,19 +3075,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
@@ -3122,11 +3122,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -3134,19 +3134,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3180,11 +3180,11 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
@@ -3192,19 +3192,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
@@ -3226,7 +3226,7 @@
   },
   {
     "id": "2014-062",
-    "title": "State v. Lindsay",
+    "title": "State of Washington v. Lindsay",
     "number": "88437-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140211",
     "questions": "Defendants Lindsay and Holmes were convicted of first degree burglary and robbery, among other things, at a joint trial. The court must decide whether some of the prosecutor's remarks during trial amounted to misconduct that influenced the jury.",
@@ -3238,11 +3238,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -3250,19 +3250,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3270,7 +3270,7 @@
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       }
     ],
@@ -3300,11 +3300,11 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -3312,19 +3312,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
@@ -3346,7 +3346,7 @@
   },
   {
     "id": "2014-064",
-    "title": "State v. Crumpton",
+    "title": "State of Washington v. Crumpton",
     "number": "88336-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140213",
     "questions": "For a motion for postconviction DNA testing, should the court have to presume the DNA results would be favorable to the convicted individual when deciding whether performing the test might demonstrate that person's innocence?",
@@ -3358,11 +3358,11 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -3370,19 +3370,19 @@
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3416,15 +3416,15 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -3432,7 +3432,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
@@ -3444,7 +3444,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       }
     ],
@@ -3474,11 +3474,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -3486,19 +3486,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3520,7 +3520,7 @@
   },
   {
     "id": "2014-067",
-    "title": "State v. Medina",
+    "title": "State of Washington v. Medina",
     "number": "89147-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140225",
     "questions": "Does participation in a King County Community Center Alternative Program constitute \"partial confinement,\" for which an offender is entitled to credit for time served prior to sentencing?",
@@ -3532,11 +3532,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -3544,23 +3544,23 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3594,15 +3594,15 @@
     "score": "5-3",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -3610,7 +3610,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -3618,11 +3618,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       }
     ],
@@ -3640,7 +3640,7 @@
   },
   {
     "id": "2014-069",
-    "title": "State v. Lamar",
+    "title": "State of Washington v. Lamar",
     "number": "89060-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140227",
     "questions": "The defendant argues that the trial court's error, failure to instruct the jury to begin deliberations anew after an alternate juror replaced a juror who was ill, is manifest constitutional error that may be raised for the first time on appeal.",
@@ -3652,11 +3652,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -3664,19 +3664,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3698,7 +3698,7 @@
   },
   {
     "id": "2014-070",
-    "title": "State v. Russell",
+    "title": "State of Washington v. Russell",
     "number": "89253-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140227",
     "questions": "Under what circumstances may a police officer frisk a suspect for weapons, and whether that police officer may search a small container found during the frisk?",
@@ -3710,11 +3710,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -3722,19 +3722,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3756,7 +3756,7 @@
   },
   {
     "id": "2014-071",
-    "title": "State v. Barton",
+    "title": "State of Washington v. Barton",
     "number": "89390-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140313",
     "questions": "Was the trial court's order requiring the defendant to post 10 percent of his bail amount in cash or other security constitutionally permissible?",
@@ -3768,11 +3768,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -3780,19 +3780,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3814,7 +3814,7 @@
   },
   {
     "id": "2014-072",
-    "title": "State v. France",
+    "title": "State of Washington v. France",
     "number": "89235-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140313",
     "questions": "France was convicted of felony harassment. The jury was instructed \"threat also means\" conduct not proven. Under the law of the case doctrine, should the court reverse his convictions?",
@@ -3826,11 +3826,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -3838,15 +3838,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
@@ -3880,15 +3880,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -3896,7 +3896,7 @@
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3908,7 +3908,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       }
     ],
@@ -3938,11 +3938,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -3950,19 +3950,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3984,7 +3984,7 @@
   },
   {
     "id": "2014-075",
-    "title": "State v. Villanueva-Gonzalez",
+    "title": "State of Washington v. Villanueva-Gonzalez",
     "number": "89364-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140318",
     "questions": "Was double jeopardy violated when Villanueva-González was convicted of two different assault charges for multiple actions against the same victim in a short time frame?",
@@ -3996,11 +3996,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -4008,19 +4008,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4054,15 +4054,15 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
@@ -4070,7 +4070,7 @@
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
@@ -4082,7 +4082,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       }
     ],
@@ -4112,11 +4112,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -4124,15 +4124,15 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4154,7 +4154,7 @@
   },
   {
     "id": "2014-078",
-    "title": "State v. W.R.",
+    "title": "State of Washington v. W.R.",
     "number": "88341-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140320",
     "questions": "The Court considers whether a defendant may be assigned the burden of proving consent as a defense to a charge of rape by forcible compulsion, in light of the Due Process Clause",
@@ -4166,15 +4166,15 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -4182,7 +4182,7 @@
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -4194,7 +4194,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       }
     ]
@@ -4236,11 +4236,11 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -4248,19 +4248,19 @@
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4294,11 +4294,11 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -4306,19 +4306,19 @@
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4340,7 +4340,7 @@
   },
   {
     "id": "2014-082",
-    "title": "State v. Peltier",
+    "title": "State of Washington v. Peltier",
     "number": "89502-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140506",
     "questions": "Can a criminal defendant waive the statute of limitations?",
@@ -4352,11 +4352,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -4364,19 +4364,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4422,7 +4422,7 @@
   },
   {
     "id": "2014-084",
-    "title": "State v. Hawkins",
+    "title": "State of Washington v. Hawkins",
     "number": "89369-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140508",
     "questions": "Did the trial court properly grant a new trial due to newly discovered evidence? And, did the new date set for trial violate the defendant's right to a speedy trial?",
@@ -4434,11 +4434,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -4446,19 +4446,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4492,11 +4492,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -4504,19 +4504,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4538,7 +4538,7 @@
   },
   {
     "id": "2014-086",
-    "title": "State v. Sykes",
+    "title": "State of Washington v. Sykes",
     "number": "87946-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140513",
     "questions": "Should drug court staffings be presumptively open to the public under the Washington State Constitution?",
@@ -4550,11 +4550,11 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -4562,19 +4562,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4596,7 +4596,7 @@
   },
   {
     "id": "2014-087",
-    "title": "State v. Gunderson",
+    "title": "State of Washington v. Gunderson",
     "number": "89297-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140513",
     "questions": "Were the defendant's past acts of domestic violence admissible to help the jury assess the credibility of the alleged victim, who testified that no assault occurred",
@@ -4608,11 +4608,11 @@
     "score": "8-1",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -4620,19 +4620,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4666,11 +4666,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -4678,19 +4678,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4724,11 +4724,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -4736,19 +4736,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4770,7 +4770,7 @@
   },
   {
     "id": "2014-090",
-    "title": "State v. Davis",
+    "title": "State of Washington v. Davis",
     "number": "89448-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140515",
     "questions": "The petitioners were convicted of rendering criminal assistance to Maurice Clemmons after he killed four Lakewood Police Officers. They were also convicted of possessing one of the slain officer's service pistols. The court must decide whether the State presented sufficient evidence at trial that the petitioners illegally possessed the stolen firearm and whether the \"destructive impact on a person other than the victim\" sentence aggravator applies to the petitioners' convictions for rendering criminal assistance",
@@ -4782,11 +4782,11 @@
     "score": "4-5",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -4794,19 +4794,19 @@
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4840,15 +4840,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -4856,7 +4856,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -4864,15 +4864,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -4902,15 +4902,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -4918,7 +4918,7 @@
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4926,15 +4926,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -4952,7 +4952,7 @@
   },
   {
     "id": "2014-093",
-    "title": "State v. Berg",
+    "title": "State of Washington v. Berg",
     "number": "89570-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140527",
     "questions": "Is a kidnapping charge supported by sufficient evidence if the conduct constituting kidnapping is merely incidental to a separate charge of robbery?",
@@ -4964,11 +4964,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -4976,19 +4976,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4996,7 +4996,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -5026,11 +5026,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -5038,19 +5038,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -5058,7 +5058,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -5076,7 +5076,7 @@
   },
   {
     "id": "2014-095",
-    "title": "State v. Quaale",
+    "title": "State of Washington v. Quaale",
     "number": "89666-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140529",
     "questions": "Whether a police officer's opinion that a defendant accused of DUI was \"impaired\" amounted to an improper opinion on the defendant's guilt",
@@ -5088,11 +5088,11 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -5100,19 +5100,19 @@
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
@@ -5120,7 +5120,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -5150,11 +5150,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -5162,19 +5162,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -5182,7 +5182,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -5200,7 +5200,7 @@
   },
   {
     "id": "2014-097",
-    "title": "State v. Williams",
+    "title": "State of Washington v. Williams",
     "number": "89318-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140610",
     "questions": "The court considers whether sentencing courts have the authority to count separately prior convictions committed during the commission of a burglary in calculating a defendant's offender score notwithstanding a finding that they involved the same criminal conduct",
@@ -5212,11 +5212,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -5224,19 +5224,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -5244,7 +5244,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -5274,11 +5274,11 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -5286,19 +5286,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -5306,7 +5306,7 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -5356,11 +5356,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -5368,19 +5368,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -5388,7 +5388,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -5418,11 +5418,11 @@
     "score": "8-1",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -5430,19 +5430,19 @@
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -5450,7 +5450,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -5480,27 +5480,27 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -5508,7 +5508,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -5538,11 +5538,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -5550,19 +5550,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -5570,7 +5570,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -5588,7 +5588,7 @@
   },
   {
     "id": "2014-104",
-    "title": "State v. McEnroe",
+    "title": "State of Washington v. McEnroe",
     "number": "89881-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140626",
     "questions": "Is the absence of sufficient mitigating circumstances to merit leniency an element of capital murder in Washington, which the State must allege in the charging information?",
@@ -5600,11 +5600,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -5612,19 +5612,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -5632,7 +5632,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -5662,15 +5662,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -5678,7 +5678,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -5686,15 +5686,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -5712,7 +5712,7 @@
   },
   {
     "id": "2014-106",
-    "title": "State v. A.G.S.",
+    "title": "State of Washington v. A.G.S.",
     "number": "89689-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140626",
     "questions": "Whether a psychological evaluation of a juvenile sex offender's amenability to treatment must be kept confidential",
@@ -5724,11 +5724,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -5736,19 +5736,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -5756,14 +5756,14 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ]
   },
   {
     "id": "2014-107",
-    "title": "State v. LEWIS",
+    "title": "State of Washington v. LEWIS",
     "number": "89920-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140911",
     "questions": "The court must decide whether a prosecutor's remarks during closing argument violated the rights of the defendant",
@@ -5795,11 +5795,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -5807,19 +5807,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -5827,7 +5827,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -5880,11 +5880,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -5892,19 +5892,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -5912,7 +5912,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -5930,7 +5930,7 @@
   },
   {
     "id": "2014-111",
-    "title": "State v. Andy",
+    "title": "State of Washington v. Andy",
     "number": "90567-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20141118",
     "questions": "Was Joey Andy's right to a public trial violated when his trial lasted into the evening past the posted courthouse hours?",
@@ -5942,11 +5942,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -5954,19 +5954,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -5974,7 +5974,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],

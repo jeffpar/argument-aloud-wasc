@@ -1389,7 +1389,7 @@
       "VERNON R. PEARSON",
       "JAMES A. ANDERSEN",
       "KEITH M. CALLOW",
-      "BARBARA DURHAM",
+      "BARBARA M. DURHAM",
       "WILLIAM C. GOODLOE"
     ]
   },
@@ -1407,7 +1407,7 @@
       "VERNON R. PEARSON",
       "JAMES A. ANDERSEN",
       "KEITH M. CALLOW",
-      "BARBARA DURHAM",
+      "BARBARA M. DURHAM",
       "CHARLES Z. SMITH"
     ]
   },
@@ -1424,7 +1424,7 @@
       "FRED H. DORE",
       "JAMES A. ANDERSEN",
       "KEITH M. CALLOW",
-      "BARBARA DURHAM",
+      "BARBARA M. DURHAM",
       "CHARLES Z. SMITH",
       "RICHARD P. GUY"
     ]
@@ -1441,10 +1441,10 @@
       "JAMES M. DOLLIVER",
       "FRED H. DORE",
       "JAMES A. ANDERSEN",
-      "BARBARA DURHAM",
+      "BARBARA M. DURHAM",
       "CHARLES Z. SMITH",
       "RICHARD P. GUY",
-      "CHARLES JOHNSON"
+      "CHARLES W. JOHNSON"
     ]
   },
   {
@@ -1458,11 +1458,11 @@
       "ROBERT F. BRACHTENBACH",
       "JAMES M. DOLLIVER",
       "JAMES A. ANDERSEN",
-      "BARBARA DURHAM",
+      "BARBARA M. DURHAM",
       "CHARLES Z. SMITH",
       "RICHARD P. GUY",
-      "CHARLES JOHNSON",
-      "BARBARA MADSEN"
+      "CHARLES W. JOHNSON",
+      "BARBARA A. MADSEN"
     ]
   },
   {
@@ -1474,12 +1474,12 @@
     "justices": [
       "ROBERT F. UTTER",
       "JAMES M. DOLLIVER",
-      "BARBARA DURHAM",
+      "BARBARA M. DURHAM",
       "CHARLES Z. SMITH",
       "RICHARD P. GUY",
-      "CHARLES JOHNSON",
-      "BARBARA MADSEN",
-      "GERRY ALEXANDER",
+      "CHARLES W. JOHNSON",
+      "BARBARA A. MADSEN",
+      "GERRY L. ALEXANDER",
       "PHILIP A. TALMADGE"
     ]
   },
@@ -1491,12 +1491,12 @@
     "cases": 0,
     "justices": [
       "JAMES M. DOLLIVER",
-      "BARBARA DURHAM",
+      "BARBARA M. DURHAM",
       "CHARLES Z. SMITH",
       "RICHARD P. GUY",
-      "CHARLES JOHNSON",
-      "BARBARA MADSEN",
-      "GERRY ALEXANDER",
+      "CHARLES W. JOHNSON",
+      "BARBARA A. MADSEN",
+      "GERRY L. ALEXANDER",
       "PHILIP A. TALMADGE",
       "ROSSELLE PEKELIS"
     ]
@@ -1509,14 +1509,14 @@
     "cases": 16,
     "justices": [
       "JAMES M. DOLLIVER",
-      "BARBARA DURHAM",
+      "BARBARA M. DURHAM",
       "CHARLES Z. SMITH",
       "RICHARD P. GUY",
-      "CHARLES JOHNSON",
-      "BARBARA MADSEN",
-      "GERRY ALEXANDER",
+      "CHARLES W. JOHNSON",
+      "BARBARA A. MADSEN",
+      "GERRY L. ALEXANDER",
       "PHILIP A. TALMADGE",
-      "RICHARD SANDERS"
+      "RICHARD B. SANDERS"
     ]
   },
   {
@@ -1526,15 +1526,15 @@
     "dateStop": "1999-09-30",
     "cases": 3,
     "justices": [
-      "BARBARA DURHAM",
+      "BARBARA M. DURHAM",
       "CHARLES Z. SMITH",
       "RICHARD P. GUY",
-      "CHARLES JOHNSON",
-      "BARBARA MADSEN",
-      "GERRY ALEXANDER",
+      "CHARLES W. JOHNSON",
+      "BARBARA A. MADSEN",
+      "GERRY L. ALEXANDER",
       "PHILIP A. TALMADGE",
-      "RICHARD SANDERS",
-      "FAITH IRELAND"
+      "RICHARD B. SANDERS",
+      "FAITH E. IRELAND"
     ]
   },
   {
@@ -1546,12 +1546,12 @@
     "justices": [
       "CHARLES Z. SMITH",
       "RICHARD P. GUY",
-      "CHARLES JOHNSON",
-      "BARBARA MADSEN",
-      "GERRY ALEXANDER",
+      "CHARLES W. JOHNSON",
+      "BARBARA A. MADSEN",
+      "GERRY L. ALEXANDER",
       "PHILIP A. TALMADGE",
-      "RICHARD SANDERS",
-      "FAITH IRELAND"
+      "RICHARD B. SANDERS",
+      "FAITH E. IRELAND"
     ]
   },
   {
@@ -1562,13 +1562,13 @@
     "cases": 6,
     "justices": [
       "CHARLES Z. SMITH",
-      "CHARLES JOHNSON",
-      "BARBARA MADSEN",
-      "GERRY ALEXANDER",
-      "RICHARD SANDERS",
-      "FAITH IRELAND",
-      "BOBBE BRIDGE",
-      "TOM CHAMBERS",
+      "CHARLES W. JOHNSON",
+      "BARBARA A. MADSEN",
+      "GERRY L. ALEXANDER",
+      "RICHARD B. SANDERS",
+      "FAITH E. IRELAND",
+      "BOBBE J. BRIDGE",
+      "THOMAS J. CHAMBERS",
       "SUSAN OWENS"
     ]
   },
@@ -1579,15 +1579,15 @@
     "dateStop": "2005-01-10",
     "cases": 7,
     "justices": [
-      "CHARLES JOHNSON",
-      "BARBARA MADSEN",
-      "GERRY ALEXANDER",
-      "RICHARD SANDERS",
-      "FAITH IRELAND",
-      "BOBBE BRIDGE",
-      "TOM CHAMBERS",
+      "CHARLES W. JOHNSON",
+      "BARBARA A. MADSEN",
+      "GERRY L. ALEXANDER",
+      "RICHARD B. SANDERS",
+      "FAITH E. IRELAND",
+      "BOBBE J. BRIDGE",
+      "THOMAS J. CHAMBERS",
       "SUSAN OWENS",
-      "MARY FAIRHURST"
+      "MARY E. FAIRHURST"
     ]
   },
   {
@@ -1597,15 +1597,15 @@
     "dateStop": "2007-12-31",
     "cases": 143,
     "justices": [
-      "CHARLES JOHNSON",
-      "BARBARA MADSEN",
-      "GERRY ALEXANDER",
-      "RICHARD SANDERS",
-      "BOBBE BRIDGE",
-      "TOM CHAMBERS",
+      "CHARLES W. JOHNSON",
+      "BARBARA A. MADSEN",
+      "GERRY L. ALEXANDER",
+      "RICHARD B. SANDERS",
+      "BOBBE J. BRIDGE",
+      "THOMAS J. CHAMBERS",
       "SUSAN OWENS",
-      "MARY FAIRHURST",
-      "JAMES JOHNSON"
+      "MARY E. FAIRHURST",
+      "JAMES M. JOHNSON"
     ]
   },
   {
@@ -1615,15 +1615,15 @@
     "dateStop": "2011-01-06",
     "cases": 356,
     "justices": [
-      "CHARLES JOHNSON",
-      "BARBARA MADSEN",
-      "GERRY ALEXANDER",
-      "RICHARD SANDERS",
-      "TOM CHAMBERS",
+      "CHARLES W. JOHNSON",
+      "BARBARA A. MADSEN",
+      "GERRY L. ALEXANDER",
+      "RICHARD B. SANDERS",
+      "THOMAS J. CHAMBERS",
       "SUSAN OWENS",
-      "MARY FAIRHURST",
-      "JAMES JOHNSON",
-      "DEBRA STEPHENS"
+      "MARY E. FAIRHURST",
+      "JAMES M. JOHNSON",
+      "DEBRA L. STEPHENS"
     ]
   },
   {
@@ -1633,15 +1633,15 @@
     "dateStop": "2011-12-31",
     "cases": 102,
     "justices": [
-      "CHARLES JOHNSON",
-      "BARBARA MADSEN",
-      "GERRY ALEXANDER",
-      "TOM CHAMBERS",
+      "CHARLES W. JOHNSON",
+      "BARBARA A. MADSEN",
+      "GERRY L. ALEXANDER",
+      "THOMAS J. CHAMBERS",
       "SUSAN OWENS",
-      "MARY FAIRHURST",
-      "JAMES JOHNSON",
-      "DEBRA STEPHENS",
-      "CHARLES WIGGINS"
+      "MARY E. FAIRHURST",
+      "JAMES M. JOHNSON",
+      "DEBRA L. STEPHENS",
+      "CHARLES K. WIGGINS"
     ]
   },
   {
@@ -1651,14 +1651,14 @@
     "dateStop": "2012-01-09",
     "cases": 4,
     "justices": [
-      "CHARLES JOHNSON",
-      "BARBARA MADSEN",
-      "TOM CHAMBERS",
+      "CHARLES W. JOHNSON",
+      "BARBARA A. MADSEN",
+      "THOMAS J. CHAMBERS",
       "SUSAN OWENS",
-      "MARY FAIRHURST",
-      "JAMES JOHNSON",
-      "DEBRA STEPHENS",
-      "CHARLES WIGGINS"
+      "MARY E. FAIRHURST",
+      "JAMES M. JOHNSON",
+      "DEBRA L. STEPHENS",
+      "CHARLES K. WIGGINS"
     ]
   },
   {
@@ -1668,15 +1668,15 @@
     "dateStop": "2013",
     "cases": 67,
     "justices": [
-      "CHARLES JOHNSON",
-      "BARBARA MADSEN",
-      "TOM CHAMBERS",
+      "CHARLES W. JOHNSON",
+      "BARBARA A. MADSEN",
+      "THOMAS J. CHAMBERS",
       "SUSAN OWENS",
-      "MARY FAIRHURST",
-      "JAMES JOHNSON",
-      "DEBRA STEPHENS",
-      "CHARLES WIGGINS",
-      "STEVEN GONZÁLEZ"
+      "MARY E. FAIRHURST",
+      "JAMES M. JOHNSON",
+      "DEBRA L. STEPHENS",
+      "CHARLES K. WIGGINS",
+      "STEVEN C. GONZÁLEZ"
     ]
   },
   {
@@ -1686,14 +1686,14 @@
     "dateStop": "2014",
     "cases": 97,
     "justices": [
-      "CHARLES JOHNSON",
-      "BARBARA MADSEN",
+      "CHARLES W. JOHNSON",
+      "BARBARA A. MADSEN",
       "SUSAN OWENS",
-      "MARY FAIRHURST",
-      "JAMES JOHNSON",
-      "DEBRA STEPHENS",
-      "CHARLES WIGGINS",
-      "STEVEN GONZÁLEZ",
+      "MARY E. FAIRHURST",
+      "JAMES M. JOHNSON",
+      "DEBRA L. STEPHENS",
+      "CHARLES K. WIGGINS",
+      "STEVEN C. GONZÁLEZ",
       "SHERYL GORDON MCCLOUD"
     ]
   },
@@ -1704,15 +1704,15 @@
     "dateStop": "2020",
     "cases": 627,
     "justices": [
-      "CHARLES JOHNSON",
-      "BARBARA MADSEN",
+      "CHARLES W. JOHNSON",
+      "BARBARA A. MADSEN",
       "SUSAN OWENS",
-      "MARY FAIRHURST",
-      "DEBRA STEPHENS",
-      "CHARLES WIGGINS",
-      "STEVEN GONZÁLEZ",
+      "MARY E. FAIRHURST",
+      "DEBRA L. STEPHENS",
+      "CHARLES K. WIGGINS",
+      "STEVEN C. GONZÁLEZ",
       "SHERYL GORDON MCCLOUD",
-      "MARY YU"
+      "MARY I. YU"
     ]
   },
   {
@@ -1722,14 +1722,14 @@
     "dateStop": "2020-04-24",
     "cases": 24,
     "justices": [
-      "CHARLES JOHNSON",
-      "BARBARA MADSEN",
+      "CHARLES W. JOHNSON",
+      "BARBARA A. MADSEN",
       "SUSAN OWENS",
-      "DEBRA STEPHENS",
-      "STEVEN GONZÁLEZ",
+      "DEBRA L. STEPHENS",
+      "STEVEN C. GONZÁLEZ",
       "SHERYL GORDON MCCLOUD",
-      "MARY YU",
-      "RAQUEL MONTOYA-LEWIS"
+      "MARY I. YU",
+      "RAQUEL D. MONTOYA-LEWIS"
     ]
   },
   {
@@ -1739,14 +1739,14 @@
     "dateStop": "2024",
     "cases": 250,
     "justices": [
-      "CHARLES JOHNSON",
-      "BARBARA MADSEN",
+      "CHARLES W. JOHNSON",
+      "BARBARA A. MADSEN",
       "SUSAN OWENS",
-      "DEBRA STEPHENS",
-      "STEVEN GONZÁLEZ",
+      "DEBRA L. STEPHENS",
+      "STEVEN C. GONZÁLEZ",
       "SHERYL GORDON MCCLOUD",
-      "MARY YU",
-      "RAQUEL MONTOYA-LEWIS",
+      "MARY I. YU",
+      "RAQUEL D. MONTOYA-LEWIS",
       "G. HELEN WHITENER"
     ]
   },
@@ -1757,13 +1757,13 @@
     "dateStop": "2025",
     "cases": 61,
     "justices": [
-      "CHARLES JOHNSON",
-      "BARBARA MADSEN",
-      "DEBRA STEPHENS",
-      "STEVEN GONZÁLEZ",
+      "CHARLES W. JOHNSON",
+      "BARBARA A. MADSEN",
+      "DEBRA L. STEPHENS",
+      "STEVEN C. GONZÁLEZ",
       "SHERYL GORDON MCCLOUD",
-      "MARY YU",
-      "RAQUEL MONTOYA-LEWIS",
+      "MARY I. YU",
+      "RAQUEL D. MONTOYA-LEWIS",
       "G. HELEN WHITENER"
     ]
   },
@@ -1774,14 +1774,14 @@
     "dateStop": "2026",
     "cases": 56,
     "justices": [
-      "CHARLES JOHNSON",
-      "BARBARA MADSEN",
-      "DEBRA STEPHENS",
-      "STEVEN GONZÁLEZ",
+      "CHARLES W. JOHNSON",
+      "BARBARA A. MADSEN",
+      "DEBRA L. STEPHENS",
+      "STEVEN C. GONZÁLEZ",
       "SHERYL GORDON MCCLOUD",
-      "RAQUEL MONTOYA-LEWIS",
+      "RAQUEL D. MONTOYA-LEWIS",
       "G. HELEN WHITENER",
-      "SALVADOR MUNGIA"
+      "SALVADOR A. MUNGIA"
     ]
   },
   {
@@ -1791,13 +1791,13 @@
     "dateStop": "",
     "cases": 42,
     "justices": [
-      "CHARLES JOHNSON",
-      "DEBRA STEPHENS",
-      "STEVEN GONZÁLEZ",
+      "CHARLES W. JOHNSON",
+      "DEBRA L. STEPHENS",
+      "STEVEN C. GONZÁLEZ",
       "SHERYL GORDON MCCLOUD",
-      "RAQUEL MONTOYA-LEWIS",
+      "RAQUEL D. MONTOYA-LEWIS",
       "G. HELEN WHITENER",
-      "SALVADOR MUNGIA"
+      "SALVADOR A. MUNGIA"
     ]
   }
 ]

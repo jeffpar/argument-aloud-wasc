@@ -1,7 +1,7 @@
 [
   {
     "id": "2003-001",
-    "title": "Washington Public Ports v. State",
+    "title": "Washington Public Ports v. State of Washington",
     "number": "71934-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2002&file=20021113",
     "questions": "Whether the Department of Revenue, by imposing liability for unpaid or uncollected leasehold excise taxes on public lessors under WAC 458-29A-500, violated state constitutional prohibitions against loaning state money or credit to private entities and against taxing publicly-owned land.",
@@ -14,31 +14,31 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "FAITH IRELAND",
+        "name": "FAITH E. IRELAND",
         "side": "majority"
       },
       {
-        "name": "BOBBE BRIDGE",
+        "name": "BOBBE J. BRIDGE",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -63,7 +63,7 @@
   },
   {
     "id": "2003-002",
-    "title": "State v. Votava",
+    "title": "State of Washington v. Votava",
     "number": "72238-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030116",
     "questions": "Whether a person charged with being in actual physical control of a vehicle while intoxicated can use the statutory defense of moving the vehicle “safely off the roadway” if another person drove the vehicle off the road.",
@@ -177,7 +177,7 @@
   },
   {
     "id": "2003-007",
-    "title": "State v. Moen",
+    "title": "State of Washington v. Moen",
     "number": "72435-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030122",
     "questions": "Whether a prosecutor may condition plea bargaining on a defendant’s waiver of the right to request the identity of a confidential informant in a related civil action seeking return of forfeited property.",
@@ -289,7 +289,7 @@
     ]
   },
   {
-    "id": "2003-013",
+    "id": "2003-012",
     "title": "M.W. and A.W v. Department of Social and Health Services",
     "number": "72520-2",
     "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030123",
@@ -297,8 +297,8 @@
     "argument_day": "Thursday, January 23, 2003"
   },
   {
-    "id": "2003-014",
-    "title": "State v. Rankin",
+    "id": "2003-013",
+    "title": "State of Washington v. Rankin",
     "number": "72509-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030123",
     "questions": "Whether an officer may request the identification of a passenger in a lawfully stopped vehicle absent an articulable suspicion of criminal activity or other reasonable rationale for doing so without violating the passenger's right to privacy pursuant to Washington Constitution, article I, section 7.",
@@ -320,7 +320,7 @@
     ]
   },
   {
-    "id": "2003-015",
+    "id": "2003-014",
     "title": "In re An, Attorney at Law",
     "number": "9756",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030123",
@@ -342,7 +342,7 @@
     ]
   },
   {
-    "id": "2003-016",
+    "id": "2003-015",
     "title": "In re Washington",
     "number": "72676-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030211",
@@ -365,7 +365,7 @@
     ]
   },
   {
-    "id": "2003-017",
+    "id": "2003-016",
     "title": "In re Cohen, Attorney at Law",
     "number": "00373-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030211",
@@ -387,8 +387,8 @@
     ]
   },
   {
-    "id": "2003-018",
-    "title": "State v. Tilton",
+    "id": "2003-017",
+    "title": "State of Washington v. Tilton",
     "number": "72688-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030211",
     "questions": "Whether the record in this juvenile’s trial was insufficient for appeal and requires reversal of his conviction when the defendant’s trial testimony was not recorded, the parties did not follow the procedures set forth in RAP 9.3-9.5 in reconstructing the record, and the defendant was not represented in the reconstruction of the record.",
@@ -409,7 +409,7 @@
     ]
   },
   {
-    "id": "2003-019",
+    "id": "2003-018",
     "title": "Tex Enterprises , a Washington corporation, Respondent, v. Brockway Standard , a foreign corporation, and J.F. Shelton Company, a Washington corporation, Petitioners",
     "number": "72513-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030211",
@@ -432,7 +432,7 @@
     ]
   },
   {
-    "id": "2003-020",
+    "id": "2003-019",
     "title": "City of Redmond, Petitioner, v. Juan Arroyo-Murillo, Respondent",
     "number": "72599-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030213",
@@ -455,8 +455,8 @@
     ]
   },
   {
-    "id": "2003-021",
-    "title": "State v. Wentz",
+    "id": "2003-020",
+    "title": "State of Washington v. Wentz",
     "number": "72438-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030213",
     "questions": "Whether for purposes of the first degree burglary statute a fenced back yard qualifies as a “building” by virtue of being a “fenced area,” without regard to the uses of the area.",
@@ -477,7 +477,7 @@
     ]
   },
   {
-    "id": "2003-022",
+    "id": "2003-021",
     "title": "Paul Plein, Respondent, v. Chester Lackey and Lee Cameron, Jane Doe Cameron and their marital community, Petitioners",
     "number": "72560-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030213",
@@ -500,7 +500,7 @@
     ]
   },
   {
-    "id": "2003-023",
+    "id": "2003-022",
     "title": "In re Beckmann",
     "number": "72539-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030225",
@@ -523,7 +523,7 @@
     ]
   },
   {
-    "id": "2003-024",
+    "id": "2003-023",
     "title": "Clark County Public Utility District No. 1, Respondent, v. International Brotherhood of Electrical Workers, Petitioner",
     "number": "72718-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030225",
@@ -546,8 +546,8 @@
     ]
   },
   {
-    "id": "2003-025",
-    "title": "State v. Rohrich",
+    "id": "2003-024",
+    "title": "State of Washington v. Rohrich",
     "number": "72540-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030225",
     "questions": "Whether the Court of Appeals properly upheld the dismissal of this child molestation prosecution pursuant to CrR 8.3(b), on the ground that the delay in bringing the charge may have allowed witnesses’ memories to fade and the defendant’s own recall of the incident to be compromised.",
@@ -569,7 +569,7 @@
     ]
   },
   {
-    "id": "2003-026",
+    "id": "2003-025",
     "title": "Sunnyside Valley Irrigation District, a quasi-municipal corporation, Respondent, v. Dyke Dickie and Jane Doe Dickie, husband and wife, Petitioners",
     "number": "72635-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030225",
@@ -592,7 +592,7 @@
     ]
   },
   {
-    "id": "2003-027",
+    "id": "2003-026",
     "title": "City of Seattle, Respondent, v. Andrew Guay, Petitioner",
     "number": "72872-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030227",
@@ -615,8 +615,8 @@
     ]
   },
   {
-    "id": "2003-028",
-    "title": "State v. Kindsvogel",
+    "id": "2003-027",
+    "title": "State of Washington v. Kindsvogel",
     "number": "72541-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030227",
     "questions": "Whether the defendant’s conviction for manufacturing marijuana must be overturned pursuant to CrR 4.3.1, the joinder of charges rule, because the state had earlier prosecuted him for domestic violence, after his wife told a police officer that he had assaulted her and also was growing marijuana.",
@@ -638,7 +638,7 @@
     ]
   },
   {
-    "id": "2003-029",
+    "id": "2003-028",
     "title": "Keith A. Pacheco, Petitioner, v. John R. Ames, D.D.S., a sole proprietor, Respondent, Thomas F. Whitfield, D.D.S., a sole proprietor, Defendant",
     "number": "72554-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030227",
@@ -661,7 +661,7 @@
     ]
   },
   {
-    "id": "2003-030",
+    "id": "2003-029",
     "title": "State v. Ackerman",
     "number": "72875-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030227",
@@ -684,8 +684,8 @@
     ]
   },
   {
-    "id": "2003-031",
-    "title": "State v. Hardesty",
+    "id": "2003-030",
+    "title": "State of Washington v. Hardesty",
     "number": "72633-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030227",
     "questions": "Whether, when a criminal charge is first filed in district court and later filed in superior court, the “time elapsed in district court” for purposes of the speedy trial period includes time spent in jail in another county on an unrelated matter.",
@@ -707,7 +707,7 @@
     ]
   },
   {
-    "id": "2003-032",
+    "id": "2003-031",
     "title": "In re Hankerson",
     "number": "72844-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030311",
@@ -730,8 +730,8 @@
     ]
   },
   {
-    "id": "2003-033",
-    "title": "State v. Smith",
+    "id": "2003-032",
+    "title": "State of Washington v. Smith",
     "number": "73113-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030311",
     "questions": "Whether the federal or Washington Constitution requires a jury (rather than the sentencing judge) to determine whether the state has proven the prior convictions necessary to sentence a defendant to life without the possibility of parole under the Persistent Offender Accountability Act.",
@@ -753,8 +753,8 @@
     ]
   },
   {
-    "id": "2003-034",
-    "title": "State v. Swenson",
+    "id": "2003-033",
+    "title": "State of Washington v. Swenson",
     "number": "73192-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030311",
     "questions": "Whether the defendant was timely arraigned, where he was in custody in another county when charged and was not arraigned until 149 days after pleading guilty to the other county’s charges.",
@@ -776,7 +776,7 @@
     ]
   },
   {
-    "id": "2003-035",
+    "id": "2003-034",
     "title": "In re Brothers, Attorney at Law",
     "number": "09653-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030311",
@@ -798,7 +798,7 @@
     ]
   },
   {
-    "id": "2003-036",
+    "id": "2003-035",
     "title": "The City of Seattle, a municipal corporation, Respondent, v. Rory Crispin and Jane Doe Crispin, husband and wife and the marital community composed thereof, Petitioners",
     "number": "72515-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030313",
@@ -807,7 +807,7 @@
     "argument_day": "Thursday, March 13, 2003"
   },
   {
-    "id": "2003-037",
+    "id": "2003-036",
     "title": "In re Kagele, Attorney at Law",
     "number": "04851-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030313",
@@ -829,7 +829,7 @@
     ]
   },
   {
-    "id": "2003-038",
+    "id": "2003-037",
     "title": "In re Turay",
     "number": "73255-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030313",
@@ -852,8 +852,8 @@
     ]
   },
   {
-    "id": "2003-039",
-    "title": "State v. Turley",
+    "id": "2003-038",
+    "title": "State of Washington v. Turley",
     "number": "72362-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030325",
     "questions": "Whether the defendant, who pleaded guilty to charges of escape and conspiracy without being informed that the conspiracy conviction required community placement upon release from prison, should be allowed to withdraw only the guilty plea to the conspiracy conviction or the entire plea agreement.",
@@ -875,7 +875,7 @@
     ]
   },
   {
-    "id": "2003-040",
+    "id": "2003-039",
     "title": "In re Ryan",
     "number": "72763-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030325",
@@ -898,8 +898,8 @@
     ]
   },
   {
-    "id": "2003-041",
-    "title": "State v. J.P.",
+    "id": "2003-040",
+    "title": "State of Washington v. J.P.",
     "number": "72730-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030325",
     "questions": "Whether a juvenile court may order an offender to pay restitution for the costs of a victim’s crime-related counseling in a non-sex offense case. See RCW 13.40.190(1); RCW 13.40.020(22).",
@@ -907,8 +907,8 @@
     "argument_day": "Tuesday, March 25, 2003"
   },
   {
-    "id": "2003-042",
-    "title": "State v. Baldwin",
+    "id": "2003-041",
+    "title": "State of Washington v. Baldwin",
     "number": "72710-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030327",
     "questions": "Whether the defendant’s convictions for identity theft and forgery violate state and federal double jeopardy protections. Additionally, whether the statutes that authorized the defendant’s exceptional sentences, RCW 9.94A.120 and RCW 9.94A.390, are unconstitutionally vague and thus violate her due process rights.",
@@ -930,8 +930,8 @@
     ]
   },
   {
-    "id": "2003-043",
-    "title": "State v. Snedden",
+    "id": "2003-042",
+    "title": "State of Washington v. Snedden",
     "number": "72896-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030327",
     "questions": "Whether indecent exposure is “a crime against a person” that can support a charge of second degree burglary under RCW 9A.52.030(1).",
@@ -953,8 +953,8 @@
     ]
   },
   {
-    "id": "2003-044",
-    "title": "State v. Deryke",
+    "id": "2003-043",
+    "title": "State of Washington v. Deryke",
     "number": "72629-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030327",
     "questions": "Whether the “to convict” instruction on a charge of attempted first degree rape was inadequate because it failed to specify the degree of rape allegedly attempted.",
@@ -976,7 +976,7 @@
     ]
   },
   {
-    "id": "2003-045",
+    "id": "2003-044",
     "title": "Butzberger v. State",
     "number": "72807-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030506",
@@ -999,7 +999,7 @@
     ]
   },
   {
-    "id": "2003-046",
+    "id": "2003-045",
     "title": "Shulamit Glaubach, Dawn Merydith, Kristen Tsiatsios, and all persons similarly situated, Plaintiff, v. Regence Blueshield, a Washington corporation Defendant",
     "number": "73415-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030506",
@@ -1022,7 +1022,7 @@
     ]
   },
   {
-    "id": "2003-047",
+    "id": "2003-046",
     "title": "American Continental Insurance Company, Plaintiff-Appellee, v. Susan Steen, individually and as personal representative for the Estate of Steven Steen, Defendant-Appellant",
     "number": "73412-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030506",
@@ -1045,8 +1045,8 @@
     ]
   },
   {
-    "id": "2003-048",
-    "title": "State v. Thomas",
+    "id": "2003-047",
+    "title": "State of Washington v. Thomas",
     "number": "70727-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030508",
     "questions": "Covell Paul Thomas appeals his conviction for aggravated first degree murder and his sentence of death. He contends that the trial court made several incorrect rulings during jury selection as well as numerous erroneous evidentiary rulings. Thomas also argues that erroneous jury instructions given during his trial violated his constitutional rights. This summary is not formulated by the Court and is provided for the convenience of the public only. RECORDS Case Records Caseload Reports Court Dates Judicial Information System (JIS) JIS LINK Odyssey Portal Records Requests RESOURCES Civic Learning Court News Court Program Accessibility Digital Accessibility Jury Duty Procurement Opportunities Resources, Publications, and Reports Self Help State Law Library Whistleblower Policy QUICK LINKS Court Closures and Emergency Modifications to Operations Court Forms Court Opinions Court Rules Protection Order Forms Emergency Procedures eService Center Pattern Jury Instructions TRANSLATIONS 中文形式/Chinese 한국어서류/Korean Pусский/Russian Español/Spanish Tiếng Việt/Vietnamese ABOUT Administrative Office of the Courts Appellate and Trial Courts Careers Contact Us Programs and Organizations Supreme Court Privacy and Disclaimer Notices Sitemap © Copyright 2026. Washington State Administrative Office of the Courts. N1",
@@ -1068,7 +1068,7 @@
     ]
   },
   {
-    "id": "2003-049",
+    "id": "2003-048",
     "title": "In re Roach",
     "number": "73374-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030513",
@@ -1091,8 +1091,8 @@
     ]
   },
   {
-    "id": "2003-050",
-    "title": "State v. DeVincentis",
+    "id": "2003-049",
+    "title": "State of Washington v. DeVincentis",
     "number": "72819-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030513",
     "questions": "Louis DeVincentis argues he should get a new trial because the State did not show that the evidence of his plan to molest children was unique or uncommon.",
@@ -1105,31 +1105,31 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "FAITH IRELAND",
+        "name": "FAITH E. IRELAND",
         "side": "majority"
       },
       {
-        "name": "BOBBE BRIDGE",
+        "name": "BOBBE J. BRIDGE",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -1137,7 +1137,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       }
     ],
@@ -1157,7 +1157,7 @@
     ]
   },
   {
-    "id": "2003-051",
+    "id": "2003-050",
     "title": "In re Services",
     "number": "72809-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030513",
@@ -1180,8 +1180,8 @@
     ]
   },
   {
-    "id": "2003-052",
-    "title": "State v. Redmond",
+    "id": "2003-051",
+    "title": "State of Washington v. Redmond",
     "number": "72910-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030513",
     "questions": "In 2001, Mr. Redmond was involved in a fight at Lindbergh High School in Renton. The State charged him with criminal assault. Mr. Redmond claims he acted in self defense. Three issues are presented. First, whether the trial court erred by refusing to give the jury a no duty to retreat instruction. Second, whether the trial court erred by admitting medical records that contained a vivid description of the high school fight. Finally, whether the trial court erred by admitting statements that the victim heard from other students that Mr. Redmond had been looking for him.",
@@ -1203,8 +1203,8 @@
     ]
   },
   {
-    "id": "2003-053",
-    "title": "State v. Garza",
+    "id": "2003-052",
+    "title": "State of Washington v. Garza",
     "number": "72959-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030515",
     "questions": "Benjamin Garza was on his way to the third day of his trial for eluding police in a high speed chase when he was arrested on an unrelated charge. Not knowing where Garza was, the trial judge decided to continue without him, which Garza claims violated his constitutional right to be present at trial.",
@@ -1226,7 +1226,7 @@
     ]
   },
   {
-    "id": "2003-054",
+    "id": "2003-053",
     "title": "Jeffrey A. Barrett and John R. Barrett, Jr., v. Lucky Seven Saloon, Inc., et al.",
     "number": "72984-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030515",
@@ -1249,7 +1249,7 @@
     ]
   },
   {
-    "id": "2003-055",
+    "id": "2003-054",
     "title": "Dougherty v. State",
     "number": "72958-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030515",
@@ -1272,8 +1272,8 @@
     ]
   },
   {
-    "id": "2003-056",
-    "title": "State v. Dhaliwal",
+    "id": "2003-055",
+    "title": "State of Washington v. Dhaliwal",
     "number": "73220-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030515",
     "questions": "Did an attorney improperly represent both the defendant and several of the witnesses at the defendant’s trial?",
@@ -1295,7 +1295,7 @@
     ]
   },
   {
-    "id": "2003-057",
+    "id": "2003-056",
     "title": "State v. State",
     "number": "71616-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030520",
@@ -1318,7 +1318,7 @@
     ]
   },
   {
-    "id": "2003-058",
+    "id": "2003-057",
     "title": "City of Seattle v. State",
     "number": "73228-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030520",
@@ -1341,7 +1341,7 @@
     ]
   },
   {
-    "id": "2003-059",
+    "id": "2003-058",
     "title": "Rud Okeson, Doris Burns, Walter L. Williams and Arthur T. Lane, individually and on behalf of the class of all persons similarly situated, Appellants, v. The City of Seattle, Respondent",
     "number": "73227-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030520",
@@ -1364,8 +1364,8 @@
     ]
   },
   {
-    "id": "2003-060",
-    "title": "State v. Goldberg",
+    "id": "2003-059",
+    "title": "State of Washington v. Goldberg",
     "number": "72956-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030520",
     "questions": "Goldberg was convicted of the aggravated murder of his son-in-law, who was killed to prevent him from testifying in a case Goldberg was not a party to. He now argues that the charge was improper and the jury was coerced.",
@@ -1387,8 +1387,8 @@
     ]
   },
   {
-    "id": "2003-061",
-    "title": "State v. Jackson",
+    "id": "2003-060",
+    "title": "State of Washington v. Jackson",
     "number": "72799-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030520",
     "questions": "Defendant Jackson, who was convicted of murdering his daughter, argues that the State illegally obtained evidence by using a global positioning device attached to his truck to track his movements.",
@@ -1410,7 +1410,7 @@
     ]
   },
   {
-    "id": "2003-062",
+    "id": "2003-061",
     "title": "Janice M. Smith and Randal Smith, individually and as assignees, Petitioners, v. Safeco Insurance Company and Linda Bryce, individually, Respondents",
     "number": "73299-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030522",
@@ -1433,7 +1433,7 @@
     ]
   },
   {
-    "id": "2003-063",
+    "id": "2003-062",
     "title": "Washington Employers Concerned About Regulating Ergonomics, et al., Appellants, v. Department of Labor and Industries, et al., Respondents",
     "number": "73020-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030522",
@@ -1456,7 +1456,7 @@
     ]
   },
   {
-    "id": "2003-064",
+    "id": "2003-063",
     "title": "American States Insurance Company, Respondent, v. Symes of Silverdale , et al., Defendants, Kathryn Ellis, as bankruptcy trustee, Petitioner",
     "number": "72817-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030522",
@@ -1479,7 +1479,7 @@
     ]
   },
   {
-    "id": "2003-065",
+    "id": "2003-064",
     "title": "In re Grasso",
     "number": "72588-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030522",
@@ -1502,7 +1502,7 @@
     ]
   },
   {
-    "id": "2003-066",
+    "id": "2003-065",
     "title": "In re An, Attorney at Law",
     "number": "18316",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030522",
@@ -1524,7 +1524,7 @@
     ]
   },
   {
-    "id": "2003-067",
+    "id": "2003-066",
     "title": "Mike M. Johnson , a Washington corporation, Respondent, v. The County of Spokane, a Washington state municipal corporation, Petitioner",
     "number": "72900-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030610",
@@ -1547,8 +1547,8 @@
     ]
   },
   {
-    "id": "2003-068",
-    "title": "State v. Thompson",
+    "id": "2003-067",
+    "title": "State of Washington v. Thompson",
     "number": "72997-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030610",
     "questions": "James Ross Thompson was convicted of manufacturing methamphetamines. He argues that the evidence used to convict him was bad because the police did not have the right to (1) open his trailer door to arrest him; (2) search the trailer; or (3) search a boathouse where they found evidence of drug manufacturing.",
@@ -1570,7 +1570,7 @@
     ]
   },
   {
-    "id": "2003-069",
+    "id": "2003-068",
     "title": "Sane Transit, a Washington non-profit corporation, and Mark Baerwaldt, for themselves and on behalf of taxpayers, Appellants, v. Sound Transit, officially known as the Central Puget Sound Regional Transit Authority, a Washington municipal corporation, Respondent",
     "number": "73413-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030610",
@@ -1593,8 +1593,8 @@
     ]
   },
   {
-    "id": "2003-070",
-    "title": "State v. Mannering",
+    "id": "2003-069",
+    "title": "State of Washington v. Mannering",
     "number": "72811-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030610",
     "questions": "Whether a person charged with attempted first degree murder can raise the defense of duress.",
@@ -1616,7 +1616,7 @@
     ]
   },
   {
-    "id": "2003-071",
+    "id": "2003-070",
     "title": "Lynda Breckenridge, et al., Petitioners, v. Valley General Hospital, et al., Respondents",
     "number": "73481-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030612",
@@ -1639,7 +1639,7 @@
     ]
   },
   {
-    "id": "2003-072",
+    "id": "2003-071",
     "title": "In re Washington",
     "number": "73381-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030612",
@@ -1662,7 +1662,7 @@
     ]
   },
   {
-    "id": "2003-073",
+    "id": "2003-072",
     "title": "City of Seattle, Petitioner, v. Mighty Movers , Respondent",
     "number": "73005-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030612",
@@ -1685,7 +1685,7 @@
     ]
   },
   {
-    "id": "2003-074",
+    "id": "2003-073",
     "title": "Washington Education Association, on behalf of itself and its members, Respondents, v. Washington State Public Disclosure Commission, Christine Yorozu, Chair; Gerry Marsh, Lois Clement, Susan Brady, and Ronda Cahill, Commissioners of the Public Disclosure Commission, in their individual capacities, Appellants",
     "number": "72877-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030624",
@@ -1708,7 +1708,7 @@
     ]
   },
   {
-    "id": "2003-075",
+    "id": "2003-074",
     "title": "State v. them",
     "number": "72975-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030624",
@@ -1731,8 +1731,8 @@
     ]
   },
   {
-    "id": "2003-076",
-    "title": "State v. Tarabochia",
+    "id": "2003-075",
+    "title": "State of Washington v. Tarabochia",
     "number": "72918-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030624",
     "questions": "Whether the defendant untimely filed an affidavit of prejudice against a judge in a one-judge county. 1:00 P.M.",
@@ -1754,7 +1754,7 @@
     ]
   },
   {
-    "id": "2003-077",
+    "id": "2003-076",
     "title": "In re An, Attorney at Law",
     "number": "18922",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030624",
@@ -1776,8 +1776,8 @@
     ]
   },
   {
-    "id": "2003-078",
-    "title": "State v. Cheatam",
+    "id": "2003-077",
+    "title": "State of Washington v. Cheatam",
     "number": "73079-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030626",
     "questions": "The defendant, who was convicted of rape, claims that inadmissible evidence was used to convict him. 1:00 P.M.",
@@ -1799,8 +1799,8 @@
     ]
   },
   {
-    "id": "2003-079",
-    "title": "State v. Goins",
+    "id": "2003-078",
+    "title": "State of Washington v. Goins",
     "number": "73177-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030626",
     "questions": "When a general verdict and special verdict stemming from one count are inconsistent, does the not guilty special verdict void the guilty general verdict?",
@@ -1822,7 +1822,7 @@
     ]
   },
   {
-    "id": "2003-080",
+    "id": "2003-079",
     "title": "State v. State",
     "number": "73607-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030626",
@@ -1845,7 +1845,7 @@
     ]
   },
   {
-    "id": "2003-081",
+    "id": "2003-080",
     "title": "In re Washington",
     "number": "73565-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030626",
@@ -1868,7 +1868,7 @@
     ]
   },
   {
-    "id": "2003-082",
+    "id": "2003-081",
     "title": "State v. McLean",
     "number": "73775-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030626",
@@ -1891,7 +1891,7 @@
     ]
   },
   {
-    "id": "2003-083",
+    "id": "2003-082",
     "title": "In re An, Attorney at Law",
     "number": "18294",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030626",
@@ -1913,8 +1913,8 @@
     ]
   },
   {
-    "id": "2003-084",
-    "title": "State v. Carter",
+    "id": "2003-083",
+    "title": "State of Washington v. Carter",
     "number": "72992-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030909",
     "questions": "Whether two off-duty criminal investigators needed a warrant to open and inspect a gun provided to them during a private gun handling course.",
@@ -1936,7 +1936,7 @@
     ]
   },
   {
-    "id": "2003-085",
+    "id": "2003-084",
     "title": "Brooks v. State",
     "number": "73088-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030909",
@@ -1959,7 +1959,7 @@
     ]
   },
   {
-    "id": "2003-086",
+    "id": "2003-085",
     "title": "Malted Mousse , a Washington corporation, Petitioner, v. Michael A. Steinmetz, Respondent",
     "number": "73120-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030909",
@@ -1982,8 +1982,8 @@
     ]
   },
   {
-    "id": "2003-087",
-    "title": "State v. Ramer",
+    "id": "2003-086",
+    "title": "State of Washington v. Ramer",
     "number": "72816-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030911",
     "questions": "Whether the trial court erred by finding the 11 year old defendant lacked the capacity to commit first degree rape of a child.",
@@ -2005,7 +2005,7 @@
     ]
   },
   {
-    "id": "2003-088",
+    "id": "2003-087",
     "title": "Norm Maleng, in his capacity as King County Prosecuting Attorney, Respondent, v. King County Corrections Guild, Appellant",
     "number": "74130-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030911",
@@ -2028,7 +2028,7 @@
     ]
   },
   {
-    "id": "2003-089",
+    "id": "2003-088",
     "title": "Restaurant Development , a Washington corporation, individually and in behalf of all others similarly situated, Petitioners, v. Cananwill , a California corporation, Respondent",
     "number": "73298-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030911",
@@ -2051,7 +2051,7 @@
     ]
   },
   {
-    "id": "2003-090",
+    "id": "2003-089",
     "title": "Dennis P. Ramm, Tim D. Greeley, and Keith Swank, v. The City of Seattle, et al.; Dennis L. Hossfeld, v. The City of Seattle, et al.",
     "number": "73202-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030911",
@@ -2074,7 +2074,7 @@
     ]
   },
   {
-    "id": "2003-091",
+    "id": "2003-090",
     "title": "State ex rel. Citizens Against Tolls (CAT), a Washington non-profit corporation, Appellant, v. Michael J. Murphy, Washington State Treasurer and Chair of the Washington State Finance Committee; The Washington State Finance Committee, Douglas B. MacDonald, Secretary of Transportation; Washington State Department of Transportation, Aubrey Davis, Chair of the Washington State Transportation Commission; and the Washington State Transportation Commission, Respondents",
     "number": "73745-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030918",
@@ -2097,7 +2097,7 @@
     ]
   },
   {
-    "id": "2003-092",
+    "id": "2003-091",
     "title": "Mount Adams School District, Respondent, v. William D. Cook; Mount Adams Education Association; and Washington Education Association, Petitioners",
     "number": "73171-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030918",
@@ -2120,7 +2120,7 @@
     ]
   },
   {
-    "id": "2003-093",
+    "id": "2003-092",
     "title": "Linda Blaney, Respondent, v. International Association of Machinists and Aerospace Workers, District No. 160, Petitioners",
     "number": "73306-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030918",
@@ -2143,7 +2143,7 @@
     ]
   },
   {
-    "id": "2003-094",
+    "id": "2003-093",
     "title": "Parkland Light & Water Co., Fruitland Mutual Water Co., Mountain View-Edgewater Water Co., Summit Water and Supply Co., Spanaway Water Co., et al., v. Tacoma-Pierce County Board of Health and The Tacoma-Pierce County Health Dept.",
     "number": "73734-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20030918",
@@ -2166,8 +2166,8 @@
     ]
   },
   {
-    "id": "2003-095",
-    "title": "State v. Downing",
+    "id": "2003-094",
+    "title": "State of Washington v. Downing",
     "number": "73085-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031016",
     "argument": "2003-10-16",
@@ -2188,16 +2188,16 @@
     ]
   },
   {
-    "id": "2003-096",
-    "title": "State v. Willis",
+    "id": "2003-095",
+    "title": "State of Washington v. Willis",
     "number": "73345-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031016",
     "argument": "2003-10-16",
     "argument_day": "Thursday, October 16, 2003"
   },
   {
-    "id": "2003-097",
-    "title": "State v. Thomas",
+    "id": "2003-096",
+    "title": "State of Washington v. Thomas",
     "number": "73216-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031016",
     "argument": "2003-10-16",
@@ -2218,8 +2218,8 @@
     ]
   },
   {
-    "id": "2003-098",
-    "title": "State v. C.G.",
+    "id": "2003-097",
+    "title": "State of Washington v. C.G.",
     "number": "73310-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031021",
     "questions": "A high-school student challenges her conviction of felony harassment, on the ground that the victim did not fear that her threat to kill would be carried out.",
@@ -2227,8 +2227,8 @@
     "argument_day": "Tuesday, October 21, 2003"
   },
   {
-    "id": "2003-099",
-    "title": "State v. M.K.",
+    "id": "2003-098",
+    "title": "State of Washington v. M.K.",
     "number": "73301-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031021",
     "questions": "A middle-school student challenges his conviction of felony harassment, claiming that his statement implying a school-shooting was intended as a joke.",
@@ -2236,7 +2236,7 @@
     "argument_day": "Tuesday, October 21, 2003"
   },
   {
-    "id": "2003-100",
+    "id": "2003-099",
     "title": "Rick Hangartner, v. City of Seattle; Citizens Against the Monorail, v. The Elevated Transportation Company, and Harold Robertson",
     "number": "73930-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031021",
@@ -2259,7 +2259,7 @@
     ]
   },
   {
-    "id": "2003-101",
+    "id": "2003-100",
     "title": "Safeco Insurance Company, Respondent, v. Denise Brackett Woodley, Petitioner",
     "number": "73477-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031022",
@@ -2282,8 +2282,8 @@
     ]
   },
   {
-    "id": "2003-102",
-    "title": "State v. Taylor",
+    "id": "2003-101",
+    "title": "State of Washington v. Taylor",
     "number": "73282-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031022",
     "questions": "Whether an individual, who was formally charged with a crime, may appeal an order dismissing the charge.",
@@ -2305,7 +2305,7 @@
     ]
   },
   {
-    "id": "2003-103",
+    "id": "2003-102",
     "title": "Rebecca Hamm v. State Farm Mutual Automobile Insurance Company, Respondent",
     "number": "73614-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031022",
@@ -2324,7 +2324,7 @@
     ]
   },
   {
-    "id": "2003-104",
+    "id": "2003-103",
     "title": "In re Petitioners",
     "number": "73504-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031028",
@@ -2347,8 +2347,8 @@
     ]
   },
   {
-    "id": "2003-105",
-    "title": "State v. Goodman",
+    "id": "2003-104",
+    "title": "State of Washington v. Goodman",
     "number": "73533-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031028",
     "questions": "Goodman was convicted of possessing methamphetamine with intent to deliver. The charging document listed the drug as “meth” rather than the full name “methamphetamine.” The court must decide if the evidence was sufficient to support the conviction and whether the use of “meth” rather than “methamphetamine” in the charging document was improper.",
@@ -2370,8 +2370,8 @@
     ]
   },
   {
-    "id": "2003-106",
-    "title": "State v. Hanson",
+    "id": "2003-105",
+    "title": "State of Washington v. Hanson",
     "number": "74079-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031028",
     "questions": "Appellant Hanson claims that the court's decision in Andress requires vacation of his second degree felony murder conviction predicated on assault.",
@@ -2393,7 +2393,7 @@
     ]
   },
   {
-    "id": "2003-107",
+    "id": "2003-106",
     "title": "Yaeko Otani, Deceased, through her personal representative, Pauline Shigaki, Petitioner, v. David R. Broudy, M.D., Respondent",
     "number": "73531-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031030",
@@ -2416,7 +2416,7 @@
     ]
   },
   {
-    "id": "2003-108",
+    "id": "2003-107",
     "title": "Jerry L. Hisle, Michael D, Nicholas, Dale A. Riccetti, Jerry Roth, Ron L. Shoup, individually, and on behalf of the class they represent, Respondents, v. Todd Pacific Shipyards Corporation, a Delaware corporation, Petitioner",
     "number": "73357-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031030",
@@ -2439,7 +2439,7 @@
     ]
   },
   {
-    "id": "2003-109",
+    "id": "2003-108",
     "title": "Arborwood Idaho v. State",
     "number": "73197-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031030",
@@ -2462,7 +2462,7 @@
     ]
   },
   {
-    "id": "2003-110",
+    "id": "2003-109",
     "title": "Gary Anderson and Amelia Anderson, husband and wife, Appellants, v. Galvin Flying Service , a Washington corporation, Respondent",
     "number": "73603-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031113",
@@ -2484,7 +2484,7 @@
     ]
   },
   {
-    "id": "2003-111",
+    "id": "2003-110",
     "title": "Washington State Council Of County And City Employees, Council 2, AFSCME, AFL-CI, Local 87 And Local 87P, Petitioners, v. Susan Hahn, Presiding Judge, Yakima County Superior Court, And Ruth Reukauf, Presiding Judge, Yakima County District Court, Respondents",
     "number": "73740-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031113",
@@ -2507,7 +2507,7 @@
     ]
   },
   {
-    "id": "2003-112",
+    "id": "2003-111",
     "title": "John D. Carlisle (deceased), a single man by and through Delbert D. Carlisle as the personal representative of his estate; and Delbert D. Carlisle and Myrna L. Carlisle, individually, Appellants, v. Group Health Cooperative of Puget Sound and Unknown John Does, Respondents",
     "number": "73736-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031113",
@@ -2529,7 +2529,7 @@
     ]
   },
   {
-    "id": "2003-113",
+    "id": "2003-112",
     "title": "Nancy Loomis and Gerald Loomis, husband and wife, and as personal representatives of the Estate of Kelly Loomis, Plaintiff, v. City of Puyallup Police Department, a municipal corporation; Ambrose J. Seitz and “Jane Doe” Seitz, husband and wife; and Rodger Cool and “Jane Doe” Cool, husband and wife, Defendants",
     "number": "74098-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031113",
@@ -2551,7 +2551,7 @@
     ]
   },
   {
-    "id": "2003-114",
+    "id": "2003-113",
     "title": "Piety Ann Clark, Respondent, v. Wayne A. Baines and Jane Doe Baines, husband and wife, Petitioners",
     "number": "73287-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031113",
@@ -2574,7 +2574,7 @@
     ]
   },
   {
-    "id": "2003-115",
+    "id": "2003-114",
     "title": "Zoe Philippides, as personal representative of the Estate of Yianni Philippides, Deceased, and Kathryn and George Philippides, wife and husband, Respondents, v. Robert Bernard, and Wolverine World Wide Inc., a Delaware corporation, Appellants, and Robert Johns, Defendant",
     "number": "73239-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031113",
@@ -2597,7 +2597,7 @@
     ]
   },
   {
-    "id": "2003-116",
+    "id": "2003-115",
     "title": "Thomas R. Dreiling, Respondent, v. Naveen Jain, et ux., et al., Respondents, And Infospace , a Delaware corporation, Nominal Defendant/Respondent, And The Seattle Times Company, Intervenor/Petitioner",
     "number": "73756-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031113",
@@ -2619,7 +2619,7 @@
     ]
   },
   {
-    "id": "2003-117",
+    "id": "2003-116",
     "title": "In re 17502, Attorney at Law",
     "number": "17502-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031118",
@@ -2642,8 +2642,8 @@
     ]
   },
   {
-    "id": "2003-118",
-    "title": "State v. Heritage",
+    "id": "2003-117",
+    "title": "State of Washington v. Heritage",
     "number": "73522-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031118",
     "questions": "To protect a suspect’s constitutional right not to make incriminating confessions or admissions while in custodial interrogation by police, the Supreme Court developed warnings that an officer must give prior to interrogation. The warnings are commonly referred to as Miranda warnings. The court decides whether a suspect’s right to Miranda warnings extends to custodial interrogation by a city park security officer.",
@@ -2665,7 +2665,7 @@
     ]
   },
   {
-    "id": "2003-119",
+    "id": "2003-118",
     "title": "Urban Development, Inc., v. Dryvit Systems, Inc.",
     "number": "73543-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031118",
@@ -2688,7 +2688,7 @@
     ]
   },
   {
-    "id": "2003-120",
+    "id": "2003-119",
     "title": "State v. State",
     "number": "73419-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031118",
@@ -2711,8 +2711,8 @@
     ]
   },
   {
-    "id": "2003-121",
-    "title": "State v. Tuupo",
+    "id": "2003-120",
+    "title": "State of Washington v. Tuupo",
     "number": "73642-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031119",
     "questions": "Should a juvenile that commits certain acts when he is 15, but is not charged until after he is 16, be automatically declined by the juvenile court and tried in adult court? Did the State violate the defendant’s due process rights by delaying prosecution until after the defendant was 18?",
@@ -2734,7 +2734,7 @@
     ]
   },
   {
-    "id": "2003-122",
+    "id": "2003-121",
     "title": "Hurd v. State",
     "number": "74206-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031119",
@@ -2757,7 +2757,7 @@
     ]
   },
   {
-    "id": "2003-123",
+    "id": "2003-122",
     "title": "State v. Mills",
     "number": "73894-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031119",
@@ -2780,8 +2780,8 @@
     ]
   },
   {
-    "id": "2003-124",
-    "title": "State v. Davis",
+    "id": "2003-123",
+    "title": "State of Washington v. Davis",
     "number": "73893-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031119",
     "questions": "These consolidated cases require the court to consider the adequacy of certain criminal jury instructions.",
@@ -2802,7 +2802,7 @@
     ]
   },
   {
-    "id": "2003-125",
+    "id": "2003-124",
     "title": "Campbell v. State",
     "number": "74204-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2003&file=20031119",

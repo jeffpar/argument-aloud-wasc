@@ -15,7 +15,7 @@
     "score": "5-3",
     "votes": [
       {
-        "name": "BARBARA DURHAM",
+        "name": "BARBARA M. DURHAM",
         "side": "majority"
       },
       {
@@ -31,15 +31,15 @@
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
@@ -107,7 +107,7 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "BARBARA DURHAM",
+        "name": "BARBARA M. DURHAM",
         "side": "majority"
       },
       {
@@ -123,15 +123,15 @@
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "minority"
       },
       {
@@ -139,7 +139,7 @@
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "minority"
       }
     ],
@@ -176,7 +176,7 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "BARBARA DURHAM",
+        "name": "BARBARA M. DURHAM",
         "side": "majority"
       },
       {
@@ -192,15 +192,15 @@
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
@@ -208,7 +208,7 @@
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "minority"
       }
     ],
@@ -244,7 +244,7 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "BARBARA DURHAM",
+        "name": "BARBARA M. DURHAM",
         "side": "majority"
       },
       {
@@ -260,15 +260,15 @@
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
@@ -276,7 +276,7 @@
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       }
     ],
@@ -311,7 +311,7 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA DURHAM",
+        "name": "BARBARA M. DURHAM",
         "side": "minority"
       },
       {
@@ -327,15 +327,15 @@
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
@@ -343,7 +343,7 @@
         "side": "minority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "minority"
       }
     ],
@@ -377,7 +377,7 @@
     "score": "8-1",
     "votes": [
       {
-        "name": "BARBARA DURHAM",
+        "name": "BARBARA M. DURHAM",
         "side": "majority"
       },
       {
@@ -393,15 +393,15 @@
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
@@ -409,7 +409,7 @@
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "minority"
       }
     ],
@@ -782,7 +782,7 @@
   },
   {
     "id": "1997-026",
-    "title": "State v. Lee",
+    "title": "State of Washington v. Lee",
     "number": "64212-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=w&file=02-25",
     "argument": "1997-02-25",
@@ -803,7 +803,7 @@
   },
   {
     "id": "1997-027",
-    "title": "State v. Foster",
+    "title": "State of Washington v. Foster",
     "number": "64217-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=w&file=02-25",
     "argument": "1997-02-25",
@@ -832,7 +832,7 @@
   },
   {
     "id": "1997-029",
-    "title": "State v. Squally",
+    "title": "State of Washington v. Squally",
     "number": "64243-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=w&file=02-26",
     "argument": "1997-02-26",
@@ -861,7 +861,7 @@
   },
   {
     "id": "1997-031",
-    "title": "State v. Broadaway",
+    "title": "State of Washington v. Broadaway",
     "number": "64654-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=w&file=02-26",
     "argument": "1997-02-26",
@@ -924,7 +924,7 @@
   },
   {
     "id": "1997-034",
-    "title": "State v. Buckner",
+    "title": "State of Washington v. Buckner",
     "number": "62043-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=w&file=03-11",
     "argument": "1997-03-11",
@@ -945,7 +945,7 @@
   },
   {
     "id": "1997-035",
-    "title": "State v. Michielli",
+    "title": "State of Washington v. Michielli",
     "number": "64270-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=w&file=03-11",
     "argument": "1997-03-11",
@@ -966,7 +966,7 @@
   },
   {
     "id": "1997-036",
-    "title": "State v. Mollichi",
+    "title": "State of Washington v. Mollichi",
     "number": "64301-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=w&file=03-11",
     "argument": "1997-03-11",
@@ -1008,7 +1008,7 @@
   },
   {
     "id": "1997-038",
-    "title": "State v. Parker",
+    "title": "State of Washington v. Parker",
     "number": "64304-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=w&file=03-12",
     "argument": "1997-03-12",
@@ -1029,7 +1029,7 @@
   },
   {
     "id": "1997-039",
-    "title": "State v. Bourgeois",
+    "title": "State of Washington v. Bourgeois",
     "number": "64316-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=w&file=03-12",
     "argument": "1997-03-12",
@@ -1155,7 +1155,7 @@
   },
   {
     "id": "1997-045",
-    "title": "State v. Castellanos",
+    "title": "State of Washington v. Castellanos",
     "number": "64358-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=w&file=03-26",
     "argument": "1997-03-26",
@@ -1176,7 +1176,7 @@
   },
   {
     "id": "1997-046",
-    "title": "State v. Randhawa",
+    "title": "State of Washington v. Randhawa",
     "number": "64780-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=w&file=03-26",
     "argument": "1997-03-26",
@@ -1197,7 +1197,7 @@
   },
   {
     "id": "1997-047",
-    "title": "State v. Anderson",
+    "title": "State of Washington v. Anderson",
     "number": "64348-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=w&file=03-26",
     "argument": "1997-03-26",
@@ -1247,7 +1247,7 @@
   },
   {
     "id": "1997-050",
-    "title": "State v. Blilie",
+    "title": "State of Washington v. Blilie",
     "number": "64799-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=w&file=04-08",
     "argument": "1997-04-08",
@@ -1268,7 +1268,7 @@
   },
   {
     "id": "1997-051",
-    "title": "State v. Lee",
+    "title": "State of Washington v. Lee",
     "number": "64401-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=w&file=04-08",
     "argument": "1997-04-08",
@@ -1289,7 +1289,7 @@
   },
   {
     "id": "1997-052",
-    "title": "State v. Rohrich",
+    "title": "State of Washington v. Rohrich",
     "number": "64452-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=w&file=04-08",
     "argument": "1997-04-08",
@@ -1457,7 +1457,7 @@
   },
   {
     "id": "1997-060",
-    "title": "State v. Porter",
+    "title": "State of Washington v. Porter",
     "number": "64174-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=s&file=05-14",
     "argument": "1997-05-14",
@@ -1520,7 +1520,7 @@
   },
   {
     "id": "1997-063",
-    "title": "State v. Peterson",
+    "title": "State of Washington v. Peterson",
     "number": "64453-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=s&file=05-20",
     "argument": "1997-05-20",
@@ -1541,7 +1541,7 @@
   },
   {
     "id": "1997-064",
-    "title": "State v. Tomal",
+    "title": "State of Washington v. Tomal",
     "number": "64420-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=s&file=05-20",
     "argument": "1997-05-20",
@@ -1709,7 +1709,7 @@
   },
   {
     "id": "1997-072",
-    "title": "State v. Chester",
+    "title": "State of Washington v. Chester",
     "number": "64412-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=s&file=05-27",
     "argument": "1997-05-27",
@@ -1730,7 +1730,7 @@
   },
   {
     "id": "1997-073",
-    "title": "State v. Calegar",
+    "title": "State of Washington v. Calegar",
     "number": "64948-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=s&file=05-28",
     "argument": "1997-05-28",
@@ -1751,7 +1751,7 @@
   },
   {
     "id": "1997-074",
-    "title": "State v. Cruz",
+    "title": "State of Washington v. Cruz",
     "number": "64611-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=s&file=05-28",
     "argument": "1997-05-28",
@@ -1793,7 +1793,7 @@
   },
   {
     "id": "1997-076",
-    "title": "State v. Hardy",
+    "title": "State of Washington v. Hardy",
     "number": "64619-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=s&file=05-28",
     "argument": "1997-05-28",
@@ -1814,7 +1814,7 @@
   },
   {
     "id": "1997-077",
-    "title": "State v. Hamlet",
+    "title": "State of Washington v. Hamlet",
     "number": "64620-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=s&file=06-10",
     "argument": "1997-06-10",
@@ -1835,7 +1835,7 @@
   },
   {
     "id": "1997-078",
-    "title": "Medcalf v. State",
+    "title": "Medcalf v. State of Washington",
     "number": "64509-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=s&file=06-10",
     "argument": "1997-06-10",
@@ -2192,7 +2192,7 @@
   },
   {
     "id": "1997-095",
-    "title": "State v. Kells",
+    "title": "State of Washington v. Kells",
     "number": "64649-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=f&file=09-17",
     "argument": "1997-09-17",
@@ -2297,7 +2297,7 @@
   },
   {
     "id": "1997-100",
-    "title": "State v. Hairston",
+    "title": "State of Washington v. Hairston",
     "number": "65240-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=f&file=09-18",
     "argument": "1997-09-18",
@@ -2305,7 +2305,7 @@
   },
   {
     "id": "1997-101",
-    "title": "State v. Ferrier",
+    "title": "State of Washington v. Ferrier",
     "number": "64930-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=f&file=09-18",
     "argument": "1997-09-18",
@@ -2408,7 +2408,7 @@
   },
   {
     "id": "1997-106",
-    "title": "State v. Talley",
+    "title": "State of Washington v. Talley",
     "number": "64893-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=f&file=09-24",
     "argument": "1997-09-24",
@@ -2429,7 +2429,7 @@
   },
   {
     "id": "1997-107",
-    "title": "State v. Theodoratus",
+    "title": "State of Washington v. Theodoratus",
     "number": "64527-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=f&file=09-24",
     "argument": "1997-09-24",
@@ -2472,7 +2472,7 @@
   },
   {
     "id": "1997-109",
-    "title": "State v. Sledge",
+    "title": "State of Washington v. Sledge",
     "number": "64921-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=f&file=09-24",
     "argument": "1997-09-24",
@@ -2514,7 +2514,7 @@
   },
   {
     "id": "1997-111",
-    "title": "R.D. v. State",
+    "title": "R.D. v. State of Washington",
     "number": "64607-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=f&file=10-14",
     "argument": "1997-10-14",
@@ -2627,7 +2627,7 @@
   },
   {
     "id": "1997-117",
-    "title": "State v. White",
+    "title": "State of Washington v. White",
     "number": "64973-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=f&file=10-15",
     "argument": "1997-10-15",
@@ -2690,7 +2690,7 @@
   },
   {
     "id": "1997-120",
-    "title": "State v. Sagastegui",
+    "title": "State of Washington v. Sagastegui",
     "number": "63744-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=f&file=10-22",
     "argument": "1997-10-22",
@@ -2798,7 +2798,7 @@
   },
   {
     "id": "1997-125",
-    "title": "State v. Hickman",
+    "title": "State of Washington v. Hickman",
     "number": "65141-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=f&file=10-28",
     "argument": "1997-10-28",
@@ -2819,7 +2819,7 @@
   },
   {
     "id": "1997-126",
-    "title": "State v. Ivie",
+    "title": "State of Washington v. Ivie",
     "number": "64959-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=f&file=10-29",
     "argument": "1997-10-29",
@@ -2840,7 +2840,7 @@
   },
   {
     "id": "1997-127",
-    "title": "State v. Jeannotte",
+    "title": "State of Washington v. Jeannotte",
     "number": "65169-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=f&file=10-29",
     "argument": "1997-10-29",
@@ -2861,7 +2861,7 @@
   },
   {
     "id": "1997-128",
-    "title": "Deatherage v. State",
+    "title": "Deatherage v. State of Washington",
     "number": "65339-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=f&file=10-29",
     "argument": "1997-10-29",

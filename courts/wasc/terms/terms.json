@@ -95,7 +95,7 @@
         "id": "2000",
         "name": "2000",
         "file": "/courts/wasc/terms/2000/cases.json",
-        "cases": 126
+        "cases": 125
       },
       {
         "id": "2001",
@@ -114,7 +114,7 @@
         "id": "2003",
         "name": "2003",
         "file": "/courts/wasc/terms/2003/cases.json",
-        "cases": 125,
+        "cases": 124,
         "dates": true
       },
       {
@@ -278,7 +278,7 @@
         "id": "2025",
         "name": "2025",
         "file": "/courts/wasc/terms/2025/cases.json",
-        "cases": 61,
+        "cases": 62,
         "dates": true
       },
       {

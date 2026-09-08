@@ -15,25 +15,25 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority",
         "file": "816875Di1.pdf"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority",
         "file": "816875MAJ.pdf"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -41,16 +41,16 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority",
         "file": "816875Co1.pdf"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -82,23 +82,23 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "minority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "minority"
       },
       {
@@ -107,15 +107,15 @@
         "file": "831246MAJ.pdf"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority",
         "file": "831246Di1.pdf"
       }
@@ -135,7 +135,7 @@
   },
   {
     "id": "2011-003",
-    "title": "Washington v. Schultz",
+    "title": "State of Washington v. Schultz",
     "number": "82238-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100114",
     "facts": "Petitioner Patricia Schultz was convicted of possession of methamphetamine in the Superior Court for Clallam County after a search of her apartment occasioned by police responding to a neighbor's report of suspected domestic violence revealed methamphetamine. Schultz subsequently appealed her conviction, asserting that the search was unlawful and violated her right to privacy under Article II §7 of the Washington State Constitution. The Washington Court of Appeals affirmed Schultz's conviction, ruling that the warrantless search was justified by Schultz's acquiescence and by the presence of exigent circumstances, specifically the likelihood of domestic violence. Schultz appealed this decision to the Supreme Court of Washington.",
@@ -150,23 +150,23 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "minority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority",
         "file": "822387MAJ.pdf"
       },
@@ -175,16 +175,16 @@
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority",
         "file": "822387Di1.pdf"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -217,25 +217,25 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority",
         "file": "830240Co1.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority",
         "file": "830240MAJ.pdf"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "minority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "minority",
         "file": "830240Di1.pdf"
       },
@@ -244,15 +244,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -271,7 +271,7 @@
   },
   {
     "id": "2011-005",
-    "title": "Washington v. Ibarra-Cisneros",
+    "title": "State of Washington v. Ibarra-Cisneros",
     "number": "82219-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100309",
     "facts": "The home of Adrian Ibarra-Raya, the brother of petitioner Gilberto Ibarra-Cisneros, was subjected to a warrantless search by police officers that revealed marijuana and resulted in Ibarra-Raya’s arrest. Police officers subsequently used Ibarra-Raya’s cellular phone to arrange a meeting with Ibarra-Cisneros that resulted in his arrest when he was found to be in possession of cocaine. Ibarra-Raya and Ibarra-Cisneros were subsequently convicted in the Superior Court for Walla Walla County of possession of marijuana with intent to deliver and possession of cocaine, respectively. Both appealed and the Washington Court of Appeals reversed Ibarra-Raya’s conviction but affirmed Ibarra-Cisneros’s conviction. The Washington Court of Appeals held that while the warrantless search of Ibarra-Raya’s home was unlawful and the evidence derived from it therefore inadmissible, the evidence found in Ibarra-Cisneros’s possession was too attenuated from the search to be subject to the exclusionary rule. Ibarra-Cisneros appealed this decision to the Supreme Court of Washington.",
@@ -286,25 +286,25 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority",
         "file": "822191Di1.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority",
         "file": "822191Co1.pdf"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -312,16 +312,16 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority",
         "file": "822191Di2.pdf"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority",
         "file": "822191MAJ.pdf"
       }
@@ -356,24 +356,24 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority",
         "file": "822298MAJ.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -381,15 +381,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -408,7 +408,7 @@
   },
   {
     "id": "2011-007",
-    "title": "Washington v. Monday",
+    "title": "State of Washington v. Monday",
     "number": "82736-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100511",
     "facts": "Petitioner Kevin Monday was convicted of first degree murder and first degree assault in the Superior Court for King County after a trial in which the prosecutor attempted to account in his closing statement for several witnesses recanting earlier statements made to the police and expressing reluctance to testify by stating that adherence to an informal code often makes African Americans reluctant to testify against other African Americans. Monday appealed his conviction, asserting that this statement constituted prosecutorial misconduct insofar as it appealed to racial prejudice and sought to undermine the credibility of African American witnesses on the basis of their race. The Washington Court of Appeals affirmed Monday’s conviction, holding that although the prosecutor’s statement was improper, the error was harmless. Monday appealed this decision to the Supreme Court of Washington.",
@@ -422,24 +422,24 @@
     "score": "8-1",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority",
         "file": "827362Co1.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority",
         "file": "827362MAJ.pdf"
       },
@@ -448,16 +448,16 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority",
         "file": "827362Di1.pdf"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -476,7 +476,7 @@
   },
   {
     "id": "2011-008",
-    "title": "Washington v. Irby",
+    "title": "State of Washington v. Irby",
     "number": "82665-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100513",
     "facts": "Respondent Terrance Irby was convicted of first degree burglary and first degree murder in the Superior Court for Skagit County and sentenced to life imprisonment without the possibility of parole. Irby subsequently appealed his conviction, asserting that the trial court had violated his right under the 6th Amendment to the United States Constitution and Article I §22 of the Washington State Constitution to a public trial by conducting part of the jury selection process without his participation via an email exchange with attorneys for the prosecution and attorneys for the defense. The Washington Court of Appeals vacated Irby’s conviction, ruling that the trial court denied Irby his constitutional right to be present at and contribute to jury selection. The state of Washington appealed this decision to the Supreme Court of Washington.",
@@ -490,25 +490,25 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority",
         "file": "826650Di1.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority",
         "file": "826650MAJ.pdf"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -516,15 +516,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -543,7 +543,7 @@
   },
   {
     "id": "2011-009",
-    "title": "Washington v. Brousseau",
+    "title": "State of Washington v. Brousseau",
     "number": "83415-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100518",
     "facts": "Petitioner William Brousseau was convicted of the rape of a child and child molestation in the Superior Court for Asotin County after a trial in which the alleged victim testified after being deemed competent following a competency hearing and in which out of court statements made by the alleged victim were admitted into evidence pursuant to Washington Revised Code §9A.44.120’s child hearsay exception. Brousseau subsequently appealed his conviction, asserting that he was denied due process of law when the trial court prevented him from calling the alleged victim to testify at the competency hearing, that §9A.44.120 requires that a child testify at their pretrial child hearsay hearing in order for their out of court statements to be admissible at trial, and that his attorney’s failure to object to testimony regarding the alleged victim’s credibility constituted ineffective assistance of counsel. The Washington Court of Appeals certified the case to the Supreme Court of Washington.",
@@ -557,24 +557,24 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority",
         "file": "834156MAJ.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "minority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "minority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "minority"
       },
       {
@@ -583,15 +583,15 @@
         "file": "834156Di1.pdf"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -624,23 +624,23 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "minority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -648,16 +648,16 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority",
         "file": "834288Di1.pdf"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority",
         "file": "834288MAJ.pdf"
       }
@@ -691,25 +691,25 @@
     "score": "8-1",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority",
         "file": "825688Co1.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "minority",
         "file": "825688Di1.pdf"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -717,16 +717,16 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority",
         "file": "825688MAJ.pdf"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -760,24 +760,24 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority",
         "file": "830304MAJ.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "minority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "minority"
       },
       {
@@ -785,15 +785,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority",
         "file": "830304Di1.pdf"
       }
@@ -813,7 +813,7 @@
   },
   {
     "id": "2011-013",
-    "title": "Washington v. Immelt",
+    "title": "State of Washington v. Immelt",
     "number": "83343-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100608",
     "facts": "Petitioner Helen Immelt was convicted of violating Snohomish County Code §10.01.040, which prohibits the sounding of vehicle horns for purposes other than public safety, after sounding her automobile’s horn for nearly ten minutes outside of her neighbor’s home following a dispute. Immelt appealed her conviction on grounds that §10.01.040 is an unconstitutionally overbroad ordinance that infringes the right to freedom of speech and expression guaranteed by the 1st Amendment to the United States Constitution and Article I §5 of the Washington State Constitution. The Washington Court of Appeals affirmed Immelt’s conviction. Immelt appealed this decision to the Supreme Court of Washington.",
@@ -828,24 +828,24 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority",
         "file": "833435Di1.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -853,16 +853,16 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority",
         "file": "833435Di2.pdf"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority",
         "file": "833435MAJ.pdf"
       }
@@ -896,25 +896,25 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority",
         "file": "2007198MAJ.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority",
         "file": "2007198CP1.pdf"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -922,15 +922,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -949,7 +949,7 @@
   },
   {
     "id": "2011-015",
-    "title": "Washington v. Sandoval",
+    "title": "State of Washington v. Sandoval",
     "number": "82175-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100610",
     "facts": "Prior to petitioner Valentin Sandoval’s release from prison after serving a sentence for third degree rape, United States Customs and Border Protection placed a hold that prevented him from being released and initiated deportation proceedings against him on grounds that, as a resident alien who had committed an aggravated felony, he was deportable under 8 U.S.C. §1227(a)(2)(A)(iii). Sandoval subsequently filed a personal restraint petition in the Washington Court of Appeals that asserted that his plea of guilty to the charge of third degree rape had not been knowing, voluntary, and intelligent insofar as he had been provided ineffective assistance of counsel in violation of the 6th Amendment to the United States Constitution and Article I §22 of the Washington State Constitution when his attorney failed to properly apprise him of the likely consequences of his guilty plea with regard to his immigration status. The Washington Court of Appeals dismissed Sandoval’s petition and affirmed his conviction. Sandoval appealed this decision to the Supreme Court of Washington.",
@@ -964,23 +964,23 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -988,17 +988,17 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority",
         "file": "821755MAJ.pdf"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority",
         "file": "821755Co1.pdf"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority",
         "file": "821755Co2.pdf"
       }
@@ -1018,7 +1018,7 @@
   },
   {
     "id": "2011-016",
-    "title": "Washington v. Eserjose",
+    "title": "State of Washington v. Eserjose",
     "number": "82491-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100610",
     "facts": "Petitioner James Eserjose was convicted of second degree burglary in the Superior Court for Kitsap County after confessing to police officers following his arrest. Eserjose subsequently appealed his conviction directly to the Supreme Court of Washington, asserting that the trial court erred in refusing to suppress the confession insofar as the arrest that preceded it was unlawful given that it was effected by a warrantless and non-consensual entry into his home not necessitated by exigent circumstances.",
@@ -1031,26 +1031,26 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority",
         "file": "824916Co1.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority",
         "file": "824916Di1.pdf"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority",
         "file": "824916MAJ.pdf"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "minority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "minority"
       },
       {
@@ -1058,15 +1058,15 @@
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -1099,23 +1099,23 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority",
         "file": "822646MAJ.pdf"
       },
@@ -1124,15 +1124,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -1165,23 +1165,23 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -1189,16 +1189,16 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority",
         "file": "834261MAJ.pdf"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -1231,25 +1231,25 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority",
         "file": "833494MAJ.pdf"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority",
         "file": "833494Co1.pdf"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "minority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -1257,12 +1257,12 @@
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority",
         "file": "833494Di1.pdf"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -1281,7 +1281,7 @@
   },
   {
     "id": "2011-020",
-    "title": "Washington v. Mutch",
+    "title": "State of Washington v. Mutch",
     "number": "82029-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100916",
     "questions": "Did the trial court improperly calculate Mutch’s offender score by not counting his five convictions for second degree rape as a single offense in calculating his offender score? Was the trial court authorized to impose an exceptional sentence upon Mutch without submitting the question to the jury? Did the instructions to the jury potentially result in Mutch being subjected to double jeopardy? Conclusion: Justice Owens’ opinion for a unanimous Court affirmed Mutch’s sentence, concluding that Mutch’s offender score had not been improperly calculated insofar as Mutch had sufficient time to form a new criminal intent prior to each act of second degree rape despite the fact that they occurred over the course of a single evening and the following morning and that the five convictions therefore did not arise from the same criminal conduct. The Court also held that the trial court was authorized to impose an exceptional sentence upon Mutch without submitting the question to the jury as the exceptional sentence was based solely upon consideration of Mutch’s criminal history and offender score without any fact finding reserved for the jury. Finally, the Court found that the instructions to the jury did not result in Mutch being potentially subjected to double jeopardy despite their lack of clarity regarding the need for the jury to find that each count arose from a separate and distinct act as it was nonetheless manifestly apparent to the jury that each count did correspond to a separate and distinct act and that the error was harmless.",
@@ -1293,23 +1293,23 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -1318,15 +1318,15 @@
         "file": "820295MAJ.pdf"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -1359,24 +1359,24 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "minority",
         "file": "835799Di1.pdf"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "minority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority",
         "file": "835799MAJ.pdf"
       },
@@ -1385,15 +1385,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -1412,7 +1412,7 @@
   },
   {
     "id": "2011-022",
-    "title": "Washington v. Grier",
+    "title": "State of Washington v. Grier",
     "number": "83452-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100921",
     "facts": "After fatally shooting a guest in her home following an altercation, respondent Kristina Grier was charged with second degree murder and convicted after a trial in the Superior Court for Pierce County in which her attorney did not request jury instructions on a lesser charge of manslaughter. Grier subsequently appealed her conviction, asserting that her attorney’s failure to request manslaughter instructions constituted ineffective assistance of counsel. The Washington Court of Appeals vacated Grier’s conviction, ruling that Grier had been denied effective assistance of counsel in violation of the 6th Amendment to the United States Constitution and Article I §22 of the Washington State Constitution. The state of Washington appealed this decision to the Supreme Court of Washington.",
@@ -1427,24 +1427,24 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority",
         "file": "834521MAJ.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -1452,15 +1452,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -1493,23 +1493,23 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -1517,16 +1517,16 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority",
         "file": "2007481MAJ.pdf"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -1560,23 +1560,23 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority",
         "file": "836736MAJ.pdf"
       },
@@ -1585,16 +1585,16 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority",
         "file": "836736Di1.pdf"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       }
     ],
@@ -1613,7 +1613,7 @@
   },
   {
     "id": "2011-025",
-    "title": "Washington v. Barber",
+    "title": "State of Washington v. Barber",
     "number": "83640-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100923",
     "facts": "Pursuant to a plea agreement, petitioner Danny Barber pled guilty to felony driving under the influence in the Superior Court for Kitsap County and was sentenced to a previously agreed upon term of incarceration. After it was subsequently revealed that the sentence imposed was unlawful insofar as it failed to include a term of community custody as required by the felony driving under the influence statute, the respondent state of Washington moved to amend Barber’s sentence and the trial court imposed the mandated term of community custody. Barber appealed the trial court’s amendment of his sentence, asserting that he was entitled to specific performance of the terms of the plea agreement. The Washington Court of Appeals affirmed the trial court’s decision. Barber appealed this decision to the Supreme Court of Washington.",
@@ -1627,23 +1627,23 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -1651,15 +1651,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority",
         "file": "836400MAJ.pdf"
       }
@@ -1679,7 +1679,7 @@
   },
   {
     "id": "2011-026",
-    "title": "Washington v. Hager",
+    "title": "State of Washington v. Hager",
     "number": "83717-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100923",
     "facts": "Respondent Timothy Hager was convicted of rape in the Superior Court for Pierce County after a trial in which the police officer that had questioned Hager prior to his arrest testified that Hager was evasive during questioning. Hager subsequently appealed his conviction, asserting that a mistrial should have been declared despite the fact that the judge had instructed the jury to disregard the remark as the police officer’s testimony violated his right under the 5th Amendment to the United States Constitution and Article I §9 of the Washington State Constitution against self-incrimination. The Washington Court of Appeals vacated Hager’s conviction, ruling that the trial court had abused its discretion in rejecting Hager’s motion for a mistrial. The state of Washington appealed this decision to the Supreme Court of Washington.",
@@ -1694,25 +1694,25 @@
     "score": "8-1",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority",
         "file": "837171MAJ.pdf"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "minority",
         "file": "837171Di1.pdf"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -1720,15 +1720,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -1747,7 +1747,7 @@
   },
   {
     "id": "2011-027",
-    "title": "Washington v. Thorgerson",
+    "title": "State of Washington v. Thorgerson",
     "number": "83357-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100923",
     "facts": "Petitioner Kenneth Thorgerson was convicted of child molestation in the Superior Court for Snohomish County. Thorgerson subsequently appealed his conviction, asserting that the prosecutor committed misconduct when he made reference in his opening and closing statements to out of court statements made by the alleged victim that were consistent with her testimony in an effort to bolster her credibility, attempted in his closing statement to shift the burden of proof to the defense, and impugned defense counsel. The Washington Court of Appeals affirmed Thorgerson’s conviction. Thorgerson appealed this decision to the Supreme Court of Washington.",
@@ -1760,24 +1760,24 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority",
         "file": "833575MAJ.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "minority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "minority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "minority",
         "file": "833575Di1.pdf"
       },
@@ -1786,15 +1786,15 @@
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -1813,7 +1813,7 @@
   },
   {
     "id": "2011-028",
-    "title": "Washington v. Ford",
+    "title": "State of Washington v. Ford",
     "number": "83617-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100923",
     "facts": "Following jury deliberations in respondent Tyrone Ford’s trial on two charges of third degree child rape in the Superior Court for Clark County, the jury initially returned a verdict of guilty on the second charge but left the verdict form for the first charge blank. After being instructed by the judge to enter a verdict, the jury returned to the jury room and subsequently found Ford guilty of the first charge as well. Ford appealed his conviction, asserting that he had been denied a fair trial insofar as the judge had improperly interfered with the verdict when he directed the jury to complete the verdict form for the first charge rather than accept the blank verdict form as an indication of the jury’s inability to reach a verdict with regard to the first charge. The Washington Court of Appeals vacated Ford’s conviction on the first charge, ruling that the judge’s instruction represented a manifest constitutional error that was substantially likely to have affected the outcome of the trial. The state of Washington appealed this decision to the Supreme Court of Washington.",
@@ -1828,25 +1828,25 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority",
         "file": "836175Co1.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority",
         "file": "836175MAJ.pdf"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "minority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "minority"
       },
       {
@@ -1854,15 +1854,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority",
         "file": "836175Di1.pdf"
       }
@@ -1896,23 +1896,23 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "minority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority",
         "file": "841870CP1.pdf"
       },
@@ -1922,16 +1922,16 @@
         "file": "841870MAJ.pdf"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority",
         "file": "841870CP2.pdf"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -1964,24 +1964,24 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority",
         "file": "833851MAJ.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -1989,15 +1989,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -2016,7 +2016,7 @@
   },
   {
     "id": "2011-031",
-    "title": "Washington v. Jones",
+    "title": "State of Washington v. Jones",
     "number": "83451-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20101019",
     "facts": "Petitioner Cliff Jones was convicted of first degree child molestation in the Superior Court for Kitsap County and sentenced to 130 months imprisonment and 36 months of community custody. Upon appeal, Jones’s sentence was reduced to 51 months imprisonment and 36 months of community custody after the state of Washington conceded that his offender score had been improperly calculated by the trial court. As Jones had already been imprisoned for 81 months at this point, he was ordered released. Jones subsequently filed a motion for relief from judgment, asserting that the 30 months in excess of his sentence that he had been imprisoned should be credited toward the 36 months of community custody to which he had also been sentenced. The trial court rejected Jones’s motion, ruling that under Washington Revised Code §9.94A.170(3) the term of community custody tolled while Jones was imprisoned. The Washington Court of Appeals affirmed the trial court’s ruling. Jones appealed this decision to the Supreme Court of Washington.",
@@ -2030,23 +2030,23 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "minority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "minority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -2054,16 +2054,16 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority",
         "file": "834512MAJ.pdf"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority",
         "file": "834512Di1.pdf"
       }
@@ -2083,7 +2083,7 @@
   },
   {
     "id": "2011-032",
-    "title": "Washington v. Martin",
+    "title": "State of Washington v. Martin",
     "number": "83709-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20101021",
     "facts": "Petitioner Timothy Martin was convicted of kidnapping and robbery in the Superior Court for Snohomish County after a trial in which the prosecutor implied during their cross-examination of Martin that Martin had tailored his testimony in response to the testimony of previous witnesses. Martin subsequently appealed his conviction, asserting that the prosecutor’s implication violated his right under Article I §22 of the Washington State Constitution to attend trial and to testify. The Washington Court of Appeals affirmed Martin’s conviction, holding that the rights conferred by Article I §22 are coextensive with those conferred by the 6th Amendment to the United States Constitution, which the United States Supreme Court held in Portuondo v. Agard does not preclude prosecutors from drawing attention to the fact that the defendant has had an opportunity to hear all of the witnesses testify and tailor their testimony accordingly. Martin appealed this decision to the Supreme Court of Washington.",
@@ -2097,25 +2097,25 @@
     "score": "8-1",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority",
         "file": "837091MAJ.pdf"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "minority",
         "file": "837091Di1.pdf"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -2123,15 +2123,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority",
         "file": "837091CP1.pdf"
       }
@@ -2165,24 +2165,24 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority",
         "file": "841683Co1.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority",
         "file": "841683MAJ.pdf"
       },
@@ -2191,11 +2191,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       }
     ],
@@ -2228,24 +2228,24 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "minority",
         "file": "836779Di1.pdf"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -2254,15 +2254,15 @@
         "file": "836779MAJ.pdf"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority",
         "file": "836779Di2.pdf"
       }
@@ -2282,7 +2282,7 @@
   },
   {
     "id": "2011-035",
-    "title": "Washington v. Robinson",
+    "title": "State of Washington v. Robinson",
     "number": "83525-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20101026",
     "facts": "Petitioner Michael Robinson was convicted of burglary, theft of a firearm, unlawful possession of a firearm, and possession of methamphetamine after a search of an automobile he was riding in following its driver’s apprehension for reckless driving revealed stolen property. Upon appeal, the Washington Court of Appeals dismissed the conviction for possession of methamphetamine but affirmed Robinson’s other convictions. In the interim, the United States Supreme Court ruled in Arizona v. Gant that warrantless searches of automobiles incident to arrest are permissible only in instances in which the arrestee is unsecured and within reaching distance of the automobile’s passenger compartment or in which there is reason to believe that evidence relevant to the crime of arrest may be found in the automobile. Asserting that neither of these exceptions applied to the search that led to his arrest, Robinson subsequently appealed his conviction to the Supreme Court of Washington.",
@@ -2297,24 +2297,24 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority",
         "file": "835250Di1.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -2323,15 +2323,15 @@
         "file": "835250MAJ.pdf"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -2364,25 +2364,25 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority",
         "file": "837422Co1.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority",
         "file": "837422MAJ.pdf"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "minority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "minority"
       },
       {
@@ -2390,16 +2390,16 @@
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority",
         "file": "837422Di1.pdf"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -2433,23 +2433,23 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -2457,16 +2457,16 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority",
         "file": "837155Co1.pdf"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority",
         "file": "837155MAJ.pdf"
       }
@@ -2500,20 +2500,20 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority",
         "file": "828423Di1.pdf"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "minority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority",
         "file": "828423MAJ.pdf"
       },
@@ -2522,15 +2522,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       }
     ],
@@ -2563,25 +2563,25 @@
     "score": "8-1",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority",
         "file": "837287Co1.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "minority",
         "file": "837287Di1.pdf"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -2589,16 +2589,16 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority",
         "file": "837287MAJ.pdf"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -2632,24 +2632,24 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority",
         "file": "835977MAJ.pdf"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -2657,15 +2657,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -2698,25 +2698,25 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority",
         "file": "840989CP1.pdf"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority",
         "file": "840989MAJ.pdf"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -2724,15 +2724,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -2751,7 +2751,7 @@
   },
   {
     "id": "2011-042",
-    "title": "Washington v. Sims",
+    "title": "State of Washington v. Sims",
     "number": "83779-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20101109",
     "facts": "Petitioner Jack Sims pled guilty to child molestation in the Superior Court for Cowlitz County and, pursuant to a special sex offender sentencing alternative, was sentenced to a suspended sixty month sentence contingent upon compliance with crime-related prohibitions that included an order that Sims neither reside in nor enter Cowlitz County. Sims subsequently appealed the order on grounds that it was not narrowly tailored and therefore unconstitutional. The Washington Court of Appeals agreed, vacated Sims’ sentence in its entirety, and remanded the case to the trial court for resentencing. Sims appealed this decision to the Supreme Court of Washington, asserting that the scope of the remand should have been limited to revision of the unconstitutional crime-related prohibition.",
@@ -2766,23 +2766,23 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -2791,15 +2791,15 @@
         "file": "837791MAJ.pdf"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority",
         "file": "837791Di1.pdf"
       }
@@ -2833,25 +2833,25 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority",
         "file": "836451MAJ.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "minority",
         "file": "836451Di1.pdf"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "minority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -2859,15 +2859,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -2900,25 +2900,25 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority",
         "file": "843252Di2.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority",
         "file": "843252MAJ.pdf"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -2926,15 +2926,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority",
         "file": "843252Di1.pdf"
       }
@@ -2969,24 +2969,24 @@
     "score": "8-1",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority",
         "file": "823740CP1.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -2994,17 +2994,17 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority",
         "file": "823740MAJ.pdf"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority",
         "file": "823740Di1.pdf"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -3037,23 +3037,23 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -3062,15 +3062,15 @@
         "file": "838071MAJ.pdf"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -3104,25 +3104,25 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority",
         "file": "847045MAJ.pdf"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority",
         "file": "847045Co1.pdf"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "minority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -3130,11 +3130,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority",
         "file": "847045Di1.pdf"
       }
@@ -3168,25 +3168,25 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority",
         "file": "844836Co1.pdf"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority",
         "file": "844836Co2.pdf"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -3195,15 +3195,15 @@
         "file": "844836MAJ.pdf"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -3236,19 +3236,19 @@
     "score": "8-1",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -3257,20 +3257,20 @@
         "file": "840440MAJ.pdf"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority",
         "file": "840440Di1.pdf"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -3303,20 +3303,20 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "minority",
         "file": "835161Di1.pdf"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -3324,20 +3324,20 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority",
         "file": "835161Di2.pdf"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority",
         "file": "835161MAJ.pdf"
       }
@@ -3371,19 +3371,19 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -3391,20 +3391,20 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority",
         "file": "839603MAJ.pdf"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority",
         "file": "839603Di1.pdf"
       }
@@ -3424,7 +3424,7 @@
   },
   {
     "id": "2011-052",
-    "title": "Washington v. Williams",
+    "title": "State of Washington v. Williams",
     "number": "83992-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110113",
     "facts": "Petitioner Michael Williams was convicted of first degree theft, obstructing a law enforcement officer, and making a false or misleading statement to a public servant in the Superior Court for Pierce County after leaving an automobile dealership without paying for new tires and wheels and subsequently giving police officers his brother’s name instead of his own in order to avoid discovery of an outstanding warrant for his arrest. Williams appealed his conviction under Washington Revised Code §9A.76.020 for obstructing a law enforcement officer, asserting that providing false information does not violate §9A.76.020 in the absence of some obstructive conduct. The Washington Court of Appeals affirmed Williams’ conviction. Williams appealed this decision to the Supreme Court of Washington.",
@@ -3439,19 +3439,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority",
         "file": "839921MAJ.pdf"
       },
@@ -3460,19 +3460,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -3506,20 +3506,20 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority",
         "file": "837716MAJ.pdf"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -3527,19 +3527,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -3558,7 +3558,7 @@
   },
   {
     "id": "2011-054",
-    "title": "Washington v. Russell",
+    "title": "State of Washington v. Russell",
     "number": "84307-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110118",
     "facts": "Respondent Arthur Russell was convicted of the rape of his stepdaughter in the Superior Court for Kitsap County after a trial in which evidence of previous instances of sexual abuse committed by Russell against his stepdaughter was admitted pursuant to Washington Rule of Evidence 404(b). Russell subsequently appealed his conviction, asserting that the trial court had erred in admitting the evidence without giving a limiting instruction directing the jury to limit its consideration of the evidence to the question of whether Russell had a lustful disposition toward his stepdaughter and not to use it to infer that Russell had a general disposition toward sexually abusing her. The Washington Court of Appeals vacated Russell’s conviction, ruling that although Russell had not requested a limiting instruction, the trial court’s failure to issue one nonetheless constituted reversible error. The state of Washington appealed this decision to the Supreme Court of Washington.",
@@ -3573,19 +3573,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -3593,20 +3593,20 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority",
         "file": "843074MAJ.pdf"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -3640,19 +3640,19 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "minority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "minority",
         "file": "836116Di1.pdf"
       },
@@ -3662,19 +3662,19 @@
         "file": "836116MAJ.pdf"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -3707,19 +3707,19 @@
     "score": "8-1",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "minority",
         "file": "837686Di1.pdf"
       },
@@ -3728,19 +3728,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority",
         "file": "837686MAJ.pdf"
       }
@@ -3775,20 +3775,20 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority",
         "file": "832196MAJ.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -3796,19 +3796,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -3841,20 +3841,20 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority",
         "file": "835446Co1.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority",
         "file": "835446MAJ.pdf"
       },
@@ -3863,20 +3863,20 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority",
         "file": "835446Co2.pdf"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -3895,7 +3895,7 @@
   },
   {
     "id": "2011-059",
-    "title": "Washington v. Simms",
+    "title": "State of Washington v. Simms",
     "number": "83826-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110120",
     "facts": "Petitioner Daniel Simms was convicted of robbery, assault, and unlawful possession of a firearm in the Superior Court for King County and sentenced. As Simms had previously been convicted of assault while armed with a firearm, the firearm enhancement applied to his sentence was doubled pursuant to Washington Revised Code §9.94A.533(3). Simms subsequently appealed his sentence, asserting that the respondent state of Washington was required to allege in the information specifying the essential elements of the firearm enhancement that he had previously been sentenced to a firearm enhancement in order to provide sufficient notice and allow him to prepare a defense. The Washington Court of Appeals affirmed Simms’ sentence. Simms appealed this decision to the Supreme Court of Washington.",
@@ -3909,19 +3909,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -3929,20 +3929,20 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority",
         "file": "838267MAJ.pdf"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -3976,21 +3976,21 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority",
         "file": "841080Co1.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority",
         "file": "841080MAJ.pdf"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -3998,19 +3998,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -4044,20 +4044,20 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority",
         "file": "841012MAJ.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -4065,19 +4065,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -4132,19 +4132,19 @@
     "score": "8-1",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -4152,20 +4152,20 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority",
         "file": "842434Di1.pdf"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority",
         "file": "842434MAJ.pdf"
       }
@@ -4200,19 +4200,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -4220,20 +4220,20 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority",
         "file": "847070MAJ.pdf"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -4267,20 +4267,20 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority",
         "file": "847126Di2.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "minority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -4289,20 +4289,20 @@
         "file": "847126MAJ.pdf"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority",
         "file": "847126Di1.pdf"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -4335,19 +4335,19 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "minority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority",
         "file": "841527CP1.pdf"
       },
@@ -4356,20 +4356,20 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority",
         "file": "841527MAJ.pdf"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority",
         "file": "841527Di1.pdf"
       }
@@ -4389,7 +4389,7 @@
   },
   {
     "id": "2011-067",
-    "title": "State v. Davis",
+    "title": "State of Washington v. Davis",
     "number": "80209-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110210",
     "questions": "Whether in the penalty phase of this death penalty case, the trial court erroneously excluded videotaped statements of the defendant's family offered for mitigation purposes and erroneously allowed a police officer to testify to the defendant's mental state for purposes of rebutting mitigation evidence, and whether the prosecutor committed misconduct by arguing facts not in evidence.",
@@ -4410,7 +4410,7 @@
   },
   {
     "id": "2011-068",
-    "title": "State v. Davis (cont.)",
+    "title": "State of Washington v. Davis (cont.)",
     "number": "80209-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110210",
     "questions": "Oral argument in State v. Davis continues.",
@@ -4443,20 +4443,20 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority",
         "file": "838542MAJ.pdf"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -4464,15 +4464,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -4512,7 +4512,7 @@
   },
   {
     "id": "2011-071",
-    "title": "Washington v. Beadle",
+    "title": "State of Washington v. Beadle",
     "number": "84204-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110215",
     "facts": "Petitioner Steven Beadle was convicted of child molestation in the Superior Court for Lewis County after a trial in which out of court statements made by the alleged victim were admitted into evidence after the alleged victim refused to testify. Beadle subsequently appealed his conviction, asserting that the trial court erred in finding the alleged victim unavailable and admitting the out of court statements and in admitting evidence that the alleged victim’s unwillingness to testify was the result of post-traumatic stress disorder. The Washington Court of Appeals affirmed Beadle’s conviction. Beadle appealed this decision to the Supreme Court of Washington.",
@@ -4526,20 +4526,20 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority",
         "file": "842043MAJ.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -4547,19 +4547,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -4592,20 +4592,20 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority",
         "file": "837431Co1.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority",
         "file": "837431MAJ.pdf"
       },
@@ -4614,19 +4614,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -4659,19 +4659,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -4679,19 +4679,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority",
         "file": "838674MAJ.pdf"
       }
@@ -4711,7 +4711,7 @@
   },
   {
     "id": "2011-074",
-    "title": "Washington v. Mullen",
+    "title": "State of Washington v. Mullen",
     "number": "83981-6; 84283-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110217",
     "facts": "Petitioner Lisa Mullen was convicted of first degree theft, conspiracy to commit first degree theft, and criminal profiteering in the Superior Court for Skagit County after embezzling funds from her employer. After subsequently obtaining a previously sealed deposition of her employer’s accountant taken in a civil action filed by her employer against the accountant’s firm, Mullen filed a motion for a new trial, asserting that the deposition testimony supported her defense that her employer had authorized her use of company funds and that the prosecution’s failure to disclose the information contained in the deposition and in other documents pertaining to the civil action violated the rule promulgated by the United States Supreme Court in Brady v. Maryland, which held that due process requires that prosecutors not withhold exculpatory evidence. The trial court rejected the motion. Upon appeal, the Washington Court of Appeals affirmed the trial court’s ruling. Mullen appealed this decision to the Supreme Court of Washington.",
@@ -4725,19 +4725,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -4745,20 +4745,20 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority",
         "file": "839816MAJ.pdf"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -4791,21 +4791,21 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority",
         "file": "845000Di1.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "minority",
         "file": "845000Di2.pdf"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -4813,15 +4813,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority",
         "file": "845000MAJ.pdf"
       }
@@ -4841,7 +4841,7 @@
   },
   {
     "id": "2011-076",
-    "title": "Washington v. Perez-Valdez",
+    "title": "State of Washington v. Perez-Valdez",
     "number": "84003-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110308",
     "facts": "Petitioner Alberto Perez-Valdez was convicted of the second and third degree rapes of his adopted daughters in the Superior Court for Walla Walla County. Perez-Valdez subsequently appealed his convictions, asserting that the trial court erred in preventing him from introducing evidence that the alleged victims committed arson in the foster home in which they were placed after being taken from Perez-Valdez’s home (allegedly in order to be removed from the foster home), in denying his motion for a mistrial after a witness improperly vouched for the alleged victims’ credibility, and in preventing him from referencing evidence regarding his moral character in closing arguments. The Washington Court of Appeals affirmed Perez-Valdez’s convictions. Perez-Valdez appealed this decision to the Supreme Court of Washington.",
@@ -4855,19 +4855,19 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "minority"
       },
       {
@@ -4876,19 +4876,19 @@
         "file": "840032MAJ.pdf"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority",
         "file": "840032Di1.pdf"
       }
@@ -4922,20 +4922,20 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority",
         "file": "843694MAJ.pdf"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -4943,19 +4943,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -4990,19 +4990,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -5010,19 +5010,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -5054,19 +5054,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -5074,20 +5074,20 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority",
         "file": "842965MAJ.pdf"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -5121,19 +5121,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority",
         "file": "848556Co1.pdf"
       },
@@ -5142,20 +5142,20 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority",
         "file": "848556MAJ.pdf"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -5174,7 +5174,7 @@
   },
   {
     "id": "2011-081",
-    "title": "Washington v. Anderson",
+    "title": "State of Washington v. Anderson",
     "number": "84066-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110317",
     "facts": "Petitioner Jeremy Anderson was convicted of first degree child molestation in the Superior Court for Mason County after a trial in which the nurse who examined the victim of a prior uncharged sex offense allegedly committed by Anderson offered testimony recounting statements made to her by the victim. Anderson appealed his conviction on grounds that the trial court’s admission of the testimony violated his right to confrontation under the 6th Amendment to the United States Constitution and Article I §22 of the Washington State Constitution. The Washington Court of Appeals affirmed Anderson’s conviction, holding that the statements made by the victim to the nurse were not testimonial statements but rather statements provided for purposes of a medical diagnosis and treatment and therefore admissible. Anderson appealed this decision to the Supreme Court of Washington. In the interim, the state of Washington conceded that the testimony was inadmissible but asserted that the error was harmless.",
@@ -5188,20 +5188,20 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority",
         "file": "840661MAJ.pdf"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -5209,19 +5209,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -5255,20 +5255,20 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority",
         "file": "842469MAJ.pdf"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -5276,19 +5276,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -5328,7 +5328,7 @@
   },
   {
     "id": "2011-084",
-    "title": "State v. Wise",
+    "title": "State of Washington v. Wise",
     "number": "82802-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110503",
     "questions": "Whether the trial court in a criminal prosecution violated the constitutional right to a public trial when it conducted a portion of jury voir dire in chambers without conducting a preclosure analysis under State v. Bone-Club, 128 Wn.2d 254, 906 P.2d 325 (1995), and without considering alternatives to in-chambers questioning.",
@@ -5349,7 +5349,7 @@
   },
   {
     "id": "2011-085",
-    "title": "State v. Eriksen",
+    "title": "State of Washington v. Eriksen",
     "number": "80653-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110503",
     "questions": "Whether a Lummi tribal police officer who witnessed a traffic violation by a non-Indian within reservation boundaries had authority to pursue and stop the driver outside reservation boundaries.",
@@ -5370,7 +5370,7 @@
   },
   {
     "id": "2011-086",
-    "title": "Washington v. Lormor",
+    "title": "State of Washington v. Lormor",
     "number": "84319-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110503",
     "facts": "Petitioner Dean Lormor was convicted of unlawful possession of a controlled substance in the Superior Court for Thurston County after a trial in which his daughter, who is confined to a wheelchair and requires a ventilator to breathe, was excluded from the courtroom on grounds that her presence would be potentially distracting to the jury. Lormor subsequently appealed his conviction, asserting that the exclusion of his daughter from the courtroom during his trial constituted a closure that violated both the 6th Amendment to the United States Constitution’s guarantee of a public trial and Article I §10 of the Washington State Constitution’s guarantee of the open administration of justice. The Washington Court of Appeals affirmed Lormor’s conviction, holding that although the exclusion of Lormor’s daughter from the courtroom during Lormor’s trial constituted a closure, it was too trivial to violate Lormor’s right to a public trial. Lormor appealed this decision to the Supreme Court of Washington.",
@@ -5384,20 +5384,20 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority",
         "file": "843198MAJ.pdf"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -5405,19 +5405,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -5436,7 +5436,7 @@
   },
   {
     "id": "2011-087",
-    "title": "State v. Paumier",
+    "title": "State of Washington v. Paumier",
     "number": "84585-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110503",
     "questions": "Whether, in light of Presley v. Georgia, 130 S.Ct. 721 (2010), a trial court violated a criminal defendant's right to a public trial by interviewing prospective jurors individually in chambers.",
@@ -5478,7 +5478,7 @@
   },
   {
     "id": "2011-089",
-    "title": "Washington v. Oppelt",
+    "title": "State of Washington v. Oppelt",
     "number": "84573-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110505",
     "facts": "Petitioner David Oppelt was convicted of child molestation in the Superior Court for Snohomish County. Oppelt subsequently appealed his conviction, asserting that the charges against him should have been dismissed due to the fact that the respondent state of Washington’s negligence resulted in six years elapsing between the conclusion of the police investigation and the filing of charges, a delay that prejudiced Oppelt insofar as a key witness could no longer remember certain significant details of her interaction with the alleged victim. The Washington Court of Appeals affirmed Oppelt’s conviction. Oppelt appealed this decision to the Supreme Court of Washington.",
@@ -5492,19 +5492,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority",
         "file": "845735MAJ.pdf"
       },
@@ -5513,19 +5513,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -5544,7 +5544,7 @@
   },
   {
     "id": "2011-090",
-    "title": "Washington v. Gordon",
+    "title": "State of Washington v. Gordon",
     "number": "84240-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110510",
     "facts": "Respondent John Gordon was convicted of murder in the Superior Court for Pierce County and sentenced to an exceptional sentence pursuant to the jury’s finding that the aggravating factors of deliberate cruelty and particular vulnerability of the victim were present. Gordon subsequently appealed his sentence, asserting that the trial court’s failure to instruct the jury as to the legal elements of deliberate cruelty and particular vulnerability of victim constituted error of constitutional magnitude that could be raised for the first time on appeal. The Washington Court of Appeals vacated Gordon’s sentence, holding that the error was of constitutional magnitude and was not harmless. The state of Washington appealed this decision to the Supreme Court of Washington.",
@@ -5559,19 +5559,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -5579,20 +5579,20 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority",
         "file": "842400MAJ.pdf"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -5626,19 +5626,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -5646,21 +5646,21 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority",
         "file": "846065MAJ.pdf"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority",
         "file": "846065Co1.pdf"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -5679,7 +5679,7 @@
   },
   {
     "id": "2011-092",
-    "title": "Washington v. R.P.H.",
+    "title": "State of Washington v. R.P.H.",
     "number": "82557-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110512",
     "facts": "As a minor, petitioner R.P.H. was convicted of the rape of a child. The trial court subsequently sentenced him to a suspended term of confinement, one year of community supervision, and sexual deviancy treatment and imposed various other requirements, including a requirement that he register as a sex offender and a requirement that he not use or possess a weapon of any kind. After R.P.H. successfully completed treatment and fulfilled the other conditions of his sentence, he petitioned the Superior Court for King County to remove the registration requirement and to restore his right to possess a firearm. The superior court granted the motion to remove the registration requirement but denied the motion to restore R.PH.’s right to possess a firearm. R.P.H. appealed the superior court’s ruling, asserting that his right to possess a firearm should have been restored automatically pursuant to Washington Revised Code §9.41.040(3), which provides that no person shall be precluded from possessing a firearm if they have been the subject of a certificate of rehabilitation. The Washington Court of Appeals affirmed the superior court’s decision. R.P.H. appealed this decision to the Supreme Court of Washington.",
@@ -5693,21 +5693,21 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority",
         "file": "825572Di1.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority",
         "file": "825572MAJ.pdf"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -5715,19 +5715,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       }
     ],
@@ -5760,19 +5760,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -5780,20 +5780,20 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority",
         "file": "840482MAJ.pdf"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -5812,7 +5812,7 @@
   },
   {
     "id": "2011-094",
-    "title": "Eugster v. Washington",
+    "title": "Eugster v. State of Washington",
     "number": "84380-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110517",
     "facts": "Petitioner Stephen Eugster petitioned the Superior Court for Thurston County for a declaratory judgment that the division of the Washington Court of Appeals into districts of unequal populations violates the mandate of Article I §19 of the Washington State Constitution that all elections shall be free and equal. The trial court granted summary judgment for the respondent state of Washington. Eugster appealed this decision to the Supreme Court of Washington.",
@@ -5825,19 +5825,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -5845,20 +5845,20 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority",
         "file": "843805MAJ.pdf"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -5890,19 +5890,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -5911,19 +5911,19 @@
         "file": "842078MAJ.pdf"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -5956,20 +5956,20 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "minority",
         "file": "837317Di1.pdf"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -5977,20 +5977,20 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority",
         "file": "837317MAJ.pdf"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -6023,19 +6023,19 @@
     "score": "8-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -6044,15 +6044,15 @@
         "file": "846952MAJ.pdf"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       }
     ],
@@ -6085,19 +6085,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -6105,20 +6105,20 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority",
         "file": "849072MAJ.pdf"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -6151,20 +6151,20 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority",
         "file": "846758MAJ.pdf"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -6172,19 +6172,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -6218,19 +6218,19 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "minority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -6238,19 +6238,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -6269,7 +6269,7 @@
   },
   {
     "id": "2011-101",
-    "title": "Washington v. Franklin",
+    "title": "State of Washington v. Franklin",
     "number": "84545-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110614",
     "facts": "Petitioner John Franklin was convicted of third degree assault and possession of cocaine with intent to deliver in the Superior Court for King County and sentenced to a term of imprisonment to be followed by a variable term of community custody. Given the variable length of the term of community custody, the trial court subsequently added a notation to Franklin’s sentence directing the Department of Corrections to ensure that the time Franklin spends imprisoned and in community custody does not exceed the statutory maximums for the offenses he was convicted of. Franklin appealed his sentence, asserting that it is an indeterminate sentence and therefore in violation of the Sentencing Reform Act (Washington Revised Code §9.94A). The Washington Court of Appeals affirmed Franklin’s sentence. Franklin moved for reconsideration in light of amendments to §9.94A that require sentencing courts to impose fixed terms of community custody. The Washington Court of Appeals denied Franklin’s motion. Franklin petitioned the Supreme Court of Washington for review.",
@@ -6283,20 +6283,20 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority",
         "file": "845450MAJ.pdf"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -6304,19 +6304,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -6350,19 +6350,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -6370,20 +6370,20 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority",
         "file": "845557MAJ.pdf"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -6423,7 +6423,7 @@
   },
   {
     "id": "2011-104",
-    "title": "Five Corners Family Farmers v. Washington",
+    "title": "Five Corners Family Farmers v. State of Washington",
     "number": "84632-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110616",
     "facts": "Easterday Ranches, Inc., in anticipation of opening a cattle feedlot on property that it owns in Franklin County, drilled a well on the property in order to provide the anticipated 450,000 to 600,000 daily gallons of water needed to operate the feedlot. Petitioner Five Corners Family Farmers, the owner of a nearby property, subsequently petitioned the Superior Court for Thurston County for a declaratory judgment that Washington Revised Code §90.44.050, which exempts the withdrawal of public groundwater for stock-watering purposes from permit requirements, limits such withdrawals to 5,000 gallons per day. The superior court ruled that §90.44.050 permits the unlimited withdrawal of public groundwater for stock-watering purposes. Five Corners Family Farms appealed this decision directly to the Supreme Court of Washington.",
@@ -6437,19 +6437,19 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -6458,19 +6458,19 @@
         "file": "846324MAJ.pdf"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority",
         "file": "846324Di1.pdf"
       }
@@ -6490,7 +6490,7 @@
   },
   {
     "id": "2011-105",
-    "title": "State v. Sublett",
+    "title": "State of Washington v. Sublett",
     "number": "84856-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110616",
     "questions": "Whether the California crime of second degree robbery is legally comparable to the Washington crime of second degree robbery, qualifying it as most serious offense for persistent offender purposes.",
@@ -6525,19 +6525,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -6545,20 +6545,20 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority",
         "file": "837881MAJ.pdf"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -6591,19 +6591,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -6611,19 +6611,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority",
         "file": "843791MAJ.pdf"
       }
@@ -6643,7 +6643,7 @@
   },
   {
     "id": "2011-108",
-    "title": "Washington v. Comenout",
+    "title": "State of Washington v. Comenout",
     "number": "85067-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110630",
     "facts": "Petitioner Robert Comenout, an enrolled member of the Tulalip Tribes, operates the Indian Country Store on trust allotment land located outside of the boundaries of any Indian reservation. Comenout was charged in the Superior Court for Pierce County with engaging in the business of selling cigarettes without a license, unlawful possession or transportation of unstamped cigarettes, and theft. Comenout moved to dismiss the charges on grounds that the state of Washington lacks jurisdiction. The trial court denied the motion. Upon appeal, the Washington Court of Appeals certified the case to the Supreme Court of Washington.",
@@ -6657,20 +6657,20 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority",
         "file": "850674MAJ.pdf"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -6678,15 +6678,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -6720,19 +6720,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -6740,20 +6740,20 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority",
         "file": "832846MAJ.pdf"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -6787,19 +6787,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -6808,19 +6808,19 @@
         "file": "851778MAJ.pdf"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -6840,7 +6840,7 @@
   },
   {
     "id": "2011-111",
-    "title": "Washington v. Pannell",
+    "title": "State of Washington v. Pannell",
     "number": "85437-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110915",
     "facts": "Petitioner Daniel Pannell was convicted of incest and child molestation in the Superior Court for Pierce County and sentenced to 116 months in prison. However, the trial court suspended the sentence contingent upon Pannell’s successful participation in sexual deviancy treatment. Three years later, after Pannell failed to show improvement, Pannell’s counselor terminated treatment and recommended that the suspension of Pannell’s sentence be revoked. The trial court subsequently ordered Pannell to serve the full 116 month sentence. Pannell moved to be resentenced, asserting that the three years he spent in treatment should have been credited as time served. The trial court denied the motion. Upon appeal, the Washington Court of Appeals affirmed. Pannell appealed this decision to the Supreme Court of Washington.",
@@ -6854,19 +6854,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority",
         "file": "854378MAJ.pdf"
       },
@@ -6875,19 +6875,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -6922,19 +6922,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -6942,19 +6942,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority",
         "file": "851123MAJ.pdf"
       }
@@ -7039,7 +7039,7 @@
   },
   {
     "id": "2011-116",
-    "title": "Washington v. Breitung",
+    "title": "State of Washington v. Breitung",
     "number": "84580-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111011",
     "facts": "Respondent Robert Breitung was convicted of two counts of second degree assault and one count of second degree unlawful possession of a firearm in the Superior Court for Pierce County after threatening two men with a firearm that it was unlawful for him to possess due to a prior conviction for domestic violence assault. Breitung appealed his convictions, asserting that his attorney had been ineffective in failing to request a lesser included offense instruction to the jury and that he could not be convicted of unlawful possession of a firearm insofar as he had not been given sufficient notice that he was prohibited from possessing a firearm as a consequence of his conviction for domestic violence assault. The Washington Court of Appeals reversed Breitung’s convictions, holding that his attorney had been ineffective and that he had not been provided the notice of his firearm prohibition that Washington Revised Code §9.41.047(1) requires. The state of Washington appealed this decision to the Supreme Court of Washington.",
@@ -7054,20 +7054,20 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority",
         "file": "845808MAJ.pdf"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -7075,19 +7075,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "JAMES JOHNSON",
+        "name": "JAMES M. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -7148,7 +7148,7 @@
   },
   {
     "id": "2011-119",
-    "title": "State v. Saenz",
+    "title": "State of Washington v. Saenz",
     "number": "84949-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111027",
     "questions": "Whether, in attempting to prove the existence of a prior strike offense for persistent offender purposes, the State adequately established that the defendant, who was a juvenile when he committed the prior offense, validly waived juvenile court jurisdiction and consented to trial in adult court, qualifying the offense as a strike offense.",
@@ -7169,7 +7169,7 @@
   },
   {
     "id": "2011-120",
-    "title": "State v. McEnroe",
+    "title": "State of Washington v. McEnroe",
     "number": "86084-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111110",
     "questions": "If a trial court denies a party’s motion to seal documents, can the party withdraw those documents from consideration or must they be filed immediately with the clerk and open to the public?",

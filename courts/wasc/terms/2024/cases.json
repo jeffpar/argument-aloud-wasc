@@ -1,9 +1,9 @@
 [
   {
     "id": "2024-001",
-    "title": "Barlow v. State",
+    "title": "Barlow v. State of Washington",
     "number": "101045-1",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2023&file=20230223",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2023/20230223.pdf",
     "questions": "Does Washington law recognize a special relationship between a university and its students giving rise to a duty to use reasonable care to protect students from foreseeable injury at the hands of other students, and if so, what is the measure and scope of that duty?",
     "argument": "2023-02-23",
     "argument_day": "Thursday, February 23, 2023",
@@ -13,15 +13,15 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -29,7 +29,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -37,11 +37,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "minority"
       },
       {
@@ -67,7 +67,7 @@
     "id": "2024-002",
     "title": "In re Pers. Restraint of Fletcher",
     "number": "101144-0",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2023&file=20230518",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2023/20230518.pdf",
     "questions": "Has Fletcher shown that his improperly calculated offender score invalidated his J&S and resulted in a miscarriage of justice, even though he stipulated to an exceptional sentence?",
     "argument": "2023-05-18",
     "argument_day": "Thursday, May 18, 2023",
@@ -77,15 +77,15 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
@@ -93,7 +93,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
@@ -101,11 +101,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       }
     ],
@@ -128,7 +128,7 @@
     "id": "2024-003",
     "title": "King County v. Abernathy",
     "number": "101075-3",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2023&file=20230525",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2023/20230525.pdf",
     "questions": "Article XVII of the Washington State Constitution asserts state ownership over the beds and shorelands of navigable waters except those \"patented by the United States.\" Before Washington became a state, the General Railroad Right-of-Way Act of 1875 granted certain railroad companies rights of way across federal land. Is such a right of way a conveyance \"patented by the United States\" under Article XVII, § 2 of the Washington State Constitution?",
     "argument": "2023-05-25",
     "argument_day": "Thursday, May 25, 2023",
@@ -138,15 +138,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -154,7 +154,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -162,11 +162,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       }
     ],
@@ -187,9 +187,9 @@
   },
   {
     "id": "2024-004",
-    "title": "State v. City of Sunnyside",
+    "title": "State of Washington v. City of Sunnyside",
     "number": "101205-5",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2023&file=20230615",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2023/20230615.pdf",
     "questions": "The attorney general sued the City of Sunnyside and several police officers for the enforcement of the City's crime free rental housing program. Is the attorney general authorized to bring this action under RCW 43.10.030(1)? Are the respondents entitled to summary judgment?",
     "argument": "2023-06-15",
     "argument_day": "Thursday, June 15, 2023",
@@ -199,15 +199,15 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -215,7 +215,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -223,11 +223,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "minority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       }
     ],
@@ -250,7 +250,7 @@
     "id": "2024-005",
     "title": "Pac. Lutheran Univ., et al. v. Certain Underwriters at Lloyd's London, et al.",
     "number": "100752-3",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2023&file=20230627",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2023/20230627.pdf",
     "questions": "Under what circumstances can a Washington court prevent a party from litigating a similar, out-of-state case?",
     "argument": "2023-06-27",
     "argument_day": "Tuesday, June 27, 2023",
@@ -260,19 +260,19 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -280,7 +280,7 @@
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -288,7 +288,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -309,9 +309,9 @@
   },
   {
     "id": "2024-006",
-    "title": "State v. Carter",
+    "title": "State of Washington v. Carter",
     "number": "101777-4",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2023&file=20230914",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2023/20230914.pdf",
     "questions": "Carter and Reite were both originally sentenced to mandatory life without parole sentences for first degree aggravated murders they committed between the ages of 18 and 20. After this court held that such mandatory sentences were unconstitutional for their age group and that courts must consider the defendants' youthfulness, the superior courts resentenced both to determinate sentences. Did the superior courts have authority to impose such sentences? Did the courts err in any other decisions at resentencing?",
     "argument": "2023-09-14",
     "argument_day": "Thursday, September 14, 2023",
@@ -321,15 +321,15 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
@@ -337,7 +337,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
@@ -345,11 +345,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -376,7 +376,7 @@
     "id": "2024-007",
     "title": "M.N. v. MultiCare Health Sys., Inc.",
     "number": "101537-2",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2023&file=20230926",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2023/20230926.pdf",
     "questions": "A nurse infected patients with hepatitis C through narcotic injections. The hospital advised all patients who received such injections while the nurse was on duty to have their blood tested. The hospital seeks to dismiss the negligence claims of patients who were not directly treated by the nurse. Is legal causation met when a hospital's negligent supervision and hiring potentially exposes patients to a bloodborne pathogen? Does legal causation disfavor holding hospitals liable if that would chill transparency after a hospital-caused outbreak?",
     "argument": "2023-09-26",
     "argument_day": "Tuesday, September 26, 2023",
@@ -386,11 +386,11 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -398,7 +398,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -406,11 +406,11 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -437,7 +437,7 @@
     "id": "2024-008",
     "title": "Schiff v. Liberty Mut. Fire Ins. Co., et al.",
     "number": "101576-3",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2023&file=20230926",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2023/20230926.pdf",
     "questions": "Under Liberty's PIP bill review practice, a provider's bill is compared to charges for the same treatment in the same geographic area, using a third party database, FAIR Health. If a providers' bill is at or below the 80th percentile for the area, it is paid in full. If the bill exceeds the 80th percentile, payment is reduced. Is this method to determine the reasonableness of a bill a violation of the Washington Consumer Protection Act? What affirmative defenses is Liberty entitled to raise?",
     "argument": "2023-09-26",
     "argument_day": "Tuesday, September 26, 2023",
@@ -447,19 +447,19 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
@@ -467,7 +467,7 @@
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -479,7 +479,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -502,7 +502,7 @@
     "id": "2024-009",
     "title": "Royal Oaks Country Club v. Dep't of Revenue",
     "number": "101770-7",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2023&file=20230928",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2023/20230928.pdf",
     "questions": "Are initiation fees that provide access but not use of facilities and services \"bona fide\" fees deductible under RCW 82.04.4282?",
     "argument": "2023-09-28",
     "argument_day": "Thursday, September 28, 2023",
@@ -512,15 +512,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -528,7 +528,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -536,11 +536,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -565,9 +565,9 @@
   },
   {
     "id": "2024-010",
-    "title": "State v. Stearns",
+    "title": "State of Washington v. Stearns",
     "number": "101502-0",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2023&file=20231010",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2023/20231010.pdf",
     "questions": "The State waited 12 years to charge defendant John Stearns for murder, providing prosecutorial discretion as a justification for the delay. One of Stearns's key witnesses died after the State charged him. Stearns argues he was actually prejudiced by the State's charging delay. Was the State negligent in waiting to charge Stearns? Were Stearns's due process rights violated by the loss of key witness testimony due to the charging delay?",
     "argument": "2023-10-10",
     "argument_day": "Tuesday, October 10, 2023",
@@ -577,15 +577,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -593,7 +593,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -601,11 +601,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -632,7 +632,7 @@
     "id": "2024-011",
     "title": "Potter v. City of Lacey",
     "number": "101188-1",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2023&file=20231010",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2023/20231010.pdf",
     "questions": "Does the Washington Constitution protect the right to intrastate travel? If yes, is Lacey's parking ordinance unconstitutional as applied?",
     "argument": "2023-10-10",
     "argument_day": "Tuesday, October 10, 2023",
@@ -642,15 +642,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -658,7 +658,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -666,11 +666,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -697,7 +697,7 @@
     "id": "2024-012",
     "title": "Velazquez Framing, LLC v. Cascadia Homes, Inc.",
     "number": "101591-7",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2023&file=20231010",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2023/20231010.pdf",
     "questions": "Washington law gives contractors the right to claim a lien on property they improve through their labor, professional services, materials, or equipment. RCW 60.04.021. A lien is a legal interest that one has in someone else's property. A court can enforce that interest when the property owner fails to pay a debt. Certain steps are necessary to enforce a lien. One step requires that prelien notice be provided to lien for professional services, materials, or equipment. RCW 60.04.031. In this case, a second-tier subcontractor was not paid for its work and filed a lien for its labor, materials, and equipment without providing prelien notice. This court must decide whether RCW 60.04.031 requires prelien notice to lien for labor.",
     "argument": "2023-10-10",
     "argument_day": "Tuesday, October 10, 2023",
@@ -707,15 +707,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -723,7 +723,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -731,11 +731,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -762,7 +762,7 @@
     "id": "2024-013",
     "title": "In re Pers. Restraint of Arntsen",
     "number": "101635-2",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2023&file=20231012",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2023/20231012.pdf",
     "questions": "Arntsen was convicted of second degree assault with a deadly weapon. Was the evidence sufficient to prove he intended to cause apprehension and fear of imminent injury? Was the evidence sufficient to show the victim experienced such apprehension and fear? Does the actual innocence doctrine apply to this personal restraint petition?",
     "argument": "2023-10-12",
     "argument_day": "Thursday, October 12, 2023",
@@ -772,15 +772,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -788,7 +788,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -796,11 +796,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -811,9 +811,9 @@
   },
   {
     "id": "2024-014",
-    "title": "State v. Bertrand",
+    "title": "State of Washington v. Bertrand",
     "number": "100953-4",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2023&file=20231012",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2023/20231012.pdf",
     "questions": "Bertrand was convicted of first degree child molestation. At trial, Bertrand's counsel did not propose the lesser included fourth degree assault instruction. Bertrand argues his trial counsel was ineffective for failing to propose the fourth degree assault instruction. The State responds that pursuant to this court's decision in State v. Grier, a defendant may never show prejudice if they were convicted of the higher degree instruction. May a defendant convicted of the higher degree offense be prejudiced if their trial counsel did not propose a lesser included offense instruction? Did Bertrand receive ineffective assistance of counsel for his counsel's failure to propose the fourth degree assault instruction?",
     "argument": "2023-10-12",
     "argument_day": "Thursday, October 12, 2023",
@@ -823,15 +823,15 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -839,7 +839,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -847,11 +847,11 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -876,9 +876,9 @@
   },
   {
     "id": "2024-015",
-    "title": "State v. Buck",
+    "title": "State of Washington v. Buck",
     "number": "101703-1",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2023&file=20231017",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2023/20231017.pdf",
     "questions": "Whether community custody and supervision are the same under RCW 9.94A.589(5)'s 24 month limit on consecutive terms?",
     "argument": "2023-10-17",
     "argument_day": "Tuesday, October 17, 2023",
@@ -888,15 +888,15 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
@@ -904,7 +904,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
@@ -912,11 +912,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -943,7 +943,7 @@
     "id": "2024-016",
     "title": "M.G. v. Yakima Sch. Dist. No. 7",
     "number": "101799-5",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2023&file=20231024",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2023/20231024.pdf",
     "questions": "Was a district's ban on a student's return to his school a placement or disciplinary decision? Is equitable relief available? 11:00 AM",
     "argument": "2023-10-24",
     "argument_day": "Tuesday, October 24, 2023",
@@ -953,15 +953,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -969,7 +969,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -977,11 +977,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -1008,7 +1008,7 @@
     "id": "2024-017",
     "title": "Est. of Essex v. Grant County Pub. Hosp. Dist. No. 1",
     "number": "101745-6",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2023&file=20231024",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2023/20231024.pdf",
     "questions": "Cindy Essex died after being treated in Samaritan Healthcare's emergency room by two doctors who were independent contractors. Her estate argues that she died as a result of the doctors' negligence and that Samaritan is liable for the negligence of these non-employee doctors. Is the hospital liable because it has a nondelegable duty with respect to emergency services? Is a hospital vicariously liable because emergency room services are an inherent function of a hospital? Is a hospital liable for the acts of nonemployee physicians under a contract-based theory of delegation?",
     "argument": "2023-10-24",
     "argument_day": "Tuesday, October 24, 2023",
@@ -1018,15 +1018,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -1034,7 +1034,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -1042,11 +1042,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -1071,9 +1071,9 @@
   },
   {
     "id": "2024-018",
-    "title": "State v. Keller",
+    "title": "State of Washington v. Keller",
     "number": "101171-7",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2023&file=20231026",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2023/20231026.pdf",
     "questions": "Did the district court err in suppressing Keller's breath alcohol test results under RCW 46.61.506 and the evidence rules? Should a 2022 amendment to WAC 448-16-060(2), promulgated after the district court ruled in Keller's case, be applied retroactively?",
     "argument": "2023-10-26",
     "argument_day": "Thursday, October 26, 2023",
@@ -1083,15 +1083,15 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -1099,7 +1099,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -1107,11 +1107,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -1138,7 +1138,7 @@
     "id": "2024-019",
     "title": "Assurance Wireless USA, LP v. Dep't of Revenue",
     "number": "101873-8",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2023&file=20231026",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2023/20231026.pdf",
     "questions": "Assurance Wireless USA, L.P. provides subsidized wireless services to low income consumers as part of the federal Lifeline program. This case asks whether the subsidy funds Assurance receives are subject to Washington's retail sales tax. To resolve this issue, we must answer three questions: first, do these transactions qualify as \"retail sales\" within the meaning of RCW 82.04.050? If so, who is the buyer obligated to pay this tax? And finally, if the buyer is the Universal Service Administrative Company-the non-profit the FCC has appointed to manage the Lifeline funds-is this entity a tax-immune instrumentality of the federal government?",
     "argument": "2023-10-26",
     "argument_day": "Thursday, October 26, 2023",
@@ -1148,15 +1148,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -1164,7 +1164,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -1172,11 +1172,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -1203,7 +1203,7 @@
     "id": "2024-020",
     "title": "Envolve Pharmacy Sols., Inc. v. Dep't of Revenue",
     "number": "101845-2",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240111",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240111.pdf",
     "questions": "Washington exempts \"insurance business\" from B&O tax on which a premiums tax \"is paid.\" Do firms serving firms that pay premiums tax owe B&O tax?",
     "argument": "2024-01-11",
     "argument_day": "Thursday, January 11, 2024",
@@ -1213,19 +1213,19 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -1233,11 +1233,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "minority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "minority"
       },
       {
@@ -1264,7 +1264,7 @@
     "id": "2024-021",
     "title": "Campeau v. Yakima HMA, LLC",
     "number": "102047-3",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240111",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240111.pdf",
     "questions": "In American Pipe and Construction Company v. Utah, the United States Supreme Court held that filing a class action tolls the running of the statute of limitations for all members of the class who make a timely motion to intervene after the class fails to certify. In a previous case, this court held that a nurses' association lacked associational standing to recover unpaid wages on behalf of its members. Daniel Campeau, a union nurse, filed this class action to recover unpaid wages. Campeau filed this case after the statute of limitations ran. This court must decide (1) whether Washington recognizes American Pipe tolling and (2) if so, whether that tolling rule applies to cases brought under a theory of associational standing",
     "argument": "2024-01-11",
     "argument_day": "Thursday, January 11, 2024",
@@ -1274,19 +1274,19 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
@@ -1294,11 +1294,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -1325,7 +1325,7 @@
     "id": "2024-022",
     "title": "In re County, Attorney at Law",
     "number": "101894-1",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240116",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240116.pdf",
     "questions": "Private landowners John Titcomb, Jr. and Linde Behringer object to the taking of a creek on their property by the City of Sammamish. Did the City have authority to condemn the creek as part of a larger project designed to manage stormwater and improve fish passage?",
     "argument": "2024-01-16",
     "argument_day": "Tuesday, January 16, 2024",
@@ -1351,7 +1351,7 @@
     "id": "2024-023",
     "title": "Cousins v. Dep't of Corrections",
     "number": "101769-3",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240116",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240116.pdf",
     "questions": "Is the plaintiff's action against the Department of Corrections for alleged violations of the Public Records Act barred by the one-year statute of limitations in RCW 42.56.550(6)? Does the discovery rule of accrual apply to the Public Records Act?",
     "argument": "2024-01-16",
     "argument_day": "Tuesday, January 16, 2024",
@@ -1361,19 +1361,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -1381,11 +1381,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -1412,7 +1412,7 @@
     "id": "2024-024",
     "title": "Greenberg v. Amazon.com, Inc.",
     "number": "101858-4",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240118",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240118.pdf",
     "questions": "In March and April 2020, Alvin Greenberg and others purchased various goods from Amazon, which they needed to stay safe and healthy during the COVID-19 pandemic. However, the prices that they paid vastly exceeded pre-pandemic prices. They filed a lawsuit in federal court arguing that Amazon engaged in \"price gouging,\" which is an unfair act or practice within the meaning of Washington's Consumer Protection Act. Amazon filed a motion to dismiss the lawsuit. The federal court now asks this court the following questions: (1) Is \"price gouging\" an unfair act or practice within the meaning of Washington's Consumer Protection Act? (2) If so, does the court or the jury decide when a claim of \"price gouging\" is unfair?",
     "argument": "2024-01-18",
     "argument_day": "Thursday, January 18, 2024",
@@ -1422,19 +1422,19 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1442,11 +1442,11 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -1477,7 +1477,7 @@
     "id": "2024-025",
     "title": "Spokane County v. Meneses",
     "number": "101520-8",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240118",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240118.pdf",
     "questions": "The Washington State Department of Social and Health Services (DSHS) provides competency related services to persons facing criminal charges in the state. Spokane County Prosecuting Attorney Lawrence Haskell filed an original action in this court, seeking a writ of mandamus ordering Secretary of DSHS Jilma Meneses to timely provide competency evaluations and restoration treatment for certain criminal defendants charged with felony offenses in Spokane County. Is the Secretary of DSHS a state officer under the Washington Constitution? Is a writ of mandamus appropriate to compel the Secretary to timely provide competency services to criminal defendants?",
     "argument": "2024-01-18",
     "argument_day": "Thursday, January 18, 2024",
@@ -1487,19 +1487,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -1507,11 +1507,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -1538,7 +1538,7 @@
     "id": "2024-026",
     "title": "AURC III, LLC v. Point Ruston Phase II, LLC",
     "number": "101872-0",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240123",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240123.pdf",
     "questions": "Whether payment of an arbitration award renders a case moot; may a court attach an arbitrator's reasoning to an order?",
     "argument": "2024-01-23",
     "argument_day": "Tuesday, January 23, 2024",
@@ -1548,19 +1548,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -1568,11 +1568,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -1599,7 +1599,7 @@
     "id": "2024-027",
     "title": "Benton County Water Conservancy Bd. v. Dep't of Ecology",
     "number": "101838-0",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240123",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240123.pdf",
     "questions": "The Benton County Water Conservancy Board seeks judicial review of the Department of Ecology's processing of certain water right transfer applications. Does the Board have standing under the Administrative Procedure Act to do so?",
     "argument": "2024-01-23",
     "argument_day": "Tuesday, January 23, 2024",
@@ -1609,19 +1609,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -1629,11 +1629,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -1660,7 +1660,7 @@
     "id": "2024-028",
     "title": "Gardens Condo. v. Farmers Ins. Exch.",
     "number": "101892-4",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240123",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240123.pdf",
     "questions": "Gardens sought coverage under its insurance policy, issued by Farmers, for damage to the roof of its condominium building. The damage stemmed from faulty workmanship, which caused condensation and water vapor to accumulate. The policy did not cover damage from faulty workmanship nor damage in the \"sequence of events\" following faulty workmanship. However, the faulty workmanship exclusion had a \"resulting loss exception\" that preserved coverage for damage that was otherwise covered by the policy. Does the insurance policy's resulting loss exception preserve coverage for resulting loss even if it occurs in the chain of events following an excluded event?",
     "argument": "2024-01-23",
     "argument_day": "Tuesday, January 23, 2024",
@@ -1670,19 +1670,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -1690,11 +1690,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -1719,9 +1719,9 @@
   },
   {
     "id": "2024-029",
-    "title": "Assoc. Gen. Contractors of Wash. v. State",
+    "title": "Assoc. Gen. Contractors of Wash. v. State of Washington",
     "number": "101997-1",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240125",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240125.pdf",
     "questions": "Under the Prevailing Wage for Public Works Act, chapter 39.12 RCW, employers must pay workers on public works projects no less than the prevailing wage for such work in the area. The industrial statistician is responsible for determining those prevailing wages. Before 2018, the statistician usually determined prevailing wages by using wage surveys. In 2018, the legislature directed the industrial statistician to base the prevailing wage on collective bargaining agreements when applicable. SSB 5493 (2018). A law violates our state constitution if it renders erroneous a straightforward determination of the scope of rights or duties under a preexisting law without setting the preexisting law forth in full. CONST. art. II, § 37. Does SSB 5493 render erroneous a straightforward determination of rights or duties under RCW 39.12.026?",
     "argument": "2024-01-25",
     "argument_day": "Thursday, January 25, 2024",
@@ -1731,19 +1731,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -1751,11 +1751,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -1780,9 +1780,9 @@
   },
   {
     "id": "2024-030",
-    "title": "State v. Luthi",
+    "title": "State of Washington v. Luthi",
     "number": "101828-2",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240125",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240125.pdf",
     "questions": "The Cowlitz County Jail courtroom routinely uses an in-court holding cell for nonjury hearings. Is this in- court holding cell an inherently prejudicial restraint which requires an individualized inquiry into its use before each court appearance?",
     "argument": "2024-01-25",
     "argument_day": "Thursday, January 25, 2024",
@@ -1792,19 +1792,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -1812,11 +1812,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -1843,7 +1843,7 @@
     "id": "2024-031",
     "title": "Spencer v. Franklin Hills Health-Spokane, LLC",
     "number": "102147-0",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240213",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240213.pdf",
     "questions": "In a lawsuit against a corporation, service of process must be delivered to a person in a role specified under RCW 4.28.080(9), such as the head of the corporation, the corporation's registered agent, the corporation's managing agent, or an office assistant to one of those people. In this case, a human resources and payroll manager received the documents. Was service properly accomplished under the statute?",
     "argument": "2024-02-13",
     "argument_day": "Tuesday, February 13, 2024",
@@ -1853,15 +1853,15 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
@@ -1869,7 +1869,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
@@ -1877,11 +1877,11 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "minority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -1906,9 +1906,9 @@
   },
   {
     "id": "2024-032",
-    "title": "Suarez v. State",
+    "title": "Suarez v. State of Washington",
     "number": "101386-8",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240213",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240213.pdf",
     "questions": "Under the Washington Laws Against Discrimination, an employer has a duty to reasonably accommodate the religious practices of their employees unless doing so would cause an \"undue hardship\" for the employer. Suarez's former employer seeks review of the Court of Appeals' analysis of their \"undue hardship\" defense",
     "argument": "2024-02-13",
     "argument_day": "Tuesday, February 13, 2024",
@@ -1918,19 +1918,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1938,11 +1938,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -1971,9 +1971,9 @@
   },
   {
     "id": "2024-033",
-    "title": "State v. Kelly",
+    "title": "State of Washington v. Kelly",
     "number": "102002-3",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240215",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240215.pdf",
     "questions": "Is Kelly entitled to resentencing after Blake rendered the offender scores used for his original sentencings incorrect?",
     "argument": "2024-02-15",
     "argument_day": "Thursday, February 15, 2024",
@@ -1983,15 +1983,15 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -1999,7 +1999,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -2007,11 +2007,11 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "minority"
       },
       {
@@ -2036,9 +2036,9 @@
   },
   {
     "id": "2024-034",
-    "title": "State v. Vasquez",
+    "title": "State of Washington v. Vasquez",
     "number": "102045-7",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240215",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240215.pdf",
     "questions": "Vasquez was convicted of first degree murder that he committed when he was 23. Years later, he filed a CrR 7.8 motion asserting that Blake required a reduction in his offender score. He was resentenced, but the court refused to hear arguments. Does the grant of a CrR 7.8 motion to vacate and resentence give the resentencing court the discretion to consider all sentencing issues? Does the court have the discretion to limit the parties' arguments?",
     "argument": "2024-02-15",
     "argument_day": "Thursday, February 15, 2024",
@@ -2048,15 +2048,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -2064,7 +2064,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -2072,11 +2072,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -2101,9 +2101,9 @@
   },
   {
     "id": "2024-035",
-    "title": "State v. McGee",
+    "title": "State of Washington v. McGee",
     "number": "102134-8",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240222",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240222.pdf",
     "questions": "On June 3, 2017, police illegally detained Malcolm McGee in the course of a narcotics investigation and recorded their findings in a law enforcement database. When an associate of McGee was later found dead, homicide investigators used the illegally-obtained information in the June 3 report to obtain search warrants targeting McGee. We must now resolve whether Washington's attenuation doctrine allows the State to use unlawfully obtained evidence-here, the information obtained during the narcotics investigation and evidence later derived from it-when an independent and unforeseeable act makes that evidence relevant to the investigation of a different crime",
     "argument": "2024-02-22",
     "argument_day": "Thursday, February 22, 2024",
@@ -2113,15 +2113,15 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
@@ -2129,7 +2129,7 @@
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -2137,11 +2137,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -2168,7 +2168,7 @@
     "id": "2024-036",
     "title": "In re Wallstrom, Attorney at Law",
     "number": "202,178-6",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240426",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240426.pdf",
     "argument": "2024-04-26",
     "argument_day": "Friday, April 26, 2024",
     "events": [
@@ -2190,7 +2190,7 @@
     "id": "2024-037",
     "title": "In re Marriage of Wilcox",
     "number": "102401-1",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240516",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240516.pdf",
     "questions": "A 1968 Washington Supreme Court case suggests that spousal maintenance awards are only appropriate when a requesting spouse needs it. In 1973, the legislature amended relevant statutes on the subject. Does a trial court abuse its discretion under RCW 26.09.090 when it orders a spousal maintenance award in an amount and duration that exceeds the requesting spouse's needs?",
     "argument": "2024-05-16",
     "argument_day": "Thursday, May 16, 2024",
@@ -2200,15 +2200,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -2216,7 +2216,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -2224,11 +2224,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -2253,9 +2253,9 @@
   },
   {
     "id": "2024-038",
-    "title": "State v. Smith",
+    "title": "State of Washington v. Smith",
     "number": "102402-9",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240516",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240516.pdf",
     "questions": "Every person accused of a crime has the right to be tried by an impartial jury of their peers who will presume them innocent until proven guilty beyond a reasonable doubt. When a potential juror makes statements that suggests they have prejudged some aspect of the case and the trial court finds they cannot put aside their opinions and try the case impartially, the judge must remove the juror. Smith alleges that a biased juror was permitted to sit on his jury, thereby depriving him of his right to a fair trial and entitling him to a new trial. Appellate courts review challenges such as this for abuse of discretion. The court must decide whether, based on the juror's questionnaire responses and statements made during voir dire, there was a clear probability of juror bias such that no reasonable judge could have found the juror was able to set aside their biases and try the case impartially",
     "argument": "2024-05-16",
     "argument_day": "Thursday, May 16, 2024",
@@ -2265,15 +2265,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -2281,7 +2281,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -2289,11 +2289,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -2320,7 +2320,7 @@
     "id": "2024-039",
     "title": "King County v. Friends of Sammamish Valley",
     "number": "102177-1",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240521",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240521.pdf",
     "questions": "King County recently passed Ordinance 19030, liberalizing regulations pertaining to wineries, breweries, and distilleries on agricultural land. Does the Ordinance violate the Growth Management Act's protection of agricultural land? Did the County conduct an adequate environmental review under the State Environmental Policy Act?",
     "argument": "2024-05-21",
     "argument_day": "Tuesday, May 21, 2024",
@@ -2330,15 +2330,15 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
@@ -2346,7 +2346,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
@@ -2354,11 +2354,11 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -2385,7 +2385,7 @@
     "id": "2024-040",
     "title": "Antio, LLC v. Dep't of Rev.",
     "number": "102223-9",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240521",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240521.pdf",
     "questions": "Businesses may deduct \"amounts derived from investments\" from their B&O tax obligations. This court previously defined \"investments\" in the statute to mean \"incidental investments of surplus funds.\" The legislature then revised the statute in response to a Washington Supreme Court decision on a different issue. Did this revision do away with the court's earlier definition of investments and allow businesses to deduct more than \"incidental investments of surplus funds\"?",
     "argument": "2024-05-21",
     "argument_day": "Tuesday, May 21, 2024",
@@ -2395,15 +2395,15 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
@@ -2411,7 +2411,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -2419,11 +2419,11 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -2450,7 +2450,7 @@
     "id": "2024-041",
     "title": "In re Dependency of A.H.",
     "number": "102558-1",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240523",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240523.pdf",
     "questions": "Does a statute bar appeals in juvenile cases absent specific direction from client? Must a lawyer prove such direction?",
     "argument": "2024-05-23",
     "argument_day": "Thursday, May 23, 2024",
@@ -2460,19 +2460,19 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -2480,7 +2480,7 @@
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -2492,7 +2492,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -2515,7 +2515,7 @@
     "id": "2024-042",
     "title": "In re Dependency of Baby Boy B.",
     "number": "102344-8",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240523",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240523.pdf",
     "questions": "Shelter care is temporary physical care in a licensed facility or in a home. RCW 13.34.030(24). Under certain circumstances, a child may be removed from their parents and placed in shelter care. Ch. 13.34 RCW. Under Washington law, \"[n]o child may be placed in shelter care for longer than thirty days without an order, signed by the judge, authorizing continued shelter care.\" RCW 13.34.065(7)(a)(i). In this case, a superior court declined to hold monthly shelter care review hearings. This court must decide whether RCW 13.34.065(7)(a)(i) requires monthly hearings",
     "argument": "2024-05-23",
     "argument_day": "Thursday, May 23, 2024",
@@ -2525,15 +2525,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -2541,7 +2541,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -2549,11 +2549,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -2580,7 +2580,7 @@
     "id": "2024-043",
     "title": "In re Disciplinary Proc. Against Huynh",
     "number": "202147-6",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240528",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240528.pdf",
     "questions": "In this attorney discipline proceeding, Huynh was charged with theft, false representation, and other misconduct. The hearing officer recommended disbarment and the Washington State Bar Association Disciplinary Board unanimously affirmed. Should we uphold the hearing officer's findings of fact and conclusions of law in light of Huynh's challenges for lack of substantial evidence and due process violations? Should Huynh be disbarred?",
     "argument": "2024-05-28",
     "argument_day": "Tuesday, May 28, 2024",
@@ -2590,15 +2590,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -2606,7 +2606,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -2614,11 +2614,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -2645,7 +2645,7 @@
     "id": "2024-044",
     "title": "In re Pers. Restraint of Frazier",
     "number": "102295-6",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240528",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240528.pdf",
     "questions": "Charles Frazier seeks resentencing for crimes he committed when he was 18 years old. He argues that his personal restraint petition is not time barred because scientific studies regarding late adolescent brain development is newly discovered evidence that was not available when he was sentenced in 1989. Does the newly discovered evidence exception for collateral attacks apply to sentencings?",
     "argument": "2024-05-28",
     "argument_day": "Tuesday, May 28, 2024",
@@ -2655,11 +2655,11 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -2667,7 +2667,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -2675,11 +2675,11 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -2706,7 +2706,7 @@
     "id": "2024-045",
     "title": "City of Tacoma v. Dep't of Ecology",
     "number": "102479-7",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240530",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240530.pdf",
     "questions": "The Department of Ecology, in a denial letter, committed to limiting nitrogen discharges into Puget Sound through their \"individual permitting process.\" Subsequently, Ecology issued two individual permits and a general permit for wastewater treatment plants that limited nitrogen discharges. This court must decide whether Ecology's denial letter created a \"rule\" without going through the Administrative Procedure Act's rulemaking process",
     "argument": "2024-05-30",
     "argument_day": "Thursday, May 30, 2024",
@@ -2716,15 +2716,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -2732,7 +2732,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -2740,11 +2740,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -2771,7 +2771,7 @@
     "id": "2024-046",
     "title": "U.S. Sportsmen’s All. Found. v. Smith",
     "number": "102358-8",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240530",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240530.pdf",
     "questions": "Washington Fish and Wildlife (WFW) Commissioner Lorna Smith simultaneously held a position on the Jefferson County Planning Commission. RCW 77.04.040 prohibits WFW commissioners from holding \"another state, county, or municipal elective or appointive office.\" We are asked to determine whether a county planning commission position is an \"office\" under the statute",
     "argument": "2024-05-30",
     "argument_day": "Thursday, May 30, 2024",
@@ -2781,15 +2781,15 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -2797,7 +2797,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -2805,11 +2805,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "minority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "minority"
       },
       {
@@ -2836,7 +2836,7 @@
     "id": "2024-047",
     "title": "In re Kelley, Attorney at Law",
     "number": "202153-1",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240611",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240611.pdf",
     "questions": "Should the Supreme Court adopt the WSBA Disciplinary Board's recommendation for disbarment?",
     "argument": "2024-06-11",
     "argument_day": "Tuesday, June 11, 2024",
@@ -2862,7 +2862,7 @@
     "id": "2024-048",
     "title": "In re Disciplinary Proc. Against Monro",
     "number": "202151-4",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240611",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240611.pdf",
     "questions": "Stephen Kenneth Monro is a Washington attorney currently facing discipline related to converting client funds. After an evidentiary hearing, the hearing officer recommended disbarment. The Discipline Board remanded the matter to the hearing officer to clarify unspecified findings and conclusions and to conduct a proportionality review. This case asks us to determine whether the Board had the authority to order this remand and, if so, whether that authority was properly exercised here",
     "argument": "2024-06-11",
     "argument_day": "Tuesday, June 11, 2024",
@@ -2872,15 +2872,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -2888,7 +2888,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -2896,11 +2896,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -2927,7 +2927,7 @@
     "id": "2024-049",
     "title": "In re Dependency of M.L.W.",
     "number": "102486-0",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240613",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240613.pdf",
     "questions": "Does mother have standing to assert child's right to intervene where child had attorney below? Did DCYF prove it offered all necessary services capable of correcting mother's parental deficiencies within foreseeable future?",
     "argument": "2024-06-13",
     "argument_day": "Thursday, June 13, 2024",
@@ -2937,15 +2937,15 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -2953,7 +2953,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -2961,11 +2961,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "minority"
       },
       {
@@ -2992,7 +2992,7 @@
     "id": "2024-050",
     "title": "In re Dependency of Z.A.",
     "number": "102729-0",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240613",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240613.pdf",
     "questions": "Three children were found dependent, meaning that they did not have parents or guardians capable of taking care of them. In such circumstances, a judge can order the children placed out of their homes only if (among other things) the court finds: (a) There is no parent or guardian available to care for such child; (b) The parent, guardian, or legal custodian is not willing to take custody of the child; or (c) The court finds, by clear, cogent, and convincing evidence, a manifest danger exists that the child will suffer serious abuse or neglect if the child is not removed from the home. RCW 13.34.130(6). The State argued, and the trial court agreed, that the father was not \"available\" because he could not provide adequate care for the children. Was that the right standard to apply?",
     "argument": "2024-06-13",
     "argument_day": "Thursday, June 13, 2024",
@@ -3002,15 +3002,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -3018,7 +3018,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -3026,11 +3026,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -3055,9 +3055,9 @@
   },
   {
     "id": "2024-051",
-    "title": "State v. Richards",
+    "title": "State of Washington v. Richards",
     "number": "102627-7",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240613",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240613.pdf",
     "questions": "Richards failed to restrain her dangerous dog when it was outside of its proper enclosure, a violation of a Wahkiakum County ordinance. The district court imposed a jail term of 364 days for this gross misdemeanor, but it conditioned the suspension of the jail term on Richards surrendering the dog to the animal control authority. Did the court exceed its sentencing authority by imposing this condition on the suspended sentence?",
     "argument": "2024-06-13",
     "argument_day": "Thursday, June 13, 2024",
@@ -3067,15 +3067,15 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
@@ -3083,7 +3083,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
@@ -3091,11 +3091,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -3122,7 +3122,7 @@
     "id": "2024-052",
     "title": "In re Individual, Attorney at Law",
     "number": "102016-3",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240625",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240625.pdf",
     "questions": "Was the plaintiff's late-filed complaint \"constructively filed\" in a timely manner?",
     "argument": "2024-06-25",
     "argument_day": "Tuesday, June 25, 2024",
@@ -3145,7 +3145,7 @@
     "id": "2024-053",
     "title": "In re Marriage of Porter",
     "number": "102355-3",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240625",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240625.pdf",
     "questions": "A military officer and his former spouse began drawing monthly military retirement benefits divided in their divorce. Several years after his retirement, the officer is involuntarily recalled to active duty service. During the recall to active duty, the officer is promoted and later retires with a higher rank and increased pension benefits. Is the former spouse entitled to a share of the increased pension accrued during the involuntary recalled service? If so, does federal law prohibit state courts from including increased pension benefits earned during involuntary service as community property?",
     "argument": "2024-06-25",
     "argument_day": "Tuesday, June 25, 2024",
@@ -3155,15 +3155,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -3171,7 +3171,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -3179,11 +3179,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -3208,9 +3208,9 @@
   },
   {
     "id": "2024-054",
-    "title": "State v. Willyard",
+    "title": "State of Washington v. Willyard",
     "number": "102325-1",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240627",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240627.pdf",
     "questions": "In 2003, Nicole Willyard pleaded guilty to obstruction, unlawful possession of a controlled substance, and bail jumping. In 2021, this court decided State v. Blake, which invalidated Washington's former unlawful possession of a controlled substance statute. In response, Willyard moved to withdraw her guilty pleas. The superior court has already vacated her possession charge. This court must now decide whether Willyard is also entitled to withdraw her guilty plea to unlawful possession or the other associated offenses.",
     "argument": "2024-06-27",
     "argument_day": "Thursday, June 27, 2024",
@@ -3220,15 +3220,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -3236,7 +3236,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -3244,11 +3244,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -3273,9 +3273,9 @@
   },
   {
     "id": "2024-055",
-    "title": "State v. Harris",
+    "title": "State of Washington v. Harris",
     "number": "102311-1",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240627",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240627.pdf",
     "questions": "Does Houston-Sconiers require consideration of youth in plea agreements and joint sentencing recommendations?",
     "argument": "2024-06-27",
     "argument_day": "Thursday, June 27, 2024",
@@ -3285,15 +3285,15 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -3301,7 +3301,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -3309,11 +3309,11 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "minority"
       },
       {
@@ -3338,9 +3338,9 @@
   },
   {
     "id": "2024-056",
-    "title": "State v. Olsen",
+    "title": "State of Washington v. Olsen",
     "number": "102131-3",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20240627",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20240627.pdf",
     "questions": "In State v. Blake (2021), this court declared Washington's drug possession statute unconstitutional. Prior to Blake, Christopher Olsen pleaded guilty to multiple charges, including drug possession. Is Olsen entitled to withdraw his guilty pleas to all the charges in light of Blake?",
     "argument": "2024-06-27",
     "argument_day": "Thursday, June 27, 2024",
@@ -3350,15 +3350,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -3366,7 +3366,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -3374,11 +3374,11 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "RAQUEL MONTOYA-LEWIS",
+        "name": "RAQUEL D. MONTOYA-LEWIS",
         "side": "majority"
       },
       {
@@ -3405,7 +3405,7 @@
     "id": "2024-057",
     "title": "In re Styles, Attorney at Law",
     "number": "202216-2",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2024&file=20241029",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/2024/20241029.pdf",
     "argument": "2024-10-29",
     "argument_day": "Tuesday, October 29, 2024",
     "events": [

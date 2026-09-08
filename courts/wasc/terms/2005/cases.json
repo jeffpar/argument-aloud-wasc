@@ -1,7 +1,7 @@
 [
   {
     "id": "2005-001",
-    "title": "Washington v. Roggenkamp",
+    "title": "State of Washington v. Roggenkamp",
     "number": "73839-4; 74231-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2004&file=20040115",
     "facts": "Petitioner Michael Roggenkamp was convicted in the King County Juvenile Court of vehicular homicide and vehicular assault after causing a fatal traffic accident while driving in excess of twice the legal speed limit. The charges were premised upon the trial court's construction of language in the vehicular homicide and vehicular assault statutes (§46.61.522(1) and §46.61.520(1)) regarding operation of a vehicle \"in a reckless manner\" as meaning \"driving in a rash or heedless manner, indifferent to the consequences.\" Roggenkamp appealed his conviction to the Washington Court of Appeals, asserting that the proper standard to apply in determining whether his conduct fell within the meaning of the statutes was to ask whether it involved \"willful or wanton disregard for the safety of persons or property\". The Washington Court of Appeals affirmed Roggenkamp's conviction, leading Roggenkamp to appeal to the Supreme Court of Washington.",
@@ -16,27 +16,27 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "minority"
       },
       {
-        "name": "BOBBE BRIDGE",
+        "name": "BOBBE J. BRIDGE",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "minority"
       },
       {
@@ -44,7 +44,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       }
     ],
@@ -63,7 +63,7 @@
   },
   {
     "id": "2005-002",
-    "title": "Washington v. Hughes",
+    "title": "State of Washington v. Hughes",
     "number": "74147-6; 75053-0; 75063-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2004&file=20041109",
     "facts": "Petitioner Daniel Hughes was convicted in the Superior Court for Grays Harbor County of first degree theft for cutting down old growth cedar trees. Pursuant to Washington's Sentencing Reform Act of 1981 (§9.94A.535), an enhanced sentence of 90 months imprisonment was imposed rather than the standard 3 to 9 months imprisonment due to the presence of substantial and compelling factors that distinguished the crime from other first degree thefts. Hughes appealed his sentence to the Supreme Court of Washington, claiming that the sentence violated the Sixth Amendment to the United States Constitution's right to a trial by jury as the United States Supreme Court's decision in Blakely v. Washington had ruled that the Sixth Amendment requires that any fact other than that of a prior conviction that increases the applicable punishment must be found by a jury beyond a reasonable doubt rather than, as in Hughes' case, by the trial judge.",
@@ -78,27 +78,27 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "BOBBE BRIDGE",
+        "name": "BOBBE J. BRIDGE",
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -106,7 +106,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       }
     ],
@@ -125,7 +125,7 @@
   },
   {
     "id": "2005-003",
-    "title": "State v. Flinn",
+    "title": "State of Washington v. Flinn",
     "number": "75092-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050113",
     "questions": "Did extending the start of Flinn’s trial by five weeks because the judge was unavailable violate his right to a speedy trial?",
@@ -301,7 +301,7 @@
   },
   {
     "id": "2005-011",
-    "title": "State v. Gurske",
+    "title": "State of Washington v. Gurske",
     "number": "75156-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050120",
     "questions": "The petitioner contends that his deadly weapon sentence enhancement should be invalidated on the ground that he was not armed at the time he committed the crime.",
@@ -353,7 +353,7 @@
   },
   {
     "id": "2005-014",
-    "title": "State v. Pulfrey",
+    "title": "State of Washington v. Pulfrey",
     "number": "75301-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050120",
     "questions": "Whether the police officer properly exercised his discretion in arresting the defendant for possession of methamphetamine, and whether a recent opinion of this court undermines the reason for his arrest.",
@@ -419,7 +419,7 @@
   },
   {
     "id": "2005-017",
-    "title": "State v. Tandecki",
+    "title": "State of Washington v. Tandecki",
     "number": "75326-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050208",
     "questions": "When a driver is charged with failing to stop after being ordered to do so by police, must the charging document say specifically that the driver refused to immediately stop?",
@@ -485,7 +485,7 @@
   },
   {
     "id": "2005-020",
-    "title": "State v. Gaines",
+    "title": "State of Washington v. Gaines",
     "number": "74793-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050208",
     "questions": "Evidence found during illegal searches by the police generally cannot be used by the State in a trial. But may the State use evidence that the police would have found legally had the illegal search not happened in the first place?",
@@ -507,7 +507,7 @@
   },
   {
     "id": "2005-021",
-    "title": "State v. Louis",
+    "title": "State of Washington v. Louis",
     "number": "75151-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050210",
     "questions": "Were Mr. Louis’ right against Double Jeopardy and Sixth Amendment right to a jury trial violated?",
@@ -551,7 +551,7 @@
   },
   {
     "id": "2005-023",
-    "title": "State v. Korum",
+    "title": "State of Washington v. Korum",
     "number": "75491-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050210",
     "questions": "Was Mr. Korum vindictively prosecuted after withdrawing his guilty plea?",
@@ -573,7 +573,7 @@
   },
   {
     "id": "2005-024",
-    "title": "State v. Cubias",
+    "title": "State of Washington v. Cubias",
     "number": "75109-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050210",
     "questions": "Is the imposition of consecutive sentences, based on a trial court's finding that a defendant's serious violent offenses arose from separate and distinct criminal conduct, unconstitutional in light of Blakely?",
@@ -661,7 +661,7 @@
   },
   {
     "id": "2005-028",
-    "title": "State v. Watson",
+    "title": "State of Washington v. Watson",
     "number": "75351-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050215",
     "questions": "The court must decide whether a memo sent to the trial judge by the prosecutor violates the ex parte communications rule as to this defendant.",
@@ -749,7 +749,7 @@
   },
   {
     "id": "2005-032",
-    "title": "State v. Abd-Rahmaan",
+    "title": "State of Washington v. Abd-Rahmaan",
     "number": "75398-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050217",
     "questions": "Whether the superior court erred by admitting hearsay evidence in a sentence modification hearing.",
@@ -771,7 +771,7 @@
   },
   {
     "id": "2005-033",
-    "title": "State v. Canfield",
+    "title": "State of Washington v. Canfield",
     "number": "75357-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050308",
     "questions": "Does a defendant have the right to address the court personally prior to the revocation of a suspended sentence?",
@@ -1073,7 +1073,7 @@
   },
   {
     "id": "2005-050",
-    "title": "State v. Gregory",
+    "title": "State of Washington v. Gregory",
     "number": "71155-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050322",
     "questions": "Eugene Allen Gregory was convicted of three counts of first degree rape for the rape of one woman. He was then convicted of aggravated first degree murder for the rape, robbery, and murder of another woman. For the murder, Gregory received a sentence of death. Gregory now appeals the conviction and sentence in each case.",
@@ -1171,7 +1171,7 @@
   },
   {
     "id": "2005-055",
-    "title": "State v. Swecker",
+    "title": "State of Washington v. Swecker",
     "number": "75460-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050324",
     "questions": "Should eleven prior juvenile convictions, for which Nicholas Swecker was sentenced on the same day in 1996, have been counted as a single conviction in a 2001 sentencing?",
@@ -1231,7 +1231,7 @@
   },
   {
     "id": "2005-058",
-    "title": "State v. Brown",
+    "title": "State of Washington v. Brown",
     "number": "75635-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050510",
     "questions": "Brown contends that the request for his identification without an articulable suspicion of wrongdoing violated the Washington Constitution and that the method of imposing his exceptional sentence violated the United States Constitution.",
@@ -1412,7 +1412,7 @@
   },
   {
     "id": "2005-067",
-    "title": "Association of Washington v. State",
+    "title": "Association of Washington v. State of Washington",
     "number": "75623-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050517",
     "questions": "The court must decide if administrative agencies have the statutory authority to promulgate rules that interpret statutes but are not otherwise binding on the public.",
@@ -1434,7 +1434,7 @@
   },
   {
     "id": "2005-068",
-    "title": "State v. Elmore",
+    "title": "State of Washington v. Elmore",
     "number": "75637-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050517",
     "questions": "Whether the trial court violated the defendant’s right to a jury trial, under either the state or federal constitution, when it replaced a deliberating juror with an alternate juror.",
@@ -1543,7 +1543,7 @@
   },
   {
     "id": "2005-073",
-    "title": "State v. Kull",
+    "title": "State of Washington v. Kull",
     "number": "75545-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050524",
     "questions": "Whether evidence of drugs must be suppressed on the ground that a police officer’s entry into the defendant’s home violated the state constitution.",
@@ -1565,7 +1565,7 @@
   },
   {
     "id": "2005-074",
-    "title": "State v. Leyda",
+    "title": "State of Washington v. Leyda",
     "number": "75866-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050524",
     "questions": "Leyda claims the trial court violated constitutional prohibitions against double jeopardy in determining the unit of prosecution for identity theft, and Leyda claims that the document charging him with his crimes improperly omitted the value of the property stolen in alleging second degree identity theft and third degree theft.",
@@ -1587,7 +1587,7 @@
   },
   {
     "id": "2005-075",
-    "title": "State v. Tinker",
+    "title": "State of Washington v. Tinker",
     "number": "75728-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050524",
     "questions": "Tinker claims that the document charging him with third degree theft violated constitutional due process protections by improperly omitting the value of the property stolen.",
@@ -1631,7 +1631,7 @@
   },
   {
     "id": "2005-077",
-    "title": "State v. Linton",
+    "title": "State of Washington v. Linton",
     "number": "75784-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050526",
     "questions": "Where a jury is unable to agree on whether a defendant is guilty of first degree assault, but convicts the defendant of second degree assault, can the State retry the defendant for first degree assault?",
@@ -1675,7 +1675,7 @@
   },
   {
     "id": "2005-079",
-    "title": "State v. Klein",
+    "title": "State of Washington v. Klein",
     "number": "75715-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050607",
     "questions": "Klein seeks unconditional release from a state mental institution. Has Klein adequately demonstrated that she no longer presents, as a result of a mental disease or defect, a substantial danger to other persons?",
@@ -1755,7 +1755,7 @@
   },
   {
     "id": "2005-083",
-    "title": "State v. Brightman",
+    "title": "State of Washington v. Brightman",
     "number": "72919-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050609",
     "questions": "Whether the defendant was denied the right to a public trial when spectators were excluded from the courtroom during jury selection. Whether the trial court erred by failing to give a justifiable homicide instruction.",
@@ -1775,7 +1775,7 @@
   },
   {
     "id": "2005-084",
-    "title": "State v. Morse",
+    "title": "State of Washington v. Morse",
     "number": "75915-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050609",
     "questions": "After getting consent to search his apartment from one of his housemates, were police required to get Morse’s separate consent to search his bedroom?",
@@ -1857,7 +1857,7 @@
   },
   {
     "id": "2005-088",
-    "title": "State v. Smith",
+    "title": "State of Washington v. Smith",
     "number": "75928-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050623",
     "questions": "Smith was convicted of driving while license suspended or revoked in the first degree under RCW 46.20.342. He is challenging this conviction on several grounds.",
@@ -1939,7 +1939,7 @@
   },
   {
     "id": "2005-092",
-    "title": "State v. Bisson",
+    "title": "State of Washington v. Bisson",
     "number": "75771-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050628",
     "questions": "As a remedy for his involuntary plea agreement, is Bisson entitled to a sentence imposing concurrent deadly weapon enhancements?",
@@ -1959,7 +1959,7 @@
   },
   {
     "id": "2005-093",
-    "title": "Brown v. State",
+    "title": "Brown v. State of Washington",
     "number": "75878-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050628",
     "questions": "Does I-732 require a cost of living adjustment for teachers based only on the last year’s salary, or may the state take into account a shorter work year?",
@@ -1999,7 +1999,7 @@
   },
   {
     "id": "2005-095",
-    "title": "State v. Shafer",
+    "title": "State of Washington v. Shafer",
     "number": "75605-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050630",
     "questions": "Does RCW 9A.44.120, Washington's child hearsay statute, violate the Confrontation Clause of the Sixth Amendment or article I, section 22 of the Washington Constitution?",
@@ -2039,7 +2039,7 @@
   },
   {
     "id": "2005-097",
-    "title": "State v. Kinneman",
+    "title": "State of Washington v. Kinneman",
     "number": "76051-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050630",
     "questions": "Several challenges involving an order of restitution are made, including a claim by the defendant that he was denied the right to trial by jury when restitution was determined.",
@@ -2120,7 +2120,7 @@
   },
   {
     "id": "2005-101",
-    "title": "State v. Cadwallader",
+    "title": "State of Washington v. Cadwallader",
     "number": "76070-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050913",
     "questions": "Was Cadwallader erroneously determined to be a persistent offender and is his sentence of life in prison without the possibility of early release unlawful?",
@@ -2184,7 +2184,7 @@
   },
   {
     "id": "2005-104",
-    "title": "State v. Miller",
+    "title": "State of Washington v. Miller",
     "number": "76156-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050915",
     "questions": "The state prosecuted Miller for violating a no-contact order. Must a jury decide whether that no-contact order was valid?",
@@ -2372,7 +2372,7 @@
   },
   {
     "id": "2005-114",
-    "title": "State v. Borboa",
+    "title": "State of Washington v. Borboa",
     "number": "76547-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051018",
     "questions": "Does a law authorizing judges to make factual findings necessary to lengthen a defendant’s minimum sentence violate the right to a jury trial? Does admitting statements a child made in police custody violate the right to confront one’s accusers?",
@@ -2394,7 +2394,7 @@
   },
   {
     "id": "2005-115",
-    "title": "State v. Clarke",
+    "title": "State of Washington v. Clarke",
     "number": "76602-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051018",
     "questions": "Does a law authorizing judges to make factual findings necessary to lengthen a defendant’s minimum sentence violate the right to a jury trial?",
@@ -2567,7 +2567,7 @@
   },
   {
     "id": "2005-124",
-    "title": "State v. Easterling",
+    "title": "State of Washington v. Easterling",
     "number": "76458-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051109",
     "questions": "Is Easterling entitled to have his conviction reversed and a new trial awarded because the trial court improperly closed a courtroom during consideration of a codefendant’s pre-trial motions to sever the joint trial and to dismiss the criminal charge?",
@@ -2607,7 +2607,7 @@
   },
   {
     "id": "2005-126",
-    "title": "State v. McKenzie",
+    "title": "State of Washington v. McKenzie",
     "number": "76585-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051110",
     "questions": "Did McKenzie show that prosecutorial misconduct prejudiced his right to a fair trial?",
@@ -2675,7 +2675,7 @@
   },
   {
     "id": "2005-130",
-    "title": "State v. Suleiman",
+    "title": "State of Washington v. Suleiman",
     "number": "76807-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051115",
     "questions": "In his guilty plea Suleiman stipulated to certain underlying facts, but not that there was a basis for the exceptional sentence. Should his exceptional sentence be reversed pursuant to Blakely? 1:00 P.M.",
@@ -2695,7 +2695,7 @@
   },
   {
     "id": "2005-131",
-    "title": "State v. Hagar",
+    "title": "State of Washington v. Hagar",
     "number": "77138-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051115",
     "questions": "May a petitioner challenge his exceptional sentence under Blakely without also challenging his entire plea agreement?",
@@ -2734,7 +2734,7 @@
   },
   {
     "id": "2005-133",
-    "title": "State v. Ermels",
+    "title": "State of Washington v. Ermels",
     "number": "76665-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051115",
     "questions": "In his guilty plea Ermels stipulated there was a basis for an exceptional sentence and waived his right to appeal its basis and propriety. Should his exceptional sentence be reversed pursuant to Blakely?",
@@ -2776,7 +2776,7 @@
   },
   {
     "id": "2005-135",
-    "title": "Ongom v. State",
+    "title": "Ongom v. State of Washington",
     "number": "76618-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051117",
     "questions": "Does application of the “preponderance of the evidence” standard of proof in a disciplinary hearing against a registered nursing assistant provide adequate procedural due process? 1:00 P.M.",

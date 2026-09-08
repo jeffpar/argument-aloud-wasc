@@ -1,7 +1,7 @@
 [
   {
     "id": "2016-001",
-    "title": "State v. Mecham",
+    "title": "State of Washington v. Mecham",
     "number": "90598-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20150317",
     "questions": "At the defendant's trial for driving under the influence, the prosecution cited his refusal to take a field sobriety test, arguing that the defendant knew the test would reveal his intoxication. Did this comment unfairly penalize the defendant for exercising his right to refuse a search?",
@@ -13,15 +13,15 @@
     "score": "4-5",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -29,7 +29,7 @@
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -37,15 +37,15 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -75,11 +75,11 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
@@ -87,19 +87,19 @@
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
@@ -107,7 +107,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -125,7 +125,7 @@
   },
   {
     "id": "2016-003",
-    "title": "State v. Baird",
+    "title": "State of Washington v. Baird",
     "number": "90419-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20150512",
     "questions": "Do exigent circumstances exist in every DUI case to justify a warrantless breath test under RCW 46.20.308?",
@@ -137,15 +137,15 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -153,7 +153,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
@@ -161,15 +161,15 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -187,7 +187,7 @@
   },
   {
     "id": "2016-004",
-    "title": "State v. Miller",
+    "title": "State of Washington v. Miller",
     "number": "91065-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20150910",
     "questions": "Was there a change in sentencing law? If so, should it be applied retroactively to a defendant's sentence?",
@@ -199,11 +199,11 @@
     "score": "8-1",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -211,19 +211,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -231,7 +231,7 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -249,7 +249,7 @@
   },
   {
     "id": "2016-005",
-    "title": "State v. Wilcoxon",
+    "title": "State of Washington v. Wilcoxon",
     "number": "91331-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20150910",
     "questions": "Did admitting certain out-of-court statements violate Wilcoxon's right to confront witnesses testifying against him?",
@@ -261,11 +261,11 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -273,19 +273,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -293,7 +293,7 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -323,11 +323,11 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
@@ -335,19 +335,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -355,7 +355,7 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -385,11 +385,11 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -397,19 +397,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -417,7 +417,7 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -447,11 +447,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -459,19 +459,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -479,7 +479,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -509,11 +509,11 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -521,15 +521,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -537,7 +537,7 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -567,15 +567,15 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
@@ -587,7 +587,7 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
@@ -595,7 +595,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       }
     ],
@@ -613,7 +613,7 @@
   },
   {
     "id": "2016-011",
-    "title": "State v. Fuller",
+    "title": "State of Washington v. Fuller",
     "number": "91193-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20151020",
     "questions": "When a jury acquits on one means of committing assault and hangs on the other, does it violate double jeopardy to retry on the hung means?",
@@ -625,11 +625,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -637,19 +637,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -657,7 +657,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ]
@@ -676,15 +676,15 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -692,7 +692,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
@@ -700,15 +700,15 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -738,11 +738,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -750,15 +750,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -766,7 +766,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -784,7 +784,7 @@
   },
   {
     "id": "2016-014",
-    "title": "State v. Farnsworth",
+    "title": "State of Washington v. Farnsworth",
     "number": "91297-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20151022",
     "questions": "Does a person commit robbery when they hand a note demanding money to a bank teller?",
@@ -796,11 +796,11 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -808,19 +808,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
@@ -828,7 +828,7 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -858,11 +858,11 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
@@ -870,19 +870,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -890,7 +890,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -920,11 +920,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -932,19 +932,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -952,7 +952,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -982,11 +982,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -994,15 +994,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1010,7 +1010,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -1028,7 +1028,7 @@
   },
   {
     "id": "2016-018",
-    "title": "State v. Budd",
+    "title": "State of Washington v. Budd",
     "number": "91529-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20151029",
     "questions": "What procedures must officers follow when seeking a person's consent to enter his or her home to seize a specific item?",
@@ -1040,15 +1040,15 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
@@ -1056,7 +1056,7 @@
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
@@ -1064,15 +1064,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -1104,11 +1104,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -1116,19 +1116,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1136,7 +1136,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ]
@@ -1155,15 +1155,15 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -1171,7 +1171,7 @@
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1179,15 +1179,15 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -1217,11 +1217,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -1229,19 +1229,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1249,7 +1249,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -1281,11 +1281,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -1293,19 +1293,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1313,7 +1313,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -1331,7 +1331,7 @@
   },
   {
     "id": "2016-023",
-    "title": "State v. Rich",
+    "title": "State of Washington v. Rich",
     "number": "91623-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20151112",
     "questions": "Did sufficient evidence support Rich's conviction for reckless endangerment?",
@@ -1343,11 +1343,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -1355,19 +1355,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1375,7 +1375,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -1395,7 +1395,7 @@
   },
   {
     "id": "2016-024",
-    "title": "State v. Chenoweth",
+    "title": "State of Washington v. Chenoweth",
     "number": "91366-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20151112",
     "questions": "Whether the crimes of rape of a child and incest based on a single act are considered the same criminal conduct under the Sentencing Reform Act (SRA).",
@@ -1407,11 +1407,11 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -1419,19 +1419,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1439,7 +1439,7 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -1471,11 +1471,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -1483,19 +1483,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1503,7 +1503,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -1535,11 +1535,11 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -1547,19 +1547,19 @@
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1567,7 +1567,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -1587,7 +1587,7 @@
   },
   {
     "id": "2016-027",
-    "title": "State v. Duncan",
+    "title": "State of Washington v. Duncan",
     "number": "90188-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20151117",
     "questions": "May Duncan challenge for the first time on appeal the trial court's failure to consider his ability to pay fines?",
@@ -1599,15 +1599,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -1615,7 +1615,7 @@
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1623,15 +1623,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -1663,11 +1663,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -1675,15 +1675,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1691,7 +1691,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -1723,15 +1723,15 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
@@ -1739,7 +1739,7 @@
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1747,15 +1747,15 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       }
     ],
@@ -1775,7 +1775,7 @@
   },
   {
     "id": "2016-030",
-    "title": "State v. Samalia",
+    "title": "State of Washington v. Samalia",
     "number": "91532-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160112",
     "questions": "Did police need a warrant to search a cell phone left in a stolen car by a suspect who fled and evaded police contact?",
@@ -1787,11 +1787,11 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -1799,19 +1799,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -1819,7 +1819,7 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "minority"
       }
     ],
@@ -1851,15 +1851,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -1867,7 +1867,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -1875,15 +1875,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -1915,11 +1915,11 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -1927,19 +1927,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
@@ -1947,7 +1947,7 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -1979,15 +1979,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -1995,7 +1995,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -2003,15 +2003,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -2043,15 +2043,15 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -2059,7 +2059,7 @@
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
@@ -2067,22 +2067,22 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ]
   },
   {
     "id": "2016-035",
-    "title": "State v. Fisher",
+    "title": "State of Washington v. Fisher",
     "number": "91438-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160114",
     "questions": "Was Fisher entitled to an affirmative defense instruction? Were Trosclair's confrontation rights violated?",
@@ -2094,11 +2094,11 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -2106,19 +2106,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
@@ -2126,7 +2126,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "minority"
       }
     ],
@@ -2158,11 +2158,11 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
@@ -2170,19 +2170,19 @@
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -2190,7 +2190,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -2210,7 +2210,7 @@
   },
   {
     "id": "2016-037",
-    "title": "State v. Sundberg",
+    "title": "State of Washington v. Sundberg",
     "number": "91660-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160119",
     "questions": "Whether it is misconduct for a prosecutor to comment on a defendant's failure to call a witness to corroborate an affirmative defense",
@@ -2222,11 +2222,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -2234,19 +2234,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -2254,7 +2254,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -2286,11 +2286,11 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -2298,19 +2298,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -2318,7 +2318,7 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -2350,11 +2350,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -2362,19 +2362,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -2382,7 +2382,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -2414,11 +2414,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -2426,19 +2426,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -2446,7 +2446,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -2478,11 +2478,11 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
@@ -2490,19 +2490,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -2510,7 +2510,7 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -2542,11 +2542,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -2554,19 +2554,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -2574,7 +2574,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -2606,11 +2606,11 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
@@ -2618,19 +2618,19 @@
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -2638,7 +2638,7 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -2658,7 +2658,7 @@
   },
   {
     "id": "2016-044",
-    "title": "State v. Stump",
+    "title": "State of Washington v. Stump",
     "number": "91531-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160128",
     "questions": "Did the State \"substantially prevail\" on appeal for purposes of awarding costs under RAP 14.2 when the Court of Appeals commissioner granted appointed appellate counsel's Anders motion to withdraw and dismissed the appeal without addressing the merits of the case?",
@@ -2670,15 +2670,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -2686,7 +2686,7 @@
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -2694,15 +2694,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -2734,11 +2734,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -2746,19 +2746,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -2766,7 +2766,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -2786,7 +2786,7 @@
   },
   {
     "id": "2016-046",
-    "title": "State v K. H.-H.",
+    "title": "State of Washington v. K. H.-H.",
     "number": "91934-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160216",
     "questions": "Is it a violation of freedom of speech to order a juvenile defendant in a criminal case to write a letter of apology?",
@@ -2798,11 +2798,11 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -2810,19 +2810,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
@@ -2830,7 +2830,7 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ]
@@ -2849,15 +2849,15 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -2865,7 +2865,7 @@
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -2873,15 +2873,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       }
     ],
@@ -2901,7 +2901,7 @@
   },
   {
     "id": "2016-048",
-    "title": "State v. Ashley",
+    "title": "State of Washington v. Ashley",
     "number": "91771-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160218",
     "questions": "Ashley was charged with unlawful imprisonment in connection with domestic violence. The court must determine whether evidence of Ashley's history of domestic violence against the complaining witness was properly admitted at trial",
@@ -2913,11 +2913,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -2925,19 +2925,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -2945,7 +2945,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -2965,7 +2965,7 @@
   },
   {
     "id": "2016-049",
-    "title": "State v. Otton",
+    "title": "State of Washington v. Otton",
     "number": "91669-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160218",
     "questions": "Can a police interview be an \"other proceeding\" under Evidence Rule 801(d)(1)(i)?",
@@ -2977,11 +2977,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -2989,19 +2989,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3009,7 +3009,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -3041,11 +3041,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -3053,19 +3053,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3073,7 +3073,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -3105,11 +3105,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -3117,19 +3117,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3137,7 +3137,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -3157,7 +3157,7 @@
   },
   {
     "id": "2016-052",
-    "title": "State v. Juarez Deleon",
+    "title": "State of Washington v. Juarez Deleon",
     "number": "91185-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160223",
     "questions": "Were the defendants prejudiced by gang evidence introduced at their trial for assault?",
@@ -3169,11 +3169,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -3181,19 +3181,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3201,7 +3201,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -3221,7 +3221,7 @@
   },
   {
     "id": "2016-053",
-    "title": "State v. Jones",
+    "title": "State of Washington v. Jones",
     "number": "89321-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160223",
     "questions": "The alternate jurors for Jones' trial were chosen during a court recess. Was this reversible error?",
@@ -3233,11 +3233,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -3245,15 +3245,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3261,7 +3261,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -3293,11 +3293,11 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
@@ -3305,19 +3305,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3325,7 +3325,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -3345,7 +3345,7 @@
   },
   {
     "id": "2016-055",
-    "title": "State v. Flores",
+    "title": "State of Washington v. Flores",
     "number": "91986-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160310",
     "questions": "Should evidence of a gun be suppressed under article I, section 7 of the Washington State Constitution?",
@@ -3357,15 +3357,15 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
@@ -3373,7 +3373,7 @@
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3381,15 +3381,15 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -3421,11 +3421,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -3433,19 +3433,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3453,7 +3453,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -3473,7 +3473,7 @@
   },
   {
     "id": "2016-057",
-    "title": "Lee v. State",
+    "title": "Lee v. State of Washington",
     "number": "92708-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160315",
     "questions": "Does Initiative 1366 violate article II, section 19, article XXIII, or article II, section 1 of the Washington State Constitution?",
@@ -3485,11 +3485,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -3497,19 +3497,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3517,7 +3517,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -3549,11 +3549,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -3561,19 +3561,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3581,7 +3581,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -3613,11 +3613,11 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -3625,19 +3625,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3645,7 +3645,7 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -3677,15 +3677,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -3693,7 +3693,7 @@
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3701,15 +3701,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -3741,15 +3741,15 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
@@ -3757,7 +3757,7 @@
         "side": "minority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "minority"
       },
       {
@@ -3765,15 +3765,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -3805,15 +3805,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -3821,7 +3821,7 @@
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3829,15 +3829,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -3869,11 +3869,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -3881,19 +3881,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3901,7 +3901,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -3921,7 +3921,7 @@
   },
   {
     "id": "2016-064",
-    "title": "State v. Trey M.",
+    "title": "State of Washington v. Trey M.",
     "number": "92593-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160505",
     "questions": "Should Washington change its First Amendment \"true threat\" test from a reasonable-speaker test to a subjective-intent test?",
@@ -3933,15 +3933,15 @@
     "score": "8-1",
     "votes": [
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -3949,7 +3949,7 @@
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -3957,15 +3957,15 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -4019,11 +4019,11 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -4031,19 +4031,19 @@
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4051,7 +4051,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -4083,11 +4083,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -4095,19 +4095,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4115,7 +4115,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -4147,11 +4147,11 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
@@ -4159,19 +4159,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4179,7 +4179,7 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -4211,11 +4211,11 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
@@ -4223,19 +4223,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4243,7 +4243,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -4275,11 +4275,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -4287,19 +4287,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4307,7 +4307,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -4339,11 +4339,11 @@
     "score": "8-1",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -4351,19 +4351,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4371,7 +4371,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -4403,15 +4403,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -4419,7 +4419,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -4427,15 +4427,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -4467,11 +4467,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -4479,19 +4479,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4499,7 +4499,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -4531,11 +4531,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -4543,19 +4543,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4563,7 +4563,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -4583,7 +4583,7 @@
   },
   {
     "id": "2016-075",
-    "title": "State v. Mohamed",
+    "title": "State of Washington v. Mohamed",
     "number": "92261-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160607",
     "questions": "Can an expert witness be cross-examined with a nontestifying defendant's prior convictions?",
@@ -4595,11 +4595,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -4607,19 +4607,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4627,7 +4627,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -4659,11 +4659,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -4671,19 +4671,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4691,7 +4691,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -4711,7 +4711,7 @@
   },
   {
     "id": "2016-077",
-    "title": "State v. Case",
+    "title": "State of Washington v. Case",
     "number": "92293-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160621",
     "questions": "Is a prior qualifying conviction an element of felony violation of a no-contact order under RCW 26.50.110(5)?",
@@ -4723,11 +4723,11 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -4735,19 +4735,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "minority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4755,7 +4755,7 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -4787,11 +4787,11 @@
     "score": "7-2",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
@@ -4799,19 +4799,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4819,7 +4819,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -4839,7 +4839,7 @@
   },
   {
     "id": "2016-079",
-    "title": "State v. Slert",
+    "title": "State of Washington v. Slert",
     "number": "92310-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160623",
     "questions": "Was it a harmless error when several jurors were dismissed in chambers during voir dire without the defendant Kenneth Slert present?",
@@ -4851,11 +4851,11 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "minority"
       },
       {
@@ -4863,19 +4863,19 @@
         "side": "minority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "minority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4883,7 +4883,7 @@
         "side": "minority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -4915,11 +4915,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -4927,19 +4927,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -4975,11 +4975,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -4987,15 +4987,15 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -5003,7 +5003,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -5023,7 +5023,7 @@
   },
   {
     "id": "2016-082",
-    "title": "State v. Goss",
+    "title": "State of Washington v. Goss",
     "number": "92274-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160707",
     "questions": "Is the fact the victim must be \"least twelve years old\" an essential element of second degree child molestation?",
@@ -5035,11 +5035,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -5047,15 +5047,15 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -5063,7 +5063,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -5095,11 +5095,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -5107,15 +5107,15 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -5123,7 +5123,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -5155,11 +5155,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -5167,19 +5167,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -5187,7 +5187,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -5219,11 +5219,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -5231,19 +5231,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -5251,7 +5251,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -5271,7 +5271,7 @@
   },
   {
     "id": "2016-086",
-    "title": "State v. Albarran",
+    "title": "State of Washington v. Albarran",
     "number": "92775-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160908",
     "questions": "When double jeopardy protections apply to second degree rape and second degree rape of a child convictions arising from the same act, which conviction should be vacated?",
@@ -5283,11 +5283,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -5295,19 +5295,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -5315,7 +5315,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -5347,15 +5347,15 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -5363,7 +5363,7 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
@@ -5371,15 +5371,15 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
     ],
@@ -5411,11 +5411,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -5423,19 +5423,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -5443,7 +5443,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -5475,11 +5475,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -5487,19 +5487,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -5507,7 +5507,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -5539,11 +5539,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -5551,19 +5551,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -5571,7 +5571,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -5603,11 +5603,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -5615,19 +5615,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -5635,7 +5635,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -5655,7 +5655,7 @@
   },
   {
     "id": "2016-092",
-    "title": "State v. Murray",
+    "title": "State of Washington v. Murray",
     "number": "92930-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20161027",
     "questions": "Did I-502 require officers to give inoperative informed consent warnings about marijuana before giving DUI breath tests?",
@@ -5667,11 +5667,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -5679,19 +5679,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -5699,7 +5699,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -5731,11 +5731,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -5743,19 +5743,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -5763,7 +5763,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],
@@ -5795,11 +5795,11 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
@@ -5807,19 +5807,19 @@
         "side": "majority"
       },
       {
-        "name": "MARY FAIRHURST",
+        "name": "MARY E. FAIRHURST",
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
+        "name": "DEBRA L. STEPHENS",
         "side": "majority"
       },
       {
-        "name": "CHARLES WIGGINS",
+        "name": "CHARLES K. WIGGINS",
         "side": "majority"
       },
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "STEVEN C. GONZÁLEZ",
         "side": "majority"
       },
       {
@@ -5827,7 +5827,7 @@
         "side": "majority"
       },
       {
-        "name": "MARY YU",
+        "name": "MARY I. YU",
         "side": "majority"
       }
     ],

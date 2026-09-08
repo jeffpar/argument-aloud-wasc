@@ -1,7 +1,7 @@
 [
   {
     "id": "2000-001",
-    "title": "State v. Baity",
+    "title": "State of Washington v. Baity",
     "number": "66876-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=991116",
     "facts": "Respondent Michael Baity was charged with driving under the influence after police utilized a 12-step drug recognition expert protocol to determine that Baity had been driving while under the influence of marijuana. At trial in the Superior Court for Pierce County, Baity successfully sought to suppress testimony from the drug recognition expert after the trial court concluded that the protocol employed lacked scientific validity and dismissed the charges. The state of Washington appealed the trial court's decision to exclude the expert testimony to the Supreme Court of Washington.",
@@ -25,15 +25,15 @@
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
@@ -41,11 +41,11 @@
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       },
       {
-        "name": "FAITH IRELAND",
+        "name": "FAITH E. IRELAND",
         "side": "majority"
       }
     ],
@@ -109,7 +109,7 @@
   },
   {
     "id": "2000-004",
-    "title": "State v. Martenuic",
+    "title": "State of Washington v. Martenuic",
     "number": "67948-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000111",
     "questions": "Whether a single agreement to commit multiple offenses may be prosecuted as several separate violations of the conspiracy statute. Whether one of the defendants has standing to challenge the search of a storage unit rented to a third person, which contained evidence used to convict him. If so, was the search a violation of his right to privacy?",
@@ -197,7 +197,7 @@
   },
   {
     "id": "2000-008",
-    "title": "State v. McCarty",
+    "title": "State of Washington v. McCarty",
     "number": "67902-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000113",
     "questions": "Should the petitioner's conviction for conspiracy to deliver drugs be reversed due to an information failing to charge him with all elements of the crime?",
@@ -352,7 +352,7 @@
   },
   {
     "id": "2000-015",
-    "title": "Wilson v. State",
+    "title": "Wilson v. State of Washington",
     "number": "68297-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000127",
     "questions": "Whether federal law prohibits the imposition of a state statutory recovery lien against the proceeds of a Medicaid recipient's third party recovery beyond that portion of the recovery allocated to medical expenses.",
@@ -493,7 +493,7 @@
   },
   {
     "id": "2000-022",
-    "title": "State v. Batten",
+    "title": "State of Washington v. Batten",
     "number": "68095-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000217",
     "questions": "Whether the defendant's felonious possession in his car of drugs and a gun supports revocation of his driver's license for \"[a]ny felony in the commission of which a motor vehicle is used.\" RCW 46.20.285(4).",
@@ -559,28 +559,6 @@
   },
   {
     "id": "2000-025",
-    "title": "(cons. w/43472-1, 43482-9, 43483-7, & King 972179432) Wallace L. Jorgensen; Joyce Jorgensen; Fred Lawrence; Carol Lawrence; Cascade Golf Course; Black River Quarry, Inc.; Herzl Memorial Park; and Covington Water District, Appellants, v. Pollution Control Hearings Board; Department of Ecology; Tulalip Tribes of Washington; Center for Environmental Law and Policy; and Muckleshoot Indian Tribe, Respondents",
-    "number": "67786-7",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000301",
-    "questions": "Whether the Department of Ecology may deny or condition a groundwater withdrawal permit in order to protect the minimum flow of a stream with which the groundwater source is in \"hydraulic continuity.\"",
-    "argument": "2000-03-01",
-    "argument_day": "Wednesday, March 1, 2000",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2000-03-01",
-        "title": "Oral Argument on Wednesday, March 1, 2000",
-        "page_url": "https://tvw.org/video/wa-state-supreme-court-75/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200003/2000030001C.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2000031165/media.m3u8",
-        "length": "01:05:21",
-        "captions_url": "https://m-download.invintus.com/9375922947/40e94c5079347fbfdd2e948239f1b8545f52277c.vtt"
-      }
-    ]
-  },
-  {
-    "id": "2000-026",
     "title": "Tae Kim, limited guardian for the estate of Peter Kim; Ki Young Kim; and Won Sook Kim, Appellants, v. Budget Rent-A-Car Systems , a Delaware Corporation, Respondent, and Demicus Young, Defendant",
     "number": "67352-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000301",
@@ -602,8 +580,8 @@
     ]
   },
   {
-    "id": "2000-027",
-    "title": "State v. Kinzy",
+    "id": "2000-026",
+    "title": "State of Washington v. Kinzy",
     "number": "68239-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000301",
     "questions": "Whether, under the Fourth Amendment to the United States Constitution, police officers may exercise their \"community caretaking function\" to lawfully detain a minor without a warrant when there is no evidence of criminal activity and the minor is standing on a public sidewalk in a high narcotics trafficking area on a school night with an older person believed to be associated with narcotics.",
@@ -624,8 +602,8 @@
     ]
   },
   {
-    "id": "2000-028",
-    "title": "State v. Chapman",
+    "id": "2000-027",
+    "title": "State of Washington v. Chapman",
     "number": "68416-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000307",
     "questions": "Whether a felony conviction for violation of a protection order (RCW 26.50.110(5)) can be based upon violation of an order prohibiting the defendant from coming within one mile of the victim's residence.",
@@ -646,7 +624,7 @@
     ]
   },
   {
-    "id": "2000-029",
+    "id": "2000-028",
     "title": "Cockle v. State",
     "number": "68539-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000307",
@@ -668,7 +646,7 @@
     ]
   },
   {
-    "id": "2000-030",
+    "id": "2000-029",
     "title": "Dean v. State",
     "number": "68281-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000309",
@@ -690,8 +668,8 @@
     ]
   },
   {
-    "id": "2000-031",
-    "title": "State v. Anderson",
+    "id": "2000-030",
+    "title": "State of Washington v. Anderson",
     "number": "67826-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000309",
     "questions": "Whether a defendant's knowledge of the presence of a firearm (in this case in his car) is an element of the crime of unlawful possession of a firearm.",
@@ -712,8 +690,8 @@
     ]
   },
   {
-    "id": "2000-032",
-    "title": "State v. Williams",
+    "id": "2000-031",
+    "title": "State of Washington v. Williams",
     "number": "67963-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000309",
     "questions": "Whether the search of a defendant following his arrest, on a valid arrest warrant, is invalid because the person in whose home the arrest was made was not informed that he need not consent to the officers' entry.",
@@ -734,7 +712,7 @@
     ]
   },
   {
-    "id": "2000-033",
+    "id": "2000-032",
     "title": "Waterjet Technology , Plaintiff, v. Flow International Corp., a Delaware corporation; Mohamad Hashish; and Steven Craigen, Defendants",
     "number": "68500-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000309",
@@ -756,7 +734,7 @@
     ]
   },
   {
-    "id": "2000-034",
+    "id": "2000-033",
     "title": "In re Bailey",
     "number": "68188-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000320",
@@ -778,7 +756,7 @@
     ]
   },
   {
-    "id": "2000-035",
+    "id": "2000-034",
     "title": "In re Crabtree",
     "number": "67176-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000320",
@@ -800,7 +778,7 @@
     ]
   },
   {
-    "id": "2000-036",
+    "id": "2000-035",
     "title": "In re Schoessler",
     "number": "69048-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000320",
@@ -822,7 +800,7 @@
     ]
   },
   {
-    "id": "2000-037",
+    "id": "2000-036",
     "title": "In re Thompson",
     "number": "67705-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000320",
@@ -844,7 +822,7 @@
     ]
   },
   {
-    "id": "2000-038",
+    "id": "2000-037",
     "title": "In re Stoudmire",
     "number": "67711-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000320",
@@ -866,7 +844,7 @@
     ]
   },
   {
-    "id": "2000-039",
+    "id": "2000-038",
     "title": "In re Crabtree",
     "number": "67536-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000320",
@@ -888,8 +866,8 @@
     ]
   },
   {
-    "id": "2000-040",
-    "title": "State v. Smith",
+    "id": "2000-039",
+    "title": "State of Washington v. Smith",
     "number": "65585-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000322",
     "questions": "Whether this court should uphold the appellant's conviction for two counts of aggravated first-degree murder, assault, and attempting to elude the police. If so, should this court affirm the sentence of death that was imposed upon the appellant.",
@@ -910,7 +888,7 @@
     ]
   },
   {
-    "id": "2000-041",
+    "id": "2000-040",
     "title": "In re Taylor",
     "number": "68486-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000509",
@@ -932,7 +910,7 @@
     ]
   },
   {
-    "id": "2000-042",
+    "id": "2000-041",
     "title": "Nancy Ellwein And Tom Ellwein, Petitioners, v. Hartford Accident and Indemnity Company, a Connecticut corporation d/b/a The Hartford, the insurance people of ITT, Respondent",
     "number": "68230-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000509",
@@ -954,7 +932,7 @@
     ]
   },
   {
-    "id": "2000-043",
+    "id": "2000-042",
     "title": "In re Matteson",
     "number": "68310-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000509",
@@ -976,7 +954,7 @@
     ]
   },
   {
-    "id": "2000-044",
+    "id": "2000-043",
     "title": "In re Hull",
     "number": "68492-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000509",
@@ -998,7 +976,7 @@
     ]
   },
   {
-    "id": "2000-045",
+    "id": "2000-044",
     "title": "Patrick Inniss, Sam Lopez, and Adnan Haq, Petitioners, v. Tandy Corporation, d/b/a Radio Shack, Respondent. Dennis Moran",
     "number": "68225-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000509",
@@ -1020,8 +998,8 @@
     ]
   },
   {
-    "id": "2000-046",
-    "title": "State v. Roberts",
+    "id": "2000-045",
+    "title": "State of Washington v. Roberts",
     "number": "65512-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000511",
     "questions": "Whether the verdict of aggravated first degree murder and sentence of death should be upheld based on these and other issues: (1) whether the death sentence is proper if the jury's findings did not clarify if the defendant either personally committed the murder or was an accomplice to the crime; (2) whether the trial judge erred by not admitting the co-defendant's confession into evidence; and (3) whether a defendant may be held liable as an accomplice for the crimes of his co-defendant if the defendant did not have knowledge of those specific charges crimes. RECORDS Case Records Caseload Reports Court Dates Judicial Information System (JIS) JIS LINK Odyssey Portal Records Requests RESOURCES Civic Learning Court News Court Program Accessibility Digital Accessibility Jury Duty Procurement Opportunities Resources, Publications, and Reports Self Help State Law Library Whistleblower Policy QUICK LINKS Court Closures and Emergency Modifications to Operations Court Forms Court Opinions Court Rules Protection Order Forms Emergency Procedures eService Center Pattern Jury Instructions TRANSLATIONS 中文形式/Chinese 한국어서류/Korean Pусский/Russian Español/Spanish Tiếng Việt/Vietnamese ABOUT Administrative Office of the Courts Appellate and Trial Courts Careers Contact Us Programs and Organizations Supreme Court Privacy and Disclaimer Notices Sitemap © Copyright 2026. Washington State Administrative Office of the Courts. N1",
@@ -1042,7 +1020,7 @@
     ]
   },
   {
-    "id": "2000-047",
+    "id": "2000-046",
     "title": "State v. Cronin",
     "number": "69043-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000516",
@@ -1063,7 +1041,7 @@
     ]
   },
   {
-    "id": "2000-048",
+    "id": "2000-047",
     "title": "In re Davis",
     "number": "68053-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000516",
@@ -1084,7 +1062,7 @@
     ]
   },
   {
-    "id": "2000-049",
+    "id": "2000-048",
     "title": "State v. Bui",
     "number": "69050-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000516",
@@ -1105,7 +1083,7 @@
     ]
   },
   {
-    "id": "2000-050",
+    "id": "2000-049",
     "title": "State v. Bradley",
     "number": "68320-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000516",
@@ -1126,7 +1104,7 @@
     ]
   },
   {
-    "id": "2000-051",
+    "id": "2000-050",
     "title": "State v. Root",
     "number": "68098-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000518",
@@ -1147,7 +1125,7 @@
     ]
   },
   {
-    "id": "2000-052",
+    "id": "2000-051",
     "title": "In re Greening",
     "number": "68559-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000518",
@@ -1168,7 +1146,7 @@
     ]
   },
   {
-    "id": "2000-053",
+    "id": "2000-052",
     "title": "In re Tasker, Attorney at Law",
     "number": "12426-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000518",
@@ -1189,7 +1167,7 @@
     ]
   },
   {
-    "id": "2000-054",
+    "id": "2000-053",
     "title": "State v. Burleson",
     "number": "68337-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000518",
@@ -1210,7 +1188,7 @@
     ]
   },
   {
-    "id": "2000-055",
+    "id": "2000-054",
     "title": "Liberty Mutual Insurance Company, Petitioner, v. Gordon Tripp and Diane Tripp, husband and wife and the marital community composed thereof, Respondents",
     "number": "68362-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000523",
@@ -1233,7 +1211,7 @@
     ]
   },
   {
-    "id": "2000-056",
+    "id": "2000-055",
     "title": "State v. State",
     "number": "68363-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000523",
@@ -1255,7 +1233,7 @@
     ]
   },
   {
-    "id": "2000-057",
+    "id": "2000-056",
     "title": "In re Anschell, Attorney at Law",
     "number": "09756-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000523",
@@ -1276,7 +1254,7 @@
     ]
   },
   {
-    "id": "2000-058",
+    "id": "2000-057",
     "title": "In re Felix, Attorney at Law",
     "number": "00136",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000523",
@@ -1297,8 +1275,8 @@
     ]
   },
   {
-    "id": "2000-059",
-    "title": "State v. Davis",
+    "id": "2000-058",
+    "title": "State of Washington v. Davis",
     "number": "66537-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000525",
     "questions": "Whether the conviction of a person for aggravated first degree murder and imposition of the death penalty should be upheld under a claim that the trial court erred in not, on its own, asking prospective jurors questions concerning racial or ethnic prejudice; and claiming that the trial court erred in admitting the testimony of certain prosecution witnesses.",
@@ -1319,15 +1297,15 @@
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
@@ -1335,15 +1313,15 @@
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "minority"
       },
       {
-        "name": "FAITH IRELAND",
+        "name": "FAITH E. IRELAND",
         "side": "majority"
       },
       {
-        "name": "BOBBE BRIDGE",
+        "name": "BOBBE J. BRIDGE",
         "side": "majority"
       }
     ],
@@ -1362,8 +1340,8 @@
     ]
   },
   {
-    "id": "2000-060",
-    "title": "State v. Longshore",
+    "id": "2000-059",
+    "title": "State of Washington v. Longshore",
     "number": "68531-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000531",
     "questions": "Whether clams in naturally occurring beds on privately owned tidelands qualify as \"property of another\" for purposes of the theft statutes.",
@@ -1384,7 +1362,7 @@
     ]
   },
   {
-    "id": "2000-061",
+    "id": "2000-060",
     "title": "Allstate Insurance Company, Respondent, v. Martin E. Raynor, individually, as the personal representative of the Estate of Cheryl Raynor, and as the Guardian Ad Litem of Kathryn Raynor, a minor; David Johnson, individually and as the personal representative of the Estate of Candy Johnson, Petitioners, and Margie E. King, individually; John Doe, as the personal representative of the Estate of Milton R. King; City of Longview, a municipal corporation; County of Cowlitz, a political subdivision of Washington State; Casey Tilton and Jane Doe Tilton, husband and wife and the marital community composed thereof; and Tom Homad and Jane Doe Homad, husband and wife and the marital community composed thereof, Defendants",
     "number": "68141-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000531",
@@ -1406,7 +1384,7 @@
     ]
   },
   {
-    "id": "2000-062",
+    "id": "2000-061",
     "title": "King v. State",
     "number": "68284-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000531",
@@ -1428,7 +1406,7 @@
     ]
   },
   {
-    "id": "2000-063",
+    "id": "2000-062",
     "title": "In re Nielsen",
     "number": "68017-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000531",
@@ -1450,7 +1428,7 @@
     ]
   },
   {
-    "id": "2000-064",
+    "id": "2000-063",
     "title": "In re Brooks",
     "number": "68201-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000615",
@@ -1472,7 +1450,7 @@
     ]
   },
   {
-    "id": "2000-065",
+    "id": "2000-064",
     "title": "In re Washington",
     "number": "68501-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000615",
@@ -1494,8 +1472,8 @@
     ]
   },
   {
-    "id": "2000-066",
-    "title": "State v. Greiff",
+    "id": "2000-065",
+    "title": "State of Washington v. Greiff",
     "number": "68370-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000615",
     "questions": "Whether the State's failure to disclose what a police witness would say at trial, or admission of hearsay to explain the absence of rape test results, were harmless errors.",
@@ -1516,7 +1494,7 @@
     ]
   },
   {
-    "id": "2000-067",
+    "id": "2000-066",
     "title": "In re Brooks",
     "number": "68116-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000615",
@@ -1538,7 +1516,7 @@
     ]
   },
   {
-    "id": "2000-068",
+    "id": "2000-067",
     "title": "Gary Dean Broad and Denise Broad, Appellants, v. Mannesmann Anlagenbau AG, Apellee",
     "number": "68804-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000615",
@@ -1560,7 +1538,7 @@
     ]
   },
   {
-    "id": "2000-069",
+    "id": "2000-068",
     "title": "State v. Gregoire",
     "number": "68466-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000615",
@@ -1569,7 +1547,7 @@
     "argument_day": "Thursday, June 15, 2000"
   },
   {
-    "id": "2000-070",
+    "id": "2000-069",
     "title": "North Pacific Insurance Company, an insurance company doing business in Washington, Respondent, v. Robert E. Christensen, III, an individual, and James R. Farmer and Pamela B. Farmer, husband and wife, Petitioners. Robert Gellatly, Jr",
     "number": "68155-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000620",
@@ -1591,7 +1569,7 @@
     ]
   },
   {
-    "id": "2000-071",
+    "id": "2000-070",
     "title": "International Brotherhood of Electrical Workers, Local Union No. 46, Appellant, v. Trig Electric Construction Company; Lydig Construction, Inc.; Fidelity and Deposit Company of Maryland; and Department of General Administration, Respondents",
     "number": "68504-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000620",
@@ -1613,7 +1591,7 @@
     ]
   },
   {
-    "id": "2000-072",
+    "id": "2000-071",
     "title": "David A. Ellis, Petitioner, v. City of Seattle d/b/a Seattle Center, Respondent",
     "number": "68252-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000620",
@@ -1635,7 +1613,7 @@
     ]
   },
   {
-    "id": "2000-073",
+    "id": "2000-072",
     "title": "Michele J. Ziegler, and her adult children, Luke Ziegler and Journee Ziegler, Plaintiffs, v. Reid T. Ziegler, Defendant. United States of America, Plaintiff-Intervener",
     "number": "67554-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000620",
@@ -1657,7 +1635,7 @@
     ]
   },
   {
-    "id": "2000-074",
+    "id": "2000-073",
     "title": "State ex rel. Peninsula Neighborhood Association, Appellant, v. Washington State Department of Transportation, and Secretary Sid Morrison, Respondents",
     "number": "69432-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000622",
@@ -1679,7 +1657,7 @@
     ]
   },
   {
-    "id": "2000-075",
+    "id": "2000-074",
     "title": "In re Erickson",
     "number": "44100-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000622",
@@ -1700,7 +1678,7 @@
     ]
   },
   {
-    "id": "2000-076",
+    "id": "2000-075",
     "title": "In re Meyer",
     "number": "68271-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000622",
@@ -1722,7 +1700,7 @@
     ]
   },
   {
-    "id": "2000-077",
+    "id": "2000-076",
     "title": "In re Quackenbush",
     "number": "68566-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000622",
@@ -1744,7 +1722,7 @@
     ]
   },
   {
-    "id": "2000-078",
+    "id": "2000-077",
     "title": "Whitman County, Appellant, v. Victor and Roberta Moore, Respondents",
     "number": "69053-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000622",
@@ -1766,7 +1744,7 @@
     ]
   },
   {
-    "id": "2000-079",
+    "id": "2000-078",
     "title": "In re Sundstrom",
     "number": "25267-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000622",
@@ -1787,8 +1765,8 @@
     ]
   },
   {
-    "id": "2000-080",
-    "title": "State v. Conwell",
+    "id": "2000-079",
+    "title": "State of Washington v. Conwell",
     "number": "68465-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000627",
     "questions": "Whether the trial court deprived the defendant of his rule-based right to plead guilty when it rejected a plea agreement and his pleas of guilty to the gross misdemeanors charged in the original information and entered pleas of not guilty on the defendant's behalf without informing him of his option to adhere to his guilty pleas.",
@@ -1809,7 +1787,7 @@
     ]
   },
   {
-    "id": "2000-081",
+    "id": "2000-080",
     "title": "Wilbur G. Hallauer and Josephine Hallauer, husband and wife; and Champerty Shores Owners Association, a Washington nonprofit corporation, Petitioners, v. Spectrum Properties , a corporation, Defendant, Ernesto C. Del Rosario and Madeline B. Del Rosario, husband and wife, Respondents",
     "number": "68554-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000627",
@@ -1831,7 +1809,7 @@
     ]
   },
   {
-    "id": "2000-082",
+    "id": "2000-081",
     "title": "Sebastian v. State",
     "number": "68228-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000627",
@@ -1853,7 +1831,7 @@
     ]
   },
   {
-    "id": "2000-083",
+    "id": "2000-082",
     "title": "Samis Land Company, the Estate of Samuel Israel, and the Samuel Israel Living Trust, Respondents, v. City of Soap Lake, Petitioner",
     "number": "68520-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000627",
@@ -1875,8 +1853,8 @@
     ]
   },
   {
-    "id": "2000-084",
-    "title": "State v. Nolan",
+    "id": "2000-083",
+    "title": "State of Washington v. Nolan",
     "number": "69046-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000629",
     "questions": "Whether the State may be awarded costs under RCW 10.73.160 for prevailing in a criminal appeal even if the defendant's appeal was not meritless or frivolous.",
@@ -1897,7 +1875,7 @@
     ]
   },
   {
-    "id": "2000-085",
+    "id": "2000-084",
     "title": "Tina Van Noy; Patricia F. Dinnis (formerly Patricia Faye Burkett); and Elaine Ebersole; on behalf of themselves and all others similarly situated, Respondents, v. State Farm Mutual Automobile Insurance Company and State Farm Fire and Casualty Company, Petitioners",
     "number": "68548-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000629",
@@ -1919,7 +1897,7 @@
     ]
   },
   {
-    "id": "2000-086",
+    "id": "2000-085",
     "title": "Amalgamated Transit v. State",
     "number": "69433-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000629",
@@ -1941,7 +1919,7 @@
     ]
   },
   {
-    "id": "2000-087",
+    "id": "2000-086",
     "title": "State v. Walsh",
     "number": "68979-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000921",
@@ -1962,7 +1940,7 @@
     ]
   },
   {
-    "id": "2000-088",
+    "id": "2000-087",
     "title": "McGee Guest Home v. State",
     "number": "68588-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000921",
@@ -1984,7 +1962,7 @@
     ]
   },
   {
-    "id": "2000-089",
+    "id": "2000-088",
     "title": "Nick Furfaro, Brandy Kidder, Esmeralda Silva, and JJR , Respondents, v. City of Seattle, Petitioner, Steve Butler and Jane Doe Butler; Dan Oliver and Jane Doe Oliver; Mike Nelson and Jane Doe Nelson; and Richard Niemic and Jane Doe Niemic, Defendants",
     "number": "68971-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000921",
@@ -2006,7 +1984,7 @@
     ]
   },
   {
-    "id": "2000-090",
+    "id": "2000-089",
     "title": "Michael J. Ellerman, Petitioner, v. Centerpoint Prepress , a Washington corporation; and Rosemary Widener, Defendants, and Betty Handly, Respondent",
     "number": "68632-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000921",
@@ -2028,7 +2006,7 @@
     ]
   },
   {
-    "id": "2000-091",
+    "id": "2000-090",
     "title": "State v. Atsbeha",
     "number": "68649-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000926",
@@ -2050,7 +2028,7 @@
     ]
   },
   {
-    "id": "2000-092",
+    "id": "2000-091",
     "title": "Christie Griffin, Respondent, v. West RS , d/b/a Trammell Crow Residential Services, a Texas corporation; and Anthony Wayne Spencer, Petitioners",
     "number": "68911-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000926",
@@ -2072,7 +2050,7 @@
     ]
   },
   {
-    "id": "2000-093",
+    "id": "2000-092",
     "title": "David Diaz, a single man; and Marilyn Walker, individually, and as Guardian Ad Litem for Veronica Reaves and Dominique Diaz, her minor dependent children, Petitioners, v. National Car Rental Systems , a Minnesota corporation; and Philadelphia Indemnity Insurance Company, a foreign corporation, Respondents",
     "number": "68258-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000926",
@@ -2094,7 +2072,7 @@
     ]
   },
   {
-    "id": "2000-094",
+    "id": "2000-093",
     "title": "State v. State",
     "number": "68655-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000926",
@@ -2116,7 +2094,7 @@
     ]
   },
   {
-    "id": "2000-095",
+    "id": "2000-094",
     "title": "Michelle Snyder, Petitioner, v. Medical Service Corporation of Eastern Washington, Respondent",
     "number": "69091-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000928",
@@ -2138,7 +2116,7 @@
     ]
   },
   {
-    "id": "2000-096",
+    "id": "2000-095",
     "title": "State v. Radan",
     "number": "69201-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20000928",
@@ -2160,8 +2138,8 @@
     ]
   },
   {
-    "id": "2000-097",
-    "title": "State v. Platt",
+    "id": "2000-096",
+    "title": "State of Washington v. Platt",
     "number": "68750-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001017",
     "questions": "Whether the burden of proof at an insanity acquittee's conditional release hearing is on the State or on the Acquittee.",
@@ -2182,8 +2160,8 @@
     ]
   },
   {
-    "id": "2000-098",
-    "title": "State v. Vrieling",
+    "id": "2000-097",
+    "title": "State of Washington v. Vrieling",
     "number": "68672-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001017",
     "questions": "Whether under the \"search incident to arrest\" exception to Wash. Const. art. 1 Sec. 7, police officers may search sofa cushions in the rear living compartment of a motor home.",
@@ -2204,7 +2182,7 @@
     ]
   },
   {
-    "id": "2000-099",
+    "id": "2000-098",
     "title": "Eleanor Hill, a single woman, Petitioner, v. BCTI Income Fund-I, a Washington limited partnership, d/b/a Business Computer Training Institute, a Washington corporation; John Doe and Jane Doe I-X, d/b/a BCTI Associates; Business Computer Training Institute , a corporation, Respondents",
     "number": "68783-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001017",
@@ -2226,7 +2204,7 @@
     ]
   },
   {
-    "id": "2000-100",
+    "id": "2000-099",
     "title": "In re Dyer",
     "number": "67673-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001017",
@@ -2248,8 +2226,8 @@
     ]
   },
   {
-    "id": "2000-101",
-    "title": "State v. Ferguson",
+    "id": "2000-100",
+    "title": "State of Washington v. Ferguson",
     "number": "68899-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001019",
     "questions": "Whether an aggravated exceptional sentence above the standard range for a person convicted of assault in the second degree who, with intent to inflict bodily harm, exposes another to the human immunodeficiency virus (HIV), is justified by the trial court's finding of \"deliberate cruelty.\"",
@@ -2270,8 +2248,8 @@
     ]
   },
   {
-    "id": "2000-102",
-    "title": "State v. Gore",
+    "id": "2000-101",
+    "title": "State of Washington v. Gore",
     "number": "65376-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001019",
     "questions": "The defendant challenges the validity of a search warrant issued for blood and saliva samples and photographs of the defendant, the admission at trial of DNA evidence involving DQ alpha, D1S80, and polymarker techniques, and his exceptional sentence upward.",
@@ -2292,7 +2270,7 @@
     ]
   },
   {
-    "id": "2000-103",
+    "id": "2000-102",
     "title": "In re Maggs",
     "number": "68700-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001019",
@@ -2314,7 +2292,7 @@
     ]
   },
   {
-    "id": "2000-104",
+    "id": "2000-103",
     "title": "Jim Bulman, Respondent, v. Safeway , Petitioner",
     "number": "68670-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001024",
@@ -2336,8 +2314,8 @@
     ]
   },
   {
-    "id": "2000-105",
-    "title": "State v. McNeal",
+    "id": "2000-104",
+    "title": "State of Washington v. McNeal",
     "number": "68989-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001024",
     "questions": "Whether an irreconcilable inconsistency between a general verdict on a vehicular assault charge and a special verdict on a separate vehicular homicide charge requires vacation of either conviction under RCW 4.44.440, which provides that special verdicts shall control inconsistent general verdicts.",
@@ -2345,7 +2323,7 @@
     "argument_day": "Tuesday, October 24, 2000"
   },
   {
-    "id": "2000-106",
+    "id": "2000-105",
     "title": "Wendy Haywood, individually, Plaintiff, Deborah Hittle, individually, Petitioner, v. Ildefonsa Aranda and Jane Doe Aranda, husband and wife, Respondents",
     "number": "68868-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001024",
@@ -2367,7 +2345,7 @@
     ]
   },
   {
-    "id": "2000-107",
+    "id": "2000-106",
     "title": "Mary K. Creso, Petitioner, v. Lauri J. Philips, Respondent",
     "number": "68905-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001024",
@@ -2376,7 +2354,7 @@
     "argument_day": "Tuesday, October 24, 2000"
   },
   {
-    "id": "2000-108",
+    "id": "2000-107",
     "title": "Gail Winbun and Lee Winbun, wife and husband, and the marital community composed thereof, Petitioners, v. Jane A. Moore, M.D. and John Doe Moore, wife and husband, and the marital community composed thereof; Carter Hill, M.D. and Jane Doe Hill, husband and wife, and the marital community composed thereof; and Highline Community Hospital, a Washington non-profit corporation, Defendants, H. Steven Epstein and Jane Doe Epstein, husband and wife, and the marital community composed thereof, Respondents",
     "number": "68967-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001024",
@@ -2398,7 +2376,7 @@
     ]
   },
   {
-    "id": "2000-109",
+    "id": "2000-108",
     "title": "Terry Raymond, husband, Carmella J. Raymond, his wife, and the marital community comprised thereof, Petitioners, v. Pacific Chemical, a division of Pace International, L.P.; S/L III , a Washington corporation; Richard Hunter and Jane Doe Hunter and the marital community comprised thereof; Glen Gay and Karen Gay and the marital community comprised thereof; William Boring and Pam Boring and the marital community comprised thereof; and Phil Ward and Kay Ward and the marital community comprised thereof, Respondents",
     "number": "69155-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001026",
@@ -2407,7 +2385,7 @@
     "argument_day": "Thursday, October 26, 2000"
   },
   {
-    "id": "2000-110",
+    "id": "2000-109",
     "title": "John A. and Gertrude M. Godfrey, husband and wife, Petitioners, v. Hartford Casualty Insurance Company, a foreign corp., Respondent",
     "number": "69454-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001026",
@@ -2416,7 +2394,7 @@
     "argument_day": "Thursday, October 26, 2000"
   },
   {
-    "id": "2000-111",
+    "id": "2000-110",
     "title": "Beverly Brown, Respondent, v. Scott Paper Worldwide Company; Ray Jones; Gary Zimmerman; Charlie Garneski; Brian Martin; William Bombardier; and James R. Lockhard, Petitioners",
     "number": "69067-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001026",
@@ -2438,8 +2416,8 @@
     ]
   },
   {
-    "id": "2000-112",
-    "title": "State v. Keller",
+    "id": "2000-111",
+    "title": "State of Washington v. Keller",
     "number": "68993-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001026",
     "questions": "Whether two prior felony convictions which count as one offense in calculating an offender score because the sentences were served concurrently count as two prior convictions in determining \"strikes\" under the Persistent Offender Act.",
@@ -2460,7 +2438,7 @@
     ]
   },
   {
-    "id": "2000-113",
+    "id": "2000-112",
     "title": "State v. issues",
     "number": "67342-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001109",
@@ -2482,7 +2460,7 @@
     ]
   },
   {
-    "id": "2000-114",
+    "id": "2000-113",
     "title": "David E. Svendsen, Petitioner, v. Gregg N. Stock and Randi R. Stock, husband and wife and the marital community composed thereof, Defendants, Connie Edwards and John L. Scott , Respondents, Greenwood Point Homeowners Association, Seattle/Eastside Building Inspections, Inc.; and David M. Irvine, Defendants",
     "number": "69283-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001116",
@@ -2504,7 +2482,7 @@
     ]
   },
   {
-    "id": "2000-115",
+    "id": "2000-114",
     "title": "Ignacio Guillen, as legal guardian for Jennifer Guillen and Alma Guillen, minors; and Mariano Guillen, as legal guardian for Paulina Guillen and Fatima Guillen, Respondents, v. Pierce County, a municipal corporation, Petitioner",
     "number": "68535-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001116",
@@ -2526,7 +2504,7 @@
     ]
   },
   {
-    "id": "2000-116",
+    "id": "2000-115",
     "title": "In re Nguyen",
     "number": "68994-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001116",
@@ -2548,7 +2526,7 @@
     ]
   },
   {
-    "id": "2000-117",
+    "id": "2000-116",
     "title": "Robert and LuAnn Whitmer, husband and wife, individually, and as the guardians of Shana Whitmer, a minor, Hannah Whitmer, a minor, and Denel Whitmer, an incapacitated person, Respondents, v. Chin S. Yuk and Jane Doe Yuk, husband and wife, and the marital community composed thereof; Chang Choi and Jane Doe Choi, husband and wife, and the marital community composed thereof; City of Tacoma, a municipal corporation; Pierce County, a municipal corporation; and the City of Lakewood, a municipal corporation, Petitioners",
     "number": "69327-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001116",
@@ -2557,7 +2535,7 @@
     "argument_day": "Thursday, November 16, 2000"
   },
   {
-    "id": "2000-118",
+    "id": "2000-117",
     "title": "First American Title v. State",
     "number": "69218-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001128",
@@ -2578,7 +2556,7 @@
     ]
   },
   {
-    "id": "2000-119",
+    "id": "2000-118",
     "title": "In re Fleming",
     "number": "68732-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001128",
@@ -2599,7 +2577,7 @@
     ]
   },
   {
-    "id": "2000-120",
+    "id": "2000-119",
     "title": "In re Perkins",
     "number": "69662-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001128",
@@ -2620,7 +2598,7 @@
     ]
   },
   {
-    "id": "2000-121",
+    "id": "2000-120",
     "title": "State v. Sullivan",
     "number": "69334-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001130",
@@ -2641,7 +2619,7 @@
     ]
   },
   {
-    "id": "2000-122",
+    "id": "2000-121",
     "title": "In re Connett",
     "number": "69119-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001130",
@@ -2662,7 +2640,7 @@
     ]
   },
   {
-    "id": "2000-123",
+    "id": "2000-122",
     "title": "Skamania County and Brian and Jody Bea, Appellants, v. Columbia River Gorge Commission and Friends of the Columbia Gorge, Respondents",
     "number": "68602-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001130",
@@ -2683,8 +2661,8 @@
     ]
   },
   {
-    "id": "2000-124",
-    "title": "State v. Williams",
+    "id": "2000-123",
+    "title": "State of Washington v. Williams",
     "number": "69382-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001206",
     "questions": "Whether a criminal harassment statute is unconstitutionally vague, overbroad or impinging of free speech, when a term in the statute is not defined.",
@@ -2705,7 +2683,7 @@
     ]
   },
   {
-    "id": "2000-125",
+    "id": "2000-124",
     "title": "Isla Verde International v. State",
     "number": "69475-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001206",
@@ -2727,7 +2705,7 @@
     ]
   },
   {
-    "id": "2000-126",
+    "id": "2000-125",
     "title": "River Park Square, L.L.C.; RPS II , Washington limited liability companies; Citizens Realty Company, a Washington corporation; and U.S. Bank Trust National Association, Respondents, v. Henry Miggins, City Manager; James C. Sloane, City Attorney, Appellants, Stephen K. Eugster, Additional Appellant",
     "number": "69769-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2000&file=20001206",

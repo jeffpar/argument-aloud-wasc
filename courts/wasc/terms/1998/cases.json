@@ -17,7 +17,7 @@
     "score": "6-3",
     "votes": [
       {
-        "name": "BARBARA DURHAM",
+        "name": "BARBARA M. DURHAM",
         "side": "minority"
       },
       {
@@ -33,15 +33,15 @@
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "minority"
       },
       {
@@ -49,7 +49,7 @@
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       }
     ],
@@ -84,7 +84,7 @@
     "score": "6-2",
     "votes": [
       {
-        "name": "BARBARA DURHAM",
+        "name": "BARBARA M. DURHAM",
         "side": "majority"
       },
       {
@@ -96,15 +96,15 @@
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "minority"
       },
       {
@@ -112,7 +112,7 @@
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "minority"
       }
     ],
@@ -147,7 +147,7 @@
     "score": "9-0",
     "votes": [
       {
-        "name": "BARBARA DURHAM",
+        "name": "BARBARA M. DURHAM",
         "side": "majority"
       },
       {
@@ -163,15 +163,15 @@
         "side": "majority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "majority"
       },
       {
@@ -179,7 +179,7 @@
         "side": "majority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       }
     ],
@@ -220,7 +220,7 @@
   },
   {
     "id": "1998-005",
-    "title": "State v. Ford",
+    "title": "State of Washington v. Ford",
     "number": "62075-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=w&file=98-01-13",
     "argument": "1998-01-13",
@@ -304,7 +304,7 @@
   },
   {
     "id": "1998-009",
-    "title": "State v. Tolias",
+    "title": "State of Washington v. Tolias",
     "number": "65234-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=w&file=98-01-14",
     "argument": "1998-01-14",
@@ -367,7 +367,7 @@
   },
   {
     "id": "1998-012",
-    "title": "PACCAR v. State",
+    "title": "PACCAR v. State of Washington",
     "number": "65178-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=w&file=98-01-14",
     "argument": "1998-01-14",
@@ -493,7 +493,7 @@
   },
   {
     "id": "1998-018",
-    "title": "State v. Sharpnack",
+    "title": "State of Washington v. Sharpnack",
     "number": "65439-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=w&file=98-01-28",
     "argument": "1998-01-28",
@@ -685,7 +685,7 @@
   },
   {
     "id": "1998-027",
-    "title": "Franks & Son v. State",
+    "title": "Franks & Son v. State of Washington",
     "number": "65255-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=w&file=98-02-11",
     "argument": "1998-02-11",
@@ -735,7 +735,7 @@
   },
   {
     "id": "1998-030",
-    "title": "State v. Young",
+    "title": "State of Washington v. Young",
     "number": "65475-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=w&file=98-02-24",
     "argument": "1998-02-24",
@@ -777,7 +777,7 @@
   },
   {
     "id": "1998-032",
-    "title": "State v. Martin",
+    "title": "State of Washington v. Martin",
     "number": "65454-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=w&file=98-02-24",
     "argument": "1998-02-24",
@@ -798,7 +798,7 @@
   },
   {
     "id": "1998-033",
-    "title": "Spokane County on v. State",
+    "title": "Spokane County on v. State of Washington",
     "number": "64794-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=w&file=98-02-25",
     "argument": "1998-02-25",
@@ -899,7 +899,7 @@
   },
   {
     "id": "1998-039",
-    "title": "State v. Riles",
+    "title": "State of Washington v. Riles",
     "number": "65546-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=w&file=98-03-10",
     "argument": "1998-03-10",
@@ -1061,7 +1061,7 @@
     "score": "5-4",
     "votes": [
       {
-        "name": "BARBARA DURHAM",
+        "name": "BARBARA M. DURHAM",
         "side": "minority"
       },
       {
@@ -1077,15 +1077,15 @@
         "side": "minority"
       },
       {
-        "name": "CHARLES JOHNSON",
+        "name": "CHARLES W. JOHNSON",
         "side": "majority"
       },
       {
-        "name": "BARBARA MADSEN",
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
-        "name": "GERRY ALEXANDER",
+        "name": "GERRY L. ALEXANDER",
         "side": "minority"
       },
       {
@@ -1093,7 +1093,7 @@
         "side": "minority"
       },
       {
-        "name": "RICHARD SANDERS",
+        "name": "RICHARD B. SANDERS",
         "side": "majority"
       }
     ],
@@ -1156,7 +1156,7 @@
   },
   {
     "id": "1998-049",
-    "title": "State v. Ellis",
+    "title": "State of Washington v. Ellis",
     "number": "65761-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=w&file=98-03-24",
     "argument": "1998-03-24",
@@ -1198,7 +1198,7 @@
   },
   {
     "id": "1998-051",
-    "title": "State v. Hutchinson",
+    "title": "State of Washington v. Hutchinson",
     "number": "65876-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=w&file=98-03-24",
     "argument": "1998-03-24",
@@ -2168,7 +2168,7 @@
   },
   {
     "id": "1998-104",
-    "title": "State v. Adel",
+    "title": "State of Washington v. Adel",
     "number": "65565-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-09-09",
     "argument": "1998-09-09",
@@ -2273,7 +2273,7 @@
   },
   {
     "id": "1998-109",
-    "title": "State v. Oseguera",
+    "title": "State of Washington v. Oseguera",
     "number": "66148-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-09-10",
     "argument": "1998-09-10",
@@ -2357,7 +2357,7 @@
   },
   {
     "id": "1998-113",
-    "title": "State v. Halgren",
+    "title": "State of Washington v. Halgren",
     "number": "66231-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-09-22",
     "argument": "1998-09-22",
@@ -2436,7 +2436,7 @@
   },
   {
     "id": "1998-118",
-    "title": "State v. Mendez",
+    "title": "State of Washington v. Mendez",
     "number": "66318-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-09-23",
     "argument": "1998-09-23",
@@ -2465,7 +2465,7 @@
   },
   {
     "id": "1998-120",
-    "title": "State v. Parker",
+    "title": "State of Washington v. Parker",
     "number": "66147-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-09-23",
     "argument": "1998-09-23",
@@ -2486,7 +2486,7 @@
   },
   {
     "id": "1998-121",
-    "title": "State v. Dejarlais",
+    "title": "State of Washington v. Dejarlais",
     "number": "66213-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-09-23",
     "argument": "1998-09-23",
