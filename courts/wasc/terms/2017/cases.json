@@ -1,6 +1,1986 @@
 [
   {
     "id": "2017-001",
+    "title": "State v. Clark",
+    "number": "92021-4",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160315",
+    "questions": "Was it ineffective assistance to not object when the jury was informed there was no death penalty, and was it error to exclude certain evidence?",
+    "argument": "2016-03-15",
+    "argument_day": "Tuesday, March 15, 2016",
+    "decision": "2017-02-02",
+    "decision_day": "Thursday, February 2, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/920214.pdf",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "minority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "minority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-03-15",
+        "title": "Oral Argument on Tuesday, March 15, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016031068/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/84165e248ec02202879e0748a9c7891d0a7a4aa1.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016031068/media.m3u8",
+        "length": "00:42:54",
+        "size": 350224384
+      }
+    ]
+  },
+  {
+    "id": "2017-002",
+    "title": "In re Parental Rights to K.J.B.",
+    "number": "91921-6",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160526",
+    "questions": "Whether the trial court's failure to expressly consider the mandatory factors related to incarcerated parents in RCW 13.34.180(1)(f) and 13.34.145(5)(b) may be considered harmless error.",
+    "argument": "2016-05-26",
+    "argument_day": "Thursday, May 26, 2016",
+    "decision": "2017-01-26",
+    "decision_day": "Thursday, January 26, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/919216.pdf",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "minority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "minority"
+      },
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-05-26",
+        "title": "Oral Argument on Thursday, May 26, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016051092/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/9e8424f79fc9dd651751e73ebd7f7306cdeed89d.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016051092/media.m3u8",
+        "length": "00:42:37",
+        "size": 351272960
+      }
+    ]
+  },
+  {
+    "id": "2017-003",
+    "title": "Taylor v. Intuitive Surgical Inc.",
+    "number": "92210-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160607",
+    "questions": "Whether product manufacturers must provide risk warnings to hospitals that purchase medical devices",
+    "argument": "2016-06-07",
+    "argument_day": "Tuesday, June 7, 2016",
+    "decision": "2017-02-09",
+    "decision_day": "Thursday, February 9, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/922101.pdf",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-06-07",
+        "title": "Oral Argument on Tuesday, June 7, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016061099/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/0b1962760a6af83178347faf0ba020e5b1e3da9d.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016061099/media.m3u8",
+        "length": "00:43:38",
+        "size": 358612992
+      }
+    ]
+  },
+  {
+    "id": "2017-004",
+    "title": "Estate of Ackerley v. Dep't of Revenue",
+    "number": "92791-0",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160609",
+    "questions": "Does a decedent's estate include federal gift taxes paid within three years of death in the Washington taxable estate?",
+    "argument": "2016-06-09",
+    "argument_day": "Thursday, June 9, 2016",
+    "decision": "2017-02-16",
+    "decision_day": "Thursday, February 16, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/927910.pdf",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "minority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "minority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "minority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-06-09",
+        "title": "Oral Argument on Thursday, June 9, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016061103/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/314f63f3eae69bd368fc846f24a70582083beb1a.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016061103/media.m3u8",
+        "length": "00:42:37",
+        "size": 344981504
+      }
+    ]
+  },
+  {
+    "id": "2017-005",
+    "title": "Lundgren v. Upper Skagit Indian Tribe",
+    "number": "91622-5",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160609",
+    "questions": "Was summary judgment properly granted in a quiet title action in which the defendant asserted sovereign immunity?",
+    "argument": "2016-06-09",
+    "argument_day": "Thursday, June 9, 2016",
+    "decision": "2017-02-16",
+    "decision_day": "Thursday, February 16, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/916225.pdf",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "minority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-06-09",
+        "title": "Oral Argument on Thursday, June 9, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016061102/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/7d7ecbbbdd4440f7f8eec55806dd5f8b66ccd86f.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016061102/media.m3u8",
+        "length": "00:42:56",
+        "size": 343932928
+      }
+    ]
+  },
+  {
+    "id": "2017-006",
+    "title": "Columbia Riverkeeper v. Port of Vancouver USA",
+    "number": "92335-3",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160623",
+    "questions": "The court must decide whether the Port violated the Washington State Environmental Policy Act by entering into a lease, which was contingent on the outcome of the environmental review, prior to the issuance of an environmental impact statement.",
+    "argument": "2016-06-23",
+    "argument_day": "Thursday, June 23, 2016",
+    "decision": "2017-03-16",
+    "decision_day": "Thursday, March 16, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/923353.pdf",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "minority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "minority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-06-23",
+        "title": "Oral Argument on Thursday, June 23, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016061139/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/48483c05e620c7f469bed39a6991eee481331d59.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016061139/media.m3u8",
+        "length": "00:41:53",
+        "size": 340787200
+      }
+    ]
+  },
+  {
+    "id": "2017-007",
+    "title": "Entila v. Cook",
+    "number": "92581-0",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160920",
+    "questions": "When is a coemployee tortfeasor entitled to immunity under the Industrial Insurance Act?",
+    "argument": "2016-09-20",
+    "argument_day": "Tuesday, September 20, 2016",
+    "decision": "2017-01-12",
+    "decision_day": "Thursday, January 12, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/925810.pdf",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-09-20",
+        "title": "Oral Argument on Tuesday, September 20, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016091044/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/8aafcb46cafa68dbd3608faa1c08528c5eb6832c.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016091044/media.m3u8",
+        "length": "00:42:28",
+        "size": 334495744
+      }
+    ]
+  },
+  {
+    "id": "2017-008",
+    "title": "State v. Ortiz-Abrego",
+    "number": "92334-5",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160922",
+    "questions": "If a defendant does not receive accommodations for his auditory comprehension disability, can he be found legally incompetent to stand trial?",
+    "argument": "2016-09-22",
+    "argument_day": "Thursday, September 22, 2016",
+    "decision": "2017-01-12",
+    "decision_day": "Thursday, January 12, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/923345.pdf",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "minority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-09-22",
+        "title": "Oral Argument on Thursday, September 22, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016091046/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/20cb8e249874332ce981b3d9aefe1333a4242a36.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016091046/media.m3u8",
+        "length": "00:40:19",
+        "size": 315621376
+      }
+    ]
+  },
+  {
+    "id": "2017-009",
+    "title": "State v. Lee",
+    "number": "92475-9",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160922",
+    "questions": "Does a defendant in a rape trial have a constitutional right to cross-examine the complaining witness about a prior false rape accusation?",
+    "argument": "2016-09-22",
+    "argument_day": "Thursday, September 22, 2016",
+    "decision": "2017-06-15",
+    "decision_day": "Thursday, June 15, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/924759.pdf",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-09-22",
+        "title": "Oral Argument on Thursday, September 22, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016091047/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/b891e47dce8a0d95fc60283a4c9ee17c8d6f89ec.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016091047/media.m3u8",
+        "length": "00:42:47",
+        "size": 337641472
+      }
+    ]
+  },
+  {
+    "id": "2017-010",
+    "title": "In re Det. of Marcum",
+    "number": "92501-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20161005",
+    "questions": "When must treatment-based change occur in order to entitle a confined sexually violent predator to a release trial?",
+    "argument": "2016-10-05",
+    "argument_day": "Wednesday, October 5, 2016",
+    "decision": "2017-08-03",
+    "decision_day": "Thursday, August 3, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/925011.pdf",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "minority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "minority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-10-05",
+        "title": "Oral Argument on Wednesday, October 5, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016101002/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/41087edb228da35bc8208925130891b00e0df90d.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016101002/media.m3u8",
+        "length": "00:41:35",
+        "size": 325058560
+      }
+    ]
+  },
+  {
+    "id": "2017-011",
+    "title": "Perez-Crisantos v. State Farm Fire & Cas. Co.",
+    "number": "92267-5",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20161005",
+    "questions": "Can an individual sue an insurance company for violating insurance regulations?",
+    "argument": "2016-10-05",
+    "argument_day": "Wednesday, October 5, 2016",
+    "decision": "2017-02-02",
+    "decision_day": "Thursday, February 2, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/922675.pdf",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-10-05",
+        "title": "Oral Argument on Wednesday, October 5, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016101003/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/fc100147e4434f90a6b021888cd21d2b4108cc1d.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016101003/media.m3u8",
+        "length": "00:43:26",
+        "size": 339738624
+      }
+    ]
+  },
+  {
+    "id": "2017-012",
+    "title": "Cougar Den, Inc. v. Dep't of Licensing",
+    "number": "92289-6",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20161011",
+    "questions": "Does the imported motor vehicle fuel tax violate the Yakama Nation 1855 Treaty between the U. S. and the Yakama Indians?",
+    "argument": "2016-10-11",
+    "argument_day": "Tuesday, October 11, 2016",
+    "decision": "2017-03-16",
+    "decision_day": "Thursday, March 16, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/922896.pdf",
+    "score": "7-2",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "minority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-10-11",
+        "title": "Oral Argument on Tuesday, October 11, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016101004/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/5cd8de874d9219f2a9c0d5f7a9cccce41813f3a0.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016101004/media.m3u8",
+        "length": "00:58:57",
+        "size": 461373440
+      }
+    ]
+  },
+  {
+    "id": "2017-013",
+    "title": "Zhaoyun Xia v. Probuilders Specialty Ins. Co.",
+    "number": "92436-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20161011",
+    "questions": "Is carbon monoxide poisoning from a negligently installed water heater excluded by the insurance policy?",
+    "argument": "2016-10-11",
+    "argument_day": "Tuesday, October 11, 2016",
+    "decision": "2017-04-27",
+    "decision_day": "Thursday, April 27, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/924368.pdf",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "minority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "minority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-10-11",
+        "title": "Oral Argument on Tuesday, October 11, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016101005/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/9bf0a388b747fad81df9a93268cad6994032f583.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016101005/media.m3u8",
+        "length": "00:45:16",
+        "size": 352321536
+      }
+    ]
+  },
+  {
+    "id": "2017-014",
+    "title": "State Of Washington V. Fabian Arredondo",
+    "number": "92389-2",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20161013",
+    "questions": "Is the inclusion of evidence of defendant's motive or exclusion of a witness' credibility evidence grounds for reversal?",
+    "argument": "2016-10-13",
+    "argument_day": "Thursday, October 13, 2016",
+    "decision": "2017-05-04",
+    "decision_day": "Thursday, May 4, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/923892.pdf",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "minority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "minority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "minority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-10-13",
+        "title": "Oral Argument on Thursday, October 13, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016101011/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/3e1bad04f5ac7855bc33252ab13f75f0f6111347.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016101011/media.m3u8",
+        "length": "00:41:07",
+        "size": 322961408
+      }
+    ]
+  },
+  {
+    "id": "2017-015",
+    "title": "Quinault Indian Nation v. Imperium Terminal Servs., LLC",
+    "number": "92552-6",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20161013",
+    "questions": "Do two planned fuel storage facilities near WA's Pacific Coast require review under the Ocean Resources Mgmt. Act?",
+    "argument": "2016-10-13",
+    "argument_day": "Thursday, October 13, 2016",
+    "decision": "2017-01-12",
+    "decision_day": "Thursday, January 12, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/925526.pdf",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-10-13",
+        "title": "Oral Argument on Thursday, October 13, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016101010/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/39fa980907736ebfb6b4237d0b51c306226b39df.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016101010/media.m3u8",
+        "length": "00:43:25",
+        "size": 338690048
+      }
+    ]
+  },
+  {
+    "id": "2017-016",
+    "title": "State v. Houston-Sconiers",
+    "number": "92605-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20161018",
+    "questions": "Were lengthy, mandatory sentences cruel and unusual punishment when imposed on teens without considering their youth?",
+    "argument": "2016-10-18",
+    "argument_day": "Tuesday, October 18, 2016",
+    "decision": "2017-03-02",
+    "decision_day": "Thursday, March 2, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/926051.pdf",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-10-18",
+        "title": "Oral Argument on Tuesday, October 18, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016101015/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/7b7d14d8ddfcdf19c0340bb4b703fdf6a213391e.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016101015/media.m3u8",
+        "length": "01:14:16",
+        "size": 584056832
+      }
+    ]
+  },
+  {
+    "id": "2017-017",
+    "title": "Allen v. Dameron",
+    "number": "93056-2",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20161018",
+    "questions": "A business went bankrupt. Can an employee sue his former bosses personally to recover his unpaid wages?",
+    "argument": "2016-10-18",
+    "argument_day": "Tuesday, October 18, 2016",
+    "decision": "2017-02-02",
+    "decision_day": "Thursday, February 2, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/930562.pdf",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-10-18",
+        "title": "Oral Argument on Tuesday, October 18, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016101014/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/a1bc879dd3cb13b1066c74ce6d7f92aafb55a57d.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016101014/media.m3u8",
+        "length": "00:42:23",
+        "size": 333447168
+      }
+    ]
+  },
+  {
+    "id": "2017-018",
+    "title": "State v. Barbee",
+    "number": "92771-5",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20161020",
+    "questions": "Can a pimp be convicted on multiple counts of promoting prostitution when multiple prostitutes are involved?",
+    "argument": "2016-10-20",
+    "argument_day": "Thursday, October 20, 2016",
+    "decision": "2017-01-05",
+    "decision_day": "Thursday, January 5, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/927715.pdf",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-10-20",
+        "title": "Oral Argument on Thursday, October 20, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016101019/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/474ee72473307f0048288fc44a970134f275e952.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016101019/media.m3u8",
+        "length": "00:42:06",
+        "size": 331350016
+      }
+    ]
+  },
+  {
+    "id": "2017-019",
+    "title": "State v. Ramos",
+    "number": "92454-6",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20161020",
+    "questions": "A 14-year-old committed four homicides. His four sentences total 85 years. Is that unconstitutional?",
+    "argument": "2016-10-20",
+    "argument_day": "Thursday, October 20, 2016",
+    "decision": "2017-01-12",
+    "decision_day": "Thursday, January 12, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/924546.pdf",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-10-20",
+        "title": "Oral Argument on Thursday, October 20, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016101016/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/a0619eb9eef952e118697e9c74f314d061c88c99.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016101016/media.m3u8",
+        "length": "00:42:42",
+        "size": 335544320
+      }
+    ]
+  },
+  {
+    "id": "2017-020",
+    "title": "Dunnington v. Virginia Mason Med. Ctr.",
+    "number": "91374-9",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20161020",
+    "questions": "What is the appropriate standard of causation in loss of chance cases?",
+    "argument": "2016-10-20",
+    "argument_day": "Thursday, October 20, 2016",
+    "decision": "2017-02-02",
+    "decision_day": "Thursday, February 2, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/913749.pdf",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-10-20",
+        "title": "Oral Argument on Thursday, October 20, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016101017/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/db3ddf9dcd33bfda3dce4cbb3cf1841bc70df350.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016101017/media.m3u8",
+        "length": "00:44:44",
+        "size": 350224384
+      }
+    ]
+  },
+  {
+    "id": "2017-021",
+    "title": "Wilcox v. Basehore",
+    "number": "92362-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20161025",
+    "questions": "A borrowed servant is a worker loaned to another company. Do written contracts between the companies alter the doctrine?",
+    "argument": "2016-10-25",
+    "argument_day": "Tuesday, October 25, 2016",
+    "decision": "2017-02-09",
+    "decision_day": "Thursday, February 9, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/923621.pdf",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-10-25",
+        "title": "Oral Argument on Tuesday, October 25, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016101021/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/94fb4ec9091758a581e127fea4f3a7cffa20c213.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016101021/media.m3u8",
+        "length": "00:41:39",
+        "size": 326107136
+      }
+    ]
+  },
+  {
+    "id": "2017-022",
+    "title": "In re Custody of L.M.S.",
+    "number": "92897-5",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20161025",
+    "questions": "Can grandparents demonstrate cause for a trial on the merits of their custody petition when the biological father is fit and willing?",
+    "argument": "2016-10-25",
+    "argument_day": "Tuesday, October 25, 2016",
+    "decision": "2017-01-19",
+    "decision_day": "Thursday, January 19, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/928975.pdf",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "minority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "minority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-10-25",
+        "title": "Oral Argument on Tuesday, October 25, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016101022/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/a637bf2c3a8ba6bbbcaf88055cf630b036ca00ff.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016101022/media.m3u8",
+        "length": "00:42:32",
+        "size": 333447168
+      }
+    ]
+  },
+  {
+    "id": "2017-023",
+    "title": "In re Marriage of Zandi",
+    "number": "92296-9",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20161025",
+    "questions": "Does a child support order requiring payment of \"uninsured medical expenses\" apply to out-of-network health care costs?",
+    "argument": "2016-10-25",
+    "argument_day": "Tuesday, October 25, 2016",
+    "decision": "2017-02-23",
+    "decision_day": "Thursday, February 23, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/922969.pdf",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-10-25",
+        "title": "Oral Argument on Tuesday, October 25, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016101020/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/e183d06f567f88972a3706133391a4ac96944578.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016101020/media.m3u8",
+        "length": "00:35:16",
+        "size": 275775488
+      }
+    ]
+  },
+  {
+    "id": "2017-024",
+    "title": "Fortgang v. Woodland Park Zoo",
+    "number": "92846-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20161027",
+    "questions": "Is the Woodland Park Zoological Society, a private nonprofit organization, an \"agency\" covered by the Public Records Act?",
+    "argument": "2016-10-27",
+    "argument_day": "Thursday, October 27, 2016",
+    "decision": "2017-01-12",
+    "decision_day": "Thursday, January 12, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/928461.pdf",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-10-27",
+        "title": "Oral Argument on Thursday, October 27, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016101023/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/94efb1f291b551b298365681cca063e1acf37cee.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016101023/media.m3u8",
+        "length": "00:42:16",
+        "size": 333447168
+      }
+    ]
+  },
+  {
+    "id": "2017-025",
+    "title": "Estate of Becker v. Avco Corp.",
+    "number": "92972-6",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20161108",
+    "questions": "Does the Federal Aviation Act preempt state law as applied to a company that produced an airplane carburetor float?",
+    "argument": "2016-11-08",
+    "argument_day": "Tuesday, November 8, 2016",
+    "decision": "2017-01-26",
+    "decision_day": "Thursday, January 26, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/929726.pdf",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-11-08",
+        "title": "Oral Argument on Tuesday, November 8, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016111001/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/a0252104159dc65f65557bb0d82236f7081f75f3.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016111001/media.m3u8",
+        "length": "00:44:13",
+        "size": 359661568
+      }
+    ]
+  },
+  {
+    "id": "2017-026",
+    "title": "Aiken v. Aiken",
+    "number": "92631-0",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20161115",
+    "questions": "Does a father have a right to question his daughter before an order can be issued preventing him from contacting her?",
+    "argument": "2016-11-15",
+    "argument_day": "Tuesday, November 15, 2016",
+    "decision": "2017-01-12",
+    "decision_day": "Thursday, January 12, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/926310.pdf",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-11-15",
+        "title": "Oral Argument on Tuesday, November 15, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016111005/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/d566457a78475b8bbb0e95a8b91d5536f37f6bee.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016111005/media.m3u8",
+        "length": "01:19:51",
+        "size": 674234368
+      }
+    ]
+  },
+  {
+    "id": "2017-027",
+    "title": "Spivey v. City of Bellevue",
+    "number": "91680-2",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20161117",
+    "questions": "Should the presumption that firefighters with skin cancer are entitled to workers' comp benefits apply on appeal to superior court?",
+    "argument": "2016-11-17",
+    "argument_day": "Thursday, November 17, 2016",
+    "decision": "2017-02-09",
+    "decision_day": "Thursday, February 9, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/916802.pdf",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-11-17",
+        "title": "Oral Argument on Thursday, November 17, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016111007/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/337bee4b695ea1d61fdfb478c444afac55b2d07d.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016111007/media.m3u8",
+        "length": "01:03:22",
+        "size": 513802240
+      }
+    ]
+  },
+  {
+    "id": "2017-028",
+    "title": "Smelser v. Paul",
+    "number": "93076-7",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20161117",
+    "questions": "Where a young child is hit by a car, can the child's supervising parent be partly at fault for the accident?",
+    "argument": "2016-11-17",
+    "argument_day": "Thursday, November 17, 2016",
+    "decision": "2017-07-06",
+    "decision_day": "Thursday, July 6, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/930767.pdf",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "minority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-11-17",
+        "title": "Oral Argument on Thursday, November 17, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016111009/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/a6aab915c277b7c74957e60eec31a0a3bcbd2490.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016111009/media.m3u8",
+        "length": "00:43:41",
+        "size": 353370112
+      }
+    ]
+  },
+  {
+    "id": "2017-029",
+    "title": "In re Marriage of Black",
+    "number": "92994-7",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20161117",
+    "questions": "Did the court improperly consider the mother's sexual orientation when it granted the father custody of their children?",
+    "argument": "2016-11-17",
+    "argument_day": "Thursday, November 17, 2016",
+    "decision": "2017-04-06",
+    "decision_day": "Thursday, April 6, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/929947.pdf",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-11-17",
+        "title": "Oral Argument on Thursday, November 17, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016111008/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/e3d668a8623dbced1677cfdee6a20d00da081076.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016111008/media.m3u8",
+        "length": "00:42:06",
+        "size": 341835776
+      }
+    ]
+  },
+  {
+    "id": "2017-030",
+    "title": "State v. Armstrong",
+    "number": "93119-4",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20161201",
+    "questions": "Does the jury unanimity provision of the state constitution require unanimity as to which way a crime was committed?",
+    "argument": "2016-12-01",
+    "argument_day": "Thursday, December 1, 2016",
+    "decision": "2017-05-11",
+    "decision_day": "Thursday, May 11, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/931194.pdf",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "minority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "minority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-12-01",
+        "title": "Oral Argument on Thursday, December 1, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016121000/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/ba838afeb93a2ba0770a48123d764aace2bb0b98.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016121000/media.m3u8",
+        "length": "00:42:21",
+        "size": 336592896
+      }
+    ]
+  },
+  {
+    "id": "2017-031",
+    "title": "State v. Woodlyn",
+    "number": "91577-6",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20161201",
+    "questions": "When a crime can be committed in more than one way, must the jury agree on a single path to conviction to find guilt?",
+    "argument": "2016-12-01",
+    "argument_day": "Thursday, December 1, 2016",
+    "decision": "2017-04-13",
+    "decision_day": "Thursday, April 13, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/915776.pdf",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-12-01",
+        "title": "Oral Argument on Thursday, December 1, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016121001/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/2f289d2a1aceddee6114319dae93adc84c6bd098.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016121001/media.m3u8",
+        "length": "00:41:48",
+        "size": 331350016
+      }
+    ]
+  },
+  {
+    "id": "2017-032",
     "title": "King County v. Vinci Constr. Grands Projets/Parsons RCI/Frontier-Kemper, JV",
     "number": "92744-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170110",
@@ -9,6 +1989,7 @@
     "argument_day": "Tuesday, January 10, 2017",
     "decision": "2017-07-06",
     "decision_day": "Thursday, July 6, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/927448.pdf",
     "score": "6-3",
     "votes": [
       {
@@ -63,70 +2044,7 @@
     ]
   },
   {
-    "id": "2017-002",
-    "title": "Noll v. Amer. Biltrite Inc.",
-    "number": "91998-4",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170117",
-    "questions": "Did Noll allege sufficient facts for WA to have specific personal jurisdiction over Special under stream of commerce?",
-    "argument": "2017-01-17",
-    "argument_day": "Tuesday, January 17, 2017",
-    "decision": "2017-06-08",
-    "decision_day": "Thursday, June 8, 2017",
-    "score": "9-0",
-    "votes": [
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-01-17",
-        "title": "Oral Argument on Tuesday, January 17, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017011004/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/c1fd255dd661ffea1d7c8b6abc24a1e6c247696b.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017011004/media.m3u8",
-        "length": "00:41:39",
-        "size": 339738624
-      }
-    ]
-  },
-  {
-    "id": "2017-003",
+    "id": "2017-033",
     "title": "Tabingo v. Am. Triumph LLC",
     "number": "92913-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170117",
@@ -135,6 +2053,7 @@
     "argument_day": "Tuesday, January 17, 2017",
     "decision": "2017-03-09",
     "decision_day": "Thursday, March 9, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/929131.pdf",
     "score": "9-0",
     "votes": [
       {
@@ -189,7 +2108,71 @@
     ]
   },
   {
-    "id": "2017-004",
+    "id": "2017-034",
+    "title": "Noll v. Amer. Biltrite Inc.",
+    "number": "91998-4",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170117",
+    "questions": "Did Noll allege sufficient facts for WA to have specific personal jurisdiction over Special under stream of commerce?",
+    "argument": "2017-01-17",
+    "argument_day": "Tuesday, January 17, 2017",
+    "decision": "2017-06-08",
+    "decision_day": "Thursday, June 8, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/919984.pdf",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2017-01-17",
+        "title": "Oral Argument on Tuesday, January 17, 2017",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017011004/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/c1fd255dd661ffea1d7c8b6abc24a1e6c247696b.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017011004/media.m3u8",
+        "length": "00:41:39",
+        "size": 339738624
+      }
+    ]
+  },
+  {
+    "id": "2017-035",
     "title": "Arden v. Forsberg & Umlauf, PS",
     "number": "93207-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170117",
@@ -198,6 +2181,7 @@
     "argument_day": "Tuesday, January 17, 2017",
     "decision": "2017-09-14",
     "decision_day": "Thursday, September 14, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/932077.pdf",
     "score": "9-0",
     "votes": [
       {
@@ -252,7 +2236,7 @@
     ]
   },
   {
-    "id": "2017-005",
+    "id": "2017-036",
     "title": "State v. Lile",
     "number": "93035-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170119",
@@ -261,6 +2245,7 @@
     "argument_day": "Thursday, January 19, 2017",
     "decision": "2017-07-20",
     "decision_day": "Thursday, July 20, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/930350.pdf",
     "score": "9-0",
     "votes": [
       {
@@ -315,70 +2300,7 @@
     ]
   },
   {
-    "id": "2017-006",
-    "title": "Swank v. Valley Christian School",
-    "number": "93282-4",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170119",
-    "questions": "May a student athlete who died from concussion injuries sue his school, coach, and doctor under the Zackery Lystedt Law?",
-    "argument": "2017-01-19",
-    "argument_day": "Thursday, January 19, 2017",
-    "decision": "2017-07-06",
-    "decision_day": "Thursday, July 6, 2017",
-    "score": "9-0",
-    "votes": [
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-01-19",
-        "title": "Oral Argument on Thursday, January 19, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017011007/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/51b4516a1cc0842cd174df2cb71049dede9986f8.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017011007/media.m3u8",
-        "length": "00:44:50",
-        "size": 377487360
-      }
-    ]
-  },
-  {
-    "id": "2017-007",
+    "id": "2017-037",
     "title": "Wash. Trucking Ass'ns v. Emp't Sec. Dep't",
     "number": "93079-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170119",
@@ -387,6 +2309,7 @@
     "argument_day": "Thursday, January 19, 2017",
     "decision": "2017-04-27",
     "decision_day": "Thursday, April 27, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/930791.pdf",
     "score": "9-0",
     "votes": [
       {
@@ -441,7 +2364,71 @@
     ]
   },
   {
-    "id": "2017-008",
+    "id": "2017-038",
+    "title": "Swank v. Valley Christian School",
+    "number": "93282-4",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170119",
+    "questions": "May a student athlete who died from concussion injuries sue his school, coach, and doctor under the Zackery Lystedt Law?",
+    "argument": "2017-01-19",
+    "argument_day": "Thursday, January 19, 2017",
+    "decision": "2017-07-06",
+    "decision_day": "Thursday, July 6, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/932824.pdf",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2017-01-19",
+        "title": "Oral Argument on Thursday, January 19, 2017",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017011007/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/51b4516a1cc0842cd174df2cb71049dede9986f8.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017011007/media.m3u8",
+        "length": "00:44:50",
+        "size": 377487360
+      }
+    ]
+  },
+  {
+    "id": "2017-039",
     "title": "Schibel v. Eymann",
     "number": "93214-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170202",
@@ -450,6 +2437,7 @@
     "argument_day": "Thursday, February 2, 2017",
     "decision": "2017-08-03",
     "decision_day": "Thursday, August 3, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/932140.pdf",
     "score": "6-3",
     "votes": [
       {
@@ -504,7 +2492,7 @@
     ]
   },
   {
-    "id": "2017-009",
+    "id": "2017-040",
     "title": "State v. McFarland",
     "number": "92947-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170202",
@@ -513,6 +2501,7 @@
     "argument_day": "Thursday, February 2, 2017",
     "decision": "2017-08-03",
     "decision_day": "Thursday, August 3, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/929475.pdf",
     "score": "6-3",
     "votes": [
       {
@@ -567,7 +2556,7 @@
     ]
   },
   {
-    "id": "2017-010",
+    "id": "2017-041",
     "title": "In re Pers. Restraint of Lui",
     "number": "92816-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170202",
@@ -576,6 +2565,7 @@
     "argument_day": "Thursday, February 2, 2017",
     "decision": "2017-06-22",
     "decision_day": "Thursday, June 22, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/928169.pdf",
     "score": "7-2",
     "votes": [
       {
@@ -626,7 +2616,7 @@
     ]
   },
   {
-    "id": "2017-011",
+    "id": "2017-042",
     "title": "Selene RMOF II Reo Acquisitions II, LLC v. Ward",
     "number": "92967-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170214",
@@ -635,6 +2625,7 @@
     "argument_day": "Tuesday, February 14, 2017",
     "decision": "2017-08-03",
     "decision_day": "Thursday, August 3, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/929670.pdf",
     "score": "5-4",
     "votes": [
       {
@@ -689,70 +2680,7 @@
     ]
   },
   {
-    "id": "2017-012",
-    "title": "State v. Estes",
-    "number": "93143-7",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170214",
-    "questions": "Was trial counsel ineffective if he did not understand that his client was facing a third strike conviction?",
-    "argument": "2017-02-14",
-    "argument_day": "Tuesday, February 14, 2017",
-    "decision": "2017-06-08",
-    "decision_day": "Thursday, June 8, 2017",
-    "score": "9-0",
-    "votes": [
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-02-14",
-        "title": "Oral Argument on Tuesday, February 14, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017021194/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/695777546db3f3812264f2c56722ff098f8e6312.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017021194/media.m3u8",
-        "length": "00:37:53",
-        "size": 307232768
-      }
-    ]
-  },
-  {
-    "id": "2017-013",
+    "id": "2017-043",
     "title": "In re Pers. Restraint of Rhem",
     "number": "92698-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170214",
@@ -761,6 +2689,7 @@
     "argument_day": "Tuesday, February 14, 2017",
     "decision": "2017-05-11",
     "decision_day": "Thursday, May 11, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/926981.pdf",
     "score": "5-4",
     "votes": [
       {
@@ -815,19 +2744,20 @@
     ]
   },
   {
-    "id": "2017-014",
-    "title": "Columbia Riverkeeper v. Port of Vancouver USA",
-    "number": "92455-4",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170216",
-    "questions": "How broad is the Open Public Meetings Act exception allowing private discussion of the price to sell or lease property?",
-    "argument": "2017-02-16",
-    "argument_day": "Thursday, February 16, 2017",
+    "id": "2017-044",
+    "title": "State v. Estes",
+    "number": "93143-7",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170214",
+    "questions": "Was trial counsel ineffective if he did not understand that his client was facing a third strike conviction?",
+    "argument": "2017-02-14",
+    "argument_day": "Tuesday, February 14, 2017",
     "decision": "2017-06-08",
     "decision_day": "Thursday, June 8, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/931437.pdf",
     "score": "9-0",
     "votes": [
       {
-        "name": "STEVEN GONZÁLEZ",
+        "name": "MARY FAIRHURST",
         "side": "majority"
       },
       {
@@ -847,19 +2777,19 @@
         "side": "majority"
       },
       {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
         "name": "SHERYL GORDON MCCLOUD",
         "side": "majority"
       },
       {
         "name": "MARY YU",
-        "side": "majority"
-      },
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
         "side": "majority"
       }
     ],
@@ -867,18 +2797,18 @@
       {
         "source": "tvw",
         "type": "argument",
-        "date": "2017-02-16",
-        "title": "Oral Argument on Thursday, February 16, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017021197/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/4464416858971b05b2d91565f1d4e0ce2aff15f5.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017021197/media.m3u8",
-        "length": "00:43:22",
-        "size": 355467264
+        "date": "2017-02-14",
+        "title": "Oral Argument on Tuesday, February 14, 2017",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017021194/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/695777546db3f3812264f2c56722ff098f8e6312.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017021194/media.m3u8",
+        "length": "00:37:53",
+        "size": 307232768
       }
     ]
   },
   {
-    "id": "2017-015",
+    "id": "2017-045",
     "title": "Watson v. City of Seattle",
     "number": "93723-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170216",
@@ -887,6 +2817,7 @@
     "argument_day": "Thursday, February 16, 2017",
     "decision": "2017-08-10",
     "decision_day": "Thursday, August 10, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/937231.pdf",
     "score": "8-1",
     "votes": [
       {
@@ -941,7 +2872,71 @@
     ]
   },
   {
-    "id": "2017-016",
+    "id": "2017-046",
+    "title": "Columbia Riverkeeper v. Port of Vancouver USA",
+    "number": "92455-4",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170216",
+    "questions": "How broad is the Open Public Meetings Act exception allowing private discussion of the price to sell or lease property?",
+    "argument": "2017-02-16",
+    "argument_day": "Thursday, February 16, 2017",
+    "decision": "2017-06-08",
+    "decision_day": "Thursday, June 8, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/924554.pdf",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2017-02-16",
+        "title": "Oral Argument on Thursday, February 16, 2017",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017021197/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/4464416858971b05b2d91565f1d4e0ce2aff15f5.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017021197/media.m3u8",
+        "length": "00:43:22",
+        "size": 355467264
+      }
+    ]
+  },
+  {
+    "id": "2017-047",
     "title": "State v. Olsen",
     "number": "93315-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170216",
@@ -950,6 +2945,7 @@
     "argument_day": "Thursday, February 16, 2017",
     "decision": "2017-08-03",
     "decision_day": "Thursday, August 3, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/933154.pdf",
     "score": "6-3",
     "votes": [
       {
@@ -1004,133 +3000,7 @@
     ]
   },
   {
-    "id": "2017-017",
-    "title": "State v. Cardenas-Flores",
-    "number": "93385-5",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170221",
-    "questions": "Must a defendant object to the admission of a confession at trial in order to raise a corpus delicti claim on appeal?",
-    "argument": "2017-02-21",
-    "argument_day": "Tuesday, February 21, 2017",
-    "decision": "2017-08-17",
-    "decision_day": "Thursday, August 17, 2017",
-    "score": "9-0",
-    "votes": [
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-02-21",
-        "title": "Oral Argument on Tuesday, February 21, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017021400/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/6061715b44d85f049b816a27dc95f5211c90fdd4.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017021400/media.m3u8",
-        "length": "00:42:32",
-        "size": 358612992
-      }
-    ]
-  },
-  {
-    "id": "2017-018",
-    "title": "State v. Chelan County Dist. Court",
-    "number": "93098-8",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170221",
-    "questions": "Was DUI warning that characterized breath test as \"voluntary\" misleading? If so, which harmless error standard applies?",
-    "argument": "2017-02-21",
-    "argument_day": "Tuesday, February 21, 2017",
-    "decision": "2017-11-16",
-    "decision_day": "Thursday, November 16, 2017",
-    "score": "7-2",
-    "votes": [
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "minority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "minority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-02-21",
-        "title": "Oral Argument on Tuesday, February 21, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017021399/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/a59d7d82d50eb9c5789272624689bd62fce2bfa0.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017021399/media.m3u8",
-        "length": "00:43:06",
-        "size": 347078656
-      }
-    ]
-  },
-  {
-    "id": "2017-019",
+    "id": "2017-048",
     "title": "Frausto v. Yakima HMA, LLC",
     "number": "93312-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170221",
@@ -1139,6 +3009,7 @@
     "argument_day": "Tuesday, February 21, 2017",
     "decision": "2017-04-27",
     "decision_day": "Thursday, April 27, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/933120.pdf",
     "score": "9-0",
     "votes": [
       {
@@ -1193,7 +3064,135 @@
     ]
   },
   {
-    "id": "2017-020",
+    "id": "2017-049",
+    "title": "State v. Cardenas-Flores",
+    "number": "93385-5",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170221",
+    "questions": "Must a defendant object to the admission of a confession at trial in order to raise a corpus delicti claim on appeal?",
+    "argument": "2017-02-21",
+    "argument_day": "Tuesday, February 21, 2017",
+    "decision": "2017-08-17",
+    "decision_day": "Thursday, August 17, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/933855.pdf",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2017-02-21",
+        "title": "Oral Argument on Tuesday, February 21, 2017",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017021400/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/6061715b44d85f049b816a27dc95f5211c90fdd4.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017021400/media.m3u8",
+        "length": "00:42:32",
+        "size": 358612992
+      }
+    ]
+  },
+  {
+    "id": "2017-050",
+    "title": "State v. Chelan County Dist. Court",
+    "number": "93098-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170221",
+    "questions": "Was DUI warning that characterized breath test as \"voluntary\" misleading? If so, which harmless error standard applies?",
+    "argument": "2017-02-21",
+    "argument_day": "Tuesday, February 21, 2017",
+    "decision": "2017-11-16",
+    "decision_day": "Thursday, November 16, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/930988.pdf",
+    "score": "7-2",
+    "votes": [
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "minority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "minority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2017-02-21",
+        "title": "Oral Argument on Tuesday, February 21, 2017",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017021399/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/a59d7d82d50eb9c5789272624689bd62fce2bfa0.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017021399/media.m3u8",
+        "length": "00:43:06",
+        "size": 347078656
+      }
+    ]
+  },
+  {
+    "id": "2017-051",
     "title": "Thorpe v. Governor Jay Inslee",
     "number": "92912-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170223",
@@ -1202,6 +3201,7 @@
     "argument_day": "Thursday, February 23, 2017",
     "decision": "2017-05-04",
     "decision_day": "Thursday, May 4, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/929122.pdf",
     "score": "9-0",
     "votes": [
       {
@@ -1256,7 +3256,7 @@
     ]
   },
   {
-    "id": "2017-021",
+    "id": "2017-052",
     "title": "State v. Weyand",
     "number": "93377-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170223",
@@ -1265,6 +3265,7 @@
     "argument_day": "Thursday, February 23, 2017",
     "decision": "2017-07-20",
     "decision_day": "Thursday, July 20, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/933774.pdf",
     "score": "9-0",
     "votes": [
       {
@@ -1319,70 +3320,7 @@
     ]
   },
   {
-    "id": "2017-022",
-    "title": "Chelan Basin Conservancy v. GBI Holding Co.",
-    "number": "93381-2",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170228",
-    "questions": "Does CBC have standing? Did the State consent to Three Fingers fill? If so, did consent violate public trust doctrine?",
-    "argument": "2017-02-28",
-    "argument_day": "Tuesday, February 28, 2017",
-    "decision": "2017-07-06",
-    "decision_day": "Thursday, July 6, 2017",
-    "score": "9-0",
-    "votes": [
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-02-28",
-        "title": "Oral Argument on Tuesday, February 28, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017021498/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/a7979f8b60e321369838eb4c96997025fd0466b7.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017021498/media.m3u8",
-        "length": "00:43:17",
-        "size": 355467264
-      }
-    ]
-  },
-  {
-    "id": "2017-023",
+    "id": "2017-053",
     "title": "State v. Johnson",
     "number": "93453-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170228",
@@ -1391,6 +3329,7 @@
     "argument_day": "Tuesday, February 28, 2017",
     "decision": "2017-07-13",
     "decision_day": "Thursday, July 13, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/934533.pdf",
     "score": "9-0",
     "votes": [
       {
@@ -1445,70 +3384,7 @@
     ]
   },
   {
-    "id": "2017-024",
-    "title": "Brady v. Autozone Stores, Inc.",
-    "number": "93564-5",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170314",
-    "questions": "Federal certified questions ask whether employer duties are mandatory under Washington's \"meal break\" regulation.",
-    "argument": "2017-03-14",
-    "argument_day": "Tuesday, March 14, 2017",
-    "decision": "2017-06-29",
-    "decision_day": "Thursday, June 29, 2017",
-    "score": "9-0",
-    "votes": [
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      },
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-03-14",
-        "title": "Oral Argument on Tuesday, March 14, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017031096/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/8bb0612504fe9e7a293899aaa86f8a923cb7fd85.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017031096/media.m3u8",
-        "length": "01:02:53",
-        "size": 511705088
-      }
-    ]
-  },
-  {
-    "id": "2017-025",
+    "id": "2017-054",
     "title": "State v. Salgado-Mendoza",
     "number": "93293-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170314",
@@ -1517,6 +3393,7 @@
     "argument_day": "Tuesday, March 14, 2017",
     "decision": "2017-10-12",
     "decision_day": "Thursday, October 12, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/932930.pdf",
     "score": "5-4",
     "votes": [
       {
@@ -1571,7 +3448,71 @@
     ]
   },
   {
-    "id": "2017-026",
+    "id": "2017-055",
+    "title": "Brady v. Autozone Stores, Inc.",
+    "number": "93564-5",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170314",
+    "questions": "Federal certified questions ask whether employer duties are mandatory under Washington's \"meal break\" regulation.",
+    "argument": "2017-03-14",
+    "argument_day": "Tuesday, March 14, 2017",
+    "decision": "2017-06-29",
+    "decision_day": "Thursday, June 29, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/935645.pdf",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2017-03-14",
+        "title": "Oral Argument on Tuesday, March 14, 2017",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017031096/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/8bb0612504fe9e7a293899aaa86f8a923cb7fd85.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017031096/media.m3u8",
+        "length": "01:02:53",
+        "size": 511705088
+      }
+    ]
+  },
+  {
+    "id": "2017-056",
     "title": "City of Seattle v. Erickson",
     "number": "93408-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170314",
@@ -1580,6 +3521,7 @@
     "argument_day": "Tuesday, March 14, 2017",
     "decision": "2017-07-06",
     "decision_day": "Thursday, July 6, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/934088.pdf",
     "score": "9-0",
     "votes": [
       {
@@ -1634,70 +3576,7 @@
     ]
   },
   {
-    "id": "2017-027",
-    "title": "Kittitas County v. Allphin",
-    "number": "93562-9",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170316",
-    "questions": "Does the Public Records Act require a county to disclose attorney work product that it shared with a state agency?",
-    "argument": "2017-03-16",
-    "argument_day": "Thursday, March 16, 2017",
-    "decision": "2018-05-17",
-    "decision_day": "Thursday, May 17, 2018",
-    "score": "5-4",
-    "votes": [
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "minority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "minority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "minority"
-      },
-      {
-        "name": "MARY FAIRHURST",
-        "side": "minority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-03-16",
-        "title": "Oral Argument on Thursday, March 16, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017031100/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/7620970dd4a068b77fe8a66ab3dc8e5cfe5cf660.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017031100/media.m3u8",
-        "length": "00:42:52",
-        "size": 348127232
-      }
-    ]
-  },
-  {
-    "id": "2017-028",
+    "id": "2017-057",
     "title": "State v. Whitlock",
     "number": "93685-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170316",
@@ -1706,6 +3585,7 @@
     "argument_day": "Thursday, March 16, 2017",
     "decision": "2017-06-15",
     "decision_day": "Thursday, June 15, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/936854.pdf",
     "score": "9-0",
     "votes": [
       {
@@ -1760,70 +3640,7 @@
     ]
   },
   {
-    "id": "2017-029",
-    "title": "Roake v. Delman",
-    "number": "93456-8",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170321",
-    "questions": "Does a permanent order under the Sexual Assault Protection Order Act require reasonable fear of future dangerous acts?",
-    "argument": "2017-03-21",
-    "argument_day": "Tuesday, March 21, 2017",
-    "decision": "2018-01-11",
-    "decision_day": "Thursday, January 11, 2018",
-    "score": "6-3",
-    "votes": [
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "minority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "minority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "minority"
-      },
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-03-21",
-        "title": "Oral Argument on Tuesday, March 21, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017031212/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/1983b2bd423d7427986ceedd1921f5c61440999f.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017031212/media.m3u8",
-        "length": "00:43:19",
-        "size": 349175808
-      }
-    ]
-  },
-  {
-    "id": "2017-030",
+    "id": "2017-058",
     "title": "State v. Bluford",
     "number": "93668-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170321",
@@ -1832,6 +3649,7 @@
     "argument_day": "Tuesday, March 21, 2017",
     "decision": "2017-05-04",
     "decision_day": "Thursday, May 4, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/936684.pdf",
     "score": "9-0",
     "votes": [
       {
@@ -1886,7 +3704,7 @@
     ]
   },
   {
-    "id": "2017-031",
+    "id": "2017-059",
     "title": "Killian v. Seattle Pub. Sch.",
     "number": "93655-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170509",
@@ -1895,6 +3713,7 @@
     "argument_day": "Tuesday, May 9, 2017",
     "decision": "2017-10-12",
     "decision_day": "Thursday, October 12, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/936552.pdf",
     "score": "7-2",
     "votes": [
       {
@@ -1949,7 +3768,7 @@
     ]
   },
   {
-    "id": "2017-032",
+    "id": "2017-060",
     "title": "State v. Barnes",
     "number": "93829-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170509",
@@ -1958,6 +3777,7 @@
     "argument_day": "Tuesday, May 9, 2017",
     "decision": "2017-10-12",
     "decision_day": "Thursday, October 12, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/938296.pdf",
     "score": "6-3",
     "votes": [
       {
@@ -2012,7 +3832,7 @@
     ]
   },
   {
-    "id": "2017-033",
+    "id": "2017-061",
     "title": "State v. Joseph",
     "number": "93710-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170509",
@@ -2021,6 +3841,7 @@
     "argument_day": "Tuesday, May 9, 2017",
     "decision": "2017-11-22",
     "decision_day": "Wednesday, November 22, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/937109.pdf",
     "score": "9-0",
     "votes": [
       {
@@ -2075,7 +3896,7 @@
     ]
   },
   {
-    "id": "2017-034",
+    "id": "2017-062",
     "title": "Mikkelsen v. Pub. Util. Dist. No. 1 of Kittitas County",
     "number": "93731-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170511",
@@ -2084,6 +3905,7 @@
     "argument_day": "Thursday, May 11, 2017",
     "decision": "2017-10-19",
     "decision_day": "Thursday, October 19, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/937311.pdf",
     "score": "9-0",
     "votes": [
       {
@@ -2138,7 +3960,7 @@
     ]
   },
   {
-    "id": "2017-035",
+    "id": "2017-063",
     "title": "State v. Bailon Wences",
     "number": "93605-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170511",
@@ -2147,6 +3969,7 @@
     "argument_day": "Thursday, May 11, 2017",
     "decision": "2017-11-30",
     "decision_day": "Thursday, November 30, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/936056.pdf",
     "score": "6-3",
     "votes": [
       {
@@ -2201,7 +4024,7 @@
     ]
   },
   {
-    "id": "2017-036",
+    "id": "2017-064",
     "title": "City of Sunnyside v. Gonzalez",
     "number": "93907-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170516",
@@ -2210,6 +4033,7 @@
     "argument_day": "Tuesday, May 16, 2017",
     "decision": "2017-06-29",
     "decision_day": "Thursday, June 29, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/939071.pdf",
     "score": "9-0",
     "votes": [
       {
@@ -2264,7 +4088,58 @@
     ]
   },
   {
-    "id": "2017-037",
+    "id": "2017-065",
+    "title": "Rodriguez v. Zavala",
+    "number": "93645-5",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170516",
+    "questions": "May a parent petition for a protection order on behalf of a child who was present during domestic violence?",
+    "argument": "2017-05-16",
+    "argument_day": "Tuesday, May 16, 2017",
+    "decision": "2017-06-29",
+    "decision_day": "Thursday, June 29, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/936455.pdf",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      }
+    ]
+  },
+  {
+    "id": "2017-066",
     "title": "State v. Gray",
     "number": "93609-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170516",
@@ -2273,6 +4148,7 @@
     "argument_day": "Tuesday, May 16, 2017",
     "decision": "2017-09-14",
     "decision_day": "Thursday, September 14, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/936099.pdf",
     "score": "6-3",
     "votes": [
       {
@@ -2327,57 +4203,7 @@
     ]
   },
   {
-    "id": "2017-038",
-    "title": "Rodriguez v. Zavala",
-    "number": "93645-5",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170516",
-    "questions": "May a parent petition for a protection order on behalf of a child who was present during domestic violence?",
-    "argument": "2017-05-16",
-    "argument_day": "Tuesday, May 16, 2017",
-    "decision": "2017-06-29",
-    "decision_day": "Thursday, June 29, 2017",
-    "score": "9-0",
-    "votes": [
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      },
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      }
-    ]
-  },
-  {
-    "id": "2017-039",
+    "id": "2017-067",
     "title": "City of Spokane v. Horton",
     "number": "93788-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170518",
@@ -2386,6 +4212,7 @@
     "argument_day": "Thursday, May 18, 2017",
     "decision": "2017-12-07",
     "decision_day": "Thursday, December 7, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/937885.pdf",
     "score": "7-2",
     "votes": [
       {
@@ -2440,7 +4267,7 @@
     ]
   },
   {
-    "id": "2017-040",
+    "id": "2017-068",
     "title": "MARY RUSHING as the Administrator and on Behalf of the Estate of ROBERT COON, and MARY RUSHING individually v. FRANKLIN HILLS HEALTH & REHABILITATION CENTER, MELISSA CHARTREY, R.N., AURILLA POOLE, R.N., JANENE YORBA, Director of Nursing",
     "number": "91538-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170518",
@@ -2462,7 +4289,7 @@
     ]
   },
   {
-    "id": "2017-041",
+    "id": "2017-069",
     "title": "Shanghai Commercial Bank Ltd. v. Kung Da Chang",
     "number": "93823-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170518",
@@ -2471,6 +4298,7 @@
     "argument_day": "Thursday, May 18, 2017",
     "decision": "2017-10-12",
     "decision_day": "Thursday, October 12, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/938237.pdf",
     "score": "9-0",
     "votes": [
       {
@@ -2525,7 +4353,7 @@
     ]
   },
   {
-    "id": "2017-042",
+    "id": "2017-070",
     "title": "Carrera v. Olmstead",
     "number": "93799-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170525",
@@ -2534,6 +4362,7 @@
     "argument_day": "Thursday, May 25, 2017",
     "decision": "2017-09-07",
     "decision_day": "Thursday, September 7, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/937991.pdf",
     "score": "9-0",
     "votes": [
       {
@@ -2588,7 +4417,7 @@
     ]
   },
   {
-    "id": "2017-043",
+    "id": "2017-071",
     "title": "In re Pers. Restraint of Canha",
     "number": "94175-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170525",
@@ -2597,6 +4426,7 @@
     "argument_day": "Thursday, May 25, 2017",
     "decision": "2017-09-28",
     "decision_day": "Thursday, September 28, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/941751.pdf",
     "score": "9-0",
     "votes": [
       {
@@ -2651,70 +4481,7 @@
     ]
   },
   {
-    "id": "2017-044",
-    "title": "In re Pers. Restraint of Fero",
-    "number": "92975-1",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170606",
-    "questions": "Should Heidi Fero get a new trial because of recent developments in the research on \"shaken baby syndrome?\"",
-    "argument": "2017-06-06",
-    "argument_day": "Tuesday, June 6, 2017",
-    "decision": "2018-02-01",
-    "decision_day": "Thursday, February 1, 2018",
-    "score": "4-5",
-    "votes": [
-      {
-        "name": "MARY FAIRHURST",
-        "side": "minority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "minority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "minority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "minority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "minority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-06-06",
-        "title": "Oral Argument on Tuesday, June 6, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017061016/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/abc04d9f1c6a1156867d1a1972620ee5fc30fb3d.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017061016/media.m3u8",
-        "length": "00:43:17",
-        "size": 352321536
-      }
-    ]
-  },
-  {
-    "id": "2017-045",
+    "id": "2017-072",
     "title": "Univ. of Wash. v. City of Seattle",
     "number": "94232-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170606",
@@ -2723,6 +4490,7 @@
     "argument_day": "Tuesday, June 6, 2017",
     "decision": "2017-07-20",
     "decision_day": "Thursday, July 20, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/942323.pdf",
     "score": "9-0",
     "votes": [
       {
@@ -2777,70 +4545,7 @@
     ]
   },
   {
-    "id": "2017-046",
-    "title": "State v. Buckman",
-    "number": "93545-9",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170606",
-    "questions": "Can a defendant withdraw a guilty plea post-sentencing if he was mistakenly told that he faced a possible life sentence?",
-    "argument": "2017-06-06",
-    "argument_day": "Tuesday, June 6, 2017",
-    "decision": "2018-02-01",
-    "decision_day": "Thursday, February 1, 2018",
-    "score": "7-2",
-    "votes": [
-      {
-        "name": "MARY FAIRHURST",
-        "side": "minority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "minority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-06-06",
-        "title": "Oral Argument on Tuesday, June 6, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017061017/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/dd2eb291a45a3e8336a4b20ccacafa96c7a2aad2.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017061017/media.m3u8",
-        "length": "00:43:17",
-        "size": 348127232
-      }
-    ]
-  },
-  {
-    "id": "2017-047",
+    "id": "2017-073",
     "title": "Blomstrom v. Tripp",
     "number": "91642-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170608",
@@ -2849,6 +4554,7 @@
     "argument_day": "Thursday, June 8, 2017",
     "decision": "2017-10-05",
     "decision_day": "Thursday, October 5, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/916420.pdf",
     "score": "5-4",
     "votes": [
       {
@@ -2903,7 +4609,58 @@
     ]
   },
   {
-    "id": "2017-048",
+    "id": "2017-074",
+    "title": "State v. Smith",
+    "number": "93923-3",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170608",
+    "questions": "Whether a voicemail recording of an assault made by the accused is admissible under Washington's Privacy Act, RCW 9.73.030",
+    "argument": "2017-06-08",
+    "argument_day": "Thursday, June 8, 2017",
+    "decision": "2017-11-22",
+    "decision_day": "Wednesday, November 22, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/939233.pdf",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "STEVEN GONZÁLEZ",
+        "side": "majority"
+      },
+      {
+        "name": "SHERYL GORDON MCCLOUD",
+        "side": "majority"
+      },
+      {
+        "name": "MARY YU",
+        "side": "majority"
+      },
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
+      }
+    ]
+  },
+  {
+    "id": "2017-075",
     "title": "In re Disciplinary Proceeding Against Fossedal",
     "number": "201,600-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170608",
@@ -2912,6 +4669,7 @@
     "argument_day": "Thursday, June 8, 2017",
     "decision": "2017-08-17",
     "decision_day": "Thursday, August 17, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/2016006.pdf",
     "score": "9-0",
     "votes": [
       {
@@ -2966,57 +4724,7 @@
     ]
   },
   {
-    "id": "2017-049",
-    "title": "State v. Smith",
-    "number": "93923-3",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170608",
-    "questions": "Whether a voicemail recording of an assault made by the accused is admissible under Washington's Privacy Act, RCW 9.73.030",
-    "argument": "2017-06-08",
-    "argument_day": "Thursday, June 8, 2017",
-    "decision": "2017-11-22",
-    "decision_day": "Wednesday, November 22, 2017",
-    "score": "9-0",
-    "votes": [
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      },
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      }
-    ]
-  },
-  {
-    "id": "2017-050",
+    "id": "2017-076",
     "title": "State v. Bigsby",
     "number": "93987-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170613",
@@ -3025,6 +4733,7 @@
     "argument_day": "Tuesday, June 13, 2017",
     "decision": "2017-08-10",
     "decision_day": "Thursday, August 10, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/939870.pdf",
     "score": "9-0",
     "votes": [
       {
@@ -3079,7 +4788,7 @@
     ]
   },
   {
-    "id": "2017-051",
+    "id": "2017-077",
     "title": "Street v. Weyerhaeuser Co.",
     "number": "93984-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170613",
@@ -3088,6 +4797,7 @@
     "argument_day": "Tuesday, June 13, 2017",
     "decision": "2017-08-10",
     "decision_day": "Thursday, August 10, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/939845.pdf",
     "score": "9-0",
     "votes": [
       {
@@ -3142,133 +4852,7 @@
     ]
   },
   {
-    "id": "2017-052",
-    "title": "Schnitzer W., LLC v. City of Puyallup",
-    "number": "94005-3",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170613",
-    "questions": "Was an ordinance a site-specific rezone subject to judicial review under the Land Use Petition Act?",
-    "argument": "2017-06-13",
-    "argument_day": "Tuesday, June 13, 2017",
-    "decision": "2018-05-10",
-    "decision_day": "Thursday, May 10, 2018",
-    "score": "5-4",
-    "votes": [
-      {
-        "name": "MARY FAIRHURST",
-        "side": "minority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "minority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "minority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "minority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-06-13",
-        "title": "Oral Argument on Tuesday, June 13, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017061033/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/a1ca1ebca95c92f3c741e5fa51037f74bae65a87.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017061033/media.m3u8",
-        "length": "00:44:11",
-        "size": 357564416
-      }
-    ]
-  },
-  {
-    "id": "2017-053",
-    "title": "In re Det. of Belcher",
-    "number": "93900-4",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170615",
-    "questions": "Can a person be civilly committed as a sexually violent predator if they only committed juvenile crimes?",
-    "argument": "2017-06-15",
-    "argument_day": "Thursday, June 15, 2017",
-    "decision": "2017-08-17",
-    "decision_day": "Thursday, August 17, 2017",
-    "score": "9-0",
-    "votes": [
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      },
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-06-15",
-        "title": "Oral Argument on Thursday, June 15, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017061034/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/3901601549d1704c505757bb59adcd44bb14f8a9.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017061034/media.m3u8",
-        "length": "00:42:25",
-        "size": 347078656
-      }
-    ]
-  },
-  {
-    "id": "2017-054",
+    "id": "2017-078",
     "title": "State v. Cruz",
     "number": "93732-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170615",
@@ -3277,6 +4861,7 @@
     "argument_day": "Thursday, June 15, 2017",
     "decision": "2017-11-02",
     "decision_day": "Thursday, November 2, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/937320.pdf",
     "score": "9-0",
     "votes": [
       {
@@ -3331,24 +4916,25 @@
     ]
   },
   {
-    "id": "2017-055",
-    "title": "Sprague v. Spokane Valley Fire Dep't",
-    "number": "93800-8",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170629",
-    "questions": "Did a fire department violate free speech rights when it restricted an employee's messages containing religious content?",
-    "argument": "2017-06-29",
-    "argument_day": "Thursday, June 29, 2017",
-    "decision": "2018-01-25",
-    "decision_day": "Thursday, January 25, 2018",
-    "score": "5-4",
+    "id": "2017-079",
+    "title": "In re Det. of Belcher",
+    "number": "93900-4",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170615",
+    "questions": "Can a person be civilly committed as a sexually violent predator if they only committed juvenile crimes?",
+    "argument": "2017-06-15",
+    "argument_day": "Thursday, June 15, 2017",
+    "decision": "2017-08-17",
+    "decision_day": "Thursday, August 17, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/939004.pdf",
+    "score": "9-0",
     "votes": [
       {
-        "name": "MARY FAIRHURST",
-        "side": "minority"
+        "name": "DEBRA STEPHENS",
+        "side": "majority"
       },
       {
         "name": "CHARLES JOHNSON",
-        "side": "minority"
+        "side": "majority"
       },
       {
         "name": "BARBARA MADSEN",
@@ -3359,16 +4945,8 @@
         "side": "majority"
       },
       {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      },
-      {
         "name": "STEVEN GONZÁLEZ",
-        "side": "minority"
+        "side": "majority"
       },
       {
         "name": "SHERYL GORDON MCCLOUD",
@@ -3376,25 +4954,33 @@
       },
       {
         "name": "MARY YU",
-        "side": "minority"
+        "side": "majority"
+      },
+      {
+        "name": "MARY FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WIGGINS",
+        "side": "majority"
       }
     ],
     "events": [
       {
         "source": "tvw",
         "type": "argument",
-        "date": "2017-06-29",
-        "title": "Oral Argument on Thursday, June 29, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017061068/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/863508581aa65fea391764a3e170558c22603442.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017061068/media.m3u8",
-        "length": "00:45:20",
-        "size": 372244480
+        "date": "2017-06-15",
+        "title": "Oral Argument on Thursday, June 15, 2017",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017061034/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/3901601549d1704c505757bb59adcd44bb14f8a9.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017061034/media.m3u8",
+        "length": "00:42:25",
+        "size": 347078656
       }
     ]
   },
   {
-    "id": "2017-056",
+    "id": "2017-080",
     "title": "Jin Zhu v. N. Cent. Educ. Serv. District",
     "number": "94209-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170912",
@@ -3403,6 +4989,7 @@
     "argument_day": "Tuesday, September 12, 2017",
     "decision": "2017-11-09",
     "decision_day": "Thursday, November 9, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/942099.pdf",
     "score": "9-0",
     "votes": [
       {
@@ -3457,133 +5044,7 @@
     ]
   },
   {
-    "id": "2017-057",
-    "title": "State v. Scott",
-    "number": "94020-7",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170912",
-    "questions": "Is resentencing of a long final juvenile de facto life sentence required in light of RCW 9.94A.730's parole provision?",
-    "argument": "2017-09-12",
-    "argument_day": "Tuesday, September 12, 2017",
-    "decision": "2018-05-10",
-    "decision_day": "Thursday, May 10, 2018",
-    "score": "9-0",
-    "votes": [
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      },
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-09-12",
-        "title": "Oral Argument on Tuesday, September 12, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017091027/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/afcba40ae2cb7ae16e15f4bce2c471c14a4254b5.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017091027/media.m3u8",
-        "length": "00:42:39",
-        "size": 347078656
-      }
-    ]
-  },
-  {
-    "id": "2017-058",
-    "title": "Anderson v. Soap Lake Sch. Dist.",
-    "number": "93977-2",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170914",
-    "questions": "1:30 P.M",
-    "argument": "2017-09-14",
-    "argument_day": "Thursday, September 14, 2017",
-    "decision": "2018-08-09",
-    "decision_day": "Thursday, August 9, 2018",
-    "score": "5-4",
-    "votes": [
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "minority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "minority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "minority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "minority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-09-14",
-        "title": "Oral Argument on Thursday, September 14, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017091033/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/bb0ccea76a447b676d3bdeed516b5e77dafc4572.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017091033/media.m3u8",
-        "length": "00:43:56",
-        "size": 354418688
-      }
-    ]
-  },
-  {
-    "id": "2017-059",
+    "id": "2017-081",
     "title": "Pilloud v. King County Republican Cent. Comm.",
     "number": "93786-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170914",
@@ -3591,6 +5052,7 @@
     "argument_day": "Thursday, September 14, 2017",
     "decision": "2017-11-09",
     "decision_day": "Thursday, November 9, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/937869.pdf",
     "score": "9-0",
     "votes": [
       {
@@ -3645,447 +5107,7 @@
     ]
   },
   {
-    "id": "2017-060",
-    "title": "Carranza v. Dovex Fruit Co.",
-    "number": "94229-3",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170914",
-    "argument": "2017-09-14",
-    "argument_day": "Thursday, September 14, 2017",
-    "decision": "2018-05-10",
-    "decision_day": "Thursday, May 10, 2018",
-    "score": "5-4",
-    "votes": [
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "minority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "minority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "minority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      },
-      {
-        "name": "MARY FAIRHURST",
-        "side": "minority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-09-14",
-        "title": "Oral Argument on Thursday, September 14, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017091034/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/e9041850f24ee175149d32686096a921c74da645.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017091034/media.m3u8",
-        "length": "00:42:20",
-        "size": 343932928
-      }
-    ]
-  },
-  {
-    "id": "2017-061",
-    "title": "Pope Res., LP v. Dep't of Nat. Res.",
-    "number": "94084-3",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170926",
-    "questions": "Whether DNR is liable, under Model Toxics Control Act, as \"owner or operator\" for contamination caused by its lessee",
-    "argument": "2017-09-26",
-    "argument_day": "Tuesday, September 26, 2017",
-    "decision": "2018-05-24",
-    "decision_day": "Thursday, May 24, 2018",
-    "score": "6-3",
-    "votes": [
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "minority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "minority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "minority"
-      },
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-09-26",
-        "title": "Oral Argument on Tuesday, September 26, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017091064/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/3321358728cc1cc1aed7e070a2c2d882bb75d1c2.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017091064/media.m3u8",
-        "length": "00:43:03",
-        "size": 349175808
-      }
-    ]
-  },
-  {
-    "id": "2017-062",
-    "title": "State v. Cornwell",
-    "number": "93845-8",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170926",
-    "questions": "Are open-ended property searches of individuals on probation lawful?",
-    "argument": "2017-09-26",
-    "argument_day": "Tuesday, September 26, 2017",
-    "decision": "2018-03-15",
-    "decision_day": "Thursday, March 15, 2018",
-    "score": "7-2",
-    "votes": [
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "minority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "minority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-09-26",
-        "title": "Oral Argument on Tuesday, September 26, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017091065/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/0b625c6b3e3baa121115430e59eb768837bfca0f.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017091065/media.m3u8",
-        "length": "00:42:22",
-        "size": 343932928
-      }
-    ]
-  },
-  {
-    "id": "2017-063",
-    "title": "State v. Vanhollebeke",
-    "number": "94054-1",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170926",
-    "questions": "Can police search the loaned vehicle when the driver refuses consent, but the vehicle's owner, who is not present, grants consent?",
-    "argument": "2017-09-26",
-    "argument_day": "Tuesday, September 26, 2017",
-    "decision": "2018-03-15",
-    "decision_day": "Thursday, March 15, 2018",
-    "score": "9-0",
-    "votes": [
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-09-26",
-        "title": "Oral Argument on Tuesday, September 26, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017091066/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/018c30ec2a142ede7a1f034619609315786af1cc.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017091066/media.m3u8",
-        "length": "00:46:18",
-        "size": 376438784
-      }
-    ]
-  },
-  {
-    "id": "2017-064",
-    "title": "Inland Empire Dry Wall Supply Co. v. W. Sur. Co.",
-    "number": "94118-1",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170928",
-    "questions": "Must the principal on an RCW 60.04.161 lien release bond be named and joined in an action to recover on the bond?",
-    "argument": "2017-09-28",
-    "argument_day": "Thursday, September 28, 2017",
-    "decision": "2018-01-18",
-    "decision_day": "Thursday, January 18, 2018",
-    "score": "9-0",
-    "votes": [
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-09-28",
-        "title": "Oral Argument on Thursday, September 28, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017091067/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/add482777e9be4ee8e2ee79e9ac78763cf3d49f3.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017091067/media.m3u8",
-        "length": "00:44:31",
-        "size": 360710144
-      }
-    ]
-  },
-  {
-    "id": "2017-065",
-    "title": "John Doe G v. Dep't of Corr.",
-    "number": "94203-0",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20170928",
-    "questions": "Is a SSOSA evaluation a health care record, making it exempt from disclosure under the Public Records Act?",
-    "argument": "2017-09-28",
-    "argument_day": "Thursday, September 28, 2017",
-    "decision": "2018-02-22",
-    "decision_day": "Thursday, February 22, 2018",
-    "score": "7-2",
-    "votes": [
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "minority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "minority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-09-28",
-        "title": "Oral Argument on Thursday, September 28, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017091068/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/9a382b9364c0e6a96ac76cd30cf8754860d6914f.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017091068/media.m3u8",
-        "length": "01:04:38",
-        "size": 524288000
-      }
-    ]
-  },
-  {
-    "id": "2017-066",
-    "title": "Bearden v. McGill",
-    "number": "94320-6",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20171017",
-    "questions": "Which costs, if any, are considered when determining if an appealing party improved his or her position under MAR 7.3?",
-    "argument": "2017-10-17",
-    "argument_day": "Tuesday, October 17, 2017",
-    "decision": "2018-04-12",
-    "decision_day": "Thursday, April 12, 2018",
-    "score": "7-2",
-    "votes": [
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "minority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "minority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-10-17",
-        "title": "Oral Argument on Tuesday, October 17, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017101042/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/5c4c97ae1f1086c3f7f7e9f5debaaf74f3a7aa6c.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017101042/media.m3u8",
-        "length": "00:42:59",
-        "size": 346030080
-      }
-    ]
-  },
-  {
-    "id": "2017-067",
+    "id": "2017-082",
     "title": "Douglass v. Shamrock Paving, Inc.",
     "number": "94087-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20171017",
@@ -4094,6 +5116,7 @@
     "argument_day": "Tuesday, October 17, 2017",
     "decision": "2017-12-21",
     "decision_day": "Thursday, December 21, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/940878.pdf",
     "score": "9-0",
     "votes": [
       {
@@ -4148,381 +5171,7 @@
     ]
   },
   {
-    "id": "2017-068",
-    "title": "Puget Soundkeeper All. v. Dep't of Ecology",
-    "number": "94293-5",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20171019",
-    "questions": "May Ecology issue discharge permits that meet regulations but do not ensure compliance with water quality statutes?",
-    "argument": "2017-10-19",
-    "argument_day": "Thursday, October 19, 2017",
-    "decision": "2018-08-30",
-    "decision_day": "Thursday, August 30, 2018",
-    "score": "7-2",
-    "votes": [
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "minority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "minority"
-      },
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-10-19",
-        "title": "Oral Argument on Thursday, October 19, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017101047/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/91c315c9d4f245c97dc5abde5eca675b03fa1a82.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017101047/media.m3u8",
-        "length": "00:44:54",
-        "size": 361758720
-      }
-    ]
-  },
-  {
-    "id": "2017-069",
-    "title": "State v. Fletcher",
-    "number": "94329-0",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20171019",
-    "questions": "Must an insanity acquittee apply to DSHS before the court for release? Is s/he entitled to counsel in either process?",
-    "argument": "2017-10-19",
-    "argument_day": "Thursday, October 19, 2017",
-    "decision": "2018-03-08",
-    "decision_day": "Thursday, March 8, 2018",
-    "score": "9-0",
-    "votes": [
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-10-19",
-        "title": "Oral Argument on Thursday, October 19, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017101048/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/844c8e3b878b27054192c5da76691bf0514b363e.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017101048/media.m3u8",
-        "length": "00:42:24",
-        "size": 341835776
-      }
-    ]
-  },
-  {
-    "id": "2017-070",
-    "title": "Stewart v. Emp't Sec. Dep't",
-    "number": "93759-1",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20171019",
-    "questions": "From what date does a court measure an appeal for unemployment benefits-the date of mailing or the date it was received?",
-    "argument": "2017-10-19",
-    "argument_day": "Thursday, October 19, 2017",
-    "decision": "2018-06-14",
-    "decision_day": "Thursday, June 14, 2018",
-    "score": "5-4",
-    "votes": [
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "minority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "minority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "minority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "minority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-10-19",
-        "title": "Oral Argument on Thursday, October 19, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017101049/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/dca452c5f7ad51dceae75b5b72e0440201dc57b7.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017101049/media.m3u8",
-        "length": "00:42:02",
-        "size": 339738624
-      }
-    ]
-  },
-  {
-    "id": "2017-071",
-    "title": "In re Pers. Restraint of Phelps",
-    "number": "94185-8",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20171031",
-    "questions": "Is the State required to present expert testimony to support its claim that a defendant engaged in \"grooming\" activity?",
-    "argument": "2017-10-31",
-    "argument_day": "Tuesday, October 31, 2017",
-    "decision": "2018-02-22",
-    "decision_day": "Thursday, February 22, 2018",
-    "score": "9-0",
-    "votes": [
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      },
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-10-31",
-        "title": "Oral Argument on Tuesday, October 31, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017101090/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/61c579ea5b14fdf723d0019d4bb9f39c8c4c8fe4.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017101090/media.m3u8",
-        "length": "00:41:36",
-        "size": 346030080
-      }
-    ]
-  },
-  {
-    "id": "2017-072",
-    "title": "State v. Petterson",
-    "number": "94439-3",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20171031",
-    "questions": "Must courts require individuals on community custody to comply with conditions imposed by the Department of Corrections?",
-    "argument": "2017-10-31",
-    "argument_day": "Tuesday, October 31, 2017",
-    "decision": "2018-02-01",
-    "decision_day": "Thursday, February 1, 2018",
-    "score": "9-0",
-    "votes": [
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-10-31",
-        "title": "Oral Argument on Tuesday, October 31, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017101091/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/13cc8f85efe70bddc0329d46a6487e5433a11f35.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017101091/media.m3u8",
-        "length": "00:42:32",
-        "size": 351272960
-      }
-    ]
-  },
-  {
-    "id": "2017-073",
-    "title": "State v. Murray",
-    "number": "94346-0",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20171114",
-    "questions": "Is sexual motivation a required element of indecent exposure? Is a 2 ½ week period \"shortly after\" release from prison?",
-    "argument": "2017-11-14",
-    "argument_day": "Tuesday, November 14, 2017",
-    "decision": "2018-05-17",
-    "decision_day": "Thursday, May 17, 2018",
-    "score": "7-2",
-    "votes": [
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "minority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "minority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      },
-      {
-        "name": "ROBERT LAWRENCE-BERREY",
-        "side": "majority"
-      },
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-11-14",
-        "title": "Oral Argument on Tuesday, November 14, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017111027/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/b93c58e8e44d41875a3eaa403ce2f725a4d4a3c7.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017111027/media.m3u8",
-        "length": "01:04:56",
-        "size": 546308096
-      }
-    ]
-  },
-  {
-    "id": "2017-074",
+    "id": "2017-083",
     "title": "Wright v. Lyft, Inc.",
     "number": "94162-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20171114",
@@ -4531,6 +5180,7 @@
     "argument_day": "Tuesday, November 14, 2017",
     "decision": "2017-12-14",
     "decision_day": "Thursday, December 14, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/941629.pdf",
     "score": "9-0",
     "votes": [
       {
@@ -4585,255 +5235,91 @@
     ]
   },
   {
-    "id": "2017-075",
-    "title": "State v. Blockman",
-    "number": "94273-1",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20171114",
-    "questions": "Was a police \"protective sweep\" of a home permissible under any warrant requirement exception to our constitutions?",
-    "argument": "2017-11-14",
-    "argument_day": "Tuesday, November 14, 2017",
-    "decision": "2018-05-10",
-    "decision_day": "Thursday, May 10, 2018",
-    "score": "9-0",
-    "votes": [
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-11-14",
-        "title": "Oral Argument on Tuesday, November 14, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017111028/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/404601b16c99fbd00b73d165bc0cccbeb732e41c.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017111028/media.m3u8",
-        "length": "00:45:41",
-        "size": 252706816
-      }
-    ]
+    "id": "2017-084",
+    "title": "In re Recall of Boldt",
+    "number": "93522-0",
+    "decision": "2017-01-12",
+    "decision_day": "Thursday, January 12, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/935220.pdf"
   },
   {
-    "id": "2017-076",
-    "title": "In re Bar Application of Simmons",
-    "number": "201,671-5",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20171116",
-    "questions": "Should Tarra Simmons be allowed to take the bar exam?",
-    "argument": "2017-11-16",
-    "argument_day": "Thursday, November 16, 2017",
-    "decision": "2018-04-05",
-    "decision_day": "Thursday, April 5, 2018",
-    "score": "9-0",
-    "votes": [
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "majority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      },
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-11-16",
-        "title": "Oral Argument on Thursday, November 16, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017111036/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/8aa08c36411eb269bc24ca65e9359805f8e6162b.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017111036/media.m3u8",
-        "length": "01:01:48",
-        "size": 502267904
-      }
-    ]
+    "id": "2017-085",
+    "title": "State v. Solis-Diaz",
+    "number": "93279-4",
+    "decision": "2017-01-12",
+    "decision_day": "Thursday, January 12, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/932794.pdf"
   },
   {
-    "id": "2017-077",
-    "title": "State v. Lopez",
-    "number": "94418-1",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20171116",
-    "questions": "Should new trial have been granted based on counsel's mental illness and failure to introduce ER 404(a)(1) testimony?",
-    "argument": "2017-11-16",
-    "argument_day": "Thursday, November 16, 2017",
-    "decision": "2018-02-15",
-    "decision_day": "Thursday, February 15, 2018",
-    "score": "6-3",
-    "votes": [
-      {
-        "name": "MARY FAIRHURST",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "minority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "minority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "majority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "minority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "majority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-11-16",
-        "title": "Oral Argument on Thursday, November 16, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017111037/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/a9b270e9edf1714db7d957cd2981fa59500e9f93.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017111037/media.m3u8",
-        "length": "00:42:50",
-        "size": 347078656
-      }
-    ]
+    "id": "2017-086",
+    "title": "In re Pers. Restraint of Bell",
+    "number": "92679-4",
+    "decision": "2017-01-19",
+    "decision_day": "Thursday, January 19, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/926794.pdf"
   },
   {
-    "id": "2017-078",
-    "title": "Lyft, Inc. v. City of Seattle",
-    "number": "94026-6",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2017&file=20171116",
-    "questions": "Whether records submitted to city contain trade secrets and may be enjoined from Public Records Act examination?",
-    "argument": "2017-11-16",
-    "argument_day": "Thursday, November 16, 2017",
-    "decision": "2018-05-31",
-    "decision_day": "Thursday, May 31, 2018",
-    "score": "5-4",
-    "votes": [
-      {
-        "name": "MARY FAIRHURST",
-        "side": "minority"
-      },
-      {
-        "name": "CHARLES JOHNSON",
-        "side": "majority"
-      },
-      {
-        "name": "BARBARA MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "SUSAN OWENS",
-        "side": "majority"
-      },
-      {
-        "name": "DEBRA STEPHENS",
-        "side": "majority"
-      },
-      {
-        "name": "CHARLES WIGGINS",
-        "side": "minority"
-      },
-      {
-        "name": "STEVEN GONZÁLEZ",
-        "side": "minority"
-      },
-      {
-        "name": "SHERYL GORDON MCCLOUD",
-        "side": "minority"
-      },
-      {
-        "name": "MARY YU",
-        "side": "majority"
-      }
-    ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2017-11-16",
-        "title": "Oral Argument on Thursday, November 16, 2017",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2017111039/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/9865ca666a8fdc6c8d7eac6cf84ea7163f7ed976.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2017111039/media.m3u8",
-        "length": "00:43:18",
-        "size": 352321536
-      }
-    ]
+    "id": "2017-087",
+    "title": "Peralta v. State",
+    "number": "92675-1",
+    "decision": "2017-02-16",
+    "decision_day": "Thursday, February 16, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/926751.pdf"
+  },
+  {
+    "id": "2017-088",
+    "title": "Robert Ingersoll, Et Al. V. Arlene's Flowers, Inc., Et Al.",
+    "number": "91615-2",
+    "decision": "2017-02-16",
+    "decision_day": "Thursday, February 16, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/916152.0619.pdf"
+  },
+  {
+    "id": "2017-089",
+    "title": "In re Disciplinary Proceeding Against Conteh",
+    "number": "201,448-8",
+    "decision": "2017-02-16",
+    "decision_day": "Thursday, February 16, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/2014488.pdf"
+  },
+  {
+    "id": "2017-090",
+    "title": "State v. Weatherwax",
+    "number": "93192-5",
+    "decision": "2017-04-06",
+    "decision_day": "Thursday, April 6, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/931925.pdf"
+  },
+  {
+    "id": "2017-091",
+    "title": "In re Pers. Restraint of Davis",
+    "number": "89590-2",
+    "decision": "2017-05-18",
+    "decision_day": "Thursday, May 18, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/895902.pdf"
+  },
+  {
+    "id": "2017-092",
+    "title": "Bus. Servs. of Am. II, Inc. v. WaferTech, LLC",
+    "number": "94088-6",
+    "decision": "2017-07-27",
+    "decision_day": "Thursday, July 27, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/940886.pdf"
+  },
+  {
+    "id": "2017-093",
+    "title": "In re Recall of Riddle",
+    "number": "94788-1",
+    "decision": "2017-10-26",
+    "decision_day": "Thursday, October 26, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/947881.pdf"
+  },
+  {
+    "id": "2017-094",
+    "title": "In re Recall of Pepper",
+    "number": "94574-8",
+    "decision": "2017-10-26",
+    "decision_day": "Thursday, October 26, 2017",
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/945748.pdf"
   }
 ]

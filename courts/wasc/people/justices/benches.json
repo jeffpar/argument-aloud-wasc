@@ -1,0 +1,1803 @@
+[
+  {
+    "id": "anders1",
+    "name": "Anders 1 (1889–1895)",
+    "dateStart": "1889-11-11",
+    "dateStop": "1895-01-14",
+    "cases": 2,
+    "justices": [
+      "THOMAS J. ANDERS",
+      "RALPH O. DUNBAR",
+      "JOHN P. HOYT",
+      "ELMON SCOTT",
+      "THEODORE L. STILES"
+    ]
+  },
+  {
+    "id": "hoyt1",
+    "name": "Hoyt 1 (1895–1897)",
+    "dateStart": "1895-01-14",
+    "dateStop": "1897-01-11",
+    "cases": 0,
+    "justices": [
+      "THOMAS J. ANDERS",
+      "RALPH O. DUNBAR",
+      "JOHN P. HOYT",
+      "ELMON SCOTT",
+      "MERRITT J. GORDON"
+    ]
+  },
+  {
+    "id": "scott1",
+    "name": "Scott 1 (1897–1899)",
+    "dateStart": "1897-01-11",
+    "dateStop": "1899-01-09",
+    "cases": 0,
+    "justices": [
+      "THOMAS J. ANDERS",
+      "RALPH O. DUNBAR",
+      "ELMON SCOTT",
+      "MERRITT J. GORDON",
+      "JAMES BRADLEY REAVIS"
+    ]
+  },
+  {
+    "id": "gordon1",
+    "name": "Gordon 1 (1899–1900)",
+    "dateStart": "1899-01-09",
+    "dateStop": "1900-06-01",
+    "cases": 0,
+    "justices": [
+      "THOMAS J. ANDERS",
+      "RALPH O. DUNBAR",
+      "MERRITT J. GORDON",
+      "JAMES BRADLEY REAVIS",
+      "MARK A. FULLERTON"
+    ]
+  },
+  {
+    "id": "gordon2",
+    "name": "Gordon 2 (1900–1901)",
+    "dateStart": "1900-06-01",
+    "dateStop": "1901-01-14",
+    "cases": 0,
+    "justices": [
+      "THOMAS J. ANDERS",
+      "RALPH O. DUNBAR",
+      "JAMES BRADLEY REAVIS",
+      "MARK A. FULLERTON",
+      "WILLIAM H. WHITE"
+    ]
+  },
+  {
+    "id": "reavis1",
+    "name": "Reavis 1 (1901–1901)",
+    "dateStart": "1901-01-14",
+    "dateStop": "1901-03-20",
+    "cases": 0,
+    "justices": [
+      "THOMAS J. ANDERS",
+      "RALPH O. DUNBAR",
+      "JAMES BRADLEY REAVIS",
+      "MARK A. FULLERTON",
+      "WALLACE MOUNT"
+    ]
+  },
+  {
+    "id": "reavis2",
+    "name": "Reavis 2 (1901–1902)",
+    "dateStart": "1901-03-20",
+    "dateStop": "1902-10-07",
+    "cases": 0,
+    "justices": [
+      "THOMAS J. ANDERS",
+      "RALPH O. DUNBAR",
+      "JAMES BRADLEY REAVIS",
+      "MARK A. FULLERTON",
+      "WILLIAM H. WHITE",
+      "WALLACE MOUNT",
+      "HIRAM E. HADLEY"
+    ]
+  },
+  {
+    "id": "reavis3",
+    "name": "Reavis 3 (1902–1903)",
+    "dateStart": "1902-10-07",
+    "dateStop": "1903-01-12",
+    "cases": 0,
+    "justices": [
+      "THOMAS J. ANDERS",
+      "RALPH O. DUNBAR",
+      "JAMES BRADLEY REAVIS",
+      "MARK A. FULLERTON",
+      "WALLACE MOUNT"
+    ]
+  },
+  {
+    "id": "fullerton1",
+    "name": "Fullerton 1 (1903–1905)",
+    "dateStart": "1903-01-12",
+    "dateStop": "1905-01-10",
+    "cases": 0,
+    "justices": [
+      "THOMAS J. ANDERS",
+      "RALPH O. DUNBAR",
+      "MARK A. FULLERTON",
+      "WALLACE MOUNT",
+      "HIRAM E. HADLEY"
+    ]
+  },
+  {
+    "id": "mount1",
+    "name": "Mount 1 (1905–1908)",
+    "dateStart": "1905-01-10",
+    "dateStop": "1908-12-02",
+    "cases": 0,
+    "justices": [
+      "RALPH O. DUNBAR",
+      "MARK A. FULLERTON",
+      "WALLACE MOUNT",
+      "HIRAM E. HADLEY",
+      "MILO A. ROOT",
+      "FRANK H. RUDKIN",
+      "HERMAN D. CROW"
+    ]
+  },
+  {
+    "id": "hadley1",
+    "name": "Hadley 1 (1908–1909)",
+    "dateStart": "1908-12-02",
+    "dateStop": "1909-01-11",
+    "cases": 0,
+    "justices": [
+      "RALPH O. DUNBAR",
+      "MARK A. FULLERTON",
+      "WALLACE MOUNT",
+      "HIRAM E. HADLEY",
+      "FRANK H. RUDKIN",
+      "HERMAN D. CROW",
+      "STEPHEN J. CHADWICK"
+    ]
+  },
+  {
+    "id": "rudkin1",
+    "name": "Rudkin 1 (1909–1909)",
+    "dateStart": "1909-01-11",
+    "dateStop": "1909-02-26",
+    "cases": 0,
+    "justices": [
+      "RALPH O. DUNBAR",
+      "MARK A. FULLERTON",
+      "WALLACE MOUNT",
+      "FRANK H. RUDKIN",
+      "HERMAN D. CROW",
+      "STEPHEN J. CHADWICK",
+      "MACK F. GOSE"
+    ]
+  },
+  {
+    "id": "rudkin2",
+    "name": "Rudkin 2 (1909–1911)",
+    "dateStart": "1909-02-26",
+    "dateStop": "1911-02-14",
+    "cases": 0,
+    "justices": [
+      "RALPH O. DUNBAR",
+      "MARK A. FULLERTON",
+      "WALLACE MOUNT",
+      "FRANK H. RUDKIN",
+      "HERMAN D. CROW",
+      "STEPHEN J. CHADWICK",
+      "MACK F. GOSE",
+      "GEORGE E. MORRIS",
+      "EMMETT N. PARKER"
+    ]
+  },
+  {
+    "id": "rudkin3",
+    "name": "Rudkin 3 (1911–1911)",
+    "dateStart": "1911-02-14",
+    "dateStop": "1911-05-10",
+    "cases": 0,
+    "justices": [
+      "RALPH O. DUNBAR",
+      "MARK A. FULLERTON",
+      "WALLACE MOUNT",
+      "HERMAN D. CROW",
+      "STEPHEN J. CHADWICK",
+      "MACK F. GOSE",
+      "GEORGE E. MORRIS",
+      "EMMETT N. PARKER"
+    ]
+  },
+  {
+    "id": "rudkin4",
+    "name": "Rudkin 4 (1911–1912)",
+    "dateStart": "1911-05-10",
+    "dateStop": "1912-09-19",
+    "cases": 0,
+    "justices": [
+      "RALPH O. DUNBAR",
+      "MARK A. FULLERTON",
+      "WALLACE MOUNT",
+      "HERMAN D. CROW",
+      "STEPHEN J. CHADWICK",
+      "MACK F. GOSE",
+      "GEORGE E. MORRIS",
+      "EMMETT N. PARKER",
+      "OVERTON G. ELLIS"
+    ]
+  },
+  {
+    "id": "rudkin5",
+    "name": "Rudkin 5 (1912–1915)",
+    "dateStart": "1912-09-19",
+    "dateStop": "1915-01-11",
+    "cases": 0,
+    "justices": [
+      "MARK A. FULLERTON",
+      "WALLACE MOUNT",
+      "HERMAN D. CROW",
+      "STEPHEN J. CHADWICK",
+      "MACK F. GOSE",
+      "GEORGE E. MORRIS",
+      "EMMETT N. PARKER",
+      "OVERTON G. ELLIS",
+      "JOHN F. MAIN"
+    ]
+  },
+  {
+    "id": "morris1",
+    "name": "Morris 1 (1915–1915)",
+    "dateStart": "1915-01-11",
+    "dateStop": "1915-10-22",
+    "cases": 0,
+    "justices": [
+      "MARK A. FULLERTON",
+      "WALLACE MOUNT",
+      "HERMAN D. CROW",
+      "STEPHEN J. CHADWICK",
+      "GEORGE E. MORRIS",
+      "EMMETT N. PARKER",
+      "OVERTON G. ELLIS",
+      "JOHN F. MAIN",
+      "OSCAR R. HOLCOMB"
+    ]
+  },
+  {
+    "id": "morris2",
+    "name": "Morris 2 (1915–1916)",
+    "dateStart": "1915-10-22",
+    "dateStop": "1916-11-20",
+    "cases": 0,
+    "justices": [
+      "MARK A. FULLERTON",
+      "WALLACE MOUNT",
+      "STEPHEN J. CHADWICK",
+      "GEORGE E. MORRIS",
+      "EMMETT N. PARKER",
+      "OVERTON G. ELLIS",
+      "JOHN F. MAIN",
+      "OSCAR R. HOLCOMB",
+      "FREDERICK BAUSMAN"
+    ]
+  },
+  {
+    "id": "morris3",
+    "name": "Morris 3 (1916–1918)",
+    "dateStart": "1916-11-20",
+    "dateStop": "1918-03-30",
+    "cases": 0,
+    "justices": [
+      "MARK A. FULLERTON",
+      "WALLACE MOUNT",
+      "STEPHEN J. CHADWICK",
+      "GEORGE E. MORRIS",
+      "EMMETT N. PARKER",
+      "OVERTON G. ELLIS",
+      "JOHN F. MAIN",
+      "OSCAR R. HOLCOMB",
+      "JOHN STANLEY WEBSTER"
+    ]
+  },
+  {
+    "id": "ellis1",
+    "name": "Ellis 1 (1918–1918)",
+    "dateStart": "1918-03-30",
+    "dateStop": "1918-05-11",
+    "cases": 0,
+    "justices": [
+      "MARK A. FULLERTON",
+      "WALLACE MOUNT",
+      "STEPHEN J. CHADWICK",
+      "EMMETT N. PARKER",
+      "OVERTON G. ELLIS",
+      "JOHN F. MAIN",
+      "OSCAR R. HOLCOMB",
+      "JOHN STANLEY WEBSTER",
+      "KENNETH MACKINTOSH"
+    ]
+  },
+  {
+    "id": "main1",
+    "name": "Main 1 (1918–1919)",
+    "dateStart": "1918-05-11",
+    "dateStop": "1919-06-01",
+    "cases": 0,
+    "justices": [
+      "MARK A. FULLERTON",
+      "WALLACE MOUNT",
+      "STEPHEN J. CHADWICK",
+      "EMMETT N. PARKER",
+      "JOHN F. MAIN",
+      "OSCAR R. HOLCOMB",
+      "KENNETH MACKINTOSH",
+      "JOHN R. MITCHELL",
+      "WARREN W. TOLMAN"
+    ]
+  },
+  {
+    "id": "holcomb1",
+    "name": "Holcomb 1 (1919–1921)",
+    "dateStart": "1919-06-01",
+    "dateStop": "1921-09-04",
+    "cases": 0,
+    "justices": [
+      "MARK A. FULLERTON",
+      "WALLACE MOUNT",
+      "EMMETT N. PARKER",
+      "JOHN F. MAIN",
+      "OSCAR R. HOLCOMB",
+      "KENNETH MACKINTOSH",
+      "JOHN R. MITCHELL",
+      "WARREN W. TOLMAN",
+      "JESSIE B. BRIDGES"
+    ]
+  },
+  {
+    "id": "parker1",
+    "name": "Parker 1 (1921–1923)",
+    "dateStart": "1921-09-04",
+    "dateStop": "1923-01-08",
+    "cases": 0,
+    "justices": [
+      "MARK A. FULLERTON",
+      "EMMETT N. PARKER",
+      "JOHN F. MAIN",
+      "OSCAR R. HOLCOMB",
+      "KENNETH MACKINTOSH",
+      "JOHN R. MITCHELL",
+      "WARREN W. TOLMAN",
+      "JESSIE B. BRIDGES",
+      "C. R. HOVEY"
+    ]
+  },
+  {
+    "id": "parker2",
+    "name": "Parker 2 (1923–1925)",
+    "dateStart": "1923-01-08",
+    "dateStop": "1925-01-12",
+    "cases": 0,
+    "justices": [
+      "MARK A. FULLERTON",
+      "EMMETT N. PARKER",
+      "JOHN F. MAIN",
+      "OSCAR R. HOLCOMB",
+      "KENNETH MACKINTOSH",
+      "JOHN R. MITCHELL",
+      "WARREN W. TOLMAN",
+      "JESSIE B. BRIDGES",
+      "WILLIAM H. PEMBERTON"
+    ]
+  },
+  {
+    "id": "tolman1",
+    "name": "Tolman 1 (1925–1927)",
+    "dateStart": "1925-01-12",
+    "dateStop": "1927-01-10",
+    "cases": 0,
+    "justices": [
+      "MARK A. FULLERTON",
+      "EMMETT N. PARKER",
+      "JOHN F. MAIN",
+      "OSCAR R. HOLCOMB",
+      "KENNETH MACKINTOSH",
+      "JOHN R. MITCHELL",
+      "WARREN W. TOLMAN",
+      "JESSIE B. BRIDGES",
+      "WILLIAM D. ASKREN"
+    ]
+  },
+  {
+    "id": "mackintosh1",
+    "name": "Mackintosh 1 (1927–1927)",
+    "dateStart": "1927-01-10",
+    "dateStop": "1927-04-14",
+    "cases": 0,
+    "justices": [
+      "MARK A. FULLERTON",
+      "EMMETT N. PARKER",
+      "JOHN F. MAIN",
+      "KENNETH MACKINTOSH",
+      "JOHN R. MITCHELL",
+      "WARREN W. TOLMAN",
+      "JESSIE B. BRIDGES",
+      "WILLIAM D. ASKREN",
+      "WALTER M. FRENCH"
+    ]
+  },
+  {
+    "id": "mackintosh2",
+    "name": "Mackintosh 2 (1927–1928)",
+    "dateStart": "1927-04-14",
+    "dateStop": "1928-04-16",
+    "cases": 0,
+    "justices": [
+      "MARK A. FULLERTON",
+      "EMMETT N. PARKER",
+      "JOHN F. MAIN",
+      "OSCAR R. HOLCOMB",
+      "KENNETH MACKINTOSH",
+      "JOHN R. MITCHELL",
+      "WARREN W. TOLMAN",
+      "WILLIAM D. ASKREN",
+      "WALTER M. FRENCH"
+    ]
+  },
+  {
+    "id": "mackintosh3",
+    "name": "Mackintosh 3 (1928–1928)",
+    "dateStart": "1928-04-16",
+    "dateStop": "1928-11-30",
+    "cases": 0,
+    "justices": [
+      "MARK A. FULLERTON",
+      "EMMETT N. PARKER",
+      "JOHN F. MAIN",
+      "OSCAR R. HOLCOMB",
+      "JOHN R. MITCHELL",
+      "WARREN W. TOLMAN",
+      "WILLIAM D. ASKREN",
+      "WALTER M. FRENCH",
+      "WALTER B. BEALS"
+    ]
+  },
+  {
+    "id": "mackintosh4",
+    "name": "Mackintosh 4 (1928–1930)",
+    "dateStart": "1928-11-30",
+    "dateStop": "1930-09-13",
+    "cases": 0,
+    "justices": [
+      "MARK A. FULLERTON",
+      "EMMETT N. PARKER",
+      "JOHN F. MAIN",
+      "OSCAR R. HOLCOMB",
+      "JOHN R. MITCHELL",
+      "WARREN W. TOLMAN",
+      "WALTER M. FRENCH",
+      "WALTER B. BEALS",
+      "WILLIAM J. MILLARD"
+    ]
+  },
+  {
+    "id": "mitchell1",
+    "name": "Mitchell 1 (1930–1931)",
+    "dateStart": "1930-09-13",
+    "dateStop": "1931-09-21",
+    "cases": 0,
+    "justices": [
+      "MARK A. FULLERTON",
+      "EMMETT N. PARKER",
+      "JOHN F. MAIN",
+      "OSCAR R. HOLCOMB",
+      "JOHN R. MITCHELL",
+      "WARREN W. TOLMAN",
+      "WALTER B. BEALS",
+      "WILLIAM J. MILLARD",
+      "ADAM BEELER"
+    ]
+  },
+  {
+    "id": "mitchell2",
+    "name": "Mitchell 2 (1931–1932)",
+    "dateStart": "1931-09-21",
+    "dateStop": "1932-05-23",
+    "cases": 0,
+    "justices": [
+      "EMMETT N. PARKER",
+      "JOHN F. MAIN",
+      "OSCAR R. HOLCOMB",
+      "JOHN R. MITCHELL",
+      "WARREN W. TOLMAN",
+      "WALTER B. BEALS",
+      "WILLIAM J. MILLARD",
+      "ADAM BEELER",
+      "HENRY E. T. HERMAN"
+    ]
+  },
+  {
+    "id": "mitchell3",
+    "name": "Mitchell 3 (1932–1932)",
+    "dateStart": "1932-05-23",
+    "dateStop": "1932-12-01",
+    "cases": 0,
+    "justices": [
+      "EMMETT N. PARKER",
+      "JOHN F. MAIN",
+      "OSCAR R. HOLCOMB",
+      "JOHN R. MITCHELL",
+      "WARREN W. TOLMAN",
+      "WALTER B. BEALS",
+      "WILLIAM J. MILLARD",
+      "HENRY E. T. HERMAN",
+      "WILLIAM J. STEINERT"
+    ]
+  },
+  {
+    "id": "mitchell4",
+    "name": "Mitchell 4 (1932–1933)",
+    "dateStart": "1932-12-01",
+    "dateStop": "1933-08-15",
+    "cases": 0,
+    "justices": [
+      "EMMETT N. PARKER",
+      "JOHN F. MAIN",
+      "OSCAR R. HOLCOMB",
+      "JOHN R. MITCHELL",
+      "WARREN W. TOLMAN",
+      "WALTER B. BEALS",
+      "WILLIAM J. MILLARD",
+      "WILLIAM J. STEINERT",
+      "BRUCE BLAKE"
+    ]
+  },
+  {
+    "id": "beals1",
+    "name": "Beals 1 (1933–1937)",
+    "dateStart": "1933-08-15",
+    "dateStop": "1937-01-11",
+    "cases": 0,
+    "justices": [
+      "JOHN F. MAIN",
+      "OSCAR R. HOLCOMB",
+      "JOHN R. MITCHELL",
+      "WARREN W. TOLMAN",
+      "WALTER B. BEALS",
+      "WILLIAM J. MILLARD",
+      "WILLIAM J. STEINERT",
+      "BRUCE BLAKE",
+      "JAMES M. GERAGHTY"
+    ]
+  },
+  {
+    "id": "steinert1",
+    "name": "Steinert 1 (1937–1937)",
+    "dateStart": "1937-01-11",
+    "dateStop": "1937-09-20",
+    "cases": 0,
+    "justices": [
+      "JOHN F. MAIN",
+      "OSCAR R. HOLCOMB",
+      "WARREN W. TOLMAN",
+      "WALTER B. BEALS",
+      "WILLIAM J. MILLARD",
+      "WILLIAM J. STEINERT",
+      "BRUCE BLAKE",
+      "JAMES M. GERAGHTY",
+      "JOHN S. ROBINSON"
+    ]
+  },
+  {
+    "id": "steinert2",
+    "name": "Steinert 2 (1937–1939)",
+    "dateStart": "1937-09-20",
+    "dateStop": "1939-01-09",
+    "cases": 0,
+    "justices": [
+      "JOHN F. MAIN",
+      "OSCAR R. HOLCOMB",
+      "WALTER B. BEALS",
+      "WILLIAM J. MILLARD",
+      "WILLIAM J. STEINERT",
+      "BRUCE BLAKE",
+      "JAMES M. GERAGHTY",
+      "JOHN S. ROBINSON",
+      "GEORGE B. SIMPSON"
+    ]
+  },
+  {
+    "id": "blake1",
+    "name": "Blake 1 (1939–1940)",
+    "dateStart": "1939-01-09",
+    "dateStop": "1940-04-29",
+    "cases": 0,
+    "justices": [
+      "JOHN F. MAIN",
+      "WALTER B. BEALS",
+      "WILLIAM J. MILLARD",
+      "WILLIAM J. STEINERT",
+      "BRUCE BLAKE",
+      "JAMES M. GERAGHTY",
+      "JOHN S. ROBINSON",
+      "GEORGE B. SIMPSON",
+      "CLYDE G. JEFFERS"
+    ]
+  },
+  {
+    "id": "blake2",
+    "name": "Blake 2 (1940–1942)",
+    "dateStart": "1940-04-29",
+    "dateStop": "1942-11-09",
+    "cases": 0,
+    "justices": [
+      "JOHN F. MAIN",
+      "WALTER B. BEALS",
+      "WILLIAM J. MILLARD",
+      "WILLIAM J. STEINERT",
+      "BRUCE BLAKE",
+      "JOHN S. ROBINSON",
+      "GEORGE B. SIMPSON",
+      "CLYDE G. JEFFERS",
+      "SAMUEL M. DRIVER"
+    ]
+  },
+  {
+    "id": "robinson1",
+    "name": "Robinson 1 (1942–1943)",
+    "dateStart": "1942-11-09",
+    "dateStop": "1943-10-13",
+    "cases": 0,
+    "justices": [
+      "JOHN F. MAIN",
+      "WALTER B. BEALS",
+      "WILLIAM J. MILLARD",
+      "WILLIAM J. STEINERT",
+      "BRUCE BLAKE",
+      "JOHN S. ROBINSON",
+      "GEORGE B. SIMPSON",
+      "CLYDE G. JEFFERS",
+      "JOSEPH A. MALLERY",
+      "THOMAS E. GRADY"
+    ]
+  },
+  {
+    "id": "simpson1",
+    "name": "Simpson 1 (1943–1945)",
+    "dateStart": "1943-10-13",
+    "dateStop": "1945-11-30",
+    "cases": 0,
+    "justices": [
+      "WALTER B. BEALS",
+      "WILLIAM J. MILLARD",
+      "WILLIAM J. STEINERT",
+      "BRUCE BLAKE",
+      "JOHN S. ROBINSON",
+      "GEORGE B. SIMPSON",
+      "CLYDE G. JEFFERS",
+      "JOSEPH A. MALLERY",
+      "THOMAS E. GRADY"
+    ]
+  },
+  {
+    "id": "simpson2",
+    "name": "Simpson 2 (1945–1946)",
+    "dateStart": "1945-11-30",
+    "dateStop": "1946-04-22",
+    "cases": 0,
+    "justices": [
+      "WALTER B. BEALS",
+      "WILLIAM J. MILLARD",
+      "WILLIAM J. STEINERT",
+      "BRUCE BLAKE",
+      "JOHN S. ROBINSON",
+      "GEORGE B. SIMPSON",
+      "CLYDE G. JEFFERS",
+      "SAMUEL M. DRIVER",
+      "JOSEPH A. MALLERY"
+    ]
+  },
+  {
+    "id": "driver1",
+    "name": "Driver 1 (1946–1946)",
+    "dateStart": "1946-04-22",
+    "dateStop": "1946-08-31",
+    "cases": 0,
+    "justices": [
+      "WALTER B. BEALS",
+      "WILLIAM J. MILLARD",
+      "WILLIAM J. STEINERT",
+      "BRUCE BLAKE",
+      "JOHN S. ROBINSON",
+      "GEORGE B. SIMPSON",
+      "CLYDE G. JEFFERS",
+      "JOSEPH A. MALLERY",
+      "EDWARD M. CONNELLY"
+    ]
+  },
+  {
+    "id": "driver2",
+    "name": "Driver 2 (1946–1946)",
+    "dateStart": "1946-08-31",
+    "dateStop": "1946-10-01",
+    "cases": 0,
+    "justices": [
+      "WALTER B. BEALS",
+      "WILLIAM J. MILLARD",
+      "WILLIAM J. STEINERT",
+      "JOHN S. ROBINSON",
+      "GEORGE B. SIMPSON",
+      "CLYDE G. JEFFERS",
+      "JOSEPH A. MALLERY",
+      "EDWARD M. CONNELLY",
+      "E. W. SCHWELLENBACH"
+    ]
+  },
+  {
+    "id": "driver3",
+    "name": "Driver 3 (1946–1946)",
+    "dateStart": "1946-10-01",
+    "dateStop": "1946-11-07",
+    "cases": 0,
+    "justices": [
+      "WILLIAM J. MILLARD",
+      "WILLIAM J. STEINERT",
+      "JOHN S. ROBINSON",
+      "GEORGE B. SIMPSON",
+      "CLYDE G. JEFFERS",
+      "JOSEPH A. MALLERY",
+      "EDWARD M. CONNELLY",
+      "E. W. SCHWELLENBACH"
+    ]
+  },
+  {
+    "id": "driver4",
+    "name": "Driver 4 (1946–1947)",
+    "dateStart": "1946-11-07",
+    "dateStop": "1947-01-13",
+    "cases": 0,
+    "justices": [
+      "WILLIAM J. MILLARD",
+      "WILLIAM J. STEINERT",
+      "JOHN S. ROBINSON",
+      "GEORGE B. SIMPSON",
+      "CLYDE G. JEFFERS",
+      "JOSEPH A. MALLERY",
+      "EDWARD M. CONNELLY",
+      "E. W. SCHWELLENBACH",
+      "DON G. ABEL"
+    ]
+  },
+  {
+    "id": "mallery1",
+    "name": "Mallery 1 (1947–1947)",
+    "dateStart": "1947-01-13",
+    "dateStop": "1947-09-10",
+    "cases": 0,
+    "justices": [
+      "WILLIAM J. MILLARD",
+      "WILLIAM J. STEINERT",
+      "JOHN S. ROBINSON",
+      "GEORGE B. SIMPSON",
+      "CLYDE G. JEFFERS",
+      "JOSEPH A. MALLERY",
+      "E. W. SCHWELLENBACH",
+      "DON G. ABEL",
+      "MATTHEW W. HILL"
+    ]
+  },
+  {
+    "id": "mallery2",
+    "name": "Mallery 2 (1947–1949)",
+    "dateStart": "1947-09-10",
+    "dateStop": "1949-01-10",
+    "cases": 0,
+    "justices": [
+      "WALTER B. BEALS",
+      "WILLIAM J. MILLARD",
+      "WILLIAM J. STEINERT",
+      "JOHN S. ROBINSON",
+      "GEORGE B. SIMPSON",
+      "CLYDE G. JEFFERS",
+      "JOSEPH A. MALLERY",
+      "E. W. SCHWELLENBACH",
+      "MATTHEW W. HILL"
+    ]
+  },
+  {
+    "id": "jeffers1",
+    "name": "Jeffers 1 (1949–1949)",
+    "dateStart": "1949-01-10",
+    "dateStop": "1949-08-08",
+    "cases": 0,
+    "justices": [
+      "WALTER B. BEALS",
+      "WILLIAM J. STEINERT",
+      "JOHN S. ROBINSON",
+      "GEORGE B. SIMPSON",
+      "CLYDE G. JEFFERS",
+      "JOSEPH A. MALLERY",
+      "THOMAS E. GRADY",
+      "E. W. SCHWELLENBACH",
+      "MATTHEW W. HILL"
+    ]
+  },
+  {
+    "id": "jeffers2",
+    "name": "Jeffers 2 (1949–1949)",
+    "dateStart": "1949-08-08",
+    "dateStop": "1949-09-06",
+    "cases": 0,
+    "justices": [
+      "WALTER B. BEALS",
+      "WILLIAM J. STEINERT",
+      "JOHN S. ROBINSON",
+      "GEORGE B. SIMPSON",
+      "JOSEPH A. MALLERY",
+      "THOMAS E. GRADY",
+      "E. W. SCHWELLENBACH",
+      "MATTHEW W. HILL"
+    ]
+  },
+  {
+    "id": "jeffers3",
+    "name": "Jeffers 3 (1949–1951)",
+    "dateStart": "1949-09-06",
+    "dateStop": "1951-01-08",
+    "cases": 0,
+    "justices": [
+      "WALTER B. BEALS",
+      "JOHN S. ROBINSON",
+      "GEORGE B. SIMPSON",
+      "JOSEPH A. MALLERY",
+      "THOMAS E. GRADY",
+      "E. W. SCHWELLENBACH",
+      "MATTHEW W. HILL",
+      "FREDERICK G. HAMLEY",
+      "CHARLES T. DONWORTH"
+    ]
+  },
+  {
+    "id": "schwellenbach1",
+    "name": "Schwellenbach 1 (1951–1951)",
+    "dateStart": "1951-01-08",
+    "dateStop": "1951-05-21",
+    "cases": 0,
+    "justices": [
+      "WALTER B. BEALS",
+      "JOHN S. ROBINSON",
+      "JOSEPH A. MALLERY",
+      "THOMAS E. GRADY",
+      "E. W. SCHWELLENBACH",
+      "MATTHEW W. HILL",
+      "FREDERICK G. HAMLEY",
+      "CHARLES T. DONWORTH",
+      "ROBERT C. FINLEY"
+    ]
+  },
+  {
+    "id": "schwellenbach2",
+    "name": "Schwellenbach 2 (1951–1951)",
+    "dateStart": "1951-05-21",
+    "dateStop": "1951-09-10",
+    "cases": 0,
+    "justices": [
+      "WALTER B. BEALS",
+      "JOSEPH A. MALLERY",
+      "THOMAS E. GRADY",
+      "E. W. SCHWELLENBACH",
+      "MATTHEW W. HILL",
+      "FREDERICK G. HAMLEY",
+      "CHARLES T. DONWORTH",
+      "ROBERT C. FINLEY",
+      "FRANK P. WEAVER"
+    ]
+  },
+  {
+    "id": "schwellenbach3",
+    "name": "Schwellenbach 3 (1951–1955)",
+    "dateStart": "1951-09-10",
+    "dateStop": "1955-01-10",
+    "cases": 0,
+    "justices": [
+      "JOSEPH A. MALLERY",
+      "THOMAS E. GRADY",
+      "E. W. SCHWELLENBACH",
+      "MATTHEW W. HILL",
+      "FREDERICK G. HAMLEY",
+      "CHARLES T. DONWORTH",
+      "ROBERT C. FINLEY",
+      "FRANK P. WEAVER",
+      "RALPH O. OLSON"
+    ]
+  },
+  {
+    "id": "hamley1",
+    "name": "Hamley 1 (1955–1956)",
+    "dateStart": "1955-01-10",
+    "dateStop": "1956-07-06",
+    "cases": 0,
+    "justices": [
+      "JOSEPH A. MALLERY",
+      "E. W. SCHWELLENBACH",
+      "MATTHEW W. HILL",
+      "FREDERICK G. HAMLEY",
+      "CHARLES T. DONWORTH",
+      "ROBERT C. FINLEY",
+      "FRANK P. WEAVER",
+      "HUGH J. ROSELLINI",
+      "RICHARD B. OTT"
+    ]
+  },
+  {
+    "id": "donworth1",
+    "name": "Donworth 1 (1956–1956)",
+    "dateStart": "1956-07-06",
+    "dateStop": "1956-12-06",
+    "cases": 0,
+    "justices": [
+      "JOSEPH A. MALLERY",
+      "E. W. SCHWELLENBACH",
+      "MATTHEW W. HILL",
+      "CHARLES T. DONWORTH",
+      "ROBERT C. FINLEY",
+      "FRANK P. WEAVER",
+      "HUGH J. ROSELLINI",
+      "RICHARD B. OTT",
+      "HARRY ELLSWORTH FOSTER"
+    ]
+  },
+  {
+    "id": "donworth2",
+    "name": "Donworth 2 (1956–1957)",
+    "dateStart": "1956-12-06",
+    "dateStop": "1957-01-14",
+    "cases": 0,
+    "justices": [
+      "WILLIAM J. MILLARD",
+      "JOSEPH A. MALLERY",
+      "E. W. SCHWELLENBACH",
+      "MATTHEW W. HILL",
+      "CHARLES T. DONWORTH",
+      "ROBERT C. FINLEY",
+      "FRANK P. WEAVER",
+      "HUGH J. ROSELLINI",
+      "RICHARD B. OTT"
+    ]
+  },
+  {
+    "id": "hill1",
+    "name": "Hill 1 (1957–1957)",
+    "dateStart": "1957-01-14",
+    "dateStop": "1957-09-22",
+    "cases": 0,
+    "justices": [
+      "JOSEPH A. MALLERY",
+      "E. W. SCHWELLENBACH",
+      "MATTHEW W. HILL",
+      "CHARLES T. DONWORTH",
+      "ROBERT C. FINLEY",
+      "FRANK P. WEAVER",
+      "HUGH J. ROSELLINI",
+      "RICHARD B. OTT",
+      "HARRY ELLSWORTH FOSTER"
+    ]
+  },
+  {
+    "id": "hill2",
+    "name": "Hill 2 (1957–1962)",
+    "dateStart": "1957-09-22",
+    "dateStop": "1962-01-15",
+    "cases": 0,
+    "justices": [
+      "JOSEPH A. MALLERY",
+      "MATTHEW W. HILL",
+      "CHARLES T. DONWORTH",
+      "ROBERT C. FINLEY",
+      "FRANK P. WEAVER",
+      "HUGH J. ROSELLINI",
+      "RICHARD B. OTT",
+      "HARRY ELLSWORTH FOSTER",
+      "ROBERT T. HUNTER"
+    ]
+  },
+  {
+    "id": "finley1",
+    "name": "Finley 1 (1962–1962)",
+    "dateStart": "1962-01-15",
+    "dateStop": "1962-12-05",
+    "cases": 0,
+    "justices": [
+      "MATTHEW W. HILL",
+      "CHARLES T. DONWORTH",
+      "ROBERT C. FINLEY",
+      "FRANK P. WEAVER",
+      "HUGH J. ROSELLINI",
+      "RICHARD B. OTT",
+      "HARRY ELLSWORTH FOSTER",
+      "ROBERT T. HUNTER",
+      "ORRIS L. HAMILTON"
+    ]
+  },
+  {
+    "id": "finley2",
+    "name": "Finley 2 (1962–1963)",
+    "dateStart": "1962-12-05",
+    "dateStop": "1963-01-14",
+    "cases": 0,
+    "justices": [
+      "MATTHEW W. HILL",
+      "CHARLES T. DONWORTH",
+      "ROBERT C. FINLEY",
+      "FRANK P. WEAVER",
+      "HUGH J. ROSELLINI",
+      "RICHARD B. OTT",
+      "ROBERT T. HUNTER",
+      "ORRIS L. HAMILTON"
+    ]
+  },
+  {
+    "id": "ott1",
+    "name": "Ott 1 (1963–1967)",
+    "dateStart": "1963-01-14",
+    "dateStop": "1967-03-31",
+    "cases": 0,
+    "justices": [
+      "MATTHEW W. HILL",
+      "CHARLES T. DONWORTH",
+      "ROBERT C. FINLEY",
+      "FRANK P. WEAVER",
+      "HUGH J. ROSELLINI",
+      "RICHARD B. OTT",
+      "ROBERT T. HUNTER",
+      "ORRIS L. HAMILTON",
+      "FRANK HALE"
+    ]
+  },
+  {
+    "id": "rosellini1",
+    "name": "Rosellini 1 (1967–1967)",
+    "dateStart": "1967-03-31",
+    "dateStop": "1967-12-31",
+    "cases": 0,
+    "justices": [
+      "MATTHEW W. HILL",
+      "CHARLES T. DONWORTH",
+      "ROBERT C. FINLEY",
+      "FRANK P. WEAVER",
+      "HUGH J. ROSELLINI",
+      "ROBERT T. HUNTER",
+      "ORRIS L. HAMILTON",
+      "FRANK HALE",
+      "MARSHALL A. NEILL"
+    ]
+  },
+  {
+    "id": "rosellini2",
+    "name": "Rosellini 2 (1967–1969)",
+    "dateStart": "1967-12-31",
+    "dateStop": "1969-12-31",
+    "cases": 0,
+    "justices": [
+      "MATTHEW W. HILL",
+      "ROBERT C. FINLEY",
+      "FRANK P. WEAVER",
+      "HUGH J. ROSELLINI",
+      "ROBERT T. HUNTER",
+      "ORRIS L. HAMILTON",
+      "FRANK HALE",
+      "MARSHALL A. NEILL",
+      "WALTER T. MCGOVERN"
+    ]
+  },
+  {
+    "id": "hunter1",
+    "name": "Hunter 1 (1969–1970)",
+    "dateStart": "1969-12-31",
+    "dateStop": "1970-05-21",
+    "cases": 0,
+    "justices": [
+      "ROBERT C. FINLEY",
+      "FRANK P. WEAVER",
+      "HUGH J. ROSELLINI",
+      "ROBERT T. HUNTER",
+      "ORRIS L. HAMILTON",
+      "FRANK HALE",
+      "MARSHALL A. NEILL",
+      "WALTER T. MCGOVERN",
+      "CHARLES F. STAFFORD"
+    ]
+  },
+  {
+    "id": "hunter2",
+    "name": "Hunter 2 (1970–1971)",
+    "dateStart": "1970-05-21",
+    "dateStop": "1971-01-11",
+    "cases": 0,
+    "justices": [
+      "ROBERT C. FINLEY",
+      "HUGH J. ROSELLINI",
+      "ROBERT T. HUNTER",
+      "ORRIS L. HAMILTON",
+      "FRANK HALE",
+      "MARSHALL A. NEILL",
+      "WALTER T. MCGOVERN",
+      "CHARLES F. STAFFORD",
+      "MORELL E. SHARP"
+    ]
+  },
+  {
+    "id": "hamilton1",
+    "name": "Hamilton 1 (1971–1971)",
+    "dateStart": "1971-01-11",
+    "dateStop": "1971-05-13",
+    "cases": 0,
+    "justices": [
+      "ROBERT C. FINLEY",
+      "HUGH J. ROSELLINI",
+      "ROBERT T. HUNTER",
+      "ORRIS L. HAMILTON",
+      "FRANK HALE",
+      "MARSHALL A. NEILL",
+      "WALTER T. MCGOVERN",
+      "CHARLES F. STAFFORD",
+      "CHARLES T. WRIGHT"
+    ]
+  },
+  {
+    "id": "hamilton2",
+    "name": "Hamilton 2 (1971–1971)",
+    "dateStart": "1971-05-13",
+    "dateStop": "1971-12-17",
+    "cases": 0,
+    "justices": [
+      "ROBERT C. FINLEY",
+      "HUGH J. ROSELLINI",
+      "ROBERT T. HUNTER",
+      "ORRIS L. HAMILTON",
+      "FRANK HALE",
+      "MARSHALL A. NEILL",
+      "CHARLES F. STAFFORD",
+      "MORELL E. SHARP",
+      "CHARLES T. WRIGHT"
+    ]
+  },
+  {
+    "id": "hamilton3",
+    "name": "Hamilton 3 (1971–1972)",
+    "dateStart": "1971-12-17",
+    "dateStop": "1972-11-16",
+    "cases": 0,
+    "justices": [
+      "ROBERT C. FINLEY",
+      "HUGH J. ROSELLINI",
+      "ROBERT T. HUNTER",
+      "ORRIS L. HAMILTON",
+      "FRANK HALE",
+      "MARSHALL A. NEILL",
+      "CHARLES F. STAFFORD",
+      "CHARLES T. WRIGHT",
+      "ROBERT F. UTTER"
+    ]
+  },
+  {
+    "id": "hamilton4",
+    "name": "Hamilton 4 (1972–1975)",
+    "dateStart": "1972-11-16",
+    "dateStop": "1975-01-13",
+    "cases": 0,
+    "justices": [
+      "ROBERT C. FINLEY",
+      "HUGH J. ROSELLINI",
+      "ROBERT T. HUNTER",
+      "ORRIS L. HAMILTON",
+      "FRANK HALE",
+      "CHARLES F. STAFFORD",
+      "CHARLES T. WRIGHT",
+      "ROBERT F. UTTER",
+      "ROBERT F. BRACHTENBACH"
+    ]
+  },
+  {
+    "id": "stafford1",
+    "name": "Stafford 1 (1975–1976)",
+    "dateStart": "1975-01-13",
+    "dateStop": "1976-03-23",
+    "cases": 0,
+    "justices": [
+      "ROBERT C. FINLEY",
+      "HUGH J. ROSELLINI",
+      "ROBERT T. HUNTER",
+      "ORRIS L. HAMILTON",
+      "CHARLES F. STAFFORD",
+      "CHARLES T. WRIGHT",
+      "ROBERT F. UTTER",
+      "ROBERT F. BRACHTENBACH",
+      "CHARLES HOROWITZ"
+    ]
+  },
+  {
+    "id": "stafford2",
+    "name": "Stafford 2 (1976–1976)",
+    "dateStart": "1976-03-23",
+    "dateStop": "1976-05-06",
+    "cases": 0,
+    "justices": [
+      "HUGH J. ROSELLINI",
+      "ROBERT T. HUNTER",
+      "ORRIS L. HAMILTON",
+      "CHARLES F. STAFFORD",
+      "CHARLES T. WRIGHT",
+      "ROBERT F. UTTER",
+      "ROBERT F. BRACHTENBACH",
+      "CHARLES HOROWITZ"
+    ]
+  },
+  {
+    "id": "stafford3",
+    "name": "Stafford 3 (1976–1977)",
+    "dateStart": "1976-05-06",
+    "dateStop": "1977-01-10",
+    "cases": 0,
+    "justices": [
+      "HUGH J. ROSELLINI",
+      "ROBERT T. HUNTER",
+      "ORRIS L. HAMILTON",
+      "CHARLES F. STAFFORD",
+      "CHARLES T. WRIGHT",
+      "ROBERT F. UTTER",
+      "ROBERT F. BRACHTENBACH",
+      "CHARLES HOROWITZ",
+      "JAMES M. DOLLIVER"
+    ]
+  },
+  {
+    "id": "wright1",
+    "name": "Wright 1 (1977–1979)",
+    "dateStart": "1977-01-10",
+    "dateStop": "1979-01-08",
+    "cases": 0,
+    "justices": [
+      "HUGH J. ROSELLINI",
+      "ORRIS L. HAMILTON",
+      "CHARLES F. STAFFORD",
+      "CHARLES T. WRIGHT",
+      "ROBERT F. UTTER",
+      "ROBERT F. BRACHTENBACH",
+      "CHARLES HOROWITZ",
+      "JAMES M. DOLLIVER",
+      "FLOYD V. HICKS"
+    ]
+  },
+  {
+    "id": "utter1",
+    "name": "Utter 1 (1979–1980)",
+    "dateStart": "1979-01-08",
+    "dateStop": "1980-11-06",
+    "cases": 0,
+    "justices": [
+      "HUGH J. ROSELLINI",
+      "CHARLES F. STAFFORD",
+      "CHARLES T. WRIGHT",
+      "ROBERT F. UTTER",
+      "ROBERT F. BRACHTENBACH",
+      "CHARLES HOROWITZ",
+      "JAMES M. DOLLIVER",
+      "FLOYD V. HICKS",
+      "WILLIAM H. WILLIAMS"
+    ]
+  },
+  {
+    "id": "utter2",
+    "name": "Utter 2 (1980–1980)",
+    "dateStart": "1980-11-06",
+    "dateStop": "1980-12-31",
+    "cases": 0,
+    "justices": [
+      "HUGH J. ROSELLINI",
+      "CHARLES F. STAFFORD",
+      "ROBERT F. UTTER",
+      "ROBERT F. BRACHTENBACH",
+      "CHARLES HOROWITZ",
+      "JAMES M. DOLLIVER",
+      "FLOYD V. HICKS",
+      "WILLIAM H. WILLIAMS"
+    ]
+  },
+  {
+    "id": "utter3",
+    "name": "Utter 3 (1980–1982)",
+    "dateStart": "1980-12-31",
+    "dateStop": "1982-01-17",
+    "cases": 0,
+    "justices": [
+      "HUGH J. ROSELLINI",
+      "CHARLES F. STAFFORD",
+      "ROBERT F. UTTER",
+      "ROBERT F. BRACHTENBACH",
+      "JAMES M. DOLLIVER",
+      "FLOYD V. HICKS",
+      "WILLIAM H. WILLIAMS",
+      "CAROLYN R. DIMMICK",
+      "FRED H. DORE"
+    ]
+  },
+  {
+    "id": "brachtenbach1",
+    "name": "Brachtenbach 1 (1982–1984)",
+    "dateStart": "1982-01-17",
+    "dateStop": "1984-07-03",
+    "cases": 2,
+    "justices": [
+      "HUGH J. ROSELLINI",
+      "CHARLES F. STAFFORD",
+      "ROBERT F. UTTER",
+      "ROBERT F. BRACHTENBACH",
+      "JAMES M. DOLLIVER",
+      "WILLIAM H. WILLIAMS",
+      "CAROLYN R. DIMMICK",
+      "FRED H. DORE",
+      "VERNON R. PEARSON"
+    ]
+  },
+  {
+    "id": "williams1",
+    "name": "Williams 1 (1984–1984)",
+    "dateStart": "1984-07-03",
+    "dateStop": "1984-11-26",
+    "cases": 0,
+    "justices": [
+      "HUGH J. ROSELLINI",
+      "ROBERT F. UTTER",
+      "ROBERT F. BRACHTENBACH",
+      "JAMES M. DOLLIVER",
+      "WILLIAM H. WILLIAMS",
+      "CAROLYN R. DIMMICK",
+      "FRED H. DORE",
+      "VERNON R. PEARSON",
+      "JAMES A. ANDERSEN"
+    ]
+  },
+  {
+    "id": "williams2",
+    "name": "Williams 2 (1984–1985)",
+    "dateStart": "1984-11-26",
+    "dateStop": "1985-01-05",
+    "cases": 0,
+    "justices": [
+      "ROBERT F. UTTER",
+      "ROBERT F. BRACHTENBACH",
+      "JAMES M. DOLLIVER",
+      "WILLIAM H. WILLIAMS",
+      "CAROLYN R. DIMMICK",
+      "FRED H. DORE",
+      "VERNON R. PEARSON",
+      "JAMES A. ANDERSEN"
+    ]
+  },
+  {
+    "id": "dolliver1",
+    "name": "Dolliver 1 (1985–1988)",
+    "dateStart": "1985-01-05",
+    "dateStop": "1988-07-13",
+    "cases": 2,
+    "justices": [
+      "ROBERT F. UTTER",
+      "ROBERT F. BRACHTENBACH",
+      "JAMES M. DOLLIVER",
+      "FRED H. DORE",
+      "VERNON R. PEARSON",
+      "JAMES A. ANDERSEN",
+      "KEITH M. CALLOW",
+      "BARBARA DURHAM",
+      "WILLIAM C. GOODLOE"
+    ]
+  },
+  {
+    "id": "pearson1",
+    "name": "Pearson 1 (1988–1989)",
+    "dateStart": "1988-07-13",
+    "dateStop": "1989-10-31",
+    "cases": 0,
+    "justices": [
+      "ROBERT F. UTTER",
+      "ROBERT F. BRACHTENBACH",
+      "JAMES M. DOLLIVER",
+      "FRED H. DORE",
+      "VERNON R. PEARSON",
+      "JAMES A. ANDERSEN",
+      "KEITH M. CALLOW",
+      "BARBARA DURHAM",
+      "CHARLES Z. SMITH"
+    ]
+  },
+  {
+    "id": "callow1",
+    "name": "Callow 1 (1989–1991)",
+    "dateStart": "1989-10-31",
+    "dateStop": "1991-01-14",
+    "cases": 0,
+    "justices": [
+      "ROBERT F. UTTER",
+      "ROBERT F. BRACHTENBACH",
+      "JAMES M. DOLLIVER",
+      "FRED H. DORE",
+      "JAMES A. ANDERSEN",
+      "KEITH M. CALLOW",
+      "BARBARA DURHAM",
+      "CHARLES Z. SMITH",
+      "RICHARD P. GUY"
+    ]
+  },
+  {
+    "id": "dore1",
+    "name": "Dore 1 (1991–1993)",
+    "dateStart": "1991-01-14",
+    "dateStop": "1993-01-11",
+    "cases": 0,
+    "justices": [
+      "ROBERT F. UTTER",
+      "ROBERT F. BRACHTENBACH",
+      "JAMES M. DOLLIVER",
+      "FRED H. DORE",
+      "JAMES A. ANDERSEN",
+      "BARBARA DURHAM",
+      "CHARLES Z. SMITH",
+      "RICHARD P. GUY",
+      "CHARLES JOHNSON"
+    ]
+  },
+  {
+    "id": "andersen1",
+    "name": "Andersen 1 (1993–1995)",
+    "dateStart": "1993-01-11",
+    "dateStop": "1995-01-09",
+    "cases": 0,
+    "justices": [
+      "ROBERT F. UTTER",
+      "ROBERT F. BRACHTENBACH",
+      "JAMES M. DOLLIVER",
+      "JAMES A. ANDERSEN",
+      "BARBARA DURHAM",
+      "CHARLES Z. SMITH",
+      "RICHARD P. GUY",
+      "CHARLES JOHNSON",
+      "BARBARA MADSEN"
+    ]
+  },
+  {
+    "id": "durham1",
+    "name": "Durham 1 (1995–1995)",
+    "dateStart": "1995-01-09",
+    "dateStop": "1995-04-25",
+    "cases": 0,
+    "justices": [
+      "ROBERT F. UTTER",
+      "JAMES M. DOLLIVER",
+      "BARBARA DURHAM",
+      "CHARLES Z. SMITH",
+      "RICHARD P. GUY",
+      "CHARLES JOHNSON",
+      "BARBARA MADSEN",
+      "GERRY ALEXANDER",
+      "PHILIP A. TALMADGE"
+    ]
+  },
+  {
+    "id": "durham2",
+    "name": "Durham 2 (1995–1996)",
+    "dateStart": "1995-04-25",
+    "dateStop": "1996-01-08",
+    "cases": 0,
+    "justices": [
+      "JAMES M. DOLLIVER",
+      "BARBARA DURHAM",
+      "CHARLES Z. SMITH",
+      "RICHARD P. GUY",
+      "CHARLES JOHNSON",
+      "BARBARA MADSEN",
+      "GERRY ALEXANDER",
+      "PHILIP A. TALMADGE",
+      "ROSSELLE PEKELIS"
+    ]
+  },
+  {
+    "id": "durham3",
+    "name": "Durham 3 (1996–1999)",
+    "dateStart": "1996-01-08",
+    "dateStop": "1999-01-11",
+    "cases": 16,
+    "justices": [
+      "JAMES M. DOLLIVER",
+      "BARBARA DURHAM",
+      "CHARLES Z. SMITH",
+      "RICHARD P. GUY",
+      "CHARLES JOHNSON",
+      "BARBARA MADSEN",
+      "GERRY ALEXANDER",
+      "PHILIP A. TALMADGE",
+      "RICHARD SANDERS"
+    ]
+  },
+  {
+    "id": "durham4",
+    "name": "Durham 4 (1999–1999)",
+    "dateStart": "1999-01-11",
+    "dateStop": "1999-09-30",
+    "cases": 3,
+    "justices": [
+      "BARBARA DURHAM",
+      "CHARLES Z. SMITH",
+      "RICHARD P. GUY",
+      "CHARLES JOHNSON",
+      "BARBARA MADSEN",
+      "GERRY ALEXANDER",
+      "PHILIP A. TALMADGE",
+      "RICHARD SANDERS",
+      "FAITH IRELAND"
+    ]
+  },
+  {
+    "id": "guy1",
+    "name": "Guy 1 (1999–2001)",
+    "dateStart": "1999-09-30",
+    "dateStop": "2001-01-08",
+    "cases": 3,
+    "justices": [
+      "CHARLES Z. SMITH",
+      "RICHARD P. GUY",
+      "CHARLES JOHNSON",
+      "BARBARA MADSEN",
+      "GERRY ALEXANDER",
+      "PHILIP A. TALMADGE",
+      "RICHARD SANDERS",
+      "FAITH IRELAND"
+    ]
+  },
+  {
+    "id": "alexander1",
+    "name": "Alexander 1 (2001–2003)",
+    "dateStart": "2001-01-08",
+    "dateStop": "2003-01-13",
+    "cases": 6,
+    "justices": [
+      "CHARLES Z. SMITH",
+      "CHARLES JOHNSON",
+      "BARBARA MADSEN",
+      "GERRY ALEXANDER",
+      "RICHARD SANDERS",
+      "FAITH IRELAND",
+      "BOBBE BRIDGE",
+      "TOM CHAMBERS",
+      "SUSAN OWENS"
+    ]
+  },
+  {
+    "id": "alexander2",
+    "name": "Alexander 2 (2003–2005)",
+    "dateStart": "2003-01-13",
+    "dateStop": "2005-01-10",
+    "cases": 7,
+    "justices": [
+      "CHARLES JOHNSON",
+      "BARBARA MADSEN",
+      "GERRY ALEXANDER",
+      "RICHARD SANDERS",
+      "FAITH IRELAND",
+      "BOBBE BRIDGE",
+      "TOM CHAMBERS",
+      "SUSAN OWENS",
+      "MARY FAIRHURST"
+    ]
+  },
+  {
+    "id": "alexander3",
+    "name": "Alexander 3 (2005–2007)",
+    "dateStart": "2005-01-10",
+    "dateStop": "2007-12-31",
+    "cases": 143,
+    "justices": [
+      "CHARLES JOHNSON",
+      "BARBARA MADSEN",
+      "GERRY ALEXANDER",
+      "RICHARD SANDERS",
+      "BOBBE BRIDGE",
+      "TOM CHAMBERS",
+      "SUSAN OWENS",
+      "MARY FAIRHURST",
+      "JAMES JOHNSON"
+    ]
+  },
+  {
+    "id": "alexander4",
+    "name": "Alexander 4 (2007–2011)",
+    "dateStart": "2007-12-31",
+    "dateStop": "2011-01-06",
+    "cases": 356,
+    "justices": [
+      "CHARLES JOHNSON",
+      "BARBARA MADSEN",
+      "GERRY ALEXANDER",
+      "RICHARD SANDERS",
+      "TOM CHAMBERS",
+      "SUSAN OWENS",
+      "MARY FAIRHURST",
+      "JAMES JOHNSON",
+      "DEBRA STEPHENS"
+    ]
+  },
+  {
+    "id": "madsen1",
+    "name": "Madsen 1 (2011–2011)",
+    "dateStart": "2011-01-06",
+    "dateStop": "2011-12-31",
+    "cases": 102,
+    "justices": [
+      "CHARLES JOHNSON",
+      "BARBARA MADSEN",
+      "GERRY ALEXANDER",
+      "TOM CHAMBERS",
+      "SUSAN OWENS",
+      "MARY FAIRHURST",
+      "JAMES JOHNSON",
+      "DEBRA STEPHENS",
+      "CHARLES WIGGINS"
+    ]
+  },
+  {
+    "id": "madsen2",
+    "name": "Madsen 2 (2011–2012)",
+    "dateStart": "2011-12-31",
+    "dateStop": "2012-01-09",
+    "cases": 4,
+    "justices": [
+      "CHARLES JOHNSON",
+      "BARBARA MADSEN",
+      "TOM CHAMBERS",
+      "SUSAN OWENS",
+      "MARY FAIRHURST",
+      "JAMES JOHNSON",
+      "DEBRA STEPHENS",
+      "CHARLES WIGGINS"
+    ]
+  },
+  {
+    "id": "madsen3",
+    "name": "Madsen 3 (2012–2013)",
+    "dateStart": "2012-01-09",
+    "dateStop": "2013",
+    "cases": 67,
+    "justices": [
+      "CHARLES JOHNSON",
+      "BARBARA MADSEN",
+      "TOM CHAMBERS",
+      "SUSAN OWENS",
+      "MARY FAIRHURST",
+      "JAMES JOHNSON",
+      "DEBRA STEPHENS",
+      "CHARLES WIGGINS",
+      "STEVEN GONZÁLEZ"
+    ]
+  },
+  {
+    "id": "madsen4",
+    "name": "Madsen 4 (2013–2014)",
+    "dateStart": "2013",
+    "dateStop": "2014",
+    "cases": 97,
+    "justices": [
+      "CHARLES JOHNSON",
+      "BARBARA MADSEN",
+      "SUSAN OWENS",
+      "MARY FAIRHURST",
+      "JAMES JOHNSON",
+      "DEBRA STEPHENS",
+      "CHARLES WIGGINS",
+      "STEVEN GONZÁLEZ",
+      "SHERYL GORDON MCCLOUD"
+    ]
+  },
+  {
+    "id": "madsen5",
+    "name": "Madsen 5 (2014–2020)",
+    "dateStart": "2014",
+    "dateStop": "2020",
+    "cases": 627,
+    "justices": [
+      "CHARLES JOHNSON",
+      "BARBARA MADSEN",
+      "SUSAN OWENS",
+      "MARY FAIRHURST",
+      "DEBRA STEPHENS",
+      "CHARLES WIGGINS",
+      "STEVEN GONZÁLEZ",
+      "SHERYL GORDON MCCLOUD",
+      "MARY YU"
+    ]
+  },
+  {
+    "id": "fairhurst1",
+    "name": "Fairhurst 1 (2020–2020)",
+    "dateStart": "2020",
+    "dateStop": "2020-04-24",
+    "cases": 24,
+    "justices": [
+      "CHARLES JOHNSON",
+      "BARBARA MADSEN",
+      "SUSAN OWENS",
+      "DEBRA STEPHENS",
+      "STEVEN GONZÁLEZ",
+      "SHERYL GORDON MCCLOUD",
+      "MARY YU",
+      "RAQUEL MONTOYA-LEWIS"
+    ]
+  },
+  {
+    "id": "fairhurst2",
+    "name": "Fairhurst 2 (2020–2024)",
+    "dateStart": "2020-04-24",
+    "dateStop": "2024",
+    "cases": 250,
+    "justices": [
+      "CHARLES JOHNSON",
+      "BARBARA MADSEN",
+      "SUSAN OWENS",
+      "DEBRA STEPHENS",
+      "STEVEN GONZÁLEZ",
+      "SHERYL GORDON MCCLOUD",
+      "MARY YU",
+      "RAQUEL MONTOYA-LEWIS",
+      "G. HELEN WHITENER"
+    ]
+  },
+  {
+    "id": "gonzalez1",
+    "name": "Gonzalez 1 (2024–2025)",
+    "dateStart": "2024",
+    "dateStop": "2025",
+    "cases": 61,
+    "justices": [
+      "CHARLES JOHNSON",
+      "BARBARA MADSEN",
+      "DEBRA STEPHENS",
+      "STEVEN GONZÁLEZ",
+      "SHERYL GORDON MCCLOUD",
+      "MARY YU",
+      "RAQUEL MONTOYA-LEWIS",
+      "G. HELEN WHITENER"
+    ]
+  },
+  {
+    "id": "stephens1",
+    "name": "Stephens 1 (2025–2026)",
+    "dateStart": "2025",
+    "dateStop": "2026",
+    "cases": 56,
+    "justices": [
+      "CHARLES JOHNSON",
+      "BARBARA MADSEN",
+      "DEBRA STEPHENS",
+      "STEVEN GONZÁLEZ",
+      "SHERYL GORDON MCCLOUD",
+      "RAQUEL MONTOYA-LEWIS",
+      "G. HELEN WHITENER",
+      "SALVADOR MUNGIA"
+    ]
+  },
+  {
+    "id": "stephens2",
+    "name": "Stephens 2 (2026–)",
+    "dateStart": "2026",
+    "dateStop": "",
+    "cases": 42,
+    "justices": [
+      "CHARLES JOHNSON",
+      "DEBRA STEPHENS",
+      "STEVEN GONZÁLEZ",
+      "SHERYL GORDON MCCLOUD",
+      "RAQUEL MONTOYA-LEWIS",
+      "G. HELEN WHITENER",
+      "SALVADOR MUNGIA"
+    ]
+  }
+]
