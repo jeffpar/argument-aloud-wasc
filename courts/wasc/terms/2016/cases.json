@@ -311,7 +311,7 @@
   },
   {
     "id": "2016-006",
-    "title": "In re Det. of Anderson",
+    "title": "In re Detention of Anderson",
     "number": "91385-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20150917",
     "questions": "John Anderson raises several challenges to his civil commitment as a sexually violent predator",
@@ -497,7 +497,7 @@
   },
   {
     "id": "2016-009",
-    "title": "State v. LG Elecs., Inc.",
+    "title": "State of Washington v. LG Elecs., Inc.",
     "number": "91263-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20150924",
     "questions": "Is this consumer protection action by the Attorney General time-barred?",
@@ -555,7 +555,7 @@
   },
   {
     "id": "2016-010",
-    "title": "State v. LG Elecs., Inc.",
+    "title": "State of Washington v. LG Elecs., Inc.",
     "number": "91391-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20150924",
     "questions": "Personal jurisdiction over a foreign corporation.",
@@ -659,6 +659,18 @@
       {
         "name": "MARY I. YU",
         "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2015-10-20",
+        "title": "Oral Argument on Tuesday, October 20, 2015",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2015101022/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/2015101022-15.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2015101022/media.m3u8",
+        "size": 143354085
       }
     ]
   },
@@ -1139,11 +1151,23 @@
         "name": "MARY I. YU",
         "side": "majority"
       }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2015-11-10",
+        "title": "Oral Argument on Tuesday, November 10, 2015",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2015111006/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/2015111006-15.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2015111006/media.m3u8",
+        "size": 137928428
+      }
     ]
   },
   {
     "id": "2016-020",
-    "title": "In re Det. of M. W.",
+    "title": "In re Detention of M. W.",
     "number": "90570-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20151110",
     "questions": "Is an amendment to the involuntary treatment act that alters the process for recommitting certain violent mentally ill individuals unconstitutional?",
@@ -2722,7 +2746,7 @@
   },
   {
     "id": "2016-045",
-    "title": "In re Det. of W.C.C.",
+    "title": "In re Detention of W.C.C.",
     "number": "91950-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160216",
     "questions": "Do continuances under the Involuntary Treatment Act include weekends and holidays?",
@@ -2832,6 +2856,19 @@
       {
         "name": "MARY I. YU",
         "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2016-02-16",
+        "title": "Oral Argument on Tuesday, February 16, 2016",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2016021183/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/30cdf007dc23708cb60e0d052fb8e975971a4bc5.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2016021183/media.m3u8",
+        "length": "00:42:27",
+        "size": 364433720
       }
     ]
   },
@@ -3601,7 +3638,7 @@
   },
   {
     "id": "2016-059",
-    "title": "In re Pers. Restraint of Colbert",
+    "title": "In re Personal Restraint of Colbert",
     "number": "92421-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160503",
     "questions": "Whether the decision in State v. W.R., 181 Wn.2d 757, 336 P.3d 1134 (2014) regarding the burden of proof for consent in rape cases should apply retroactively",
@@ -4007,7 +4044,7 @@
   },
   {
     "id": "2016-066",
-    "title": "In re Pers. Restraint of Swagerty",
+    "title": "In re Personal Restraint of Swagerty",
     "number": "91268-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160510",
     "questions": "What remedy is available if a defendant pleads guilty to time-barred charges in order to avoid a longer sentence?",
@@ -4263,7 +4300,7 @@
   },
   {
     "id": "2016-070",
-    "title": "In re Pers. Restraint of Stuhr",
+    "title": "In re Personal Restraint of Stuhr",
     "number": "91920-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160512",
     "questions": "Is it unlawful to revoke a prison inmate's potential good conduct time as a penalty for disciplinary infractions?",
@@ -5083,7 +5120,7 @@
   },
   {
     "id": "2016-083",
-    "title": "In re Det. of Black",
+    "title": "In re Detention of Black",
     "number": "92332-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160707",
     "questions": "Does a respondent in a sexually violent predator proceeding have a due process right to be present for jury selection?",
@@ -5591,7 +5628,7 @@
   },
   {
     "id": "2016-091",
-    "title": "In re Pers. Restraint of Caldellis",
+    "title": "In re Personal Restraint of Caldellis",
     "number": "89585-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20161018",
     "questions": "Were the \"murder under circumstances manifesting an extreme indifference to human life\" jury instructions adequate?",
@@ -5719,7 +5756,7 @@
   },
   {
     "id": "2016-093",
-    "title": "In re Pers. Restraint of Flippo",
+    "title": "In re Personal Restraint of Flippo",
     "number": "92616-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20161027",
     "questions": "Can a defendant avoid the time limit on personal restraint petitions relating to legal financial obligations?",
@@ -5855,7 +5892,7 @@
   },
   {
     "id": "2016-096",
-    "title": "PERALTA v. State",
+    "title": "PERALTA v. State of Washington",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20161115",
     "questions": "Does a plaintiff's admission of being under the influence prevent a jury from considering competing evidence?",
     "argument": "2016-11-15",
@@ -5863,7 +5900,7 @@
   },
   {
     "id": "2016-097",
-    "title": "State v. Marks",
+    "title": "State of Washington v. Marks",
     "number": "91148-7",
     "decision": "2016-02-25",
     "decision_day": "Thursday, February 25, 2016",
@@ -5903,7 +5940,7 @@
   },
   {
     "id": "2016-102",
-    "title": "State v. Porter",
+    "title": "State of Washington v. Porter",
     "number": "92060-5",
     "decision": "2016-07-14",
     "decision_day": "Thursday, July 14, 2016",

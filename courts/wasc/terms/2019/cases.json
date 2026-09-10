@@ -1209,7 +1209,7 @@
   },
   {
     "id": "2019-020",
-    "title": "In re Pers. Restraint Petition of Meippen",
+    "title": "In re Personal Restraint of Meippen",
     "number": "95394-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2018&file=20181115",
     "questions": "Does the rule that courts have total discretion to depart from sentencing guidelines for juveniles apply retroactively?",
@@ -1273,7 +1273,7 @@
   },
   {
     "id": "2019-021",
-    "title": "CESAR BELTRAN-SERRANO and BIANCA BELTRAN, Petitioner, v. CITY OF TACOMA, Respondent",
+    "title": "Cesar Beltran-Serrano v. City of Tacoma",
     "number": "95062-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2018&file=20181115",
     "questions": "Does a police officer have a common law duty to act reasonably in deciding to use deadly force?",
@@ -1947,13 +1947,13 @@
       {
         "source": "tvw",
         "type": "argument",
-        "date": "2019-02-26",
-        "title": "Oral Argument on Tuesday, February 26, 2019",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2019021550/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/b9f2b4dcfe2b5fe33190bd69391bb516903273ac.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2019021550/media.m3u8",
-        "length": "00:45:12",
-        "size": 759169024
+        "date": "2019-02-28",
+        "title": "Oral Argument on Thursday, February 28, 2019",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2019021553/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/c945fde46c42e25d6986ca9dead80626c8fdf0c0.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2019021553/media.m3u8",
+        "length": "00:42:34",
+        "size": 742618624
       }
     ]
   },
@@ -2066,6 +2066,19 @@
         "name": "MARY I. YU",
         "side": "majority"
       }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2019-02-28",
+        "title": "Oral Argument on Thursday, February 28, 2019",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2019021554/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/f5928579a8685b88ad660fa94fdded79cdedf6b8.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2019021554/media.m3u8",
+        "length": "00:44:49",
+        "size": 827659136
+      }
     ]
   },
   {
@@ -2116,6 +2129,19 @@
       {
         "name": "CHARLES K. WIGGINS",
         "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2019-02-28",
+        "title": "Oral Argument on Thursday, February 28, 2019",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2019021555/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/0b40f2a8e45666616af876cdffca77efe95b2259.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2019021555/media.m3u8",
+        "length": "00:53:27",
+        "size": 730031139
       }
     ]
   },
@@ -2231,6 +2257,19 @@
       {
         "name": "MARY I. YU",
         "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2019-03-12",
+        "title": "Oral Argument on Tuesday, March 12, 2019",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2019031091/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/4f05d3268d180cb637df40b5731c81c7e41c62d0.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2019031091/media.m3u8",
+        "length": "00:53:17",
+        "size": 598855906
       }
     ]
   },
@@ -2474,6 +2513,19 @@
       {
         "name": "MARY I. YU",
         "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2019-03-14",
+        "title": "Oral Argument on Thursday, March 14, 2019",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2019031096/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/a96aebf6720fb0656d52c10323dc3b0e51e2c770.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2019031096/media.m3u8",
+        "length": "00:43:03",
+        "size": 544711087
       }
     ]
   },
@@ -4830,7 +4882,7 @@
   },
   {
     "id": "2019-088",
-    "title": "State v. Cate",
+    "title": "State of Washington v. Cate",
     "number": "97209-5",
     "decision": "2019-12-12",
     "decision_day": "Thursday, December 12, 2019",
@@ -4846,7 +4898,7 @@
   },
   {
     "id": "2019-090",
-    "title": "State v. Graham",
+    "title": "State of Washington v. Graham",
     "number": "97329-6",
     "decision": "2019-12-19",
     "decision_day": "Thursday, December 19, 2019",

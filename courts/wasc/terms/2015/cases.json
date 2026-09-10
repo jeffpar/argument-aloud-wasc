@@ -360,11 +360,23 @@
         "name": "MARY E. FAIRHURST",
         "side": "majority"
       }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2014-02-27",
+        "title": "Oral Argument on Thursday, February 27, 2014",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2014021002/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/201402/2014020007C.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2014021002/media.m3u8",
+        "size": 142845031
+      }
     ]
   },
   {
     "id": "2015-008",
-    "title": "In re Pers. Restraint of Meirhofer",
+    "title": "In re Personal Restraint of Meirhofer",
     "number": "89251-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140508",
     "questions": "The case concerns the sexually violent predator statute. The issue is whether the State establish a prima facie case for continued confinement when the sexually violent predator's diagnosis changed and his likelihood of re-offending decreased. If the answer is yes, may the individual seek relief through a personal restraint petition?",
@@ -1023,6 +1035,18 @@
         "name": "CHARLES K. WIGGINS",
         "side": "majority"
       }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2014-09-11",
+        "title": "Oral Argument on Thursday, September 11, 2014",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2014091003/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/201409/2014090007.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2014091003/media.m3u8",
+        "size": 139858346
+      }
     ]
   },
   {
@@ -1260,6 +1284,18 @@
         "name": "MARY I. YU",
         "side": "majority"
       }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2014-09-18",
+        "title": "Oral Argument on Thursday, September 18, 2014",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2014091014/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/201409/2014090014.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2014091014/media.m3u8",
+        "size": 144512186
+      }
     ]
   },
   {
@@ -1450,7 +1486,7 @@
   },
   {
     "id": "2015-026",
-    "title": "In Re Pers. Restraint of Yung-Cheng Tsai",
+    "title": "In re Personal Restraint of Yung-Cheng Tsai",
     "number": "88770-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20141021",
     "questions": "Are the petitioners allowed to withdraw their guilty pleas if their attorneys did not advise them of the immigration consequences of their convictions?",
@@ -2653,7 +2689,7 @@
   },
   {
     "id": "2015-046",
-    "title": "In re Pers. Restraint of Khan",
+    "title": "In re Personal Restraint of Khan",
     "number": "89657-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20150210",
     "questions": "Whether the Acting Chief Judge at the Court of Appeals issued an order in violation of former RAP 16.11(b) and whether trial counsel was ineffective for (1) failing to provide an English language interpreter, (2) failing to object to alleged prosecutorial misconduct, or (3) failing to investigate and present expert witness testimony",
@@ -3947,7 +3983,7 @@
   },
   {
     "id": "2015-067",
-    "title": "In re the Personal Restraint Petition of",
+    "title": "In re Personal Restraint of",
     "number": "89730-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20150512",
     "questions": "The court must determine whether the DOC had the authority to impose community custody conditions on Montgomery and whether the DOC-imposed conditions violated Montgomery's fundamental rights.\"",
@@ -4341,7 +4377,7 @@
   },
   {
     "id": "2015-074",
-    "title": "In re Det. of Reyes",
+    "title": "In re Detention of Reyes",
     "number": "89465-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20150519",
     "questions": "(1) Does a trial court commit structural error when a proceeding in a civil case is closed without justification? (2) Does a party to a civil case have standing to assert the constitutional rights of the general public?",
@@ -5604,7 +5640,7 @@
   },
   {
     "id": "2015-095",
-    "title": "In re Pers. Restraint of Moi",
+    "title": "In re Personal Restraint of Moi",
     "number": "89706-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20150908",
     "questions": "Does double jeopardy bar trying a man for murder after he was acquitted of possessing the gun that killed the victim?",
@@ -5837,6 +5873,18 @@
         "name": "MARY I. YU",
         "side": "majority"
       }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2015-10-22",
+        "title": "Oral Argument on Thursday, October 22, 2015",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2015101026/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/2015101026-15.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2015101026/media.m3u8",
+        "size": 145279427
+      }
     ]
   },
   {
@@ -5857,7 +5905,7 @@
   },
   {
     "id": "2015-101",
-    "title": "State v. MacDonald",
+    "title": "State of Washington v. MacDonald",
     "number": "89912-6",
     "decision": "2015-04-09",
     "decision_day": "Thursday, April 9, 2015",
@@ -5865,7 +5913,7 @@
   },
   {
     "id": "2015-102",
-    "title": "In re Pers. Restraint of Erhart",
+    "title": "In re Personal Restraint of Erhart",
     "number": "89107-9",
     "decision": "2015-05-07",
     "decision_day": "Thursday, May 7, 2015",
@@ -5881,7 +5929,7 @@
   },
   {
     "id": "2015-104",
-    "title": "State v. Cates",
+    "title": "State of Washington v. Cates",
     "number": "89965-7",
     "decision": "2015-07-02",
     "decision_day": "Thursday, July 2, 2015",
@@ -5889,7 +5937,7 @@
   },
   {
     "id": "2015-105",
-    "title": "In re Pers. Restraint of Yates",
+    "title": "In re Personal Restraint of Yates",
     "number": "89792-1",
     "decision": "2015-07-09",
     "decision_day": "Thursday, July 9, 2015",
@@ -5905,7 +5953,7 @@
   },
   {
     "id": "2015-107",
-    "title": "State v. Russell",
+    "title": "State of Washington v. Russell",
     "number": "85996-5",
     "decision": "2015-08-20",
     "decision_day": "Thursday, August 20, 2015",
@@ -5921,7 +5969,7 @@
   },
   {
     "id": "2015-109",
-    "title": "State v. Lewis",
+    "title": "State of Washington v. Lewis",
     "number": "91180-1",
     "decision": "2015-09-10",
     "decision_day": "Thursday, September 10, 2015",
@@ -5929,7 +5977,7 @@
   },
   {
     "id": "2015-110",
-    "title": "State v. Leonard",
+    "title": "State of Washington v. Leonard",
     "number": "90897-4",
     "decision": "2015-10-08",
     "decision_day": "Thursday, October 8, 2015",
@@ -5953,7 +6001,7 @@
   },
   {
     "id": "2015-113",
-    "title": "In re Pers. Restraint of Ruiz-Sanabria",
+    "title": "In re Personal Restraint of Ruiz-Sanabria",
     "number": "90712-9",
     "decision": "2015-11-12",
     "decision_day": "Thursday, November 12, 2015",

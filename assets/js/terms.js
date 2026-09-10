@@ -25,6 +25,39 @@
   var $ = function (id) { return document.getElementById(id); };
   var pad2 = function (n) { return n < 10 ? '0' + n : '' + n; };
 
+  // ── docket helpers (mirror scripts/schema.js + ussc terms.js; ',' is a
+  //    literal char in a wasc number, ';' is the joint-case delimiter) ──────
+  function splitDockets(s) {
+    return String(s == null ? '' : s).split(';').map(function (t) { return t.trim(); }).filter(Boolean);
+  }
+  // " (No. 79001-9)" / " (Nos. a, b)" to append onto a title; 4+ dockets
+  // collapse to "first, …, last" with `full` carrying the untruncated form
+  // for a tooltip. null when the case has no number.
+  function caseNumberAnnotation(number) {
+    var ns = splitDockets(number);
+    if (!ns.length) return null;
+    var label = ns.length > 1 ? 'Nos.' : 'No.';
+    var shown = ns.length >= 4 ? [ns[0], '…', ns[ns.length - 1]] : ns;
+    return {
+      text: ' (' + label + ' ' + shown.join(', ') + ')',
+      full: ns.length >= 4 ? ' (' + label + ' ' + ns.join(', ') + ')' : null,
+    };
+  }
+  // Preferred `case=` value: the leading docket number when it's unique among
+  // this term's cases, else the case id (matches ussc's caseUrlId /
+  // explorer.js's _caseUrlId).
+  function caseUrlId(c, siblings) {
+    var num = splitDockets(c.number)[0] || '';
+    if (num && siblings) {
+      var n = 0;
+      for (var i = 0; i < siblings.length; i++) {
+        if ((splitDockets(siblings[i].number)[0] || '') === num) n++;
+      }
+      if (n === 1) return num;
+    }
+    return c.id || num;
+  }
+
   var params = new URLSearchParams(location.search);
   var term = params.get('term') || '';
   var selectedDate = params.get('date') || '';
@@ -34,13 +67,51 @@
     return;
   }
   document.title = term + ' Term — WA Supreme Court';
-  $('stat-term-title').textContent = term + ' Term';
+
+  // Same-origin postMessage-to-parent-when-framed / direct-navigate-when-
+  // standalone (mirrors ussc terms.js's wireSearchLink / openCase).
+  function navTo(search) {
+    if (window.parent !== window) {
+      window.parent.postMessage({ type: 'ussc-navigate', search: search }, location.origin);
+    } else {
+      location.href = '/courts/wasc/' + search;
+    }
+  }
+
+  // The term heading is a link back to this same term's full (date-less)
+  // view — the only way back out of a single selected date, matching ussc.
+  (function () {
+    var el = $('stat-term-title');
+    var link = document.createElement('a');
+    link.className = 'stat-term-title-link';
+    link.textContent = term + ' Term';
+    link.href = '/courts/wasc/?term=' + encodeURIComponent(term);
+    link.addEventListener('click', function (e) { e.preventDefault(); navTo('?term=' + encodeURIComponent(term)); });
+    el.textContent = '';
+    el.appendChild(link);
+  })();
+
+  var DAYS_FULL = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
 
   function fmtDay(iso) {
     if (!iso) return '';
     var p = iso.split('-');
     if (p.length < 3) return iso;
     return MONTHS_ABBR[+p[1] - 1] + ' ' + (+p[2]) + ', ' + p[0];
+  }
+  // "2019-06-11" -> "Tuesday, June 11, 2019" (matches ussc's fmtDate)
+  function fmtFullDate(iso) {
+    var p = (iso || '').split('-');
+    if (p.length < 3) return iso || '';
+    var d = new Date(Date.UTC(+p[0], +p[1] - 1, +p[2]));
+    if (isNaN(d)) return iso;
+    return DAYS_FULL[d.getUTCDay()] + ', ' + MONTHS[+p[1] - 1] + ' ' + d.getUTCDate() + ', ' + p[0];
+  }
+  function updateDateHeading() {
+    var el = $('stat-date-title');
+    if (!el) return;
+    if (selectedDate) { el.textContent = fmtFullDate(selectedDate); el.hidden = false; }
+    else { el.hidden = true; el.textContent = ''; }
   }
   function fetchJson(url) {
     return fetch(url, { cache: 'no-cache' })
@@ -53,6 +124,36 @@
     fetchJson(WASC_BASE + '/courts/wasc/terms/' + term + '/dates.json'),
   ]).then(function (res) {
     render(res[0] || [], res[1] || {});
+  });
+
+  // Prev / next term links, opposite the Court Calendar heading (mirrors
+  // ussc's #stats-term-nav). The wasc term list is terms.json's decade
+  // groups; each term id is just its year.
+  fetchJson(WASC_BASE + '/courts/wasc/terms/terms.json').then(function (data) {
+    if (!Array.isArray(data)) return;
+    var ids = [];
+    data.forEach(function (dec) {
+      (dec.groups || []).forEach(function (g) { if (g && g.id) ids.push(String(g.id)); });
+    });
+    ids.sort();
+    var i = ids.indexOf(term);
+    if (i < 0) return;
+    var prev = i > 0 ? ids[i - 1] : null;
+    var next = i < ids.length - 1 ? ids[i + 1] : null;
+    if (!prev && !next) return;
+    $('stats-term-nav').hidden = false;
+    if (prev) {
+      var pb = $('stat-prev-term');
+      pb.textContent = '« ' + prev;
+      pb.hidden = false;
+      pb.addEventListener('click', function () { navTo('?term=' + encodeURIComponent(prev)); });
+    }
+    if (next) {
+      var nb = $('stat-next-term');
+      nb.textContent = next + ' »';
+      nb.hidden = false;
+      nb.addEventListener('click', function () { navTo('?term=' + encodeURIComponent(next)); });
+    }
   });
 
   function render(cases, datesData) {
@@ -69,12 +170,13 @@
     var rows = cases.map(function (c) {
       return {
         title: c.title || '(untitled)',
+        number: c.number || '',
         argued: c.argument || '',
         decided: c.decision || '',
         vote: c.score || '',
         opinion: c.decision_gov || '',
         navTerm: term,
-        navCase: c.id || (c.number ? String(c.number).split(';')[0].trim() : ''),
+        navCase: caseUrlId(c, cases),
         xterm: false,
       };
     });
@@ -83,6 +185,7 @@
         if (e && (e.type === 'argument' || e.type === 'reargument') && e.id) {
           rows.push({
             title: e.title || '(untitled)',
+            number: e.number || '',
             argued: iso, decided: '', vote: '', opinion: '',
             navTerm: e.term || '', navCase: e.id, xterm: true,
           });
@@ -103,22 +206,36 @@
     $('stat-argument-days').textContent = Object.keys(argDays).length;
     $('stat-decided').textContent = decided;
     $('stat-opinions-online').textContent = opinions;
-    $('stats-grid').hidden = false;
-    $('stats-note').hidden = false;
+    // The term-wide stat cards don't apply to a single selected date — the
+    // Court Cases table already shows what's relevant for it (matches ussc).
+    $('stats-grid').hidden = !!selectedDate;
 
-    renderCalendar(argDays, decDays);
-    buildTable(rows);
+    _argDays = argDays;
+    _decDays = decDays;
+    updateDateHeading();
+    renderCalendar();
+    buildTable(rows);   // ends by calling drawRows(), which honours selectedDate
   }
 
-  // ── calendar: a wasc term is a calendar year — always January–December of
-  //    the term year, nothing more. (A case decided this term but argued in an
-  //    earlier year still counts in the stats and the table; its out-of-year
-  //    argument day just isn't plotted here.)
-  function renderCalendar(argDays, decDays) {
+  // day maps kept module-scope so renderCalendar() can re-run when the
+  // selected date changes (it re-windows the grid to the quarter around it).
+  var _argDays = {}, _decDays = {};
+
+  // ── calendar: a wasc term is a calendar year. With no date selected it's
+  //    the full January–December of the term year; with a ?date= selected it's
+  //    a 3-month window with that date's month in the middle (clamped to stay
+  //    inside the term year), matching ussc's per-term Court Calendar.
+  function renderCalendar() {
+    var argDays = _argDays, decDays = _decDays;
     var isos = Object.keys(argDays).concat(Object.keys(decDays))
       .filter(function (s) { return /^\d{4}-\d\d-\d\d$/.test(s); });
     if (!isos.length) return;
     var y0 = +term, m0 = 0, monthCount = 12;
+    if (/^\d{4}-\d\d-\d\d$/.test(selectedDate) && selectedDate.slice(0, 4) === term) {
+      var selMo = +selectedDate.slice(5, 7) - 1;       // 0-based month of the selected date
+      m0 = Math.max(0, Math.min(selMo - 1, 9));         // start a month early, but keep 3 months inside Jan–Dec
+      monthCount = 3;
+    }
 
     var calEl = document.createElement('div');
     calEl.className = 'term-calendar';
@@ -156,7 +273,7 @@
         dayEl.textContent = d;
         if (isArg || isDec) {
           dayEl.dataset.iso = iso;
-          dayEl.addEventListener('click', function () { toggleDateFilter(this.dataset.iso); });
+          dayEl.addEventListener('click', function () { selectDate(this.dataset.iso); });
         }
         grid.appendChild(dayEl);
       }
@@ -170,20 +287,34 @@
     $('term-calendar-legend').hidden = false;
   }
 
-  function toggleDateFilter(iso) {
-    selectedDate = (selectedDate === iso) ? '' : iso;
-    document.querySelectorAll('.cal-day.cal-sel').forEach(function (el) { el.classList.remove('cal-sel'); });
-    if (selectedDate) {
-      document.querySelectorAll('.cal-day').forEach(function (el) {
-        if (el.dataset.iso === selectedDate) el.classList.add('cal-sel');
-      });
-      $('stat-filter-note').hidden = false;
-      $('stat-filter-note').textContent = 'Showing cases argued or decided on ' + fmtDay(selectedDate)
-        + ' — click the day again to clear.';
-    } else {
-      $('stat-filter-note').hidden = true;
-    }
+  // Select a date within this same term in place — no iframe reload, just a
+  // redraw of what depends on it (heading, 3-month calendar, filtered table),
+  // plus a top-level history entry so Back/Forward and bookmarking work.
+  // There's no "click again to clear" — the term heading link is the way
+  // back to the full view. Mirrors ussc terms.js's selectDate/syncUrlDate.
+  function selectDate(iso) {
+    if (iso === selectedDate) return;
+    selectedDate = iso;
+    $('stats-grid').hidden = true;
+    updateDateHeading();
+    renderCalendar();
     drawRows();
+    syncUrlDate();
+  }
+
+  function syncUrlDate() {
+    try {
+      var own = new URL(location.href);
+      own.searchParams.set('date', selectedDate);
+      history.replaceState(null, '', own);
+    } catch (e) { /* ignore */ }
+    if (window.parent === window) return;
+    try {
+      var pu = new URL(window.parent.location.href);
+      pu.searchParams.set('term', term);
+      pu.searchParams.set('date', selectedDate);
+      window.parent.history.pushState(null, '', pu);
+    } catch (e) { /* cross-origin (shouldn't happen — page is same-origin as SPA) */ }
   }
 
   // ── table ────────────────────────────────────────────────────────────────
@@ -214,14 +345,21 @@
       if (r.xterm) tr.className = 'xterm-row';
 
       var tdT = document.createElement('td');
+      var anno = caseNumberAnnotation(r.number);
+      var label = r.title + (anno ? anno.text : '');
       if (r.navCase && r.navTerm) {
         var a = document.createElement('a');
-        a.href = '#';
-        a.textContent = r.title;
+        // Real SPA URL so hover / copy-link / open-in-new-tab all show the
+        // canonical destination (matches ussc); the click is still
+        // intercepted for an in-app navigation.
+        var search = '?term=' + encodeURIComponent(r.navTerm) + '&case=' + encodeURIComponent(r.navCase);
+        a.href = '/courts/wasc/' + search;
+        a.textContent = label;
+        if (anno && anno.full) a.title = r.title + anno.full;
         a.addEventListener('click', function (ev) { ev.preventDefault(); openCase(r.navTerm, r.navCase); });
         tdT.appendChild(a);
       } else {
-        tdT.textContent = r.title;
+        tdT.textContent = label;
       }
       tr.appendChild(tdT);
 

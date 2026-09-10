@@ -97,7 +97,7 @@
   },
   {
     "id": "2014-005",
-    "title": "In re Personal Restraint Petition of Stockwell",
+    "title": "In re Personal Restraint of Stockwell",
     "number": "86001-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130212",
     "questions": "Whether a personal restraint petitioner alleging that his guilty plea was involuntary because he was misinformed of the maximum sentence must establish actual and substantial prejudice in order to obtain relief.",
@@ -145,7 +145,7 @@
   },
   {
     "id": "2014-007",
-    "title": "In re Pers. Restraint of Gomez",
+    "title": "In re Personal Restraint of Gomez",
     "number": "86711-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130312",
     "questions": "Whether the defendant in a prosecution for homicide by abuse and first degree manslaughter was deprived of effective assistance of counsel due to counsel’s inexperience, mishandling of expert testimony, and lack of preparation and administrative support.",
@@ -769,7 +769,7 @@
   },
   {
     "id": "2014-019",
-    "title": "In re Pers. Restraint of Gentry",
+    "title": "In re Personal Restraint of Gentry",
     "number": "86585-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130625",
     "questions": "The court considers a death-row inmate's claim that his trial was prejudiced by prosecutorial misconduct",
@@ -1339,6 +1339,18 @@
         "name": "MARY E. FAIRHURST",
         "side": "majority"
       }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2013-09-17",
+        "title": "Oral Argument on Tuesday, September 17, 2013",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2013091033/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/201309/2013090003D.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2013091033/media.m3u8",
+        "size": 138617824
+      }
     ]
   },
   {
@@ -1405,7 +1417,7 @@
   },
   {
     "id": "2014-030",
-    "title": "In re Det. of Morgan",
+    "title": "In re Detention of Morgan",
     "number": "86234-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130917",
     "questions": "The court considers whether an accused sexually violent predator (SVP) has a due process right to be competent during an SVP commitment trial, and whether an in-chambers discussion regarding an order to involuntary medicate the petitioner violated his article I, section 10 right to a public trial",
@@ -2621,7 +2633,7 @@
   },
   {
     "id": "2014-051",
-    "title": "In re Pers. Restraint of McNeil",
+    "title": "In re Personal Restraint of McNeil",
     "number": "87654-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131112",
     "questions": "Should the Petitioners' sentences for murders they committed as juveniles be changed based on the recent U.S. Supreme Court case of Miller v. Alabama?",
@@ -2799,7 +2811,7 @@
   },
   {
     "id": "2014-054",
-    "title": "In re the Personal Restraint Petition of",
+    "title": "In re Personal Restraint of",
     "number": "88073-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140121",
     "questions": "Is the petitioner entitled to have his assault conviction vacated based on double jeopardy principles?",
@@ -4197,6 +4209,18 @@
         "name": "MARY E. FAIRHURST",
         "side": "majority"
       }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2014-03-20",
+        "title": "Oral Argument on Thursday, March 20, 2014",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2014031173/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/201403/2014030003A.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2014031173/media.m3u8",
+        "size": 138729421
+      }
     ]
   },
   {
@@ -4224,7 +4248,7 @@
   },
   {
     "id": "2014-080",
-    "title": "In Re Pers. Restraint of Coggin",
+    "title": "In re Personal Restraint of Coggin",
     "number": "89694-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140506",
     "questions": "Whether the defendant in a criminal prosecution was deprived of his right to a public trial when some prospective jurors were examined in chambers, and if so, whether the defendant must show actual and substantial prejudice from the violation in order to obtain relief by personal restraint petition.",
@@ -4282,7 +4306,7 @@
   },
   {
     "id": "2014-081",
-    "title": "In re Pers. Restraint of Speight",
+    "title": "In re Personal Restraint of Speight",
     "number": "89693-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140506",
     "questions": "Whether the defendant in a criminal prosecution was deprived of his right to a public trial when some prospective jurors were examined in chambers, and if so, whether the defendant must show actual and substantial prejudice from the violation in order to obtain relief by personal restraint petition",
@@ -4398,7 +4422,7 @@
   },
   {
     "id": "2014-083",
-    "title": "In Re Pers. Restraint of Thomas",
+    "title": "In re Personal Restraint of Thomas",
     "number": "88921-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140508",
     "questions": "Does the rule announced by the U.S. Supreme Court in Miller v. Alabama, prohibiting mandatory sentences of life without parole for juveniles, apply to a juvenile offender sentenced to 999 months in prison?",
@@ -5650,7 +5674,7 @@
   },
   {
     "id": "2014-105",
-    "title": "In Re Det. of D.W.",
+    "title": "In re Detention of D.W.",
     "number": "90110-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140626",
     "questions": "Counties have the power to involuntarily detain people who are mentally ill and dangerous for evaluation and treatment. A trial judge found it was illegal and unconstitutional to detain such people in hospital rooms without evaluation or treatment when there was no space in evaluation and treatment facilities. Should the court affirm or reverse?",
@@ -5758,6 +5782,18 @@
       {
         "name": "MARY I. YU",
         "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2014-09-11",
+        "title": "Oral Argument on Thursday, September 11, 2014",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2014091004/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/201409/2014090006.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2014091004/media.m3u8",
+        "size": 142389257
       }
     ]
   },
@@ -5992,7 +6028,7 @@
   },
   {
     "id": "2014-112",
-    "title": "In re Pers. Restraint of Snively",
+    "title": "In re Personal Restraint of Snively",
     "number": "84753-3",
     "decision": "2014-03-20",
     "decision_day": "Thursday, March 20, 2014",
@@ -6008,7 +6044,7 @@
   },
   {
     "id": "2014-114",
-    "title": "In re Pers. Restraint of Yates",
+    "title": "In re Personal Restraint of Yates",
     "number": "87518-9",
     "decision": "2014-03-20",
     "decision_day": "Thursday, March 20, 2014",
@@ -6016,7 +6052,7 @@
   },
   {
     "id": "2014-115",
-    "title": "State v. Sweat",
+    "title": "State of Washington v. Sweat",
     "number": "88663-6",
     "decision": "2014-04-03",
     "decision_day": "Thursday, April 3, 2014",
@@ -6024,7 +6060,7 @@
   },
   {
     "id": "2014-116",
-    "title": "State v. Kinnaman",
+    "title": "State of Washington v. Kinnaman",
     "number": "89342-0",
     "decision": "2014-04-10",
     "decision_day": "Thursday, April 10, 2014",
@@ -6032,7 +6068,7 @@
   },
   {
     "id": "2014-117",
-    "title": "State v. Mendes",
+    "title": "State of Washington v. Mendes",
     "number": "88945-7",
     "decision": "2014-04-10",
     "decision_day": "Thursday, April 10, 2014",
@@ -6048,7 +6084,7 @@
   },
   {
     "id": "2014-119",
-    "title": "State v. Trochez-Jimenez",
+    "title": "State of Washington v. Trochez-Jimenez",
     "number": "88577-0",
     "decision": "2014-05-08",
     "decision_day": "Thursday, May 8, 2014",
@@ -6056,7 +6092,7 @@
   },
   {
     "id": "2014-120",
-    "title": "State v. Olsen",
+    "title": "State of Washington v. Olsen",
     "number": "89134-6",
     "decision": "2014-05-15",
     "decision_day": "Thursday, May 15, 2014",
@@ -6064,7 +6100,7 @@
   },
   {
     "id": "2014-121",
-    "title": "State v. Bauer",
+    "title": "State of Washington v. Bauer",
     "number": "88559-1",
     "decision": "2014-07-17",
     "decision_day": "Thursday, July 17, 2014",
@@ -6072,7 +6108,7 @@
   },
   {
     "id": "2014-122",
-    "title": "State v. Homan",
+    "title": "State of Washington v. Homan",
     "number": "88339-4",
     "decision": "2014-07-31",
     "decision_day": "Thursday, July 31, 2014",
@@ -6096,7 +6132,7 @@
   },
   {
     "id": "2014-125",
-    "title": "State v. Graham",
+    "title": "State of Washington v. Graham",
     "number": "89869-3",
     "decision": "2014-11-13",
     "decision_day": "Thursday, November 13, 2014",
@@ -6104,7 +6140,7 @@
   },
   {
     "id": "2014-126",
-    "title": "State v. Jones",
+    "title": "State of Washington v. Jones",
     "number": "89302-1",
     "decision": "2014-11-26",
     "decision_day": "Wednesday, November 26, 2014",
@@ -6112,7 +6148,7 @@
   },
   {
     "id": "2014-127",
-    "title": "State v. Cobos",
+    "title": "State of Washington v. Cobos",
     "number": "89900-2",
     "decision": "2014-11-26",
     "decision_day": "Wednesday, November 26, 2014",
@@ -6128,7 +6164,7 @@
   },
   {
     "id": "2014-129",
-    "title": "In re Pers. Restraint of McWilliams",
+    "title": "In re Personal Restraint of McWilliams",
     "number": "88883-3",
     "decision": "2014-12-24",
     "decision_day": "Wednesday, December 24, 2014",

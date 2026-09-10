@@ -181,7 +181,7 @@
   },
   {
     "id": "2021-004",
-    "title": "In re Pers. Restraint of Monschke",
+    "title": "In re Personal Restraint of Monschke",
     "number": "96772-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200514",
     "questions": "Does State v. O'Dell, holding courts can consider youthfulness in sentencing adult defendants, apply retroactively?",
@@ -437,7 +437,7 @@
   },
   {
     "id": "2021-008",
-    "title": "In re Pers. Restraint of Fowler",
+    "title": "In re Personal Restraint of Fowler",
     "number": "97456-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200623",
     "questions": "Does Fowler overcome the time bar for his personal restraint petition?",
@@ -668,6 +668,19 @@
         "name": "G. HELEN WHITENER",
         "side": "minority"
       }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-09-22",
+        "title": "Oral Argument on Tuesday, September 22, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020091173/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/d8db66f7452726da36ef54b47626c82b2d9e98f9.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020091173/media.m3u8",
+        "length": "00:43:13",
+        "size": 583899444
+      }
     ]
   },
   {
@@ -718,6 +731,19 @@
       {
         "name": "G. HELEN WHITENER",
         "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-09-22",
+        "title": "Oral Argument on Tuesday, September 22, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020091172/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/41f41537084cbc9d1ad5acb6e8fcdf10ac3047bd.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020091172/media.m3u8",
+        "length": "00:42:38",
+        "size": 596061853
       }
     ]
   },
@@ -1167,7 +1193,7 @@
   },
   {
     "id": "2021-020",
-    "title": "In re Pers. Restraint of Garcia-Mendoza",
+    "title": "In re Personal Restraint of Garcia-Mendoza",
     "number": "98026-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20201027",
     "questions": "Garcia Mendoza was not told his 2007 plea would result in deportation. May he withdraw his plea?",
@@ -1487,7 +1513,7 @@
   },
   {
     "id": "2021-025",
-    "title": "In re Pers. Restraint of Brooks",
+    "title": "In re Personal Restraint of Brooks",
     "number": "97689-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20201110",
     "questions": "Does the Miller-fix statute apply to a juvenile sentenced before the SRA, and if not, is his sentence constitutional?",
@@ -2636,7 +2662,7 @@
   },
   {
     "id": "2021-043",
-    "title": "In re Det. of McHatton",
+    "title": "In re Detention of McHatton",
     "number": "98904-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2021&file=20210225",
     "questions": "Does a committed sexual violent predator have a right to appeal revocation of a less restrictive alternative placement?",
@@ -2956,7 +2982,7 @@
   },
   {
     "id": "2021-048",
-    "title": "In re Pers. Restraint of Williams",
+    "title": "In re Personal Restraint of Williams",
     "number": "99344-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2021&file=20210311",
     "questions": "In light of COVID-19, are Mr. Williams' conditions of confinement in violation of the State or Federal Constitution?",
@@ -4286,7 +4312,7 @@
   },
   {
     "id": "2021-074",
-    "title": "In Re Recall of Snaza",
+    "title": "In re Recall of Snaza",
     "number": "98918-4",
     "decision": "2021-02-11",
     "decision_day": "Thursday, February 11, 2021",
@@ -4302,7 +4328,7 @@
   },
   {
     "id": "2021-076",
-    "title": "State v. Towessnute",
+    "title": "State of Washington v. Towessnute",
     "number": "13083-3",
     "decision": "2021-05-06",
     "decision_day": "Thursday, May 6, 2021",

@@ -121,7 +121,7 @@
   },
   {
     "id": "2020-003",
-    "title": "State v. Pierce, et al.",
+    "title": "State of Washington v. Pierce, et al.",
     "number": "96344-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2019&file=20190530",
     "questions": "May potential jurors be told there is no death penalty in Washington? Was race a factor in dismissing a juror?",
@@ -1595,7 +1595,7 @@
   },
   {
     "id": "2020-030",
-    "title": "LYON v. State",
+    "title": "LYON v. State of Washington",
     "number": "97826-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200121",
     "questions": "If a firefighter is injured in the course of their duties, can they sue the person whose negligence caused the fire?",
@@ -1826,7 +1826,7 @@
   },
   {
     "id": "2020-035",
-    "title": "In re Pers. Restraint of Domingo-Cornelio",
+    "title": "In re Personal Restraint of Domingo-Cornelio",
     "number": "97205-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200213",
     "questions": "Is Houston-Sconiers a significant, material, and retroactive change in law, and is this timely petitioner prejudiced?",
@@ -1946,7 +1946,7 @@
   },
   {
     "id": "2020-037",
-    "title": "In re Pers. Restraint of Ali",
+    "title": "In re Personal Restraint of Ali",
     "number": "95578-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200213",
     "questions": "Is Houston-Sconiers a significant, material, and retroactive change in law, and is this untimely petitioner prejudiced?",
@@ -2190,7 +2190,7 @@
   },
   {
     "id": "2020-041",
-    "title": "In re Pers. Restraint of Knight",
+    "title": "In re Personal Restraint of Knight",
     "number": "97066-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200505",
     "questions": "Do Knight's multiple convictions violate the constitutional protection against double jeopardy?",
@@ -2318,7 +2318,7 @@
   },
   {
     "id": "2020-043",
-    "title": "In re Pers. Restraint of Winton",
+    "title": "In re Personal Restraint of Winton",
     "number": "97452-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200514",
     "questions": "A community custody condition bars travel in a county without permission. Is this an unreasonable restriction on travel?",
@@ -3132,7 +3132,7 @@
   },
   {
     "id": "2020-057",
-    "title": "ROSKELLEY and WASHINGTON v. State",
+    "title": "ROSKELLEY and WASHINGTON v. State of Washington",
     "number": "97739-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2020&file=20200625",
     "questions": "Is a statute requiring Spokane County to have five commissioners and hold district elections constitutional?",
@@ -3366,6 +3366,19 @@
         "name": "G. HELEN WHITENER",
         "side": "majority"
       }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2020-10-29",
+        "title": "Oral Argument on Thursday, October 29, 2020",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2020101155/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/01a1dce3a524ced016141ed56a43edcc4e236a4a.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2020101155/media.m3u8",
+        "length": "00:41:29",
+        "size": 475092794
+      }
     ]
   },
   {
@@ -3392,7 +3405,7 @@
   },
   {
     "id": "2020-064",
-    "title": "State v. Escalante",
+    "title": "State of Washington v. Escalante",
     "number": "97268-1",
     "decision": "2020-04-23",
     "decision_day": "Thursday, April 23, 2020",
@@ -3440,7 +3453,7 @@
   },
   {
     "id": "2020-070",
-    "title": "In re Pers. Restraint of Cranshaw",
+    "title": "In re Personal Restraint of Cranshaw",
     "number": "97778-0",
     "decision": "2020-09-24",
     "decision_day": "Thursday, September 24, 2020",
@@ -3472,7 +3485,7 @@
   },
   {
     "id": "2020-074",
-    "title": "State v. Batson",
+    "title": "State of Washington v. Batson",
     "number": "97617-1",
     "decision": "2020-12-24",
     "decision_day": "Thursday, December 24, 2020",
