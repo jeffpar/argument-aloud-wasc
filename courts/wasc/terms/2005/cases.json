@@ -1073,26 +1073,6 @@
   },
   {
     "id": "2005-050",
-    "title": "State of Washington v. Gregory",
-    "number": "71155-1",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050322",
-    "questions": "Eugene Allen Gregory was convicted of three counts of first degree rape for the rape of one woman. He was then convicted of aggravated first degree murder for the rape, robbery, and murder of another woman. For the murder, Gregory received a sentence of death. Gregory now appeals the conviction and sentence in each case.",
-    "argument": "2005-03-22",
-    "argument_day": "Tuesday, March 22, 2005",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2005-03-22",
-        "title": "Oral Argument on Tuesday, March 22, 2005",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005031195/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200503/2005030006.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005031195/media.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "2005-051",
     "title": "Alpental Community Club , a Washington nonprofit corporation, Robert Kevin Johnson and Pamela Jean Ferguson, husband and wife, Petitioners, v. Seattle Gymnastics Society, a Washington corporation; Sahalie Ski Club , a Washington corporation; S.F. Hill Lumber Co. , a Washington corporation; and Portac , a Washington corporation, Respondents",
     "number": "75408-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050324",
@@ -1112,7 +1092,7 @@
     ]
   },
   {
-    "id": "2005-052",
+    "id": "2005-051",
     "title": "Roberson v. State of Washington",
     "number": "75486-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050324",
@@ -1132,7 +1112,7 @@
     ]
   },
   {
-    "id": "2005-053",
+    "id": "2005-052",
     "title": "State of Washington v. Base",
     "number": "76081-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050324",
@@ -1151,7 +1131,7 @@
     ]
   },
   {
-    "id": "2005-054",
+    "id": "2005-053",
     "title": "State of Washington v. Metcalf",
     "number": "76077-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050324",
@@ -1170,7 +1150,7 @@
     ]
   },
   {
-    "id": "2005-055",
+    "id": "2005-054",
     "title": "State of Washington v. Swecker",
     "number": "75460-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050324",
@@ -1190,7 +1170,7 @@
     ]
   },
   {
-    "id": "2005-056",
+    "id": "2005-055",
     "title": "State of Washington v. Butters",
     "number": "75989-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050324",
@@ -1209,7 +1189,7 @@
     ]
   },
   {
-    "id": "2005-057",
+    "id": "2005-056",
     "title": "In re 9526, Attorney at Law",
     "number": "200153-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050510",
@@ -1230,7 +1210,7 @@
     ]
   },
   {
-    "id": "2005-058",
+    "id": "2005-057",
     "title": "State of Washington v. Brown",
     "number": "75635-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050510",
@@ -1252,7 +1232,7 @@
     ]
   },
   {
-    "id": "2005-059",
+    "id": "2005-058",
     "title": "In re 15578, Attorney at Law",
     "number": "200124-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050510",
@@ -1273,7 +1253,7 @@
     ]
   },
   {
-    "id": "2005-060",
+    "id": "2005-059",
     "title": "In re Personal Restraint of Byron Lee Brown",
     "number": "76195-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050510",
@@ -1295,7 +1275,7 @@
     ]
   },
   {
-    "id": "2005-061",
+    "id": "2005-060",
     "title": "In re An, Attorney at Law",
     "number": "200218-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050510",
@@ -1316,7 +1296,7 @@
     ]
   },
   {
-    "id": "2005-062",
+    "id": "2005-061",
     "title": "In re An, Attorney at Law",
     "number": "200239-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050512",
@@ -1324,7 +1304,7 @@
     "argument_day": "Thursday, May 12, 2005"
   },
   {
-    "id": "2005-063",
+    "id": "2005-062",
     "title": "Heriberto Berrocal and Rafael Castillo, Respondents, v. Max Fernandez and Ann Fernandez, a marital community, and Western Range Association, Petitioners",
     "number": "75549-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050512",
@@ -1346,7 +1326,7 @@
     ]
   },
   {
-    "id": "2005-064",
+    "id": "2005-063",
     "title": "Ferry County, Petitioner, v. Concerned Friends of Ferry County and Eastern Washington Growth Management Hearings Board, Respondents",
     "number": "75493-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050512",
@@ -1368,7 +1348,7 @@
     ]
   },
   {
-    "id": "2005-065",
+    "id": "2005-064",
     "title": "In re Kepl",
     "number": "75563-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050512",
@@ -1390,7 +1370,7 @@
     ]
   },
   {
-    "id": "2005-066",
+    "id": "2005-065",
     "title": "In re 24073, Attorney at Law",
     "number": "200173-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050517",
@@ -1411,7 +1391,7 @@
     ]
   },
   {
-    "id": "2005-067",
+    "id": "2005-066",
     "title": "Association of Washington v. State of Washington",
     "number": "75623-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050517",
@@ -1433,7 +1413,7 @@
     ]
   },
   {
-    "id": "2005-068",
+    "id": "2005-067",
     "title": "State of Washington v. Elmore",
     "number": "75637-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050517",
@@ -1455,7 +1435,7 @@
     ]
   },
   {
-    "id": "2005-069",
+    "id": "2005-068",
     "title": "In re 13979, Attorney at Law",
     "number": "200081-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050517",
@@ -1476,7 +1456,7 @@
     ]
   },
   {
-    "id": "2005-070",
+    "id": "2005-069",
     "title": "United States of America, et al., Plaintiff, v. Linda Hoffman, in her official capacity a Director of the Washington Department of Ecology, et. al., Defendants",
     "number": "76629-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050519",
@@ -1498,7 +1478,7 @@
     ]
   },
   {
-    "id": "2005-071",
+    "id": "2005-070",
     "title": "Advanced Silicon Materials , Respondent, v. Grant County, Petitioner",
     "number": "75641-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050519",
@@ -1520,7 +1500,7 @@
     ]
   },
   {
-    "id": "2005-072",
+    "id": "2005-071",
     "title": "Reynolds v. State of Washington",
     "number": "76036-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050519",
@@ -1542,7 +1522,7 @@
     ]
   },
   {
-    "id": "2005-073",
+    "id": "2005-072",
     "title": "State of Washington v. Kull",
     "number": "75545-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050524",
@@ -1564,7 +1544,7 @@
     ]
   },
   {
-    "id": "2005-074",
+    "id": "2005-073",
     "title": "State of Washington v. Leyda",
     "number": "75866-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050524",
@@ -1586,7 +1566,7 @@
     ]
   },
   {
-    "id": "2005-075",
+    "id": "2005-074",
     "title": "State of Washington v. Tinker",
     "number": "75728-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050524",
@@ -1608,7 +1588,7 @@
     ]
   },
   {
-    "id": "2005-076",
+    "id": "2005-075",
     "title": "Donald R. Gorman and Flaellen Gorman, v. Lockheed Shipbuilding Company and Todd Shipyards Corporation; Wilhemina Helton, v. Todd Shipyards Corporation",
     "number": "75606-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050524",
@@ -1630,7 +1610,7 @@
     ]
   },
   {
-    "id": "2005-077",
+    "id": "2005-076",
     "title": "State of Washington v. Linton",
     "number": "75784-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050526",
@@ -1652,7 +1632,7 @@
     ]
   },
   {
-    "id": "2005-078",
+    "id": "2005-077",
     "title": "Central Puget Sound Regional Transit Authority, a regional transit authority, d/b/a Sound Transit, Respondents, v. Kenneth R. Miller and Barbara I. Miller, husband and wife, and Miller Building Enterprises , a Washington corporation, Appellant, Northwest Community Bank, Designated Trustee Services , Bertram P. Weinman and Myra Weinman, Trustees of The Weinman Family Trust, Alan J. Wrye and Pansy D. Wrye, Vivian Bartlett, Defendants, Pierce County, a municipal corporation, Respondent",
     "number": "76284-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050526",
@@ -1674,7 +1654,7 @@
     ]
   },
   {
-    "id": "2005-079",
+    "id": "2005-078",
     "title": "State of Washington v. Klein",
     "number": "75715-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050607",
@@ -1694,7 +1674,7 @@
     ]
   },
   {
-    "id": "2005-080",
+    "id": "2005-079",
     "title": "Steven M. Korslund, Virginia A. Miller, John Acosta, Respondents, v. Dyncorp Tri-Cities Services , a Washington corporation, Fluor Hanford , a Washington corporation, Petitioners",
     "number": "75662-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050607",
@@ -1714,7 +1694,7 @@
     ]
   },
   {
-    "id": "2005-081",
+    "id": "2005-080",
     "title": "Spokane Research & Defense Fund, a Washington non-profit corporation, Plaintiff, Tim Connor; Rhubarb Sky LLC, Petitioners, v. City of Spokane, a Washington first class charter city, Respondent",
     "number": "75577-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050607",
@@ -1734,7 +1714,7 @@
     ]
   },
   {
-    "id": "2005-082",
+    "id": "2005-081",
     "title": "Ann and Tom Conom, and their marital community, Appellants, v. Snohomish County, a municipal corporation; Carefree Homes, Inc.; Robert and Barbara King, and their marital community, Respondents",
     "number": "76082-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050607",
@@ -1754,7 +1734,7 @@
     ]
   },
   {
-    "id": "2005-083",
+    "id": "2005-082",
     "title": "State of Washington v. Brightman",
     "number": "72919-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050609",
@@ -1774,7 +1754,7 @@
     ]
   },
   {
-    "id": "2005-084",
+    "id": "2005-083",
     "title": "State of Washington v. Morse",
     "number": "75915-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050609",
@@ -1794,7 +1774,7 @@
     ]
   },
   {
-    "id": "2005-085",
+    "id": "2005-084",
     "title": "Sheikh v. State of Washington",
     "number": "76723-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050609",
@@ -1814,7 +1794,7 @@
     ]
   },
   {
-    "id": "2005-086",
+    "id": "2005-085",
     "title": "Elaine Willman and Citizens Standup! Committee, Petitioners, v. Washington Utilities and Transportation Commission, Cascade Natural Gas Corporation, and Pacificorp, d/b/a Pacific Power and Light Company, Respondents",
     "number": "75821-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050623",
@@ -1836,7 +1816,7 @@
     ]
   },
   {
-    "id": "2005-087",
+    "id": "2005-086",
     "title": "In re Trummel",
     "number": "75977-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050623",
@@ -1856,7 +1836,7 @@
     ]
   },
   {
-    "id": "2005-088",
+    "id": "2005-087",
     "title": "State of Washington v. Smith",
     "number": "75928-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050623",
@@ -1876,7 +1856,7 @@
     ]
   },
   {
-    "id": "2005-089",
+    "id": "2005-088",
     "title": "Jill Doty, Respondent, v. Town of South Prairie, Petitioner",
     "number": "75824-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050623",
@@ -1898,7 +1878,7 @@
     ]
   },
   {
-    "id": "2005-090",
+    "id": "2005-089",
     "title": "David Koenig, Respondent, v. City of Des Moines and Des Moines Police Department, Petitioners",
     "number": "75889-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050628",
@@ -1918,7 +1898,7 @@
     ]
   },
   {
-    "id": "2005-091",
+    "id": "2005-090",
     "title": "Kershaw Sunnyside Ranches v. State of Washington",
     "number": "75982-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050628",
@@ -1938,7 +1918,7 @@
     ]
   },
   {
-    "id": "2005-092",
+    "id": "2005-091",
     "title": "State of Washington v. Bisson",
     "number": "75771-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050628",
@@ -1958,7 +1938,7 @@
     ]
   },
   {
-    "id": "2005-093",
+    "id": "2005-092",
     "title": "Brown v. State of Washington",
     "number": "75878-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050628",
@@ -1978,7 +1958,7 @@
     ]
   },
   {
-    "id": "2005-094",
+    "id": "2005-093",
     "title": "Washington State Farm v. State of Washington",
     "number": "77010-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050630",
@@ -1998,7 +1978,7 @@
     ]
   },
   {
-    "id": "2005-095",
+    "id": "2005-094",
     "title": "State of Washington v. Shafer",
     "number": "75605-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050630",
@@ -2018,7 +1998,7 @@
     ]
   },
   {
-    "id": "2005-096",
+    "id": "2005-095",
     "title": "Foster v. State of Washington",
     "number": "76818-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050630",
@@ -2038,7 +2018,7 @@
     ]
   },
   {
-    "id": "2005-097",
+    "id": "2005-096",
     "title": "State of Washington v. Kinneman",
     "number": "76051-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050630",
@@ -2058,7 +2038,7 @@
     ]
   },
   {
-    "id": "2005-098",
+    "id": "2005-097",
     "title": "In re Spokane",
     "number": "77300-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050824",
@@ -2077,7 +2057,7 @@
     ]
   },
   {
-    "id": "2005-099",
+    "id": "2005-098",
     "title": "Mary A. Cummins, individually, and as personal representative of the Estate of Leon V. Cummins, Deceased, Petitioner, v. Lewis County, a municipality; City of Centralia, a municipality, Respondent, Qwest Corporation, formerly doing business as US West Communications, a foreign corporation, Defendants",
     "number": "76249-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050913",
@@ -2099,7 +2079,7 @@
     ]
   },
   {
-    "id": "2005-100",
+    "id": "2005-099",
     "title": "Holmes Harbor Sewer District, a special purpose municipal corporation, Respondent, v. Frontier Bank; P.O. Kerr, a partnership, Joseph Seabeck and Jane Doe Seabeck, husband and wife and the marital community comprised thereof, Defendants, Holmes Harbor Home Building LLC, a Washington limited liability company, Petitioner",
     "number": "76062-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050913",
@@ -2119,7 +2099,7 @@
     ]
   },
   {
-    "id": "2005-101",
+    "id": "2005-100",
     "title": "State of Washington v. Cadwallader",
     "number": "76070-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050913",
@@ -2141,7 +2121,7 @@
     ]
   },
   {
-    "id": "2005-102",
+    "id": "2005-101",
     "title": "Osborn v. State of Washington",
     "number": "76101-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050913",
@@ -2163,7 +2143,7 @@
     ]
   },
   {
-    "id": "2005-103",
+    "id": "2005-102",
     "title": "In re Halgren",
     "number": "76161-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050915",
@@ -2183,7 +2163,7 @@
     ]
   },
   {
-    "id": "2005-104",
+    "id": "2005-103",
     "title": "State of Washington v. Miller",
     "number": "76156-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050915",
@@ -2203,7 +2183,7 @@
     ]
   },
   {
-    "id": "2005-105",
+    "id": "2005-104",
     "title": "In re Gourley",
     "number": "76270-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050915",
@@ -2225,7 +2205,7 @@
     ]
   },
   {
-    "id": "2005-106",
+    "id": "2005-105",
     "title": "Pacific Northwest Shooting v. State of Washington",
     "number": "76109-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050927",
@@ -2244,7 +2224,7 @@
     ]
   },
   {
-    "id": "2005-107",
+    "id": "2005-106",
     "title": "Point Wells v. State of Washington",
     "number": "75879-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050927",
@@ -2265,7 +2245,7 @@
     ]
   },
   {
-    "id": "2005-108",
+    "id": "2005-107",
     "title": "A.H. Larson, Terrance Scott Wean, Lisa G. Olsen, John Speirs, Kenneth H. Torp, Arthur L. Wahl, B.L. Fox, and Peter H. Nickerson, and on behalf of all others similarly situated, Appellants, v. Seattle Popular Monorail Authority, Washington State and its Department of Licensing, and Fred Stephens, its Director, Respondents",
     "number": "77073-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050927",
@@ -2284,7 +2264,7 @@
     ]
   },
   {
-    "id": "2005-109",
+    "id": "2005-108",
     "title": "Valarie Gildon, and Samuel Gildon, wife and husband and the marital community composed thereof, Respondents, v. Simon Property Group , d/b/a Northgate Mall and “XYZ Corporations 1-5” and “John Doe and Jane Does No. 1-5”, and the marital communities composed thereof, Petitioners",
     "number": "76292-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050927",
@@ -2303,7 +2283,7 @@
     ]
   },
   {
-    "id": "2005-110",
+    "id": "2005-109",
     "title": "In re An, Attorney at Law",
     "number": "200287-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050929",
@@ -2311,7 +2291,7 @@
     "argument_day": "Thursday, September 29, 2005"
   },
   {
-    "id": "2005-111",
+    "id": "2005-110",
     "title": "T.S., M.S. and K.S., Respondents, v. Boy Scouts of America, a congressionally chartered corporation, authorized to do business in Washington, Petitioner, and Pacific Harbors Council, Boy Scouts of America, formerly known as Mount Rainier Council, a Washington public benefit corporation; Chief Seattle Council, Boy Scouts of America, a Washington public benefit corporation; and Bruce Phelps, an individual, Defendants",
     "number": "76726-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051011",
@@ -2331,7 +2311,7 @@
     ]
   },
   {
-    "id": "2005-112",
+    "id": "2005-111",
     "title": "State of Washington v. Johnson",
     "number": "76544-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051011",
@@ -2351,7 +2331,7 @@
     ]
   },
   {
-    "id": "2005-113",
+    "id": "2005-112",
     "title": "Cobra Roofing Services , Respondent, v. Department of Labor and Industries, Petitioner",
     "number": "76064-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051018",
@@ -2371,7 +2351,7 @@
     ]
   },
   {
-    "id": "2005-114",
+    "id": "2005-113",
     "title": "State of Washington v. Borboa",
     "number": "76547-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051018",
@@ -2393,7 +2373,7 @@
     ]
   },
   {
-    "id": "2005-115",
+    "id": "2005-114",
     "title": "State of Washington v. Clarke",
     "number": "76602-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051018",
@@ -2413,7 +2393,7 @@
     ]
   },
   {
-    "id": "2005-116",
+    "id": "2005-115",
     "title": "State of Washington v. Cantu",
     "number": "76198-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051025",
@@ -2432,7 +2412,7 @@
     ]
   },
   {
-    "id": "2005-117",
+    "id": "2005-116",
     "title": "State of Washington v. Ose",
     "number": "76425-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051025",
@@ -2451,7 +2431,7 @@
     ]
   },
   {
-    "id": "2005-118",
+    "id": "2005-117",
     "title": "State of Washington v. Cooper",
     "number": "76164-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051025",
@@ -2470,7 +2450,7 @@
     ]
   },
   {
-    "id": "2005-119",
+    "id": "2005-118",
     "title": "State of Washington v. Jackman",
     "number": "76574-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051027",
@@ -2489,7 +2469,7 @@
     ]
   },
   {
-    "id": "2005-120",
+    "id": "2005-119",
     "title": "City of Fircrest, Respondent, v. Theo Jensen, Appellant",
     "number": "76738-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051027",
@@ -2508,26 +2488,7 @@
     ]
   },
   {
-    "id": "2005-121",
-    "title": "State of Washington v. Williams",
-    "number": "76625-8",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051027",
-    "argument": "2005-10-27",
-    "argument_day": "Thursday, October 27, 2005",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2005-10-27",
-        "title": "Oral Argument on Thursday, October 27, 2005",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005101011/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200510/2005100032A.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005101011/media.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "2005-122",
+    "id": "2005-120",
     "title": "State of Washington v. Levy",
     "number": "75913-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051027",
@@ -2546,7 +2507,7 @@
     ]
   },
   {
-    "id": "2005-123",
+    "id": "2005-121",
     "title": "Amunrud v. State of Washington",
     "number": "76590-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051109",
@@ -2566,7 +2527,7 @@
     ]
   },
   {
-    "id": "2005-124",
+    "id": "2005-122",
     "title": "State of Washington v. Easterling",
     "number": "76458-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051109",
@@ -2586,7 +2547,7 @@
     ]
   },
   {
-    "id": "2005-125",
+    "id": "2005-123",
     "title": "In re Personal Restraint of Richard J. Dyer",
     "number": "76730-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051110",
@@ -2606,7 +2567,7 @@
     ]
   },
   {
-    "id": "2005-126",
+    "id": "2005-124",
     "title": "State of Washington v. McKenzie",
     "number": "76585-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051110",
@@ -2626,7 +2587,7 @@
     ]
   },
   {
-    "id": "2005-127",
+    "id": "2005-125",
     "title": "Lewis County, Appellant, v. Western Washington Growth Management Hearings Board, Eugene Butler, Edward G. Smethers, Douglas H. Hayden, Annette H. Yanisch, Brenda Boardman, Dorothy L. Smith, Debra Ertel Burris, Michael T. Vinatieri, Deanna M. Zieske, Vince Panesko, John T. Mudge, Evaline Community Association, Susan Roth, Richard Roth, Karen Knutsen, Valerie Gore, Respondents",
     "number": "76553-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051110",
@@ -2646,7 +2607,7 @@
     ]
   },
   {
-    "id": "2005-128",
+    "id": "2005-126",
     "title": "In re An, Attorney at Law",
     "number": "200307-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051110",
@@ -2654,7 +2615,7 @@
     "argument_day": "Thursday, November 10, 2005"
   },
   {
-    "id": "2005-129",
+    "id": "2005-127",
     "title": "In re Harwood",
     "number": "75263-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051115",
@@ -2674,7 +2635,7 @@
     ]
   },
   {
-    "id": "2005-130",
+    "id": "2005-128",
     "title": "State of Washington v. Suleiman",
     "number": "76807-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051115",
@@ -2694,7 +2655,7 @@
     ]
   },
   {
-    "id": "2005-131",
+    "id": "2005-129",
     "title": "State of Washington v. Hagar",
     "number": "77138-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051115",
@@ -2714,7 +2675,7 @@
     ]
   },
   {
-    "id": "2005-132",
+    "id": "2005-130",
     "title": "In re An, Attorney at Law",
     "number": "200308-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051115",
@@ -2733,7 +2694,7 @@
     ]
   },
   {
-    "id": "2005-133",
+    "id": "2005-131",
     "title": "State of Washington v. Ermels",
     "number": "76665-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051115",
@@ -2755,7 +2716,7 @@
     ]
   },
   {
-    "id": "2005-134",
+    "id": "2005-132",
     "title": "State of Washington v. Mehlhaff",
     "number": "76776-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051115",
@@ -2775,27 +2736,7 @@
     ]
   },
   {
-    "id": "2005-135",
-    "title": "Ongom v. State of Washington",
-    "number": "76618-5",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051117",
-    "questions": "Does application of the “preponderance of the evidence” standard of proof in a disciplinary hearing against a registered nursing assistant provide adequate procedural due process? 1:00 P.M.",
-    "argument": "2005-11-17",
-    "argument_day": "Thursday, November 17, 2005",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2005-11-17",
-        "title": "Oral Argument on Thursday, November 17, 2005",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005111048/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200511/2005110025B.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005111048/media.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "2005-136",
+    "id": "2005-133",
     "title": "Robert Harvey and Marissa Harvey, individually and as husband and wife, and the marital community composed thereof, Respondents, v. The County of Snohomish, a political subdivision of Washington State, Snohomish County Sheriff’s Office, an agent of Snohomish County, Rick Bart, Snohomish County Sheriff, an agent and employee of Snohomish County, SNOPAC and The Board of Directors of Snopac, a political subdivision and agency of Snohomish County, and Jane Doe #1, an employee of SNOPAC and an agent of Snohomish County, Petitioners",
     "number": "76575-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051117",
@@ -2817,7 +2758,7 @@
     ]
   },
   {
-    "id": "2005-137",
+    "id": "2005-134",
     "title": "In re An, Attorney at Law",
     "number": "200310-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051201",

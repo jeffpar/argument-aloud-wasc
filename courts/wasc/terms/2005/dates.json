@@ -1,4 +1,13 @@
 {
+  "2005-03-22": [
+    {
+      "type": "argument",
+      "id": "2006-001",
+      "term": "2006",
+      "number": "71155-1",
+      "title": "State of Washington v. Gregory"
+    }
+  ],
   "2005-05-26": [
     {
       "type": "argument",
@@ -49,6 +58,15 @@
       "title": "State of Washington v. Pillatos"
     }
   ],
+  "2005-10-27": [
+    {
+      "type": "argument",
+      "id": "2006-002",
+      "term": "2006",
+      "number": "76625-8",
+      "title": "State of Washington v. Williams"
+    }
+  ],
   "2005-11-09": [
     {
       "type": "argument",
@@ -63,6 +81,15 @@
       "term": "2007",
       "number": "76696-7",
       "title": "Tami Davis, as personal representative of the Estate of Alan Davis, deceased; and as trustee for Tami Davis and Melissa Davis for the wrongful death of their father, Alan Davis, Appellant, v. Baugh Industrial Contractors , a Washington corporation; E.J. Rody & Sons , a Washington corporation; Gray & Osborne, Inc.; Selpeco Resources , and Selpeco Resources A Knight Piesold Company, Washington corporations; Tucci & Sons , a Washington corporation; Taiheiyo Cement Corporation and Taiheiyo Cement U.S.A. , foreign corporations; Weyerhaeuser Company, and Weyerhaeuser Real Estate Company, Washington corporations; and “Unknown Business Entities I-X,” jointly and severally, Respondents"
+    }
+  ],
+  "2005-11-17": [
+    {
+      "type": "argument",
+      "id": "2006-003",
+      "term": "2006",
+      "number": "76618-5",
+      "title": "Ongom v. State of Washington"
     }
   ]
 }

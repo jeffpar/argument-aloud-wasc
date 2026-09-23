@@ -7902,5 +7902,86 @@
         "size": 144703488
       }
     ]
+  },
+  {
+    "id": "2009-123",
+    "title": "State v. Failey",
+    "number": "81557-7",
+    "decision": "2009-02-12",
+    "decision_day": "Thursday, February 12, 2009"
+  },
+  {
+    "id": "2009-124",
+    "title": "Brogan & Anensen, LLC v. Lamphiear",
+    "number": "81825-8",
+    "decision": "2009-03-12",
+    "decision_day": "Thursday, March 12, 2009"
+  },
+  {
+    "id": "2009-125",
+    "title": "Ashmore v. Estate of Duff",
+    "number": "82052-0",
+    "decision": "2009-04-16",
+    "decision_day": "Thursday, April 16, 2009"
+  },
+  {
+    "id": "2009-126",
+    "title": "Weber v. Associated Surgeons, P.S.",
+    "number": "82163-1",
+    "decision": "2009-05-07",
+    "decision_day": "Thursday, May 7, 2009"
+  },
+  {
+    "id": "2009-127",
+    "title": "In re Recall of Telford",
+    "number": "81865-7",
+    "decision": "2009-05-07",
+    "decision_day": "Thursday, May 7, 2009",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "majority"
+      },
+      {
+        "name": "DEBRA L. STEPHENS",
+        "side": "majority"
+      },
+      {
+        "name": "TOM CHAMBERS",
+        "side": "majority"
+      }
+    ]
+  },
+  {
+    "id": "2009-128",
+    "title": "State v. League",
+    "number": "82991-8",
+    "decision": "2009-12-10",
+    "decision_day": "Thursday, December 10, 2009"
   }
 ]

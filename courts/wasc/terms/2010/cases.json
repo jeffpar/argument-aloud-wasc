@@ -599,6 +599,16 @@
   },
   {
     "id": "2010-010",
+    "title": "In re Disciplinary Proceeding Against Preszler",
+    "number": "200,570-5",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090224",
+    "argument": "2009-02-24",
+    "argument_day": "Tuesday, February 24, 2009",
+    "decision": "2010-06-17",
+    "decision_day": "Thursday, June 17, 2010"
+  },
+  {
+    "id": "2010-011",
     "title": "Service Employees International Union v. Gregoire",
     "number": "82551-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090310",
@@ -666,7 +676,7 @@
     ]
   },
   {
-    "id": "2010-011",
+    "id": "2010-012",
     "title": "In re Parentage of M.F.",
     "number": "81043-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090310",
@@ -734,7 +744,7 @@
     ]
   },
   {
-    "id": "2010-012",
+    "id": "2010-013",
     "title": "State of Washington v. Fry",
     "number": "81210-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090312",
@@ -802,7 +812,7 @@
     ]
   },
   {
-    "id": "2010-013",
+    "id": "2010-014",
     "title": "State of Washington v. Gonzalez",
     "number": "81525-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090324",
@@ -869,7 +879,7 @@
     ]
   },
   {
-    "id": "2010-014",
+    "id": "2010-015",
     "title": "State of Washington v. Jaime",
     "number": "82008-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090514",
@@ -940,7 +950,7 @@
     ]
   },
   {
-    "id": "2010-015",
+    "id": "2010-016",
     "title": "State of Washington v. Dow",
     "number": "81243-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090514",
@@ -1008,7 +1018,7 @@
     ]
   },
   {
-    "id": "2010-016",
+    "id": "2010-017",
     "title": "State of Washington v. A.N.J.",
     "number": "81236-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090521",
@@ -1077,7 +1087,7 @@
     ]
   },
   {
-    "id": "2010-017",
+    "id": "2010-018",
     "title": "Gregoire v. Oak Harbor",
     "number": "81253-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090526",
@@ -1147,7 +1157,7 @@
     ]
   },
   {
-    "id": "2010-018",
+    "id": "2010-019",
     "title": "Fitzpatrick v. Okanogan County",
     "number": "81257-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090526",
@@ -1214,7 +1224,7 @@
     ]
   },
   {
-    "id": "2010-019",
+    "id": "2010-020",
     "title": "Carlisle v. Columbia Irrigation District",
     "number": "82035-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090528",
@@ -1276,7 +1286,7 @@
     ]
   },
   {
-    "id": "2010-020",
+    "id": "2010-021",
     "title": "In re Custody of E.A.T.W.",
     "number": "81945-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090528",
@@ -1338,7 +1348,7 @@
     ]
   },
   {
-    "id": "2010-021",
+    "id": "2010-022",
     "title": "Washington v. Eaton",
     "number": "81348-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090611",
@@ -1406,7 +1416,7 @@
     ]
   },
   {
-    "id": "2010-022",
+    "id": "2010-023",
     "title": "Bradburn v. North Central Regional Library District",
     "number": "82200-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090623",
@@ -1475,7 +1485,7 @@
     ]
   },
   {
-    "id": "2010-023",
+    "id": "2010-024",
     "title": "Jones v. State of Washington",
     "number": "80787-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090623",
@@ -1544,7 +1554,7 @@
     ]
   },
   {
-    "id": "2010-024",
+    "id": "2010-025",
     "title": "Holden v. Farmers Insurance Company of Washington",
     "number": "81487-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090625",
@@ -1608,7 +1618,7 @@
     ]
   },
   {
-    "id": "2010-025",
+    "id": "2010-026",
     "title": "State of Washington v. Drum",
     "number": "81498-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090625",
@@ -1676,7 +1686,7 @@
     ]
   },
   {
-    "id": "2010-026",
+    "id": "2010-027",
     "title": "State of Washington v. Gamble",
     "number": "80131-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090630",
@@ -1744,7 +1754,7 @@
     ]
   },
   {
-    "id": "2010-027",
+    "id": "2010-028",
     "title": "State of Washington v. Sieyes",
     "number": "82154-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090630",
@@ -1813,7 +1823,7 @@
     ]
   },
   {
-    "id": "2010-028",
+    "id": "2010-029",
     "title": "State of Washington v. Grenning",
     "number": "81449-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090915",
@@ -1880,7 +1890,7 @@
     ]
   },
   {
-    "id": "2010-029",
+    "id": "2010-030",
     "title": "State of Washington v. Madsen",
     "number": "81450-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090915",
@@ -1948,7 +1958,7 @@
     ]
   },
   {
-    "id": "2010-030",
+    "id": "2010-031",
     "title": "In re disciplinary proceeding against Cramer",
     "number": "200,674-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090915",
@@ -2015,7 +2025,7 @@
     ]
   },
   {
-    "id": "2010-031",
+    "id": "2010-032",
     "title": "In re Detention of Pouncy",
     "number": "81769-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090917",
@@ -2082,7 +2092,7 @@
     ]
   },
   {
-    "id": "2010-032",
+    "id": "2010-033",
     "title": "In re Personal Restraint of Clark",
     "number": "81522-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090917",
@@ -2149,7 +2159,7 @@
     ]
   },
   {
-    "id": "2010-033",
+    "id": "2010-034",
     "title": "State of Washington v. Bashaw",
     "number": "81633-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090917",
@@ -2217,7 +2227,7 @@
     ]
   },
   {
-    "id": "2010-034",
+    "id": "2010-035",
     "title": "Lawson v. Pasco",
     "number": "81636-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090922",
@@ -2286,7 +2296,7 @@
     ]
   },
   {
-    "id": "2010-035",
+    "id": "2010-036",
     "title": "Yousoufian v. Office of Ron Sims",
     "number": "80081-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090922",
@@ -2345,7 +2355,7 @@
     ]
   },
   {
-    "id": "2010-036",
+    "id": "2010-037",
     "title": "Eastwood v. Horse Harbor Foundation, Inc.",
     "number": "81977-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090924",
@@ -2414,7 +2424,7 @@
     ]
   },
   {
-    "id": "2010-037",
+    "id": "2010-038",
     "title": "Endicott v. Icicle Seafoods, Inc.",
     "number": "82635-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090924",
@@ -2481,7 +2491,7 @@
     ]
   },
   {
-    "id": "2010-038",
+    "id": "2010-039",
     "title": "In re Welfare of C.S.",
     "number": "81720-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091013",
@@ -2544,7 +2554,7 @@
     ]
   },
   {
-    "id": "2010-039",
+    "id": "2010-040",
     "title": "In re Personal Restraint of Grantham",
     "number": "82194-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091013",
@@ -2611,7 +2621,7 @@
     ]
   },
   {
-    "id": "2010-040",
+    "id": "2010-041",
     "title": "Washington v. Rhone",
     "number": "80037-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091013",
@@ -2679,7 +2689,7 @@
     ]
   },
   {
-    "id": "2010-041",
+    "id": "2010-042",
     "title": "In re Detention of McCuistion",
     "number": "81644-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091020",
@@ -2748,7 +2758,7 @@
     ]
   },
   {
-    "id": "2010-042",
+    "id": "2010-043",
     "title": "Kustura v. Department of Labor and Industries",
     "number": "81478-3; 81480-5; 81481-3; 81758-8; 81759-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091020",
@@ -2810,7 +2820,7 @@
     ]
   },
   {
-    "id": "2010-043",
+    "id": "2010-044",
     "title": "Affiliated F.M. Insurance Company v. L.T.K. Consulting Services, Inc.",
     "number": "82738-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091020",
@@ -2879,7 +2889,7 @@
     ]
   },
   {
-    "id": "2010-044",
+    "id": "2010-045",
     "title": "Clayton v. Wilson",
     "number": "81920-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091022",
@@ -2945,7 +2955,7 @@
     ]
   },
   {
-    "id": "2010-045",
+    "id": "2010-046",
     "title": "Shoemake v. Ferrer",
     "number": "81812-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091022",
@@ -3011,7 +3021,7 @@
     ]
   },
   {
-    "id": "2010-046",
+    "id": "2010-047",
     "title": "Renner v. Marysville",
     "number": "81959-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091022",
@@ -3079,7 +3089,7 @@
     ]
   },
   {
-    "id": "2010-047",
+    "id": "2010-048",
     "title": "State of Washington v. Erickson",
     "number": "81594-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091027",
@@ -3144,7 +3154,7 @@
     ]
   },
   {
-    "id": "2010-048",
+    "id": "2010-049",
     "title": "State of Washington v. Kintz",
     "number": "81688-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091027",
@@ -3211,7 +3221,7 @@
     ]
   },
   {
-    "id": "2010-049",
+    "id": "2010-050",
     "title": "State of Washington v. Aguirre",
     "number": "82226-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091029",
@@ -3277,7 +3287,7 @@
     ]
   },
   {
-    "id": "2010-050",
+    "id": "2010-051",
     "title": "In re Personal Restraint of Rainey",
     "number": "81244-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091029",
@@ -3344,7 +3354,7 @@
     ]
   },
   {
-    "id": "2010-051",
+    "id": "2010-052",
     "title": "Lake v. Woodcreek Homeowners Association",
     "number": "81873-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091029",
@@ -3411,7 +3421,7 @@
     ]
   },
   {
-    "id": "2010-052",
+    "id": "2010-053",
     "title": "State of Washington v. Kelley",
     "number": "82111-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091029",
@@ -3477,7 +3487,7 @@
     ]
   },
   {
-    "id": "2010-053",
+    "id": "2010-054",
     "title": "Kelly v. Chelan County",
     "number": "81855-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091110",
@@ -3544,7 +3554,7 @@
     ]
   },
   {
-    "id": "2010-054",
+    "id": "2010-055",
     "title": "Parmelee v. O'Neel",
     "number": "82128-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091110",
@@ -3611,7 +3621,7 @@
     ]
   },
   {
-    "id": "2010-055",
+    "id": "2010-056",
     "title": "McCurry v. Chevy Chase Bank, F.S.B.",
     "number": "81896-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091110",
@@ -3679,7 +3689,7 @@
     ]
   },
   {
-    "id": "2010-056",
+    "id": "2010-057",
     "title": "Tracfone Wireless, Inc. v. Department of Revenue",
     "number": "82741-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091110",
@@ -3746,7 +3756,7 @@
     ]
   },
   {
-    "id": "2010-057",
+    "id": "2010-058",
     "title": "Tobin v. Department of Labor and Industries",
     "number": "81946-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091116",
@@ -3813,7 +3823,7 @@
     ]
   },
   {
-    "id": "2010-058",
+    "id": "2010-059",
     "title": "State of Washington v. Schaler",
     "number": "81864-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091116",
@@ -3882,7 +3892,7 @@
     ]
   },
   {
-    "id": "2010-059",
+    "id": "2010-060",
     "title": "Salas v. Hi-Tech Erectors",
     "number": "81590-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091116",
@@ -3950,7 +3960,7 @@
     ]
   },
   {
-    "id": "2010-060",
+    "id": "2010-061",
     "title": "Columbia Physical Therapy, Inc. v. Benton Franklin Orthopedic Associates",
     "number": "81734-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091117",
@@ -4016,7 +4026,7 @@
     ]
   },
   {
-    "id": "2010-061",
+    "id": "2010-062",
     "title": "G-P Gypsum Corporation v. Department of Revenue",
     "number": "81995-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091117",
@@ -4084,7 +4094,7 @@
     ]
   },
   {
-    "id": "2010-062",
+    "id": "2010-063",
     "title": "Sound Infiniti, Inc. ex. rel. Pisheyar v. Snyder",
     "number": "81923-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091117",
@@ -4151,7 +4161,7 @@
     ]
   },
   {
-    "id": "2010-063",
+    "id": "2010-064",
     "title": "Proctor v. Huntington",
     "number": "82326-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100112",
@@ -4218,7 +4228,7 @@
     ]
   },
   {
-    "id": "2010-064",
+    "id": "2010-065",
     "title": "State of Washington v. Afana",
     "number": "82600-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100112",
@@ -4286,7 +4296,7 @@
     ]
   },
   {
-    "id": "2010-065",
+    "id": "2010-066",
     "title": "Lummi Indian Nation v. State of Washington",
     "number": "81809-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100112",
@@ -4353,7 +4363,7 @@
     ]
   },
   {
-    "id": "2010-066",
+    "id": "2010-067",
     "title": "South Tacoma Way, L.L.C. v. Washington",
     "number": "82212-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100114",
@@ -4421,7 +4431,7 @@
     ]
   },
   {
-    "id": "2010-067",
+    "id": "2010-068",
     "title": "In re disciplinary proceeding against Eiler",
     "number": "200,701-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100114",
@@ -4486,7 +4496,7 @@
     ]
   },
   {
-    "id": "2010-068",
+    "id": "2010-069",
     "title": "State of Washington v. Harvill",
     "number": "82358-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100114",
@@ -4553,7 +4563,7 @@
     ]
   },
   {
-    "id": "2010-069",
+    "id": "2010-070",
     "title": "In re Marriage of Freeman",
     "number": "82283-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100119",
@@ -4620,7 +4630,7 @@
     ]
   },
   {
-    "id": "2010-070",
+    "id": "2010-071",
     "title": "Skinner v. Civil Service Commission of the City of Medina",
     "number": "82306-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100119",
@@ -4686,7 +4696,7 @@
     ]
   },
   {
-    "id": "2010-071",
+    "id": "2010-072",
     "title": "Kelley v. Centennial Contractors Enterprises, Inc.",
     "number": "82474-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100119",
@@ -4755,7 +4765,7 @@
     ]
   },
   {
-    "id": "2010-072",
+    "id": "2010-073",
     "title": "State of Washington v. Turner",
     "number": "81626-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100121",
@@ -4822,7 +4832,7 @@
     ]
   },
   {
-    "id": "2010-073",
+    "id": "2010-074",
     "title": "Segaline v. Department of Labor and Industries",
     "number": "81931-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100121",
@@ -4891,7 +4901,7 @@
     ]
   },
   {
-    "id": "2010-074",
+    "id": "2010-075",
     "title": "State of Washington v. Peterson",
     "number": "82089-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100121",
@@ -4957,7 +4967,7 @@
     ]
   },
   {
-    "id": "2010-075",
+    "id": "2010-076",
     "title": "State of Washington v. Hall",
     "number": "82558-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100126",
@@ -5024,7 +5034,7 @@
     ]
   },
   {
-    "id": "2010-076",
+    "id": "2010-077",
     "title": "State of Washington v. Osman",
     "number": "82671-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100126",
@@ -5091,7 +5101,7 @@
     ]
   },
   {
-    "id": "2010-077",
+    "id": "2010-078",
     "title": "Hudson v. Hapner",
     "number": "82409-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100126",
@@ -5159,7 +5169,7 @@
     ]
   },
   {
-    "id": "2010-078",
+    "id": "2010-079",
     "title": "State of Washington v. Jones",
     "number": "82613-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100126",
@@ -5226,7 +5236,7 @@
     ]
   },
   {
-    "id": "2010-079",
+    "id": "2010-080",
     "title": "Broom v. Morgan Stanley D.W., Inc.",
     "number": "82311-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100128",
@@ -5293,7 +5303,7 @@
     ]
   },
   {
-    "id": "2010-080",
+    "id": "2010-081",
     "title": "Aberdeen v. Regan",
     "number": "82476-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100128",
@@ -5361,7 +5371,7 @@
     ]
   },
   {
-    "id": "2010-081",
+    "id": "2010-082",
     "title": "McGuire v. Bates",
     "number": "82659-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100128",
@@ -5428,7 +5438,7 @@
     ]
   },
   {
-    "id": "2010-082",
+    "id": "2010-083",
     "title": "State of Washington v. Bunker",
     "number": "81921-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100223",
@@ -5490,7 +5500,7 @@
     ]
   },
   {
-    "id": "2010-083",
+    "id": "2010-084",
     "title": "Port Angeles v. Our Water Our Choice",
     "number": "82225-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100223",
@@ -5557,7 +5567,7 @@
     ]
   },
   {
-    "id": "2010-084",
+    "id": "2010-085",
     "title": "State of Washington v. Adams",
     "number": "82210-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100223",
@@ -5623,7 +5633,7 @@
     ]
   },
   {
-    "id": "2010-085",
+    "id": "2010-086",
     "title": "In re Personal Restraint of Cruze",
     "number": "82567-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100225",
@@ -5692,7 +5702,7 @@
     ]
   },
   {
-    "id": "2010-086",
+    "id": "2010-087",
     "title": "State of Washington v. Vance",
     "number": "81393-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100225",
@@ -5747,7 +5757,7 @@
     ]
   },
   {
-    "id": "2010-087",
+    "id": "2010-088",
     "title": "State of Washington v. Nonog",
     "number": "82094-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100225",
@@ -5815,7 +5825,7 @@
     ]
   },
   {
-    "id": "2010-088",
+    "id": "2010-089",
     "title": "Waples v. Yi",
     "number": "82142-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100225",
@@ -5885,7 +5895,7 @@
     ]
   },
   {
-    "id": "2010-089",
+    "id": "2010-090",
     "title": "In re disciplinary proceeding against King",
     "number": "681-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100303",
@@ -5940,13 +5950,15 @@
     ]
   },
   {
-    "id": "2010-090",
+    "id": "2010-091",
     "title": "State of Washington v. Nason",
     "number": "82333-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100309",
     "questions": "Whether the trial court violated an offender's due process rights when it ordered him to report to jail and serve a period of incarceration if he failed to pay his legal financial obligations by a certain future date.",
     "argument": "2010-03-09",
     "argument_day": "Tuesday, March 9, 2010",
+    "decision": "2010-06-10",
+    "decision_day": "Thursday, June 10, 2010",
     "events": [
       {
         "source": "tvw",
@@ -5961,7 +5973,7 @@
     ]
   },
   {
-    "id": "2010-091",
+    "id": "2010-092",
     "title": "State of Washington v. Stubbs",
     "number": "81650-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100309",
@@ -6029,7 +6041,7 @@
     ]
   },
   {
-    "id": "2010-092",
+    "id": "2010-093",
     "title": "Rivard v. Washington",
     "number": "82431-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100316",
@@ -6096,7 +6108,7 @@
     ]
   },
   {
-    "id": "2010-093",
+    "id": "2010-094",
     "title": "Little Mountain Estates Tenants Association v. Little Mountain Estates Mobile Home Community, L.L.C.",
     "number": "82574-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100316",
@@ -6164,7 +6176,7 @@
     ]
   },
   {
-    "id": "2010-094",
+    "id": "2010-095",
     "title": "State of Washington v. Patel",
     "number": "82649-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100316",
@@ -6232,7 +6244,7 @@
     ]
   },
   {
-    "id": "2010-095",
+    "id": "2010-096",
     "title": "O'Neill v. Shoreline",
     "number": "82397-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100316",
@@ -6299,7 +6311,7 @@
     ]
   },
   {
-    "id": "2010-096",
+    "id": "2010-097",
     "title": "Brown v. Vail",
     "number": "83474-1; 83828-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100318",
@@ -6359,7 +6371,7 @@
     ]
   },
   {
-    "id": "2010-097",
+    "id": "2010-098",
     "title": "In re Personal Restraint of Blackburn",
     "number": "82329-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100318",
@@ -6426,7 +6438,17 @@
     ]
   },
   {
-    "id": "2010-098",
+    "id": "2010-099",
+    "title": "In re Disciplinary Proceeding Against King",
+    "number": "200,681-7",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100318",
+    "argument": "2010-03-18",
+    "argument_day": "Thursday, March 18, 2010",
+    "decision": "2010-06-10",
+    "decision_day": "Thursday, June 10, 2010"
+  },
+  {
+    "id": "2010-100",
     "title": "Sanders v. Washington",
     "number": "82849-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100331",
@@ -6481,7 +6503,7 @@
     ]
   },
   {
-    "id": "2010-099",
+    "id": "2010-101",
     "title": "In re disciplinary proceeding against Shepard",
     "number": "720-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100506",
@@ -6546,7 +6568,7 @@
     ]
   },
   {
-    "id": "2010-100",
+    "id": "2010-102",
     "title": "State of Washington v. Doughty",
     "number": "82852-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100506",
@@ -6615,7 +6637,7 @@
     ]
   },
   {
-    "id": "2010-101",
+    "id": "2010-103",
     "title": "In re Detention of Hawkins",
     "number": "82907-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100506",
@@ -6683,13 +6705,25 @@
     ]
   },
   {
-    "id": "2010-102",
+    "id": "2010-104",
+    "title": "In re Disciplinary Proceeding Against Shepard",
+    "number": "200,720-1",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100506",
+    "argument": "2010-05-06",
+    "argument_day": "Thursday, May 6, 2010",
+    "decision": "2010-09-09",
+    "decision_day": "Thursday, September 9, 2010"
+  },
+  {
+    "id": "2010-105",
     "title": "State of Washington v. Sanchez",
     "number": "82731-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100511",
     "questions": "Whether offenders still in prison for drug offenses may challenge a community custody condition prohibiting possession of \"hand held electronic scheduling and data storage devices,\" and if so, whether the prohibition is unconstitutionally vague.",
     "argument": "2010-05-11",
     "argument_day": "Tuesday, May 11, 2010",
+    "decision": "2010-09-09",
+    "decision_day": "Thursday, September 9, 2010",
     "events": [
       {
         "source": "tvw",
@@ -6704,7 +6738,7 @@
     ]
   },
   {
-    "id": "2010-103",
+    "id": "2010-106",
     "title": "Ameriquest Mortgage Company v. Office of the Attorney General",
     "number": "82690-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100511",
@@ -6770,7 +6804,7 @@
     ]
   },
   {
-    "id": "2010-104",
+    "id": "2010-107",
     "title": "State of Washington v. Hirschfelder",
     "number": "82744-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100511",
@@ -6838,7 +6872,7 @@
     ]
   },
   {
-    "id": "2010-105",
+    "id": "2010-108",
     "title": "In re Personal Restraint of Francis",
     "number": "82619-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100513",
@@ -6906,7 +6940,7 @@
     ]
   },
   {
-    "id": "2010-106",
+    "id": "2010-109",
     "title": "Sunnyside v. Contreras",
     "number": "82531-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100513",
@@ -6973,7 +7007,7 @@
     ]
   },
   {
-    "id": "2010-107",
+    "id": "2010-110",
     "title": "In re Personal Restraint of Adolph",
     "number": "82868-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100518",
@@ -7040,7 +7074,7 @@
     ]
   },
   {
-    "id": "2010-108",
+    "id": "2010-111",
     "title": "Overlake Hospital Association v. Department of Health",
     "number": "82728-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100520",
@@ -7107,7 +7141,7 @@
     ]
   },
   {
-    "id": "2010-109",
+    "id": "2010-112",
     "title": "State of Washington v. S.S.Y.",
     "number": "83299-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100520",
@@ -7173,7 +7207,7 @@
     ]
   },
   {
-    "id": "2010-110",
+    "id": "2010-113",
     "title": "In re disciplinary proceeding against Scannell",
     "number": "200,744-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091116",
@@ -7239,7 +7273,7 @@
     ]
   },
   {
-    "id": "2010-111",
+    "id": "2010-114",
     "title": "Rousso v. Washington",
     "number": "83040-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100527",
@@ -7305,7 +7339,7 @@
     ]
   },
   {
-    "id": "2010-112",
+    "id": "2010-115",
     "title": "In re Detention of Post",
     "number": "83023-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100527",
@@ -7373,7 +7407,7 @@
     ]
   },
   {
-    "id": "2010-113",
+    "id": "2010-116",
     "title": "Internet Community and Entertainment Corporation v. Washington State Gambling Commission",
     "number": "82845-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100527",
@@ -7440,7 +7474,7 @@
     ]
   },
   {
-    "id": "2010-114",
+    "id": "2010-117",
     "title": "State of Washington v. Montano",
     "number": "82855-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100608",
@@ -7508,7 +7542,7 @@
     ]
   },
   {
-    "id": "2010-115",
+    "id": "2010-118",
     "title": "Seattle v. Jacob",
     "number": "83277-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100610",
@@ -7575,7 +7609,7 @@
     ]
   },
   {
-    "id": "2010-116",
+    "id": "2010-119",
     "title": "State of Washington v. Meneses",
     "number": "83172-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100622",
@@ -7641,7 +7675,7 @@
     ]
   },
   {
-    "id": "2010-117",
+    "id": "2010-120",
     "title": "School Districts' Alliance for Adequate Funding of Special Education v. State of Washington",
     "number": "82961-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100622",
@@ -7710,7 +7744,7 @@
     ]
   },
   {
-    "id": "2010-118",
+    "id": "2010-121",
     "title": "State of Washington v. S.J.W.",
     "number": "83177-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100622",
@@ -7777,7 +7811,7 @@
     ]
   },
   {
-    "id": "2010-119",
+    "id": "2010-122",
     "title": "Smith v. Orthopedics International, Ltd.",
     "number": "83038-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100624",
@@ -7845,7 +7879,7 @@
     ]
   },
   {
-    "id": "2010-120",
+    "id": "2010-123",
     "title": "Humphrey Industries, Ltd. v. Clay Street Associates, L.L.C.",
     "number": "82687-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100624",
@@ -7913,7 +7947,7 @@
     ]
   },
   {
-    "id": "2010-121",
+    "id": "2010-124",
     "title": "State of Washington v. Garcia-Salgado",
     "number": "83156-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100624",
@@ -7980,7 +8014,7 @@
     ]
   },
   {
-    "id": "2010-122",
+    "id": "2010-125",
     "title": "Forbes v. Schultz",
     "number": "82950-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100629",
@@ -8047,7 +8081,7 @@
     ]
   },
   {
-    "id": "2010-123",
+    "id": "2010-126",
     "title": "Washington v. Mitchell",
     "number": "83169-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100629",
@@ -8113,7 +8147,7 @@
     ]
   },
   {
-    "id": "2010-124",
+    "id": "2010-127",
     "title": "Washington v. Ervin",
     "number": "83244-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100629",
@@ -8180,7 +8214,7 @@
     ]
   },
   {
-    "id": "2010-125",
+    "id": "2010-128",
     "title": "Washington v. Ish",
     "number": "83308-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100629",
@@ -8248,7 +8282,7 @@
     ]
   },
   {
-    "id": "2010-126",
+    "id": "2010-129",
     "title": "Washington v. Moeurn",
     "number": "82995-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100701",
@@ -8303,7 +8337,7 @@
     ]
   },
   {
-    "id": "2010-127",
+    "id": "2010-130",
     "title": "Curtis v. Lein",
     "number": "83307-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100701",
@@ -8371,7 +8405,7 @@
     ]
   },
   {
-    "id": "2010-128",
+    "id": "2010-131",
     "title": "Seattle Times Company v. Serko",
     "number": "84691-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100914",
@@ -8438,7 +8472,7 @@
     ]
   },
   {
-    "id": "2010-129",
+    "id": "2010-132",
     "title": "State of Washington v. Marohl",
     "number": "83570-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100921",
@@ -8505,7 +8539,7 @@
     ]
   },
   {
-    "id": "2010-130",
+    "id": "2010-133",
     "title": "State of Washington v. Wilson",
     "number": "83797-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20101026",
@@ -8572,7 +8606,7 @@
     ]
   },
   {
-    "id": "2010-131",
+    "id": "2010-134",
     "title": "State of Washington v. Coucil",
     "number": "83654-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20101116",
@@ -8636,5 +8670,75 @@
         "size": 114294784
       }
     ]
+  },
+  {
+    "id": "2010-135",
+    "title": "Merriman v. Cokeley",
+    "number": "83700-7",
+    "decision": "2010-04-08",
+    "decision_day": "Thursday, April 8, 2010"
+  },
+  {
+    "id": "2010-136",
+    "title": "State v. Lucero",
+    "number": "83777-5",
+    "decision": "2010-05-06",
+    "decision_day": "Thursday, May 6, 2010"
+  },
+  {
+    "id": "2010-137",
+    "title": "State v. Brown",
+    "number": "84083-1",
+    "decision": "2010-07-15",
+    "decision_day": "Thursday, July 15, 2010"
+  },
+  {
+    "id": "2010-138",
+    "title": "State v. Willingham",
+    "number": "84036-9",
+    "decision": "2010-07-15",
+    "decision_day": "Thursday, July 15, 2010"
+  },
+  {
+    "id": "2010-139",
+    "title": "State v. Werner",
+    "number": "84388-1",
+    "decision": "2010-10-28",
+    "decision_day": "Thursday, October 28, 2010"
+  },
+  {
+    "id": "2010-140",
+    "title": "In re Custody of S.C.D.-L.",
+    "number": "84186-1",
+    "decision": "2010-11-10",
+    "decision_day": "Wednesday, November 10, 2010"
+  },
+  {
+    "id": "2010-141",
+    "title": "Advocates for Responsible Dev. v. W. Wash. Growth Mgmt. Hearings Bd.",
+    "number": "84501-8",
+    "decision": "2010-11-18",
+    "decision_day": "Thursday, November 18, 2010"
+  },
+  {
+    "id": "2010-142",
+    "title": "West v. Reed",
+    "number": "83612-4",
+    "decision": "2010-12-09",
+    "decision_day": "Thursday, December 9, 2010"
+  },
+  {
+    "id": "2010-143",
+    "title": "State v. Gudgel",
+    "number": "83821-6",
+    "decision": "2010-12-09",
+    "decision_day": "Thursday, December 9, 2010"
+  },
+  {
+    "id": "2010-144",
+    "title": "In re Pers. Restraint Petition of Gentry",
+    "number": "84039-3",
+    "decision": "2010-12-30",
+    "decision_day": "Thursday, December 30, 2010"
   }
 ]

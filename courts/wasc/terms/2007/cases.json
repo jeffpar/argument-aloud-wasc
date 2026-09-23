@@ -985,6 +985,72 @@
   },
   {
     "id": "2007-016",
+    "title": "State of Washington v. Eckenrode",
+    "number": "76100-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060314",
+    "facts": "Petitioner Don Eckenrode was convicted of the manufacture and possession of marijuana while armed with a firearm in the Superior Court for Pierce County and sentenced. Eckenrode appealed the sentencing enhancement arising from the jury’s finding that he committed the crimes while armed with a firearm, asserting that the trial court erred in failing to instruct the jury that it needed to find a nexus between him, the manufacture and possession of marijuana, and the firearm. The Washington Court of Appeals affirmed Eckenrode’s sentence. Eckenrode appealed this decision to the Supreme Court of Washington.",
+    "questions": "Did the trial court err in failing to instruct the jury that it needed to find a nexus between Eckenrode, the manufacture and possession of marijuana, and the firearm?",
+    "conclusions": "Justice Chambers’ opinion for the Court affirmed the Washington Court of Appeals, concluding that although a nexus instruction is required in order to avoid subjecting defendants to sentencing enhancements for the mere exercise of their constitutional right to keep and bear arms, Eckenrode failed to request such an instruction at trial. Thus, as there was sufficient evidence to find that such a nexus existed, the Court held that there is no basis for reversing Eckenrode’s sentence.",
+    "argument": "2006-03-14",
+    "argument_day": "Tuesday, March 14, 2006",
+    "decision": "2007-01-25",
+    "decision_day": "Thursday, January 25, 2007",
+    "bench": "alexander3",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "majority"
+      },
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      },
+      {
+        "name": "THOMAS J. CHAMBERS",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2006-03-14",
+        "title": "Oral Argument on Tuesday, March 14, 2006",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2006031072/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200603/2006030002B.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2006031072/media.m3u8",
+        "length": "00:50:29",
+        "size": 170917888
+      }
+    ]
+  },
+  {
+    "id": "2007-017",
     "title": "State of Washington v. O'Neal",
     "number": "76950-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060314",
@@ -1050,7 +1116,7 @@
     ]
   },
   {
-    "id": "2007-017",
+    "id": "2007-018",
     "title": "Biggers v. Bainbridge Island",
     "number": "77150-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060316",
@@ -1116,7 +1182,7 @@
     ]
   },
   {
-    "id": "2007-018",
+    "id": "2007-019",
     "title": "Lindeman v. Kelso School District #458",
     "number": "77253-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060316",
@@ -1183,7 +1249,7 @@
     ]
   },
   {
-    "id": "2007-019",
+    "id": "2007-020",
     "title": "Valley, L.L.C. v. Stewart",
     "number": "77570-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060509",
@@ -1249,7 +1315,7 @@
     ]
   },
   {
-    "id": "2007-020",
+    "id": "2007-021",
     "title": "Pasco v. Shaw",
     "number": "77195-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060509",
@@ -1314,7 +1380,7 @@
     ]
   },
   {
-    "id": "2007-021",
+    "id": "2007-022",
     "title": "Bank of America v. Wells Fargo Bank",
     "number": "77038-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060509",
@@ -1380,7 +1446,7 @@
     ]
   },
   {
-    "id": "2007-022",
+    "id": "2007-023",
     "title": "Bostain v. Food Express, Inc.",
     "number": "77201-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060518",
@@ -1447,7 +1513,7 @@
     ]
   },
   {
-    "id": "2007-023",
+    "id": "2007-024",
     "title": "State of Washington v. Moore",
     "number": "77484-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060518",
@@ -1513,7 +1579,7 @@
     ]
   },
   {
-    "id": "2007-024",
+    "id": "2007-025",
     "title": "Morin v. Burris",
     "number": "77291-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060518",
@@ -1580,7 +1646,7 @@
     ]
   },
   {
-    "id": "2007-025",
+    "id": "2007-026",
     "title": "Okeson v. Seattle",
     "number": "77888-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060523",
@@ -1647,7 +1713,7 @@
     ]
   },
   {
-    "id": "2007-026",
+    "id": "2007-027",
     "title": "Little v. King",
     "number": "77560-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060523",
@@ -1714,7 +1780,7 @@
     ]
   },
   {
-    "id": "2007-027",
+    "id": "2007-028",
     "title": "Colorado Structures, Inc. v. Insurance Company of the West",
     "number": "76973-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060523",
@@ -1779,7 +1845,7 @@
     ]
   },
   {
-    "id": "2007-028",
+    "id": "2007-029",
     "title": "Voters Education Committee v. Public Disclosure Commission",
     "number": "77724-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060525",
@@ -1845,7 +1911,7 @@
     ]
   },
   {
-    "id": "2007-029",
+    "id": "2007-030",
     "title": "San Juan County v. No New Gas Tax",
     "number": "77966-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060608",
@@ -1911,7 +1977,7 @@
     ]
   },
   {
-    "id": "2007-030",
+    "id": "2007-031",
     "title": "In re Detention of Stout",
     "number": "77369-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060608",
@@ -1976,7 +2042,7 @@
     ]
   },
   {
-    "id": "2007-031",
+    "id": "2007-032",
     "title": "Sanders v. Seattle",
     "number": "78579-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060613",
@@ -2042,7 +2108,7 @@
     ]
   },
   {
-    "id": "2007-032",
+    "id": "2007-033",
     "title": "Medina v. Primm",
     "number": "78575-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060613",
@@ -2107,7 +2173,7 @@
     ]
   },
   {
-    "id": "2007-033",
+    "id": "2007-034",
     "title": "Ford Motor Company v. Seattle",
     "number": "77167-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060615",
@@ -2172,7 +2238,7 @@
     ]
   },
   {
-    "id": "2007-034",
+    "id": "2007-035",
     "title": "Madison v. State of Washington",
     "number": "78598-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060627",
@@ -2238,7 +2304,7 @@
     ]
   },
   {
-    "id": "2007-035",
+    "id": "2007-036",
     "title": "Rickert v. Public Disclosure Commission",
     "number": "77769-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060629",
@@ -2303,7 +2369,7 @@
     ]
   },
   {
-    "id": "2007-036",
+    "id": "2007-037",
     "title": "State of Washington v. Stockwell",
     "number": "77693-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060629",
@@ -2369,7 +2435,7 @@
     ]
   },
   {
-    "id": "2007-037",
+    "id": "2007-038",
     "title": "Soltero v. Wimer",
     "number": "77548-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060912",
@@ -2435,7 +2501,7 @@
     ]
   },
   {
-    "id": "2007-038",
+    "id": "2007-039",
     "title": "Sleasman v. Lacey",
     "number": "77590-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060912",
@@ -2502,7 +2568,7 @@
     ]
   },
   {
-    "id": "2007-039",
+    "id": "2007-040",
     "title": "Woo v. Fireman's Fund Insurance Company",
     "number": "77684-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060912",
@@ -2568,7 +2634,7 @@
     ]
   },
   {
-    "id": "2007-040",
+    "id": "2007-041",
     "title": "State of Washington v. Brown",
     "number": "77885-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060914",
@@ -2634,7 +2700,7 @@
     ]
   },
   {
-    "id": "2007-041",
+    "id": "2007-042",
     "title": "In re disciplinary proceeding against Marshall",
     "number": "302-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060914",
@@ -2695,7 +2761,56 @@
     ]
   },
   {
-    "id": "2007-042",
+    "id": "2007-043",
+    "title": "In re Marshall",
+    "number": "200,302-8",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060914",
+    "argument": "2006-09-14",
+    "argument_day": "Thursday, September 14, 2006",
+    "decision": "2007-05-10",
+    "decision_day": "Thursday, May 10, 2007",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "TOM CHAMBERS",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "minority"
+      },
+      {
+        "name": "KAY BECKER",
+        "side": "minority"
+      }
+    ]
+  },
+  {
+    "id": "2007-044",
     "title": "Tingey v. Haisch",
     "number": "77689-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060919",
@@ -2762,7 +2877,7 @@
     ]
   },
   {
-    "id": "2007-043",
+    "id": "2007-045",
     "title": "In re disciplinary proceeding against Dornay",
     "number": "200,315-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060919",
@@ -2828,7 +2943,7 @@
     ]
   },
   {
-    "id": "2007-044",
+    "id": "2007-046",
     "title": "State of Washington v. Thiefault",
     "number": "77753-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060921",
@@ -2894,7 +3009,7 @@
     ]
   },
   {
-    "id": "2007-045",
+    "id": "2007-047",
     "title": "State of Washington v. Chenoweth",
     "number": "77615-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060921",
@@ -2960,7 +3075,7 @@
     ]
   },
   {
-    "id": "2007-046",
+    "id": "2007-048",
     "title": "Seto v. American Elevator, Inc.",
     "number": "77751-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060921",
@@ -3011,10 +3126,22 @@
         "name": "JAMES M. JOHNSON",
         "side": "majority"
       }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2006-09-21",
+        "title": "Oral Argument on Thursday, September 21, 2006",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2006091047/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200609/2006090082C.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2006091047/media.m3u8",
+        "size": 413458170
+      }
     ]
   },
   {
-    "id": "2007-047",
+    "id": "2007-049",
     "title": "State of Washington v. Kronich",
     "number": "78428-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061017",
@@ -3080,7 +3207,7 @@
     ]
   },
   {
-    "id": "2007-048",
+    "id": "2007-050",
     "title": "State of Washington v. Coleman",
     "number": "77706-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061017",
@@ -3147,7 +3274,7 @@
     ]
   },
   {
-    "id": "2007-049",
+    "id": "2007-051",
     "title": "State of Washington v. Kirkpatrick",
     "number": "77719-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061017",
@@ -3213,7 +3340,7 @@
     ]
   },
   {
-    "id": "2007-050",
+    "id": "2007-052",
     "title": "State of Washington v. Evans",
     "number": "77700-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061019",
@@ -3279,7 +3406,7 @@
     ]
   },
   {
-    "id": "2007-051",
+    "id": "2007-053",
     "title": "Nelson v. Appleway Chevrolet, Inc.",
     "number": "77985-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061019",
@@ -3345,7 +3472,7 @@
     ]
   },
   {
-    "id": "2007-052",
+    "id": "2007-054",
     "title": "State of Washington v. Watt",
     "number": "77281-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061019",
@@ -3411,7 +3538,7 @@
     ]
   },
   {
-    "id": "2007-053",
+    "id": "2007-055",
     "title": "United Collection Service, Inc. v. Shepherd",
     "number": "77974-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061024",
@@ -3477,7 +3604,7 @@
     ]
   },
   {
-    "id": "2007-054",
+    "id": "2007-056",
     "title": "State of Washington v. Graham",
     "number": "77858-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061024",
@@ -3543,7 +3670,7 @@
     ]
   },
   {
-    "id": "2007-055",
+    "id": "2007-057",
     "title": "State of Washington v. Hacheney",
     "number": "77767-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061024",
@@ -3611,7 +3738,7 @@
     ]
   },
   {
-    "id": "2007-056",
+    "id": "2007-058",
     "title": "McCausland v. McCausland",
     "number": "77890-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061024",
@@ -3678,7 +3805,7 @@
     ]
   },
   {
-    "id": "2007-057",
+    "id": "2007-059",
     "title": "State of Washington v. Lord",
     "number": "77472-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061026",
@@ -3744,7 +3871,7 @@
     ]
   },
   {
-    "id": "2007-058",
+    "id": "2007-060",
     "title": "State of Washington v. Womac",
     "number": "78166-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061026",
@@ -3811,7 +3938,7 @@
     ]
   },
   {
-    "id": "2007-059",
+    "id": "2007-061",
     "title": "State of Washington v. Mason",
     "number": "77507-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061026",
@@ -3874,7 +4001,70 @@
     ]
   },
   {
-    "id": "2007-060",
+    "id": "2007-062",
+    "title": "Jenkins v. DSHS",
+    "number": "78652-6",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061109",
+    "questions": "When a benefits recipient lives in the same household as his or her paid care provider, the Department of Social and Health Services (DSHS) applies the shared living rule which reduces the recipient's hours of paid in-home care services. Does the shared living rule violate federal Medicaid laws, other federal laws, or the United States or Washington State Constitutions? Does the DSHS rule that prohibits an administrative law judge from invalidating a DSHS rule violate the Washington Administrative Procedure Act, or the United States or Washington State Constitutions?",
+    "argument": "2006-11-09",
+    "argument_day": "Thursday, November 9, 2006",
+    "decision": "2007-05-03",
+    "decision_day": "Thursday, May 3, 2007",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "TOM CHAMBERS",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "minority"
+      },
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2006-11-09",
+        "title": "Oral Argument on Thursday, November 9, 2006",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2006111079/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/419c1db5a6d90eb9c5a248ec8b0a5078b6370c2b.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2006111079/media.m3u8",
+        "length": "01:43:56",
+        "size": 855638016
+      }
+    ]
+  },
+  {
+    "id": "2007-063",
     "title": "Department of Labor and Industries v. Granger",
     "number": "78139-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061109",
@@ -3940,7 +4130,7 @@
     ]
   },
   {
-    "id": "2007-061",
+    "id": "2007-064",
     "title": "State of Washington v. Miles",
     "number": "78656-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061109",
@@ -4006,7 +4196,7 @@
     ]
   },
   {
-    "id": "2007-062",
+    "id": "2007-065",
     "title": "Kinney v. Cook",
     "number": "78128-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061114",
@@ -4073,7 +4263,7 @@
     ]
   },
   {
-    "id": "2007-063",
+    "id": "2007-066",
     "title": "Burns v. Seattle",
     "number": "78449-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061114",
@@ -4139,7 +4329,7 @@
     ]
   },
   {
-    "id": "2007-064",
+    "id": "2007-067",
     "title": "State of Washington v. Watson",
     "number": "78052-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061114",
@@ -4205,7 +4395,7 @@
     ]
   },
   {
-    "id": "2007-065",
+    "id": "2007-068",
     "title": "Washington State Farm Bureau Federation v. Gregoire",
     "number": "78637-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061128",
@@ -4272,7 +4462,7 @@
     ]
   },
   {
-    "id": "2007-066",
+    "id": "2007-069",
     "title": "In re Personal Restraint of Skylstad",
     "number": "78156-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061128",
@@ -4340,7 +4530,7 @@
     ]
   },
   {
-    "id": "2007-067",
+    "id": "2007-070",
     "title": "Anderson v. Department of Corrections",
     "number": "78715-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061128",
@@ -4405,7 +4595,7 @@
     ]
   },
   {
-    "id": "2007-068",
+    "id": "2007-071",
     "title": "State of Washington v. Conte",
     "number": "78995-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061128",
@@ -4472,7 +4662,7 @@
     ]
   },
   {
-    "id": "2007-069",
+    "id": "2007-072",
     "title": "State of Washington v. Yates",
     "number": "73155-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061130",
@@ -4538,7 +4728,7 @@
     ]
   },
   {
-    "id": "2007-070",
+    "id": "2007-073",
     "title": "Udall v. T.D. Escrow Services, Inc.",
     "number": "78668-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070111",
@@ -4604,7 +4794,7 @@
     ]
   },
   {
-    "id": "2007-071",
+    "id": "2007-074",
     "title": "State of Washington v. Ohlson",
     "number": "78238-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070111",
@@ -4669,7 +4859,7 @@
     ]
   },
   {
-    "id": "2007-072",
+    "id": "2007-075",
     "title": "Ehsani v. McCullough Family Partnership",
     "number": "78353-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070111",
@@ -4732,7 +4922,7 @@
     ]
   },
   {
-    "id": "2007-073",
+    "id": "2007-076",
     "title": "In re Personal Restraint of Shale",
     "number": "78254-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070111",
@@ -4797,7 +4987,7 @@
     ]
   },
   {
-    "id": "2007-074",
+    "id": "2007-077",
     "title": "State of Washington v. Benn",
     "number": "78094-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070123",
@@ -4863,7 +5053,7 @@
     ]
   },
   {
-    "id": "2007-075",
+    "id": "2007-078",
     "title": "Stewart-Graves v. Vaughn",
     "number": "78383-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070123",
@@ -4928,7 +5118,7 @@
     ]
   },
   {
-    "id": "2007-076",
+    "id": "2007-079",
     "title": "State of Washington v. Day",
     "number": "78187-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070123",
@@ -4994,7 +5184,7 @@
     ]
   },
   {
-    "id": "2007-077",
+    "id": "2007-080",
     "title": "In re disciplinary proceeding against Carpenter",
     "number": "200,376-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070125",
@@ -5052,7 +5242,7 @@
     ]
   },
   {
-    "id": "2007-078",
+    "id": "2007-081",
     "title": "Potter v. Washington State Patrol",
     "number": "79172-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070125",
@@ -5112,7 +5302,7 @@
     ]
   },
   {
-    "id": "2007-079",
+    "id": "2007-082",
     "title": "Woods v. Kittitas County",
     "number": "78331-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070125",
@@ -5173,7 +5363,7 @@
     ]
   },
   {
-    "id": "2007-080",
+    "id": "2007-083",
     "title": "State of Washington v. Daniels",
     "number": "76802-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070213",
@@ -5240,7 +5430,7 @@
     ]
   },
   {
-    "id": "2007-081",
+    "id": "2007-084",
     "title": "In re Dependency of A.K.",
     "number": "78426-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070213",
@@ -5307,7 +5497,7 @@
     ]
   },
   {
-    "id": "2007-082",
+    "id": "2007-085",
     "title": "Olver v. Fowler",
     "number": "78321-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070213",
@@ -5375,7 +5565,7 @@
     ]
   },
   {
-    "id": "2007-083",
+    "id": "2007-086",
     "title": "Department of Corrections v. Fluor Daniel, Inc.",
     "number": "78290-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070215",
@@ -5441,7 +5631,7 @@
     ]
   },
   {
-    "id": "2007-084",
+    "id": "2007-087",
     "title": "In re disability proceeding against Keefe",
     "number": "388-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070215",
@@ -5506,7 +5696,56 @@
     ]
   },
   {
-    "id": "2007-085",
+    "id": "2007-088",
+    "title": "In re Disability Proceeding Against Keefe",
+    "number": "200,388-5",
+    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070215",
+    "argument": "2007-02-15",
+    "argument_day": "Thursday, February 15, 2007",
+    "decision": "2007-03-22",
+    "decision_day": "Thursday, March 22, 2007",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "TOM CHAMBERS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      },
+      {
+        "name": "MARLIN J. APPELWICK",
+        "side": "majority"
+      }
+    ]
+  },
+  {
+    "id": "2007-089",
     "title": "State of Washington v. Frost",
     "number": "77444-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070215",
@@ -5573,7 +5812,7 @@
     ]
   },
   {
-    "id": "2007-086",
+    "id": "2007-090",
     "title": "State of Washington v. George",
     "number": "78362-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070227",
@@ -5639,7 +5878,7 @@
     ]
   },
   {
-    "id": "2007-087",
+    "id": "2007-091",
     "title": "In re Personal Restraint of Bowman",
     "number": "78739-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070227",
@@ -5704,7 +5943,7 @@
     ]
   },
   {
-    "id": "2007-088",
+    "id": "2007-092",
     "title": "State of Washington v. Posey",
     "number": "78043-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070227",
@@ -5770,7 +6009,7 @@
     ]
   },
   {
-    "id": "2007-089",
+    "id": "2007-093",
     "title": "State of Washington v. Chhom",
     "number": "78463-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070227",
@@ -5837,7 +6076,7 @@
     ]
   },
   {
-    "id": "2007-090",
+    "id": "2007-094",
     "title": "In re Detention of Ambers",
     "number": "79331-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070301",
@@ -5903,7 +6142,7 @@
     ]
   },
   {
-    "id": "2007-091",
+    "id": "2007-095",
     "title": "State of Washington v. Bennett",
     "number": "78377-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070301",
@@ -5968,7 +6207,7 @@
     ]
   },
   {
-    "id": "2007-092",
+    "id": "2007-096",
     "title": "Arkison v. Ethan Allen, Inc.",
     "number": "78481-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070301",
@@ -6035,7 +6274,7 @@
     ]
   },
   {
-    "id": "2007-093",
+    "id": "2007-097",
     "title": "State of Washington v. Armendariz",
     "number": "78452-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070313",
@@ -6100,29 +6339,7 @@
     ]
   },
   {
-    "id": "2007-094",
-    "title": "State of Washington v. Recuenco",
-    "number": "74964-7",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070313",
-    "questions": "Is imposing a firearm sentence enhancement based on a deadly weapon finding subject to harmless error analysis under Washington law, and if so, was the error in this case harmless?",
-    "argument": "2007-03-13",
-    "argument_day": "Tuesday, March 13, 2007",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2007-03-13",
-        "title": "Oral Argument on Tuesday, March 13, 2007",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2007031320/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200703/2007030023A.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2007031320/media.m3u8",
-        "length": "00:44:36",
-        "size": 143654912
-      }
-    ]
-  },
-  {
-    "id": "2007-095",
+    "id": "2007-098",
     "title": "State of Washington v. Boyd",
     "number": "79371-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070313",
@@ -6188,7 +6405,7 @@
     ]
   },
   {
-    "id": "2007-096",
+    "id": "2007-099",
     "title": "State of Washington v. Nichols",
     "number": "78497-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070315",
@@ -6253,7 +6470,7 @@
     ]
   },
   {
-    "id": "2007-097",
+    "id": "2007-100",
     "title": "In re Personal Restraint of Mulholland",
     "number": "79150-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070315",
@@ -6318,7 +6535,7 @@
     ]
   },
   {
-    "id": "2007-098",
+    "id": "2007-101",
     "title": "Crafts v. Pitts",
     "number": "78564-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070315",
@@ -6379,7 +6596,7 @@
     ]
   },
   {
-    "id": "2007-099",
+    "id": "2007-102",
     "title": "Spokane School District #81 v. Cowles Publishing Company",
     "number": "78574-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070320",
@@ -6444,7 +6661,7 @@
     ]
   },
   {
-    "id": "2007-100",
+    "id": "2007-103",
     "title": "In re Personal Restraint of McCarthy",
     "number": "79025-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070320",
@@ -6510,7 +6727,7 @@
     ]
   },
   {
-    "id": "2007-101",
+    "id": "2007-104",
     "title": "State of Washington v. Everybodytalksabout",
     "number": "78514-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070320",
@@ -6576,7 +6793,7 @@
     ]
   },
   {
-    "id": "2007-102",
+    "id": "2007-105",
     "title": "State of Washington v. Bergstrom",
     "number": "78355-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070322",
@@ -6641,13 +6858,54 @@
     ]
   },
   {
-    "id": "2007-103",
+    "id": "2007-106",
     "title": "State of Washington v. Dion",
     "number": "78606-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070329",
     "questions": "Did the juvenile court properly extend its jurisdiction beyond the defendant's 18th birthday?",
     "argument": "2007-03-29",
     "argument_day": "Thursday, March 29, 2007",
+    "decision": "2007-06-07",
+    "decision_day": "Thursday, June 7, 2007",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "TOM CHAMBERS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN M. BROWN",
+        "side": "majority"
+      }
+    ],
     "events": [
       {
         "source": "tvw",
@@ -6662,7 +6920,7 @@
     ]
   },
   {
-    "id": "2007-104",
+    "id": "2007-107",
     "title": "Sherry v. Financial Indemnity Company",
     "number": "78667-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070329",
@@ -6725,7 +6983,7 @@
     ]
   },
   {
-    "id": "2007-105",
+    "id": "2007-108",
     "title": "In re Personal Restraint of Borrero",
     "number": "78999-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070503",
@@ -6778,7 +7036,7 @@
     ]
   },
   {
-    "id": "2007-106",
+    "id": "2007-109",
     "title": "State of Washington v. George",
     "number": "78782-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070508",
@@ -6844,7 +7102,7 @@
     ]
   },
   {
-    "id": "2007-107",
+    "id": "2007-110",
     "title": "In re Dependency of Schermer",
     "number": "79440-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070508",
@@ -6909,7 +7167,7 @@
     ]
   },
   {
-    "id": "2007-108",
+    "id": "2007-111",
     "title": "Washington Citizens Action Welfare Rights Organization Coalition v. State of Washington",
     "number": "78844-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070508",
@@ -6967,7 +7225,7 @@
     ]
   },
   {
-    "id": "2007-109",
+    "id": "2007-112",
     "title": "Hegwine v. Longview Fibre Company, Inc.",
     "number": "78728-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070510",
@@ -7032,7 +7290,7 @@
     ]
   },
   {
-    "id": "2007-110",
+    "id": "2007-113",
     "title": "In re disciplinary proceeding against Day",
     "number": "429-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070510",
@@ -7097,15 +7355,56 @@
     ]
   },
   {
-    "id": "2007-111",
+    "id": "2007-114",
     "title": "In re Day",
     "number": "200,429-6",
     "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070510",
     "argument": "2007-05-10",
-    "argument_day": "Thursday, May 10, 2007"
+    "argument_day": "Thursday, May 10, 2007",
+    "decision": "2007-12-20",
+    "decision_day": "Thursday, December 20, 2007",
+    "score": "8-1",
+    "votes": [
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "TOM CHAMBERS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "minority"
+      }
+    ]
   },
   {
-    "id": "2007-112",
+    "id": "2007-115",
     "title": "In re Detention of Elmore",
     "number": "79208-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070510",
@@ -7171,7 +7470,7 @@
     ]
   },
   {
-    "id": "2007-113",
+    "id": "2007-116",
     "title": "Qwest Corporation v. Bellevue",
     "number": "79909-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070515",
@@ -7236,7 +7535,7 @@
     ]
   },
   {
-    "id": "2007-114",
+    "id": "2007-117",
     "title": "Hornback v. Wentworth",
     "number": "78707-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070515",
@@ -7257,7 +7556,7 @@
     ]
   },
   {
-    "id": "2007-115",
+    "id": "2007-118",
     "title": "State of Washington v. Chamberlin",
     "number": "79712-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070515",
@@ -7322,7 +7621,7 @@
     ]
   },
   {
-    "id": "2007-116",
+    "id": "2007-119",
     "title": "In re Jack Lee Burtch, Attorney at Law",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070517",
     "questions": "Show cause hearing.",
@@ -7342,7 +7641,7 @@
     ]
   },
   {
-    "id": "2007-117",
+    "id": "2007-120",
     "title": "Stevens v. Brink's Home Security, Inc.",
     "number": "79815-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070517",
@@ -7407,7 +7706,7 @@
     ]
   },
   {
-    "id": "2007-118",
+    "id": "2007-121",
     "title": "Herring v. Todd Shipyards Corporation",
     "number": "78774-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070517",
@@ -7473,7 +7772,7 @@
     ]
   },
   {
-    "id": "2007-119",
+    "id": "2007-122",
     "title": "In re disciplinary proceeding against Perez-Pena",
     "number": "200,428-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070517",
@@ -7539,7 +7838,7 @@
     ]
   },
   {
-    "id": "2007-120",
+    "id": "2007-123",
     "title": "Erwin v. Cotter Health Care Ctrs., Inc.",
     "number": "78928-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070522",
@@ -7605,7 +7904,7 @@
     ]
   },
   {
-    "id": "2007-121",
+    "id": "2007-124",
     "title": "Beal Bank, S.S.B. v. Sarich",
     "number": "79875-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070522",
@@ -7671,7 +7970,7 @@
     ]
   },
   {
-    "id": "2007-122",
+    "id": "2007-125",
     "title": "Densley v. Department of Retirement Systems",
     "number": "79951-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070524",
@@ -7737,7 +8036,7 @@
     ]
   },
   {
-    "id": "2007-123",
+    "id": "2007-126",
     "title": "State of Washington v. Tobin",
     "number": "78628-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070524",
@@ -7802,7 +8101,7 @@
     ]
   },
   {
-    "id": "2007-124",
+    "id": "2007-127",
     "title": "In re post-sentence review of Leach",
     "number": "79432-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070524",
@@ -7869,7 +8168,7 @@
     ]
   },
   {
-    "id": "2007-125",
+    "id": "2007-128",
     "title": "Indoor Billboard, Inc. v. Integra Telecom of Washington, Inc.",
     "number": "79977-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070529",
@@ -7936,7 +8235,7 @@
     ]
   },
   {
-    "id": "2007-126",
+    "id": "2007-129",
     "title": "Morin v. Harrell",
     "number": "79971-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070529",
@@ -8003,7 +8302,7 @@
     ]
   },
   {
-    "id": "2007-127",
+    "id": "2007-130",
     "title": "Beaupre v. Pierce County",
     "number": "79976-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070529",
@@ -8068,7 +8367,7 @@
     ]
   },
   {
-    "id": "2007-128",
+    "id": "2007-131",
     "title": "State of Washington v. Foxhoven",
     "number": "78888-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070531",
@@ -8129,7 +8428,7 @@
     ]
   },
   {
-    "id": "2007-129",
+    "id": "2007-132",
     "title": "King v. King",
     "number": "79978-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070531",
@@ -8190,13 +8489,54 @@
     ]
   },
   {
-    "id": "2007-130",
+    "id": "2007-133",
     "title": "Delaney v. The Board of Spokane County Commissioners",
     "number": "79966-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070612",
     "questions": "Must the Board of Spokane County Commissioners establish and fund a tenth district court judge position?",
     "argument": "2007-06-12",
     "argument_day": "Tuesday, June 12, 2007",
+    "decision": "2007-08-16",
+    "decision_day": "Thursday, August 16, 2007",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "TOM CHAMBERS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      }
+    ],
     "events": [
       {
         "source": "tvw",
@@ -8211,7 +8551,7 @@
     ]
   },
   {
-    "id": "2007-131",
+    "id": "2007-134",
     "title": "Ludvigsen v. Seattle",
     "number": "79974-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070612",
@@ -8277,7 +8617,7 @@
     ]
   },
   {
-    "id": "2007-132",
+    "id": "2007-135",
     "title": "State of Washington v. Reep",
     "number": "79969-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070612",
@@ -8344,7 +8684,7 @@
     ]
   },
   {
-    "id": "2007-133",
+    "id": "2007-136",
     "title": "Feature Realty, Inc. v. Preston Gates Ellis, L.L.P.",
     "number": "79967-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070612",
@@ -8408,7 +8748,7 @@
     ]
   },
   {
-    "id": "2007-134",
+    "id": "2007-137",
     "title": "Mutual of Enumclaw Insurance Company v. Martinelli",
     "number": "79027-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070614",
@@ -8474,7 +8814,7 @@
     ]
   },
   {
-    "id": "2007-135",
+    "id": "2007-138",
     "title": "State of Washington v. Williams",
     "number": "78984-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070614",
@@ -8539,7 +8879,7 @@
     ]
   },
   {
-    "id": "2007-136",
+    "id": "2007-139",
     "title": "State of Washington v. Varnell",
     "number": "78979-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070614",
@@ -8605,7 +8945,7 @@
     ]
   },
   {
-    "id": "2007-137",
+    "id": "2007-140",
     "title": "Atchison v. Great Western Malting Company",
     "number": "80034-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070626",
@@ -8670,7 +9010,7 @@
     ]
   },
   {
-    "id": "2007-138",
+    "id": "2007-141",
     "title": "Locke v. Seattle",
     "number": "79222-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070626",
@@ -8736,7 +9076,7 @@
     ]
   },
   {
-    "id": "2007-139",
+    "id": "2007-142",
     "title": "State of Washington v. Hatchie",
     "number": "78889-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070626",
@@ -8802,7 +9142,7 @@
     ]
   },
   {
-    "id": "2007-140",
+    "id": "2007-143",
     "title": "J&J Celcom v. AT&T Wireless Services, Inc.",
     "number": "79884-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070628",
@@ -8867,7 +9207,7 @@
     ]
   },
   {
-    "id": "2007-141",
+    "id": "2007-144",
     "title": "City of Seattle v. Klein & Deibert",
     "number": "79973-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070628",
@@ -8933,7 +9273,7 @@
     ]
   },
   {
-    "id": "2007-142",
+    "id": "2007-145",
     "title": "Preview Properties, Inc. v. Landis",
     "number": "79187-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070711",
@@ -8988,7 +9328,7 @@
     ]
   },
   {
-    "id": "2007-143",
+    "id": "2007-146",
     "title": "Futurewise v. Reed",
     "number": "80430-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070906",
@@ -9053,7 +9393,7 @@
     ]
   },
   {
-    "id": "2007-144",
+    "id": "2007-147",
     "title": "In re disciplinary proceeding against Holcomb",
     "number": "200,448-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070911",
@@ -9118,7 +9458,7 @@
     ]
   },
   {
-    "id": "2007-145",
+    "id": "2007-148",
     "title": "Ingram v. Department of Licensing",
     "number": "80149-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070911",
@@ -9185,7 +9525,7 @@
     ]
   },
   {
-    "id": "2007-146",
+    "id": "2007-149",
     "title": "American Safety Casualty Insurance Company v. Olympia",
     "number": "79001-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20071009",
@@ -9251,7 +9591,7 @@
     ]
   },
   {
-    "id": "2007-147",
+    "id": "2007-150",
     "title": "Christensen v. Ellsworth",
     "number": "79128-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20071011",
@@ -9317,7 +9657,7 @@
     ]
   },
   {
-    "id": "2007-148",
+    "id": "2007-151",
     "title": "State of Washington v. Eaton",
     "number": "78970-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20071016",
@@ -9334,6 +9674,133 @@
         "audio_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/ce14753ca46d28053abdca31805d7269d6dd8486_audio.mp4",
         "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2007101066/media.m3u8",
         "length": "00:37:31"
+      }
+    ]
+  },
+  {
+    "id": "2007-152",
+    "title": "In re Pers. Restraint of Schillereff",
+    "number": "78855-3",
+    "decision": "2007-02-08",
+    "decision_day": "Thursday, February 8, 2007"
+  },
+  {
+    "id": "2007-153",
+    "title": "Belfor USA Group, Inc. v. Thiel",
+    "number": "79691-2",
+    "decision": "2007-06-14",
+    "decision_day": "Thursday, June 14, 2007"
+  },
+  {
+    "id": "2007-154",
+    "title": "Wright v. Terrell",
+    "number": "79542-8",
+    "decision": "2007-11-08",
+    "decision_day": "Thursday, November 8, 2007"
+  },
+  {
+    "id": "2007-155",
+    "title": "In re Pers. Restraint of Elmore",
+    "number": "70233-1",
+    "decision": "2007-11-21",
+    "decision_day": "Wednesday, November 21, 2007",
+    "score": "8-1",
+    "votes": [
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "TOM CHAMBERS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "minority"
+      }
+    ]
+  },
+  {
+    "id": "2007-156",
+    "title": "Schmidt v. Coogan",
+    "number": "79554-1",
+    "decision": "2007-12-13",
+    "decision_day": "Thursday, December 13, 2007"
+  },
+  {
+    "id": "2007-157",
+    "title": "Ross v. Kirner",
+    "number": "79609-2",
+    "decision": "2007-12-13",
+    "decision_day": "Thursday, December 13, 2007"
+  },
+  {
+    "id": "2007-158",
+    "title": "In re Recall Charges Against Seattle Sch. Dist. No. 1 Dir. Butler-Wall",
+    "number": "79869-9",
+    "decision": "2007-12-13",
+    "decision_day": "Thursday, December 13, 2007",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "TOM CHAMBERS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "majority"
       }
     ]
   }

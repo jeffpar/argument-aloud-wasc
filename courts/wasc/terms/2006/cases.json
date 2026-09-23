@@ -1,12 +1,235 @@
 [
   {
     "id": "2006-001",
+    "title": "State of Washington v. Gregory",
+    "number": "71155-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050322",
+    "questions": "Eugene Allen Gregory was convicted of three counts of first degree rape for the rape of one woman. He was then convicted of aggravated first degree murder for the rape, robbery, and murder of another woman. For the murder, Gregory received a sentence of death. Gregory now appeals the conviction and sentence in each case.",
+    "argument": "2005-03-22",
+    "argument_day": "Tuesday, March 22, 2005",
+    "decision": "2006-11-30",
+    "decision_day": "Thursday, November 30, 2006",
+    "score": "8-1",
+    "votes": [
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "TOM CHAMBERS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "majority"
+      },
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-03-22",
+        "title": "Oral Argument on Tuesday, March 22, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005031195/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200503/2005030006.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005031195/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-002",
+    "title": "State of Washington v. Williams",
+    "number": "76625-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051027",
+    "argument": "2005-10-27",
+    "argument_day": "Thursday, October 27, 2005",
+    "decision": "2006-11-30",
+    "decision_day": "Thursday, November 30, 2006",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "minority"
+      },
+      {
+        "name": "TOM CHAMBERS",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "minority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-10-27",
+        "title": "Oral Argument on Thursday, October 27, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005101011/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200510/2005100032A.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005101011/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-003",
+    "title": "Ongom v. State of Washington",
+    "number": "76618-5",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051117",
+    "questions": "Does application of the “preponderance of the evidence” standard of proof in a disciplinary hearing against a registered nursing assistant provide adequate procedural due process? 1:00 P.M.",
+    "argument": "2005-11-17",
+    "argument_day": "Thursday, November 17, 2005",
+    "decision": "2006-12-14",
+    "decision_day": "Thursday, December 14, 2006",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "majority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "TOM CHAMBERS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "minority"
+      },
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "minority"
+      },
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-11-17",
+        "title": "Oral Argument on Thursday, November 17, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005111048/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200511/2005110025B.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005111048/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-004",
     "title": "Pierce County v. State of Washington",
     "number": "76534-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060124",
     "questions": "Does Initiative No. 776 impair Sound Transit's obligation to its bondholders by repealing its authority to levy a motor vehicle excise tax?",
     "argument": "2006-01-24",
     "argument_day": "Tuesday, January 24, 2006",
+    "decision": "2006-12-07",
+    "decision_day": "Thursday, December 7, 2006",
+    "score": "8-1",
+    "votes": [
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "TOM CHAMBERS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN A. SCHULTHEIS",
+        "side": "majority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "minority"
+      }
+    ],
     "events": [
       {
         "source": "tvw",
@@ -22,7 +245,7 @@
     ]
   },
   {
-    "id": "2006-002",
+    "id": "2006-005",
     "title": "State of Washington v. Walker",
     "number": "76743-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060124",
@@ -44,7 +267,7 @@
     ]
   },
   {
-    "id": "2006-003",
+    "id": "2006-006",
     "title": "State of Washington v. Hosier",
     "number": "76785-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060124",
@@ -66,13 +289,54 @@
     ]
   },
   {
-    "id": "2006-004",
+    "id": "2006-007",
     "title": "1000 Friends of Wash. v. McFarland",
     "number": "76581-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060126",
     "questions": "In Brisbane, this court held that critical area ordinances could not be repealed by local referenda. Should that decision be overruled?",
     "argument": "2006-01-26",
     "argument_day": "Thursday, January 26, 2006",
+    "decision": "2006-12-21",
+    "decision_day": "Thursday, December 21, 2006",
+    "score": "7-2",
+    "votes": [
+      {
+        "name": "TOM CHAMBERS",
+        "side": "majority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "minority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "minority"
+      }
+    ],
     "events": [
       {
         "source": "tvw",
@@ -88,13 +352,54 @@
     ]
   },
   {
-    "id": "2006-005",
+    "id": "2006-008",
     "title": "State of Washington v. Jones",
     "number": "76900-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060207",
     "questions": "Does the state have to prove to a jury beyond a reasonable doubt the fact that a defendant was on community placement at the time the defendant committed a crime?",
     "argument": "2006-02-07",
     "argument_day": "Tuesday, February 7, 2006",
+    "decision": "2006-12-28",
+    "decision_day": "Thursday, December 28, 2006",
+    "score": "7-2",
+    "votes": [
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "TOM CHAMBERS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "minority"
+      },
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "minority"
+      }
+    ],
     "events": [
       {
         "source": "tvw",
@@ -110,7 +415,7 @@
     ]
   },
   {
-    "id": "2006-006",
+    "id": "2006-009",
     "title": "State of Washington v. Luther",
     "number": "76849-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060207",
@@ -132,13 +437,54 @@
     ]
   },
   {
-    "id": "2006-007",
+    "id": "2006-010",
     "title": "State of Washington v. Allen",
     "number": "76912-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060209",
     "questions": "Is it robbery when a person takes property from another, after first disabling that person for a reason unrelated to the taking?",
     "argument": "2006-02-09",
     "argument_day": "Thursday, February 9, 2006",
+    "decision": "2006-11-30",
+    "decision_day": "Thursday, November 30, 2006",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "TOM CHAMBERS",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "minority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "minority"
+      }
+    ],
     "events": [
       {
         "source": "tvw",
@@ -154,7 +500,7 @@
     ]
   },
   {
-    "id": "2006-008",
+    "id": "2006-011",
     "title": "State of Washington v. Zhao",
     "number": "76822-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060209",
@@ -176,7 +522,7 @@
     ]
   },
   {
-    "id": "2006-009",
+    "id": "2006-012",
     "title": "Heg v. Alldredge",
     "number": "76706-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060209",
@@ -198,7 +544,7 @@
     ]
   },
   {
-    "id": "2006-010",
+    "id": "2006-013",
     "title": "Lewis v. Dep't of Lic.",
     "number": "76824-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060214",
@@ -220,7 +566,7 @@
     ]
   },
   {
-    "id": "2006-011",
+    "id": "2006-014",
     "title": "Mayer v. Sto Indus., Inc.",
     "number": "76720-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060214",
@@ -242,7 +588,7 @@
     ]
   },
   {
-    "id": "2006-012",
+    "id": "2006-015",
     "title": "In re Personal Restraint of Cruz",
     "number": "77317-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060214",
@@ -264,7 +610,7 @@
     ]
   },
   {
-    "id": "2006-013",
+    "id": "2006-016",
     "title": "SuperValu Holdings, Inc. v. Dep't of Labor & Indus.",
     "number": "76527-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060214",
@@ -286,7 +632,7 @@
     ]
   },
   {
-    "id": "2006-014",
+    "id": "2006-017",
     "title": "State of Washington v. Stevens",
     "number": "77112-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060216",
@@ -308,7 +654,7 @@
     ]
   },
   {
-    "id": "2006-015",
+    "id": "2006-018",
     "title": "State of Washington v. Punsalan",
     "number": "77490-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060216",
@@ -330,7 +676,7 @@
     ]
   },
   {
-    "id": "2006-016",
+    "id": "2006-019",
     "title": "State of Washington v. Osman",
     "number": "76948-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060216",
@@ -352,7 +698,7 @@
     ]
   },
   {
-    "id": "2006-017",
+    "id": "2006-020",
     "title": "Kruger Clinic Orthopaedics, LLC v. Regence Blueshield",
     "number": "76719-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060228",
@@ -374,7 +720,7 @@
     ]
   },
   {
-    "id": "2006-018",
+    "id": "2006-021",
     "title": "Lakemont Ridge Homeowners Ass'n v. Lakemont Ridge Ltd. P'ship",
     "number": "76850-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060302",
@@ -396,15 +742,28 @@
     ]
   },
   {
-    "id": "2006-019",
+    "id": "2006-022",
     "title": "State of Washington v. Welker",
     "number": "77122-7",
     "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060302",
     "argument": "2006-03-02",
-    "argument_day": "Thursday, March 2, 2006"
+    "argument_day": "Thursday, March 2, 2006",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2006-03-02",
+        "title": "Oral Argument on Thursday, March 2, 2006",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2006031154/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/75281198683a2116d6c2759e2e6c69e855d525a2_audio.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2006031154/media.m3u8",
+        "length": "00:44:07",
+        "size": 24672085
+      }
+    ]
   },
   {
-    "id": "2006-020",
+    "id": "2006-023",
     "title": "Ballard Square Condo. Owners Ass'n v. Dynasty Constr. Co.",
     "number": "76938-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060302",
@@ -426,18 +785,21 @@
     ]
   },
   {
-    "id": "2006-021",
-    "title": "State of Washington v. Eckenrode",
-    "number": "76100-1",
+    "id": "2006-024",
+    "title": "State of Washington v. Easterlin",
+    "number": "76861-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060314",
-    "facts": "Petitioner Don Eckenrode was convicted of the manufacture and possession of marijuana while armed with a firearm in the Superior Court for Pierce County and sentenced. Eckenrode appealed the sentencing enhancement arising from the jury’s finding that he committed the crimes while armed with a firearm, asserting that the trial court erred in failing to instruct the jury that it needed to find a nexus between him, the manufacture and possession of marijuana, and the firearm. The Washington Court of Appeals affirmed Eckenrode’s sentence. Eckenrode appealed this decision to the Supreme Court of Washington.",
-    "questions": "Did the trial court err in failing to instruct the jury that it needed to find a nexus between Eckenrode, the manufacture and possession of marijuana, and the firearm?",
-    "conclusions": "Justice Chambers’ opinion for the Court affirmed the Washington Court of Appeals, concluding that although a nexus instruction is required in order to avoid subjecting defendants to sentencing enhancements for the mere exercise of their constitutional right to keep and bear arms, Eckenrode failed to request such an instruction at trial. Thus, as there was sufficient evidence to find that such a nexus existed, the Court held that there is no basis for reversing Eckenrode’s sentence.",
+    "questions": "Can the State impose a firearms enhancement on Easterlin's drug possession conviction?",
     "argument": "2006-03-14",
     "argument_day": "Tuesday, March 14, 2006",
-    "bench": "alexander3",
-    "score": "9-0",
+    "decision": "2006-12-21",
+    "decision_day": "Thursday, December 21, 2006",
+    "score": "8-1",
     "votes": [
+      {
+        "name": "TOM CHAMBERS",
+        "side": "majority"
+      },
       {
         "name": "GERRY L. ALEXANDER",
         "side": "majority"
@@ -447,23 +809,11 @@
         "side": "majority"
       },
       {
-        "name": "BARBARA A. MADSEN",
-        "side": "majority"
-      },
-      {
-        "name": "RICHARD B. SANDERS",
-        "side": "majority"
-      },
-      {
-        "name": "BOBBE J. BRIDGE",
-        "side": "majority"
-      },
-      {
-        "name": "THOMAS J. CHAMBERS",
-        "side": "majority"
-      },
-      {
         "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA A. MADSEN",
         "side": "majority"
       },
       {
@@ -473,30 +823,16 @@
       {
         "name": "JAMES M. JOHNSON",
         "side": "majority"
+      },
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "minority"
       }
     ],
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2006-03-14",
-        "title": "Oral Argument on Tuesday, March 14, 2006",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2006031072/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200603/2006030002B.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2006031072/media.m3u8",
-        "length": "00:50:29",
-        "size": 170917888
-      }
-    ]
-  },
-  {
-    "id": "2006-022",
-    "title": "State of Washington v. Easterlin",
-    "number": "76861-7",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060314",
-    "questions": "Can the State impose a firearms enhancement on Easterlin's drug possession conviction?",
-    "argument": "2006-03-14",
-    "argument_day": "Tuesday, March 14, 2006",
     "events": [
       {
         "source": "tvw",
@@ -512,7 +848,7 @@
     ]
   },
   {
-    "id": "2006-023",
+    "id": "2006-025",
     "title": "State of Washington v. Devin",
     "number": "76947-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060314",
@@ -534,7 +870,7 @@
     ]
   },
   {
-    "id": "2006-024",
+    "id": "2006-026",
     "title": "Cowlitz Stud Co. v. Clevenger",
     "number": "77267-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060316",
@@ -556,7 +892,7 @@
     ]
   },
   {
-    "id": "2006-025",
+    "id": "2006-027",
     "title": "State of Washington v. Potter",
     "number": "77822-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060321",
@@ -578,7 +914,7 @@
     ]
   },
   {
-    "id": "2006-026",
+    "id": "2006-028",
     "title": "In re Estate of Kordon, Helen Cleveland v. Leilani Duke",
     "number": "77164-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060321",
@@ -600,7 +936,7 @@
     ]
   },
   {
-    "id": "2006-027",
+    "id": "2006-029",
     "title": "State of Washington v. Price",
     "number": "77152-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060321",
@@ -622,7 +958,7 @@
     ]
   },
   {
-    "id": "2006-028",
+    "id": "2006-030",
     "title": "State of Washington v. Fowler",
     "number": "77250-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060321",
@@ -644,7 +980,7 @@
     ]
   },
   {
-    "id": "2006-029",
+    "id": "2006-031",
     "title": "State of Washington v. Cromwell",
     "number": "77356-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060323",
@@ -666,7 +1002,7 @@
     ]
   },
   {
-    "id": "2006-030",
+    "id": "2006-032",
     "title": "In re: Jeffrey Thornton Haley, an Attorney at Law.",
     "number": "200,262-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060323",
@@ -688,13 +1024,54 @@
     ]
   },
   {
-    "id": "2006-031",
+    "id": "2006-033",
     "title": "State of Washington v. Weber",
     "number": "77395-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060323",
     "questions": "Did the trial court err by sentencing the defendant for second degree attempted murder rather than first degree assault and by including his juvenile adjudications in his offender score?",
     "argument": "2006-03-23",
     "argument_day": "Thursday, March 23, 2006",
+    "decision": "2006-12-28",
+    "decision_day": "Thursday, December 28, 2006",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "TOM CHAMBERS",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "minority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "minority"
+      }
+    ],
     "events": [
       {
         "source": "tvw",
@@ -710,13 +1087,54 @@
     ]
   },
   {
-    "id": "2006-032",
+    "id": "2006-034",
     "title": "In re Personal Restraint of VanDelft v. State of Washington",
     "number": "77733-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060509",
     "questions": "Whether the judgment and sentence in this case became final after the decision in Blakely v. Washington, and if so, whether Blakely applies to an exceptional sentence consisting of consecutive standard range terms.",
     "argument": "2006-05-09",
     "argument_day": "Tuesday, May 9, 2006",
+    "decision": "2006-11-30",
+    "decision_day": "Thursday, November 30, 2006",
+    "score": "7-2",
+    "votes": [
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      },
+      {
+        "name": "TOM CHAMBERS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "majority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "minority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "minority"
+      }
+    ],
     "events": [
       {
         "source": "tvw",
@@ -731,7 +1149,7 @@
     ]
   },
   {
-    "id": "2006-033",
+    "id": "2006-035",
     "title": "In re A. Graham Greenlee, Attorney at Law",
     "number": "200,294-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060511",
@@ -752,7 +1170,7 @@
     ]
   },
   {
-    "id": "2006-034",
+    "id": "2006-036",
     "title": "Mazon v. Krafchik",
     "number": "77398-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060516",
@@ -773,7 +1191,7 @@
     ]
   },
   {
-    "id": "2006-035",
+    "id": "2006-037",
     "title": "Sorenson v. Pyeatt",
     "number": "77229-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060516",
@@ -794,13 +1212,54 @@
     ]
   },
   {
-    "id": "2006-036",
+    "id": "2006-038",
     "title": "Wright v. Colville Tribal Enter. Corp.",
     "number": "77558-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060516",
     "questions": "Does tribal sovereign immunity protect a tribal corporation?",
     "argument": "2006-05-16",
     "argument_day": "Tuesday, May 16, 2006",
+    "decision": "2006-12-07",
+    "decision_day": "Thursday, December 7, 2006",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "majority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "minority"
+      },
+      {
+        "name": "TOM CHAMBERS",
+        "side": "minority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "minority"
+      }
+    ],
     "events": [
       {
         "source": "tvw",
@@ -815,7 +1274,7 @@
     ]
   },
   {
-    "id": "2006-037",
+    "id": "2006-039",
     "title": "1000 Virginia Ltd. P'ship v. Vertecs Corp.",
     "number": "77362-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060516",
@@ -836,7 +1295,7 @@
     ]
   },
   {
-    "id": "2006-038",
+    "id": "2006-040",
     "title": "Cerrillo v. Esparza",
     "number": "77283-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060518",
@@ -857,7 +1316,7 @@
     ]
   },
   {
-    "id": "2006-039",
+    "id": "2006-041",
     "title": "Qwest Corp. v. City of Kent",
     "number": "78293-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060523",
@@ -878,13 +1337,54 @@
     ]
   },
   {
-    "id": "2006-040",
+    "id": "2006-042",
     "title": "Cosmopolitan Eng'g Group, Inc. v. Ondeo Degremont, Inc.",
     "number": "77661-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060525",
     "questions": "Whether, in an action against a contractor and its surety bond, the attorney fees available under RCW 18.27.040(6) are recoverable against both the contractor and the bond.",
     "argument": "2006-05-25",
     "argument_day": "Thursday, May 25, 2006",
+    "decision": "2006-12-28",
+    "decision_day": "Thursday, December 28, 2006",
+    "score": "8-1",
+    "votes": [
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "TOM CHAMBERS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "minority"
+      }
+    ],
     "events": [
       {
         "source": "tvw",
@@ -899,7 +1399,7 @@
     ]
   },
   {
-    "id": "2006-041",
+    "id": "2006-043",
     "title": "Go2Net, Inc. v. FreeYellow.com",
     "number": "77663-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060525",
@@ -920,13 +1420,54 @@
     ]
   },
   {
-    "id": "2006-042",
+    "id": "2006-044",
     "title": "State of Washington v. Crawford",
     "number": "77532-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060606",
     "questions": "Does the State have to give a defendant notice before trial that he faces his third strike? Does an attorney provide ineffective assistance of counsel by not finding out and informing the defendant before trial that he faces his third strike?",
     "argument": "2006-06-06",
     "argument_day": "Tuesday, June 6, 2006",
+    "decision": "2006-12-07",
+    "decision_day": "Thursday, December 7, 2006",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "minority"
+      },
+      {
+        "name": "TOM CHAMBERS",
+        "side": "minority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "minority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "minority"
+      }
+    ],
     "events": [
       {
         "source": "tvw",
@@ -941,13 +1482,54 @@
     ]
   },
   {
-    "id": "2006-043",
+    "id": "2006-045",
     "title": "In re Detention of Audett, State v. Daniel Audett",
     "number": "77576-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060606",
     "questions": "Did the trial court have authority to order a second mental exam for respondent in sexually violent predator proceedings? If not, was it proper for the judge to allow the psychologist to testify at trial?",
     "argument": "2006-06-06",
     "argument_day": "Tuesday, June 6, 2006",
+    "decision": "2006-11-30",
+    "decision_day": "Thursday, November 30, 2006",
+    "score": "8-1",
+    "votes": [
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "TOM CHAMBERS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "minority"
+      }
+    ],
     "events": [
       {
         "source": "tvw",
@@ -962,7 +1544,7 @@
     ]
   },
   {
-    "id": "2006-044",
+    "id": "2006-046",
     "title": "Scoccolo Constr., Inc. v. City of Renton",
     "number": "77459-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060606",
@@ -983,7 +1565,7 @@
     ]
   },
   {
-    "id": "2006-045",
+    "id": "2006-047",
     "title": "In re: Stephen Blanchard, Attorney at Law.",
     "number": "200,316-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060606",
@@ -1004,13 +1586,54 @@
     ]
   },
   {
-    "id": "2006-046",
+    "id": "2006-048",
     "title": "State of Washington v. Tracy",
     "number": "77534-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060608",
     "questions": "May a defendant assert a compassionate use defense under Washington law when her medical use of marijuana was authorized by a California physician?",
     "argument": "2006-06-08",
     "argument_day": "Thursday, June 8, 2006",
+    "decision": "2006-11-22",
+    "decision_day": "Wednesday, November 22, 2006",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "TOM CHAMBERS",
+        "side": "majority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "minority"
+      },
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "minority"
+      }
+    ],
     "events": [
       {
         "source": "tvw",
@@ -1025,13 +1648,54 @@
     ]
   },
   {
-    "id": "2006-047",
+    "id": "2006-049",
     "title": "State of Washington v. Brockob",
     "number": "78571-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060608",
     "questions": "Was there sufficient evidence to corroborate the defendants' incriminating statements under the corpus delicti rule and was there sufficient evidence to support their convictions?",
     "argument": "2006-06-08",
     "argument_day": "Thursday, June 8, 2006",
+    "decision": "2006-12-28",
+    "decision_day": "Thursday, December 28, 2006",
+    "score": "7-2",
+    "votes": [
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "TOM CHAMBERS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "minority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "minority"
+      }
+    ],
     "events": [
       {
         "source": "tvw",
@@ -1046,7 +1710,7 @@
     ]
   },
   {
-    "id": "2006-048",
+    "id": "2006-050",
     "title": "Interlake Sporting Ass'n v. Wash. State Boundary Review Bd.",
     "number": "78578-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060613",
@@ -1067,7 +1731,7 @@
     ]
   },
   {
-    "id": "2006-049",
+    "id": "2006-051",
     "title": "State of Washington v. French",
     "number": "78569-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060613",
@@ -1088,7 +1752,7 @@
     ]
   },
   {
-    "id": "2006-050",
+    "id": "2006-052",
     "title": "City of Spokane v. Spokane County",
     "number": "77723-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060615",
@@ -1109,7 +1773,7 @@
     ]
   },
   {
-    "id": "2006-051",
+    "id": "2006-053",
     "title": "Wright v. Jeckle",
     "number": "78635-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060615",
@@ -1130,13 +1794,54 @@
     ]
   },
   {
-    "id": "2006-052",
+    "id": "2006-054",
     "title": "State of Washington v. Dixon",
     "number": "77342-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060627",
     "questions": "In this child molestation prosecution, did the trial court err by disallowing the defense's cross-examination of the nine-year-old victim about a prior statement to her aunt?",
     "argument": "2006-06-27",
     "argument_day": "Tuesday, June 27, 2006",
+    "decision": "2006-12-07",
+    "decision_day": "Thursday, December 7, 2006",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "minority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "minority"
+      },
+      {
+        "name": "TOM CHAMBERS",
+        "side": "minority"
+      }
+    ],
     "events": [
       {
         "source": "tvw",
@@ -1151,13 +1856,54 @@
     ]
   },
   {
-    "id": "2006-053",
+    "id": "2006-055",
     "title": "State of Washington v. Nelson",
     "number": "77629-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060627",
     "questions": "Should this court grant the State's motion to supplement the record or rescind the decision to review? Did DOL violate Nelson's right to due process when it revoked his driver's license?",
     "argument": "2006-06-27",
     "argument_day": "Tuesday, June 27, 2006",
+    "decision": "2006-11-22",
+    "decision_day": "Wednesday, November 22, 2006",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      },
+      {
+        "name": "TOM CHAMBERS",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "minority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "minority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "minority"
+      }
+    ],
     "events": [
       {
         "source": "tvw",
@@ -1172,7 +1918,7 @@
     ]
   },
   {
-    "id": "2006-054",
+    "id": "2006-056",
     "title": "State of Washington v. Mendoza",
     "number": "77587-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060629",
@@ -1193,7 +1939,7 @@
     ]
   },
   {
-    "id": "2006-055",
+    "id": "2006-057",
     "title": "Cashmere Valley Bank v. Brender",
     "number": "77708-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060912",
@@ -1214,15 +1960,7 @@
     ]
   },
   {
-    "id": "2006-056",
-    "title": "In re Marshall",
-    "number": "200,302-8",
-    "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060914",
-    "argument": "2006-09-14",
-    "argument_day": "Thursday, September 14, 2006"
-  },
-  {
-    "id": "2006-057",
+    "id": "2006-058",
     "title": "U.S. Tobacco Sales & Mktg. Co. v. Dep't of Revenue",
     "number": "77690-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060919",
@@ -1243,21 +1981,115 @@
     ]
   },
   {
-    "id": "2006-058",
+    "id": "2006-059",
     "title": "State of Washington v. Ervin",
     "number": "78062-5",
     "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060921",
     "argument": "2006-09-21",
-    "argument_day": "Thursday, September 21, 2006"
+    "argument_day": "Thursday, September 21, 2006",
+    "decision": "2006-11-30",
+    "decision_day": "Thursday, November 30, 2006",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "TOM CHAMBERS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2006-09-21",
+        "title": "Oral Argument on Thursday, September 21, 2006",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2006091046/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200609/2006090082D.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2006091046/media.m3u8",
+        "size": 410743914
+      }
+    ]
   },
   {
-    "id": "2006-059",
+    "id": "2006-060",
     "title": "Woldson v. Woodhead",
     "number": "77707-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061017",
     "questions": "Can a court award damages for injuries sustained after a continuing trespass case is filed?",
     "argument": "2006-10-17",
     "argument_day": "Tuesday, October 17, 2006",
+    "decision": "2006-12-21",
+    "decision_day": "Thursday, December 21, 2006",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "TOM CHAMBERS",
+        "side": "majority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      }
+    ],
     "events": [
       {
         "source": "tvw",
@@ -1273,28 +2105,6 @@
     ]
   },
   {
-    "id": "2006-060",
-    "title": "Jenkins v. DSHS",
-    "number": "78652-6",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061109",
-    "questions": "When a benefits recipient lives in the same household as his or her paid care provider, the Department of Social and Health Services (DSHS) applies the shared living rule which reduces the recipient's hours of paid in-home care services. Does the shared living rule violate federal Medicaid laws, other federal laws, or the United States or Washington State Constitutions? Does the DSHS rule that prohibits an administrative law judge from invalidating a DSHS rule violate the Washington Administrative Procedure Act, or the United States or Washington State Constitutions?",
-    "argument": "2006-11-09",
-    "argument_day": "Thursday, November 9, 2006",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2006-11-09",
-        "title": "Oral Argument on Thursday, November 9, 2006",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2006111079/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/419c1db5a6d90eb9c5a248ec8b0a5078b6370c2b.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2006111079/media.m3u8",
-        "length": "01:43:56",
-        "size": 855638016
-      }
-    ]
-  },
-  {
     "id": "2006-061",
     "title": "State of Washington v. Swiger",
     "number": "78097-8",
@@ -1302,6 +2112,47 @@
     "questions": "Petitioner John Swiger seeks credit for the time he spent on home detention while he appealed his conviction.",
     "argument": "2006-11-09",
     "argument_day": "Thursday, November 9, 2006",
+    "decision": "2006-12-21",
+    "decision_day": "Thursday, December 21, 2006",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "SUSAN OWENS",
+        "side": "majority"
+      },
+      {
+        "name": "GERRY L. ALEXANDER",
+        "side": "majority"
+      },
+      {
+        "name": "TOM CHAMBERS",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES W. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BARBARA A. MADSEN",
+        "side": "majority"
+      },
+      {
+        "name": "MARY E. FAIRHURST",
+        "side": "majority"
+      },
+      {
+        "name": "RICHARD B. SANDERS",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES M. JOHNSON",
+        "side": "majority"
+      },
+      {
+        "name": "BOBBE J. BRIDGE",
+        "side": "majority"
+      }
+    ],
     "events": [
       {
         "source": "tvw",
@@ -1315,5 +2166,12 @@
         "size": 349175808
       }
     ]
+  },
+  {
+    "id": "2006-062",
+    "title": "State v. Watson",
+    "number": "78391-8",
+    "decision": "2006-12-14",
+    "decision_day": "Thursday, December 14, 2006"
   }
 ]
