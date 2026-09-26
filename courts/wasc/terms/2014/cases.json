@@ -9,6 +9,7 @@
     "argument_day": "Tuesday, September 14, 2010",
     "decision": "2014-01-02",
     "decision_day": "Thursday, January 2, 2014",
+    "citation": "179 Wn.2d 457 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/840458.pdf",
     "events": [
       {
@@ -33,6 +34,7 @@
     "argument_day": "Tuesday, November 15, 2011",
     "decision": "2014-01-30",
     "decision_day": "Thursday, January 30, 2014",
+    "citation": "179 Wn.2d 684 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/855838.pdf",
     "events": [
       {
@@ -49,6 +51,30 @@
   },
   {
     "id": "2014-003",
+    "title": "State of Washington v. Lui",
+    "number": "84045-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20121016",
+    "questions": "Whether a criminal defendant's right to confront witnesses is violated when an expert witness for the State testifies based on a nontestifying expert's report.",
+    "argument": "2012-10-16",
+    "argument_day": "Tuesday, October 16, 2012",
+    "decision": "2014-01-02",
+    "decision_day": "Thursday, January 2, 2014",
+    "citation": "179 Wn.2d 457 (2014)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2012-10-16",
+        "title": "Oral Argument on Tuesday, October 16, 2012",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2012101052/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/201210/2012100006C.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2012101052/media.m3u8",
+        "size": 142606336
+      }
+    ]
+  },
+  {
+    "id": "2014-004",
     "title": "State of Washington v. Franklin",
     "number": "87253-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130115",
@@ -57,6 +83,7 @@
     "argument_day": "Tuesday, January 15, 2013",
     "decision": "2014-05-08",
     "decision_day": "Thursday, May 8, 2014",
+    "citation": "180 Wn.2d 371 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/872538.pdf",
     "events": [
       {
@@ -72,7 +99,7 @@
     ]
   },
   {
-    "id": "2014-004",
+    "id": "2014-005",
     "title": "State of Washington v. Dobbs",
     "number": "87472-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130122",
@@ -81,6 +108,7 @@
     "argument_day": "Tuesday, January 22, 2013",
     "decision": "2014-03-13",
     "decision_day": "Thursday, March 13, 2014",
+    "citation": "180 Wn.2d 1 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/874727.pdf",
     "events": [
       {
@@ -96,7 +124,7 @@
     ]
   },
   {
-    "id": "2014-005",
+    "id": "2014-006",
     "title": "In re Personal Restraint of Stockwell",
     "number": "86001-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130212",
@@ -105,6 +133,7 @@
     "argument_day": "Tuesday, February 12, 2013",
     "decision": "2014-01-23",
     "decision_day": "Thursday, January 23, 2014",
+    "citation": "179 Wn.2d 588 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/860017.pdf",
     "events": [
       {
@@ -120,7 +149,7 @@
     ]
   },
   {
-    "id": "2014-006",
+    "id": "2014-007",
     "title": "Youngs v. PeaceHealth",
     "number": "87811-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130219",
@@ -129,6 +158,7 @@
     "argument_day": "Tuesday, February 19, 2013",
     "decision": "2014-01-23",
     "decision_day": "Thursday, January 23, 2014",
+    "citation": "179 Wn.2d 645 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/878111.pdf",
     "events": [
       {
@@ -144,7 +174,7 @@
     ]
   },
   {
-    "id": "2014-007",
+    "id": "2014-008",
     "title": "In re Personal Restraint of Gomez",
     "number": "86711-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130312",
@@ -153,6 +183,7 @@
     "argument_day": "Tuesday, March 12, 2013",
     "decision": "2014-05-08",
     "decision_day": "Thursday, May 8, 2014",
+    "citation": "180 Wn.2d 337 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/867119.pdf",
     "events": [
       {
@@ -168,8 +199,8 @@
     ]
   },
   {
-    "id": "2014-008",
-    "title": "Wilkinson v. Chiwawa Communities Association",
+    "id": "2014-009",
+    "title": "Wilkinson v. Chiwawa Communities Ass'n",
     "number": "86870-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130319",
     "questions": "Whether a homeowners association properly amended its covenants to prohibit the short-term rental of homes in light of existing covenants limiting use to single family residences and prohibiting commercial use of properties.",
@@ -177,6 +208,7 @@
     "argument_day": "Tuesday, March 19, 2013",
     "decision": "2014-04-17",
     "decision_day": "Thursday, April 17, 2014",
+    "citation": "180 Wn.2d 241 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/868701.pdf",
     "events": [
       {
@@ -192,7 +224,7 @@
     ]
   },
   {
-    "id": "2014-009",
+    "id": "2014-010",
     "title": "State of Washington v. Johnson",
     "number": "86885-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130319",
@@ -201,6 +233,7 @@
     "argument_day": "Tuesday, March 19, 2013",
     "decision": "2014-01-09",
     "decision_day": "Thursday, January 9, 2014",
+    "citation": "179 Wn.2d 534 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/868859.pdf",
     "events": [
       {
@@ -216,7 +249,7 @@
     ]
   },
   {
-    "id": "2014-010",
+    "id": "2014-011",
     "title": "State of Washington v. Roden",
     "number": "87669-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130507",
@@ -225,6 +258,7 @@
     "argument_day": "Tuesday, May 7, 2013",
     "decision": "2014-02-27",
     "decision_day": "Thursday, February 27, 2014",
+    "citation": "179 Wn.2d 893 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/876690.pdf",
     "score": "5-4",
     "votes": [
@@ -280,7 +314,7 @@
     ]
   },
   {
-    "id": "2014-011",
+    "id": "2014-012",
     "title": "State of Washington v. Hinton",
     "number": "87663-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130507",
@@ -289,6 +323,7 @@
     "argument_day": "Tuesday, May 7, 2013",
     "decision": "2014-02-27",
     "decision_day": "Thursday, February 27, 2014",
+    "citation": "179 Wn.2d 862 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/876631.pdf",
     "score": "5-4",
     "votes": [
@@ -342,7 +377,7 @@
     ]
   },
   {
-    "id": "2014-012",
+    "id": "2014-013",
     "title": "Ockletree v. Franciscan Health Sys.",
     "number": "88218-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130509",
@@ -351,6 +386,7 @@
     "argument_day": "Thursday, May 9, 2013",
     "decision": "2014-02-06",
     "decision_day": "Thursday, February 6, 2014",
+    "citation": "179 Wn.2d 769 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/882185.pdf",
     "score": "4-5",
     "votes": [
@@ -404,7 +440,7 @@
     ]
   },
   {
-    "id": "2014-013",
+    "id": "2014-014",
     "title": "Rekhter v. Dep't of Soc. & Health Servs.",
     "number": "86822-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130514",
@@ -413,6 +449,7 @@
     "argument_day": "Tuesday, May 14, 2013",
     "decision": "2014-04-03",
     "decision_day": "Thursday, April 3, 2014",
+    "citation": "180 Wn.2d 102 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/868221.pdf",
     "score": "4-5",
     "votes": [
@@ -466,7 +503,7 @@
     ]
   },
   {
-    "id": "2014-014",
+    "id": "2014-015",
     "title": "Fisher Broad. v. City of Seattle",
     "number": "87271-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130514",
@@ -475,6 +512,7 @@
     "argument_day": "Tuesday, May 14, 2013",
     "decision": "2014-06-12",
     "decision_day": "Thursday, June 12, 2014",
+    "citation": "180 Wn.2d 515 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/872716.pdf",
     "score": "5-4",
     "votes": [
@@ -524,7 +562,7 @@
     ]
   },
   {
-    "id": "2014-015",
+    "id": "2014-016",
     "title": "Schroeder v. Weighall",
     "number": "87207-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130516",
@@ -533,6 +571,7 @@
     "argument_day": "Thursday, May 16, 2013",
     "decision": "2014-01-16",
     "decision_day": "Thursday, January 16, 2014",
+    "citation": "179 Wn.2d 566 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/872074.pdf",
     "score": "7-2",
     "votes": [
@@ -586,7 +625,7 @@
     ]
   },
   {
-    "id": "2014-016",
+    "id": "2014-017",
     "title": "PT Air Watchers v. Dep't of Ecology",
     "number": "88208-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130523",
@@ -595,6 +634,7 @@
     "argument_day": "Thursday, May 23, 2013",
     "decision": "2014-02-27",
     "decision_day": "Thursday, February 27, 2014",
+    "citation": "179 Wn.2d 919 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/882088.pdf",
     "score": "9-0",
     "votes": [
@@ -648,7 +688,7 @@
     ]
   },
   {
-    "id": "2014-017",
+    "id": "2014-018",
     "title": "AllianceOne Receivables Mgmt., Inc. v. Lewis",
     "number": "87445-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130611",
@@ -657,6 +697,7 @@
     "argument_day": "Tuesday, June 11, 2013",
     "decision": "2014-05-08",
     "decision_day": "Thursday, May 8, 2014",
+    "citation": "180 Wn.2d 389 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/874450.pdf",
     "score": "5-4",
     "votes": [
@@ -710,7 +751,7 @@
     ]
   },
   {
-    "id": "2014-018",
+    "id": "2014-019",
     "title": "Hundtofte v. Encarnacion",
     "number": "88036-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130613",
@@ -719,6 +760,7 @@
     "argument_day": "Thursday, June 13, 2013",
     "decision": "2014-07-24",
     "decision_day": "Thursday, July 24, 2014",
+    "citation": "181 Wn.2d 1 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/880361.pdf",
     "score": "5-4",
     "votes": [
@@ -768,7 +810,7 @@
     ]
   },
   {
-    "id": "2014-019",
+    "id": "2014-020",
     "title": "In re Personal Restraint of Gentry",
     "number": "86585-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130625",
@@ -777,6 +819,7 @@
     "argument_day": "Tuesday, June 25, 2013",
     "decision": "2014-01-23",
     "decision_day": "Thursday, January 23, 2014",
+    "citation": "179 Wn.2d 614 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/865850.pdf",
     "score": "8-1",
     "votes": [
@@ -822,7 +865,7 @@
     ]
   },
   {
-    "id": "2014-020",
+    "id": "2014-021",
     "title": "State of Washington v. Piatnitsky",
     "number": "87904-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130625",
@@ -831,6 +874,7 @@
     "argument_day": "Tuesday, June 25, 2013",
     "decision": "2014-05-08",
     "decision_day": "Thursday, May 8, 2014",
+    "citation": "180 Wn.2d 407 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/879044.pdf",
     "score": "5-4",
     "votes": [
@@ -884,7 +928,7 @@
     ]
   },
   {
-    "id": "2014-021",
+    "id": "2014-022",
     "title": "Eubanks v. Brown",
     "number": "88021-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130910",
@@ -893,6 +937,7 @@
     "argument_day": "Tuesday, September 10, 2013",
     "decision": "2014-06-19",
     "decision_day": "Thursday, June 19, 2014",
+    "citation": "180 Wn.2d 590 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/880212.pdf",
     "score": "8-1",
     "votes": [
@@ -942,7 +987,7 @@
     ]
   },
   {
-    "id": "2014-022",
+    "id": "2014-023",
     "title": "State of Washington v. Deskins",
     "number": "88140-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130910",
@@ -951,6 +996,7 @@
     "argument_day": "Tuesday, September 10, 2013",
     "decision": "2014-03-27",
     "decision_day": "Thursday, March 27, 2014",
+    "citation": "180 Wn.2d 68 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/881405.pdf",
     "score": "5-4",
     "votes": [
@@ -1004,7 +1050,7 @@
     ]
   },
   {
-    "id": "2014-023",
+    "id": "2014-024",
     "title": "State of Washington v. Jordan",
     "number": "85410-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130910",
@@ -1013,6 +1059,7 @@
     "argument_day": "Tuesday, September 10, 2013",
     "decision": "2014-05-15",
     "decision_day": "Thursday, May 15, 2014",
+    "citation": "180 Wn.2d 456 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/854106.pdf",
     "score": "9-0",
     "votes": [
@@ -1066,7 +1113,7 @@
     ]
   },
   {
-    "id": "2014-024",
+    "id": "2014-025",
     "title": "State of Washington v. Gower",
     "number": "88207-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130912",
@@ -1075,6 +1122,7 @@
     "argument_day": "Thursday, September 12, 2013",
     "decision": "2014-02-13",
     "decision_day": "Thursday, February 13, 2014",
+    "citation": "179 Wn.2d 851 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/882070.pdf",
     "score": "6-3",
     "votes": [
@@ -1128,7 +1176,7 @@
     ]
   },
   {
-    "id": "2014-025",
+    "id": "2014-026",
     "title": "State of Washington v. Pena Fuentes",
     "number": "88422-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130912",
@@ -1137,6 +1185,7 @@
     "argument_day": "Thursday, September 12, 2013",
     "decision": "2014-02-06",
     "decision_day": "Thursday, February 6, 2014",
+    "citation": "179 Wn.2d 808 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/884226.pdf",
     "score": "9-0",
     "votes": [
@@ -1186,7 +1235,7 @@
     ]
   },
   {
-    "id": "2014-026",
+    "id": "2014-027",
     "title": "State of Washington v. Humphries",
     "number": "88234-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130912",
@@ -1195,6 +1244,7 @@
     "argument_day": "Thursday, September 12, 2013",
     "decision": "2014-10-23",
     "decision_day": "Thursday, October 23, 2014",
+    "citation": "181 Wn.2d 708 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/882347.pdf",
     "score": "6-3",
     "votes": [
@@ -1244,7 +1294,7 @@
     ]
   },
   {
-    "id": "2014-027",
+    "id": "2014-028",
     "title": "Ellensburg Cement Prods., Inc. v. Kittitas County",
     "number": "88165-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130917",
@@ -1253,6 +1303,7 @@
     "argument_day": "Tuesday, September 17, 2013",
     "decision": "2014-02-06",
     "decision_day": "Thursday, February 6, 2014",
+    "citation": "179 Wn.2d 737 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/881651.pdf",
     "score": "9-0",
     "votes": [
@@ -1295,7 +1346,7 @@
     ]
   },
   {
-    "id": "2014-028",
+    "id": "2014-029",
     "title": "State of Washington v. K.L.B.",
     "number": "88270-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130917",
@@ -1304,6 +1355,7 @@
     "argument_day": "Tuesday, September 17, 2013",
     "decision": "2014-06-26",
     "decision_day": "Thursday, June 26, 2014",
+    "citation": "180 Wn.2d 735 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/882703.pdf",
     "score": "5-4",
     "votes": [
@@ -1354,7 +1406,7 @@
     ]
   },
   {
-    "id": "2014-029",
+    "id": "2014-030",
     "title": "State of Washington v. Garcia",
     "number": "88020-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130917",
@@ -1363,6 +1415,7 @@
     "argument_day": "Tuesday, September 17, 2013",
     "decision": "2014-02-13",
     "decision_day": "Thursday, February 13, 2014",
+    "citation": "179 Wn.2d 828 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/880204.pdf",
     "score": "9-0",
     "votes": [
@@ -1416,7 +1469,7 @@
     ]
   },
   {
-    "id": "2014-030",
+    "id": "2014-031",
     "title": "In re Detention of Morgan",
     "number": "86234-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130917",
@@ -1425,6 +1478,7 @@
     "argument_day": "Tuesday, September 17, 2013",
     "decision": "2014-05-08",
     "decision_day": "Thursday, May 8, 2014",
+    "citation": "180 Wn.2d 312 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/862346.pdf",
     "score": "6-3",
     "votes": [
@@ -1467,7 +1521,7 @@
     ]
   },
   {
-    "id": "2014-031",
+    "id": "2014-032",
     "title": "State of Washington v. Coley",
     "number": "88111-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130919",
@@ -1476,6 +1530,7 @@
     "argument_day": "Thursday, September 19, 2013",
     "decision": "2014-06-12",
     "decision_day": "Thursday, June 12, 2014",
+    "citation": "180 Wn.2d 543 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/881111.pdf",
     "score": "7-2",
     "votes": [
@@ -1525,7 +1580,7 @@
     ]
   },
   {
-    "id": "2014-032",
+    "id": "2014-033",
     "title": "State of Washington v. Kipp",
     "number": "88083-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130919",
@@ -1534,6 +1589,7 @@
     "argument_day": "Thursday, September 19, 2013",
     "decision": "2014-02-06",
     "decision_day": "Thursday, February 6, 2014",
+    "citation": "179 Wn.2d 718 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/880832.pdf",
     "score": "9-0",
     "votes": [
@@ -1587,7 +1643,7 @@
     ]
   },
   {
-    "id": "2014-033",
+    "id": "2014-034",
     "title": "State of Washington v. MacDicken",
     "number": "88267-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130919",
@@ -1596,6 +1652,7 @@
     "argument_day": "Thursday, September 19, 2013",
     "decision": "2014-02-27",
     "decision_day": "Thursday, February 27, 2014",
+    "citation": "179 Wn.2d 936 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/882673.pdf",
     "score": "7-2",
     "votes": [
@@ -1638,7 +1695,7 @@
     ]
   },
   {
-    "id": "2014-034",
+    "id": "2014-035",
     "title": "Jametsky v. Olsen",
     "number": "88215-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131008",
@@ -1647,6 +1704,7 @@
     "argument_day": "Tuesday, October 8, 2013",
     "decision": "2014-02-06",
     "decision_day": "Thursday, February 6, 2014",
+    "citation": "179 Wn.2d 756 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/882151.pdf",
     "score": "9-0",
     "votes": [
@@ -1700,7 +1758,7 @@
     ]
   },
   {
-    "id": "2014-035",
+    "id": "2014-036",
     "title": "LK Operating, LLC v. Collection Grp., LLC",
     "number": "88132-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131008",
@@ -1709,6 +1767,7 @@
     "argument_day": "Tuesday, October 8, 2013",
     "decision": "2014-07-31",
     "decision_day": "Thursday, July 31, 2014",
+    "citation": "181 Wn.2d 48 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/881324.pdf",
     "score": "8-1",
     "votes": [
@@ -1758,7 +1817,7 @@
     ]
   },
   {
-    "id": "2014-036",
+    "id": "2014-037",
     "title": "LK Operating, LLC v. Collection Grp., LLC",
     "number": "88846-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131008",
@@ -1767,6 +1826,7 @@
     "argument_day": "Tuesday, October 8, 2013",
     "decision": "2014-07-31",
     "decision_day": "Thursday, July 31, 2014",
+    "citation": "181 Wn.2d 117 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/888469.pdf",
     "score": "9-0",
     "votes": [
@@ -1816,8 +1876,8 @@
     ]
   },
   {
-    "id": "2014-037",
-    "title": "In re Estate of Toland",
+    "id": "2014-038",
+    "title": "Dille v. Toland",
     "number": "88045-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131015",
     "questions": "Whether a Japanese divorce decree should be registered under the doctrine of comity",
@@ -1825,6 +1885,7 @@
     "argument_day": "Tuesday, October 15, 2013",
     "decision": "2014-07-10",
     "decision_day": "Thursday, July 10, 2014",
+    "citation": "180 Wn.2d 836 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/880450.pdf",
     "score": "6-3",
     "votes": [
@@ -1874,7 +1935,7 @@
     ]
   },
   {
-    "id": "2014-038",
+    "id": "2014-039",
     "title": "State of Washington v. Koss",
     "number": "85306-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131015",
@@ -1883,6 +1944,7 @@
     "argument_day": "Tuesday, October 15, 2013",
     "decision": "2014-09-25",
     "decision_day": "Thursday, September 25, 2014",
+    "citation": "181 Wn.2d 493 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/853061.pdf",
     "score": "9-0",
     "votes": [
@@ -1932,7 +1994,7 @@
     ]
   },
   {
-    "id": "2014-039",
+    "id": "2014-040",
     "title": "State of Washington v. Shearer",
     "number": "86216-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131015",
@@ -1941,6 +2003,7 @@
     "argument_day": "Tuesday, October 15, 2013",
     "decision": "2014-09-25",
     "decision_day": "Thursday, September 25, 2014",
+    "citation": "181 Wn.2d 564 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/862168.pdf",
     "score": "5-4",
     "votes": [
@@ -1990,7 +2053,7 @@
     ]
   },
   {
-    "id": "2014-040",
+    "id": "2014-041",
     "title": "State of Washington v. Smith",
     "number": "85809-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131015",
@@ -1999,6 +2062,7 @@
     "argument_day": "Tuesday, October 15, 2013",
     "decision": "2014-09-25",
     "decision_day": "Thursday, September 25, 2014",
+    "citation": "181 Wn.2d 508 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/858098.pdf",
     "score": "6-3",
     "votes": [
@@ -2048,7 +2112,7 @@
     ]
   },
   {
-    "id": "2014-041",
+    "id": "2014-042",
     "title": "State of Washington v. Frawley",
     "number": "80727-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131017",
@@ -2057,6 +2121,7 @@
     "argument_day": "Thursday, October 17, 2013",
     "decision": "2014-09-25",
     "decision_day": "Thursday, September 25, 2014",
+    "citation": "181 Wn.2d 452 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/807272.pdf",
     "score": "4-5",
     "votes": [
@@ -2106,7 +2171,7 @@
     ]
   },
   {
-    "id": "2014-042",
+    "id": "2014-043",
     "title": "State of Washington v. Njonge",
     "number": "86072-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131017",
@@ -2115,6 +2180,7 @@
     "argument_day": "Thursday, October 17, 2013",
     "decision": "2014-09-25",
     "decision_day": "Thursday, September 25, 2014",
+    "citation": "181 Wn.2d 546 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/860726.pdf",
     "score": "9-0",
     "votes": [
@@ -2164,7 +2230,7 @@
     ]
   },
   {
-    "id": "2014-043",
+    "id": "2014-044",
     "title": "State of Washington v. Slert",
     "number": "87844-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131017",
@@ -2173,6 +2239,7 @@
     "argument_day": "Thursday, October 17, 2013",
     "decision": "2014-09-25",
     "decision_day": "Thursday, September 25, 2014",
+    "citation": "181 Wn.2d 598 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/878447.pdf",
     "score": "5-4",
     "votes": [
@@ -2222,7 +2289,7 @@
     ]
   },
   {
-    "id": "2014-044",
+    "id": "2014-045",
     "title": "Kumar v. Gate Gourmet, Inc.",
     "number": "88062-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131022",
@@ -2231,6 +2298,7 @@
     "argument_day": "Tuesday, October 22, 2013",
     "decision": "2014-05-22",
     "decision_day": "Thursday, May 22, 2014",
+    "citation": "180 Wn.2d 481 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/880620.pdf",
     "score": "5-4",
     "votes": [
@@ -2280,7 +2348,7 @@
     ]
   },
   {
-    "id": "2014-045",
+    "id": "2014-046",
     "title": "Gray v. Suttell & Assocs.",
     "number": "88414-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131022",
@@ -2289,6 +2357,7 @@
     "argument_day": "Tuesday, October 22, 2013",
     "decision": "2014-08-28",
     "decision_day": "Thursday, August 28, 2014",
+    "citation": "181 Wn.2d 329 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/884145.pdf",
     "score": "9-0",
     "votes": [
@@ -2338,7 +2407,7 @@
     ]
   },
   {
-    "id": "2014-046",
+    "id": "2014-047",
     "title": "State of Washington v. Witherspoon",
     "number": "88118-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131022",
@@ -2347,6 +2416,7 @@
     "argument_day": "Tuesday, October 22, 2013",
     "decision": "2014-07-17",
     "decision_day": "Thursday, July 17, 2014",
+    "citation": "180 Wn.2d 875 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/881189.pdf",
     "score": "5-4",
     "votes": [
@@ -2396,7 +2466,30 @@
     ]
   },
   {
-    "id": "2014-047",
+    "id": "2014-048",
+    "title": "Washington Education Ass'n v. Department of Retirement Systems",
+    "number": "88546-0",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131024",
+    "questions": "The Uniform Cost of Living Adjustment (UCOLA) added an extra sum onto each state retiree's monthly pension payment to account for changes in cost of living and increased inflation. This court considers whether the repeal provisions of UCOLA unconstitutionally impaired the state's contract with its employees.",
+    "argument": "2013-10-24",
+    "argument_day": "Thursday, October 24, 2013",
+    "decision": "2014-08-14",
+    "decision_day": "Thursday, August 14, 2014",
+    "citation": "181 Wn.2d 233 (2014)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2013-10-24",
+        "title": "Oral Argument on Thursday, October 24, 2013",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2013101023/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/201310/2013100005A.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2013101023/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2014-049",
     "title": "Town of Woodway v. Snohomish County",
     "number": "88405-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131024",
@@ -2405,6 +2498,7 @@
     "argument_day": "Thursday, October 24, 2013",
     "decision": "2014-04-10",
     "decision_day": "Thursday, April 10, 2014",
+    "citation": "180 Wn.2d 165 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/884056.pdf",
     "score": "6-3",
     "votes": [
@@ -2458,7 +2552,7 @@
     ]
   },
   {
-    "id": "2014-048",
+    "id": "2014-050",
     "title": "Wash. Educ. Ass'n v. Dep't of Ret. Sys.",
     "number": "87424-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131024",
@@ -2467,6 +2561,7 @@
     "argument_day": "Thursday, October 24, 2013",
     "decision": "2014-08-14",
     "decision_day": "Thursday, August 14, 2014",
+    "citation": "181 Wn.2d 212 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/874247.pdf",
     "score": "9-0",
     "votes": [
@@ -2516,7 +2611,7 @@
     ]
   },
   {
-    "id": "2014-049",
+    "id": "2014-051",
     "title": "Ralph v. Dep't of Natural Res.",
     "number": "88115-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131029",
@@ -2525,6 +2620,7 @@
     "argument_day": "Tuesday, October 29, 2013",
     "decision": "2014-12-31",
     "decision_day": "Wednesday, December 31, 2014",
+    "citation": "182 Wn.2d 242 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/881154.pdf",
     "score": "5-4",
     "votes": [
@@ -2574,8 +2670,8 @@
     ]
   },
   {
-    "id": "2014-050",
-    "title": "Anaya Gomez v. Sauerwein",
+    "id": "2014-052",
+    "title": "Gomez v. Sauerwein",
     "number": "88307-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131029",
     "questions": "The court decides whether a patient can sue a health care provider under Washington's informed consent law for not informing the patient about a lab test result that the provider mistakenly believed was a false positive.",
@@ -2583,6 +2679,7 @@
     "argument_day": "Tuesday, October 29, 2013",
     "decision": "2014-06-19",
     "decision_day": "Thursday, June 19, 2014",
+    "citation": "180 Wn.2d 610 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/883076.pdf",
     "score": "9-0",
     "votes": [
@@ -2632,7 +2729,7 @@
     ]
   },
   {
-    "id": "2014-051",
+    "id": "2014-053",
     "title": "In re Personal Restraint of McNeil",
     "number": "87654-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131112",
@@ -2641,6 +2738,7 @@
     "argument_day": "Tuesday, November 12, 2013",
     "decision": "2014-09-25",
     "decision_day": "Thursday, September 25, 2014",
+    "citation": "181 Wn.2d 582 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/876541.pdf",
     "score": "9-0",
     "votes": [
@@ -2690,7 +2788,7 @@
     ]
   },
   {
-    "id": "2014-052",
+    "id": "2014-054",
     "title": "In re Disciplinary Proceeding Against Petersen",
     "number": "88513-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131112",
@@ -2699,6 +2797,7 @@
     "argument_day": "Tuesday, November 12, 2013",
     "decision": "2014-07-03",
     "decision_day": "Thursday, July 3, 2014",
+    "citation": "180 Wn.2d 768 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/885133.pdf",
     "score": "9-0",
     "votes": [
@@ -2748,7 +2847,7 @@
     ]
   },
   {
-    "id": "2014-053",
+    "id": "2014-055",
     "title": "State of Washington v. Johnson",
     "number": "88683-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140121",
@@ -2757,6 +2856,7 @@
     "argument_day": "Tuesday, January 21, 2014",
     "decision": "2014-05-01",
     "decision_day": "Thursday, May 1, 2014",
+    "citation": "180 Wn.2d 295 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/886831.pdf",
     "score": "7-2",
     "votes": [
@@ -2810,7 +2910,7 @@
     ]
   },
   {
-    "id": "2014-054",
+    "id": "2014-056",
     "title": "In re Personal Restraint of",
     "number": "88073-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140121",
@@ -2830,7 +2930,7 @@
     ]
   },
   {
-    "id": "2014-055",
+    "id": "2014-057",
     "title": "Storti v. Univ. of Wash.",
     "number": "88323-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140121",
@@ -2839,6 +2939,7 @@
     "argument_day": "Tuesday, January 21, 2014",
     "decision": "2014-07-24",
     "decision_day": "Thursday, July 24, 2014",
+    "citation": "181 Wn.2d 28 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/883238.pdf",
     "score": "5-4",
     "votes": [
@@ -2884,7 +2985,7 @@
     ]
   },
   {
-    "id": "2014-056",
+    "id": "2014-058",
     "title": "State of Washington v. Owens",
     "number": "88905-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140121",
@@ -2893,6 +2994,7 @@
     "argument_day": "Tuesday, January 21, 2014",
     "decision": "2014-03-27",
     "decision_day": "Thursday, March 27, 2014",
+    "citation": "180 Wn.2d 90 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/889058.pdf",
     "score": "9-0",
     "votes": [
@@ -2946,7 +3048,7 @@
     ]
   },
   {
-    "id": "2014-057",
+    "id": "2014-059",
     "title": "Campbell v. Dep't of Emp't Sec.",
     "number": "88772-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140123",
@@ -2955,6 +3057,7 @@
     "argument_day": "Thursday, January 23, 2014",
     "decision": "2014-06-12",
     "decision_day": "Thursday, June 12, 2014",
+    "citation": "180 Wn.2d 566 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/887721.pdf",
     "score": "9-0",
     "votes": [
@@ -3004,7 +3107,7 @@
     ]
   },
   {
-    "id": "2014-058",
+    "id": "2014-060",
     "title": "Riverview Cmty. Grp. v. Spencer & Livingston",
     "number": "88575-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140123",
@@ -3013,6 +3116,7 @@
     "argument_day": "Thursday, January 23, 2014",
     "decision": "2014-11-20",
     "decision_day": "Thursday, November 20, 2014",
+    "citation": "181 Wn.2d 888 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/885753.pdf",
     "score": "5-4",
     "votes": [
@@ -3062,7 +3166,7 @@
     ]
   },
   {
-    "id": "2014-059",
+    "id": "2014-061",
     "title": "Schmidt v. Coogan",
     "number": "88460-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140123",
@@ -3071,6 +3175,7 @@
     "argument_day": "Thursday, January 23, 2014",
     "decision": "2014-10-09",
     "decision_day": "Thursday, October 9, 2014",
+    "citation": "181 Wn.2d 661 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/884609.pdf",
     "score": "7-2",
     "votes": [
@@ -3121,7 +3226,7 @@
     ]
   },
   {
-    "id": "2014-060",
+    "id": "2014-062",
     "title": "BAC Home Loans Servicing, LP v. Fulbright",
     "number": "88853-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140211",
@@ -3130,6 +3235,7 @@
     "argument_day": "Tuesday, February 11, 2014",
     "decision": "2014-06-26",
     "decision_day": "Thursday, June 26, 2014",
+    "citation": "180 Wn.2d 754 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/888531.pdf",
     "score": "9-0",
     "votes": [
@@ -3179,7 +3285,7 @@
     ]
   },
   {
-    "id": "2014-061",
+    "id": "2014-063",
     "title": "LaCoursiere v. Camwest Dev., Inc.",
     "number": "88298-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140211",
@@ -3188,6 +3294,7 @@
     "argument_day": "Tuesday, February 11, 2014",
     "decision": "2014-10-23",
     "decision_day": "Thursday, October 23, 2014",
+    "citation": "181 Wn.2d 734 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/882983.pdf",
     "score": "5-4",
     "votes": [
@@ -3237,7 +3344,7 @@
     ]
   },
   {
-    "id": "2014-062",
+    "id": "2014-064",
     "title": "State of Washington v. Lindsay",
     "number": "88437-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140211",
@@ -3246,6 +3353,7 @@
     "argument_day": "Tuesday, February 11, 2014",
     "decision": "2014-05-08",
     "decision_day": "Thursday, May 8, 2014",
+    "citation": "180 Wn.2d 423 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/884374.pdf",
     "score": "9-0",
     "votes": [
@@ -3299,7 +3407,7 @@
     ]
   },
   {
-    "id": "2014-063",
+    "id": "2014-065",
     "title": "Outsource Servs. Mgmt. v. Nooksack Bus. Corp.",
     "number": "88482-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140213",
@@ -3308,6 +3416,7 @@
     "argument_day": "Thursday, February 13, 2014",
     "decision": "2014-08-21",
     "decision_day": "Thursday, August 21, 2014",
+    "citation": "181 Wn.2d 272 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/884820.pdf",
     "score": "7-2",
     "votes": [
@@ -3357,7 +3466,7 @@
     ]
   },
   {
-    "id": "2014-064",
+    "id": "2014-066",
     "title": "State of Washington v. Crumpton",
     "number": "88336-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140213",
@@ -3366,6 +3475,7 @@
     "argument_day": "Thursday, February 13, 2014",
     "decision": "2014-08-21",
     "decision_day": "Thursday, August 21, 2014",
+    "citation": "181 Wn.2d 252 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/883360.pdf",
     "score": "6-3",
     "votes": [
@@ -3415,7 +3525,7 @@
     ]
   },
   {
-    "id": "2014-065",
+    "id": "2014-067",
     "title": "Walston v. Boeing Co.",
     "number": "88511-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140213",
@@ -3424,6 +3534,7 @@
     "argument_day": "Thursday, February 13, 2014",
     "decision": "2014-09-18",
     "decision_day": "Thursday, September 18, 2014",
+    "citation": "181 Wn.2d 391 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/885117.pdf",
     "score": "5-4",
     "votes": [
@@ -3473,7 +3584,7 @@
     ]
   },
   {
-    "id": "2014-066",
+    "id": "2014-068",
     "title": "In re Estate of Hambleton",
     "number": "89419-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140225",
@@ -3482,6 +3593,7 @@
     "argument_day": "Tuesday, February 25, 2014",
     "decision": "2014-10-02",
     "decision_day": "Thursday, October 2, 2014",
+    "citation": "181 Wn.2d 802 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/894191.pdf",
     "score": "9-0",
     "votes": [
@@ -3531,7 +3643,7 @@
     ]
   },
   {
-    "id": "2014-067",
+    "id": "2014-069",
     "title": "State of Washington v. Medina",
     "number": "89147-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140225",
@@ -3540,6 +3652,7 @@
     "argument_day": "Tuesday, February 25, 2014",
     "decision": "2014-04-17",
     "decision_day": "Thursday, April 17, 2014",
+    "citation": "180 Wn.2d 282 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/891478.pdf",
     "score": "9-0",
     "votes": [
@@ -3593,7 +3706,7 @@
     ]
   },
   {
-    "id": "2014-068",
+    "id": "2014-070",
     "title": "Frias v. Asset Foreclosure Servs., Inc.",
     "number": "89343-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140227",
@@ -3602,6 +3715,7 @@
     "argument_day": "Thursday, February 27, 2014",
     "decision": "2014-09-18",
     "decision_day": "Thursday, September 18, 2014",
+    "citation": "181 Wn.2d 412 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/893438.pdf",
     "score": "5-3",
     "votes": [
@@ -3651,7 +3765,7 @@
     ]
   },
   {
-    "id": "2014-069",
+    "id": "2014-071",
     "title": "State of Washington v. Lamar",
     "number": "89060-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140227",
@@ -3660,6 +3774,7 @@
     "argument_day": "Thursday, February 27, 2014",
     "decision": "2014-06-12",
     "decision_day": "Thursday, June 12, 2014",
+    "citation": "180 Wn.2d 576 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/890609.pdf",
     "score": "9-0",
     "votes": [
@@ -3709,7 +3824,7 @@
     ]
   },
   {
-    "id": "2014-070",
+    "id": "2014-072",
     "title": "State of Washington v. Russell",
     "number": "89253-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140227",
@@ -3718,6 +3833,7 @@
     "argument_day": "Thursday, February 27, 2014",
     "decision": "2014-07-10",
     "decision_day": "Thursday, July 10, 2014",
+    "citation": "180 Wn.2d 860 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/892539.pdf",
     "score": "9-0",
     "votes": [
@@ -3767,7 +3883,7 @@
     ]
   },
   {
-    "id": "2014-071",
+    "id": "2014-073",
     "title": "State of Washington v. Barton",
     "number": "89390-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140313",
@@ -3776,6 +3892,7 @@
     "argument_day": "Thursday, March 13, 2014",
     "decision": "2014-07-31",
     "decision_day": "Thursday, July 31, 2014",
+    "citation": "181 Wn.2d 148 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/893900.pdf",
     "score": "9-0",
     "votes": [
@@ -3825,7 +3942,7 @@
     ]
   },
   {
-    "id": "2014-072",
+    "id": "2014-074",
     "title": "State of Washington v. France",
     "number": "89235-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140313",
@@ -3834,6 +3951,7 @@
     "argument_day": "Thursday, March 13, 2014",
     "decision": "2014-07-03",
     "decision_day": "Thursday, July 3, 2014",
+    "citation": "180 Wn.2d 809 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/892351.pdf",
     "score": "9-0",
     "votes": [
@@ -3879,7 +3997,7 @@
     ]
   },
   {
-    "id": "2014-073",
+    "id": "2014-075",
     "title": "Expedia, Inc. v. Steadfast Ins. Co.",
     "number": "88673-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140313",
@@ -3888,6 +4006,7 @@
     "argument_day": "Thursday, March 13, 2014",
     "decision": "2014-07-03",
     "decision_day": "Thursday, July 3, 2014",
+    "citation": "180 Wn.2d 793 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/886733.pdf",
     "score": "9-0",
     "votes": [
@@ -3937,7 +4056,7 @@
     ]
   },
   {
-    "id": "2014-074",
+    "id": "2014-076",
     "title": "Durland v. San Juan County",
     "number": "89293-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140313",
@@ -3946,6 +4065,7 @@
     "argument_day": "Thursday, March 13, 2014",
     "decision": "2014-12-11",
     "decision_day": "Thursday, December 11, 2014",
+    "citation": "182 Wn.2d 55 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/892938.pdf",
     "score": "9-0",
     "votes": [
@@ -3995,7 +4115,7 @@
     ]
   },
   {
-    "id": "2014-075",
+    "id": "2014-077",
     "title": "State of Washington v. Villanueva-Gonzalez",
     "number": "89364-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140318",
@@ -4004,6 +4124,7 @@
     "argument_day": "Tuesday, March 18, 2014",
     "decision": "2014-07-17",
     "decision_day": "Thursday, July 17, 2014",
+    "citation": "180 Wn.2d 975 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/893641.pdf",
     "score": "9-0",
     "votes": [
@@ -4053,7 +4174,7 @@
     ]
   },
   {
-    "id": "2014-076",
+    "id": "2014-078",
     "title": "In re Marriage of Chandola",
     "number": "89093-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140318",
@@ -4062,6 +4183,7 @@
     "argument_day": "Tuesday, March 18, 2014",
     "decision": "2014-06-19",
     "decision_day": "Thursday, June 19, 2014",
+    "citation": "180 Wn.2d 632 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/890935.pdf",
     "score": "5-4",
     "votes": [
@@ -4111,7 +4233,7 @@
     ]
   },
   {
-    "id": "2014-077",
+    "id": "2014-079",
     "title": "Scrivener v. Clark College",
     "number": "89377-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140320",
@@ -4120,6 +4242,7 @@
     "argument_day": "Thursday, March 20, 2014",
     "decision": "2014-09-18",
     "decision_day": "Thursday, September 18, 2014",
+    "citation": "181 Wn.2d 439 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/893772.pdf",
     "score": "9-0",
     "votes": [
@@ -4165,7 +4288,7 @@
     ]
   },
   {
-    "id": "2014-078",
+    "id": "2014-080",
     "title": "State of Washington v. W.R.",
     "number": "88341-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140320",
@@ -4174,6 +4297,7 @@
     "argument_day": "Thursday, March 20, 2014",
     "decision": "2014-10-30",
     "decision_day": "Thursday, October 30, 2014",
+    "citation": "181 Wn.2d 757 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/883416.pdf",
     "score": "6-3",
     "votes": [
@@ -4224,7 +4348,7 @@
     ]
   },
   {
-    "id": "2014-079",
+    "id": "2014-081",
     "title": "FutureSelect Portfolio Management , et al. v. Tremont Group Holdings",
     "number": "89303-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140320",
@@ -4233,6 +4357,7 @@
     "argument_day": "Thursday, March 20, 2014",
     "decision": "2014-07-17",
     "decision_day": "Thursday, July 17, 2014",
+    "citation": "180 Wn.2d 954 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/893039.pdf",
     "events": [
       {
@@ -4247,7 +4372,7 @@
     ]
   },
   {
-    "id": "2014-080",
+    "id": "2014-082",
     "title": "In re Personal Restraint of Coggin",
     "number": "89694-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140506",
@@ -4256,6 +4381,7 @@
     "argument_day": "Tuesday, May 6, 2014",
     "decision": "2014-12-11",
     "decision_day": "Thursday, December 11, 2014",
+    "citation": "182 Wn.2d 115 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/896941.pdf",
     "score": "5-4",
     "votes": [
@@ -4305,7 +4431,7 @@
     ]
   },
   {
-    "id": "2014-081",
+    "id": "2014-083",
     "title": "In re Personal Restraint of Speight",
     "number": "89693-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140506",
@@ -4314,6 +4440,7 @@
     "argument_day": "Tuesday, May 6, 2014",
     "decision": "2014-12-11",
     "decision_day": "Thursday, December 11, 2014",
+    "citation": "182 Wn.2d 103 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/896933.pdf",
     "score": "5-4",
     "votes": [
@@ -4363,7 +4490,7 @@
     ]
   },
   {
-    "id": "2014-082",
+    "id": "2014-084",
     "title": "State of Washington v. Peltier",
     "number": "89502-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140506",
@@ -4372,6 +4499,7 @@
     "argument_day": "Tuesday, May 6, 2014",
     "decision": "2014-08-21",
     "decision_day": "Thursday, August 21, 2014",
+    "citation": "181 Wn.2d 290 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/895023.pdf",
     "score": "9-0",
     "votes": [
@@ -4421,7 +4549,7 @@
     ]
   },
   {
-    "id": "2014-083",
+    "id": "2014-085",
     "title": "In re Personal Restraint of Thomas",
     "number": "88921-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140508",
@@ -4430,6 +4558,7 @@
     "argument_day": "Thursday, May 8, 2014",
     "decision": "2014-07-17",
     "decision_day": "Thursday, July 17, 2014",
+    "citation": "180 Wn.2d 951 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/889210.pdf",
     "score": "0-0",
     "events": [
@@ -4445,7 +4574,7 @@
     ]
   },
   {
-    "id": "2014-084",
+    "id": "2014-086",
     "title": "State of Washington v. Hawkins",
     "number": "89369-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140508",
@@ -4454,6 +4583,7 @@
     "argument_day": "Thursday, May 8, 2014",
     "decision": "2014-08-07",
     "decision_day": "Thursday, August 7, 2014",
+    "citation": "181 Wn.2d 170 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/893691.pdf",
     "score": "9-0",
     "votes": [
@@ -4503,7 +4633,7 @@
     ]
   },
   {
-    "id": "2014-085",
+    "id": "2014-087",
     "title": "SentinelC3 v. Hunt",
     "number": "89317-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140508",
@@ -4512,6 +4642,7 @@
     "argument_day": "Thursday, May 8, 2014",
     "decision": "2014-07-31",
     "decision_day": "Thursday, July 31, 2014",
+    "citation": "181 Wn.2d 127 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/893179.pdf",
     "score": "9-0",
     "votes": [
@@ -4561,7 +4692,7 @@
     ]
   },
   {
-    "id": "2014-086",
+    "id": "2014-088",
     "title": "State of Washington v. Sykes",
     "number": "87946-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140513",
@@ -4570,6 +4701,7 @@
     "argument_day": "Tuesday, May 13, 2014",
     "decision": "2014-12-18",
     "decision_day": "Thursday, December 18, 2014",
+    "citation": "182 Wn.2d 168 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/879460.pdf",
     "score": "6-3",
     "votes": [
@@ -4619,7 +4751,7 @@
     ]
   },
   {
-    "id": "2014-087",
+    "id": "2014-089",
     "title": "State of Washington v. Gunderson",
     "number": "89297-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140513",
@@ -4628,6 +4760,7 @@
     "argument_day": "Tuesday, May 13, 2014",
     "decision": "2014-11-20",
     "decision_day": "Thursday, November 20, 2014",
+    "citation": "181 Wn.2d 916 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/892971.pdf",
     "score": "8-1",
     "votes": [
@@ -4677,7 +4810,7 @@
     ]
   },
   {
-    "id": "2014-088",
+    "id": "2014-090",
     "title": "In re Disciplinary Proceeding Against Hall",
     "number": "201,255-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140513",
@@ -4686,6 +4819,7 @@
     "argument_day": "Tuesday, May 13, 2014",
     "decision": "2014-07-10",
     "decision_day": "Thursday, July 10, 2014",
+    "citation": "180 Wn.2d 821 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/2012558.pdf",
     "score": "9-0",
     "votes": [
@@ -4735,7 +4869,7 @@
     ]
   },
   {
-    "id": "2014-089",
+    "id": "2014-091",
     "title": "Moore v. Health Care Auth.",
     "number": "89774-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140515",
@@ -4744,6 +4878,7 @@
     "argument_day": "Thursday, May 15, 2014",
     "decision": "2014-08-21",
     "decision_day": "Thursday, August 21, 2014",
+    "citation": "181 Wn.2d 299 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/897743.pdf",
     "score": "9-0",
     "votes": [
@@ -4793,7 +4928,7 @@
     ]
   },
   {
-    "id": "2014-090",
+    "id": "2014-092",
     "title": "State of Washington v. Davis",
     "number": "89448-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140515",
@@ -4802,6 +4937,7 @@
     "argument_day": "Thursday, May 15, 2014",
     "decision": "2014-12-24",
     "decision_day": "Wednesday, December 24, 2014",
+    "citation": "182 Wn.2d 222 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/894485.pdf",
     "score": "4-5",
     "votes": [
@@ -4851,7 +4987,7 @@
     ]
   },
   {
-    "id": "2014-091",
+    "id": "2014-093",
     "title": "Lyons v. U.S. Bank Nat'l Ass'n",
     "number": "89132-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140527",
@@ -4860,6 +4996,7 @@
     "argument_day": "Tuesday, May 27, 2014",
     "decision": "2014-10-30",
     "decision_day": "Thursday, October 30, 2014",
+    "citation": "181 Wn.2d 775 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/891320.pdf",
     "score": "9-0",
     "votes": [
@@ -4913,7 +5050,7 @@
     ]
   },
   {
-    "id": "2014-092",
+    "id": "2014-094",
     "title": "Becerra Becerra v. Expert Janitorial, LLC",
     "number": "89534-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140527",
@@ -4922,6 +5059,7 @@
     "argument_day": "Tuesday, May 27, 2014",
     "decision": "2014-08-07",
     "decision_day": "Thursday, August 7, 2014",
+    "citation": "181 Wn.2d 186 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/895341.pdf",
     "score": "9-0",
     "votes": [
@@ -4975,7 +5113,7 @@
     ]
   },
   {
-    "id": "2014-093",
+    "id": "2014-095",
     "title": "State of Washington v. Berg",
     "number": "89570-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140527",
@@ -4984,6 +5122,7 @@
     "argument_day": "Tuesday, May 27, 2014",
     "decision": "2014-11-13",
     "decision_day": "Thursday, November 13, 2014",
+    "citation": "181 Wn.2d 857 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/895708.pdf",
     "score": "9-0",
     "votes": [
@@ -5037,7 +5176,7 @@
     ]
   },
   {
-    "id": "2014-094",
+    "id": "2014-096",
     "title": "Cashmere Valley Bank v. Dep't of Revenue",
     "number": "89367-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140529",
@@ -5046,6 +5185,7 @@
     "argument_day": "Thursday, May 29, 2014",
     "decision": "2014-09-25",
     "decision_day": "Thursday, September 25, 2014",
+    "citation": "181 Wn.2d 622 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/893675.pdf",
     "score": "9-0",
     "votes": [
@@ -5099,7 +5239,7 @@
     ]
   },
   {
-    "id": "2014-095",
+    "id": "2014-097",
     "title": "State of Washington v. Quaale",
     "number": "89666-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140529",
@@ -5108,6 +5248,7 @@
     "argument_day": "Thursday, May 29, 2014",
     "decision": "2014-12-18",
     "decision_day": "Thursday, December 18, 2014",
+    "citation": "182 Wn.2d 191 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/896666.pdf",
     "score": "5-4",
     "votes": [
@@ -5161,7 +5302,7 @@
     ]
   },
   {
-    "id": "2014-096",
+    "id": "2014-098",
     "title": "Johnston-Forbes v. Matsunaga",
     "number": "89625-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140529",
@@ -5170,6 +5311,7 @@
     "argument_day": "Thursday, May 29, 2014",
     "decision": "2014-08-28",
     "decision_day": "Thursday, August 28, 2014",
+    "citation": "181 Wn.2d 346 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/896259.pdf",
     "score": "9-0",
     "votes": [
@@ -5223,7 +5365,7 @@
     ]
   },
   {
-    "id": "2014-097",
+    "id": "2014-099",
     "title": "State of Washington v. Williams",
     "number": "89318-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140610",
@@ -5232,6 +5374,7 @@
     "argument_day": "Tuesday, June 10, 2014",
     "decision": "2014-10-30",
     "decision_day": "Thursday, October 30, 2014",
+    "citation": "181 Wn.2d 795 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/893187.pdf",
     "score": "9-0",
     "votes": [
@@ -5285,7 +5428,7 @@
     ]
   },
   {
-    "id": "2014-098",
+    "id": "2014-100",
     "title": "City of Lakewood v. Koenig",
     "number": "89648-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140610",
@@ -5294,6 +5437,7 @@
     "argument_day": "Tuesday, June 10, 2014",
     "decision": "2014-12-11",
     "decision_day": "Thursday, December 11, 2014",
+    "citation": "182 Wn.2d 87 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/896488.pdf",
     "score": "5-4",
     "votes": [
@@ -5347,7 +5491,7 @@
     ]
   },
   {
-    "id": "2014-099",
+    "id": "2014-101",
     "title": "A.G., by and through his parents, J.G. and K.G., et al. v. Premera Blue Cross",
     "number": "88938-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140612",
@@ -5367,7 +5511,7 @@
     ]
   },
   {
-    "id": "2014-100",
+    "id": "2014-102",
     "title": "O.S.T. v. Regence BlueShield",
     "number": "88940-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140612",
@@ -5376,6 +5520,7 @@
     "argument_day": "Thursday, June 12, 2014",
     "decision": "2014-10-09",
     "decision_day": "Thursday, October 9, 2014",
+    "citation": "181 Wn.2d 691 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/889406.pdf",
     "score": "9-0",
     "votes": [
@@ -5429,7 +5574,7 @@
     ]
   },
   {
-    "id": "2014-101",
+    "id": "2014-103",
     "title": "Failla v. FixtureOne Corp.",
     "number": "89671-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140624",
@@ -5438,6 +5583,7 @@
     "argument_day": "Tuesday, June 24, 2014",
     "decision": "2014-10-02",
     "decision_day": "Thursday, October 2, 2014",
+    "citation": "181 Wn.2d 642 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/896712.pdf",
     "score": "8-1",
     "votes": [
@@ -5491,7 +5637,7 @@
     ]
   },
   {
-    "id": "2014-102",
+    "id": "2014-104",
     "title": "Anderson v. Dussault",
     "number": "89788-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140624",
@@ -5500,6 +5646,7 @@
     "argument_day": "Tuesday, June 24, 2014",
     "decision": "2014-09-04",
     "decision_day": "Thursday, September 4, 2014",
+    "citation": "181 Wn.2d 360 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/897883.pdf",
     "score": "9-0",
     "votes": [
@@ -5549,7 +5696,7 @@
     ]
   },
   {
-    "id": "2014-103",
+    "id": "2014-105",
     "title": "Sixty-01 Ass'n of Apt. Owners v. Parsons",
     "number": "89805-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140624",
@@ -5558,6 +5705,7 @@
     "argument_day": "Tuesday, June 24, 2014",
     "decision": "2014-08-21",
     "decision_day": "Thursday, August 21, 2014",
+    "citation": "181 Wn.2d 316 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/898057.pdf",
     "score": "9-0",
     "votes": [
@@ -5611,7 +5759,7 @@
     ]
   },
   {
-    "id": "2014-104",
+    "id": "2014-106",
     "title": "State of Washington v. McEnroe",
     "number": "89881-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140626",
@@ -5620,6 +5768,7 @@
     "argument_day": "Thursday, June 26, 2014",
     "decision": "2014-09-04",
     "decision_day": "Thursday, September 4, 2014",
+    "citation": "181 Wn.2d 375 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/898812.pdf",
     "score": "9-0",
     "votes": [
@@ -5673,7 +5822,7 @@
     ]
   },
   {
-    "id": "2014-105",
+    "id": "2014-107",
     "title": "In re Detention of D.W.",
     "number": "90110-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140626",
@@ -5682,6 +5831,7 @@
     "argument_day": "Thursday, June 26, 2014",
     "decision": "2014-08-07",
     "decision_day": "Thursday, August 7, 2014",
+    "citation": "181 Wn.2d 201 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/901104.pdf",
     "score": "9-0",
     "votes": [
@@ -5735,7 +5885,7 @@
     ]
   },
   {
-    "id": "2014-106",
+    "id": "2014-108",
     "title": "State of Washington v. A.G.S.",
     "number": "89689-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140626",
@@ -5744,6 +5894,7 @@
     "argument_day": "Thursday, June 26, 2014",
     "decision": "2014-12-31",
     "decision_day": "Wednesday, December 31, 2014",
+    "citation": "182 Wn.2d 273 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/896895.pdf",
     "score": "9-0",
     "votes": [
@@ -5798,7 +5949,7 @@
     ]
   },
   {
-    "id": "2014-107",
+    "id": "2014-109",
     "title": "State of Washington v. LEWIS",
     "number": "89920-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140911",
@@ -5818,7 +5969,7 @@
     ]
   },
   {
-    "id": "2014-108",
+    "id": "2014-110",
     "title": "In Re Disciplinary Proceeding Against Jones",
     "number": "201,256-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140916",
@@ -5827,6 +5978,7 @@
     "argument_day": "Tuesday, September 16, 2014",
     "decision": "2014-12-04",
     "decision_day": "Thursday, December 4, 2014",
+    "citation": "182 Wn.2d 17 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/2012566.pdf",
     "score": "9-0",
     "votes": [
@@ -5880,7 +6032,7 @@
     ]
   },
   {
-    "id": "2014-109",
+    "id": "2014-111",
     "title": "Grove v. Peacehealth St. Joseph Hosp.",
     "number": "89902-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140916",
@@ -5889,6 +6041,7 @@
     "argument_day": "Tuesday, September 16, 2014",
     "decision": "2014-12-11",
     "decision_day": "Thursday, December 11, 2014",
+    "citation": "182 Wn.2d 136 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/899029.pdf",
     "events": [
       {
@@ -5903,7 +6056,7 @@
     ]
   },
   {
-    "id": "2014-110",
+    "id": "2014-112",
     "title": "Moore v. Steve's Outboard Serv.",
     "number": "90115-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20141023",
@@ -5912,6 +6065,7 @@
     "argument_day": "Thursday, October 23, 2014",
     "decision": "2014-12-11",
     "decision_day": "Thursday, December 11, 2014",
+    "citation": "182 Wn.2d 151 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/901155.pdf",
     "score": "9-0",
     "votes": [
@@ -5965,7 +6119,7 @@
     ]
   },
   {
-    "id": "2014-111",
+    "id": "2014-113",
     "title": "State of Washington v. Andy",
     "number": "90567-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20141118",
@@ -5974,6 +6128,7 @@
     "argument_day": "Tuesday, November 18, 2014",
     "decision": "2014-12-31",
     "decision_day": "Wednesday, December 31, 2014",
+    "citation": "182 Wn.2d 294 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/905673.pdf",
     "score": "9-0",
     "votes": [
@@ -6027,155 +6182,174 @@
     ]
   },
   {
-    "id": "2014-112",
+    "id": "2014-114",
     "title": "In re Personal Restraint of Snively",
     "number": "84753-3",
     "decision": "2014-03-20",
     "decision_day": "Thursday, March 20, 2014",
+    "citation": "180 Wn.2d 28 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/847533.pdf"
   },
   {
-    "id": "2014-113",
+    "id": "2014-115",
     "title": "W.G. Clark Constr. Co. v. Pac. Nw. Reg'l Council of Carpenters",
     "number": "88080-8",
     "decision": "2014-03-20",
     "decision_day": "Thursday, March 20, 2014",
+    "citation": "180 Wn.2d 54 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/880808.pdf"
   },
   {
-    "id": "2014-114",
+    "id": "2014-116",
     "title": "In re Personal Restraint of Yates",
     "number": "87518-9",
     "decision": "2014-03-20",
     "decision_day": "Thursday, March 20, 2014",
+    "citation": "180 Wn.2d 33 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/875189.pdf"
   },
   {
-    "id": "2014-115",
+    "id": "2014-117",
     "title": "State of Washington v. Sweat",
     "number": "88663-6",
     "decision": "2014-04-03",
     "decision_day": "Thursday, April 3, 2014",
+    "citation": "180 Wn.2d 156 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/886636.pdf"
   },
   {
-    "id": "2014-116",
+    "id": "2014-118",
     "title": "State of Washington v. Kinnaman",
     "number": "89342-0",
     "decision": "2014-04-10",
     "decision_day": "Thursday, April 10, 2014",
+    "citation": "180 Wn.2d 197 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/893420.pdf"
   },
   {
-    "id": "2014-117",
+    "id": "2014-119",
     "title": "State of Washington v. Mendes",
     "number": "88945-7",
     "decision": "2014-04-10",
     "decision_day": "Thursday, April 10, 2014",
+    "citation": "180 Wn.2d 188 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/889457.pdf"
   },
   {
-    "id": "2014-118",
+    "id": "2014-120",
     "title": "In re Disciplinary Proceeding Against Jackson",
     "number": "201,017-2",
     "decision": "2014-04-17",
     "decision_day": "Thursday, April 17, 2014",
+    "citation": "180 Wn.2d 201 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/2010172.pdf"
   },
   {
-    "id": "2014-119",
+    "id": "2014-121",
     "title": "State of Washington v. Trochez-Jimenez",
     "number": "88577-0",
     "decision": "2014-05-08",
     "decision_day": "Thursday, May 8, 2014",
+    "citation": "180 Wn.2d 445 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/885770.pdf"
   },
   {
-    "id": "2014-120",
+    "id": "2014-122",
     "title": "State of Washington v. Olsen",
     "number": "89134-6",
     "decision": "2014-05-15",
     "decision_day": "Thursday, May 15, 2014",
+    "citation": "180 Wn.2d 468 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/891346.pdf"
   },
   {
-    "id": "2014-121",
+    "id": "2014-123",
     "title": "State of Washington v. Bauer",
     "number": "88559-1",
     "decision": "2014-07-17",
     "decision_day": "Thursday, July 17, 2014",
+    "citation": "180 Wn.2d 929 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/885591.pdf"
   },
   {
-    "id": "2014-122",
+    "id": "2014-124",
     "title": "State of Washington v. Homan",
     "number": "88339-4",
     "decision": "2014-07-31",
     "decision_day": "Thursday, July 31, 2014",
+    "citation": "181 Wn.2d 102 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/883394.pdf"
   },
   {
-    "id": "2014-123",
+    "id": "2014-125",
     "title": "Fannie Mae v. Steinman",
     "number": "90117-1",
     "decision": "2014-10-23",
     "decision_day": "Thursday, October 23, 2014",
+    "citation": "181 Wn.2d 753 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/901171.pdf"
   },
   {
-    "id": "2014-124",
+    "id": "2014-126",
     "title": "Scanlan v. Townsend",
     "number": "89853-7",
     "decision": "2014-11-06",
     "decision_day": "Thursday, November 6, 2014",
+    "citation": "181 Wn.2d 838 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/898537.pdf"
   },
   {
-    "id": "2014-125",
+    "id": "2014-127",
     "title": "State of Washington v. Graham",
     "number": "89869-3",
     "decision": "2014-11-13",
     "decision_day": "Thursday, November 13, 2014",
+    "citation": "181 Wn.2d 878 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/898693.pdf"
   },
   {
-    "id": "2014-126",
+    "id": "2014-128",
     "title": "State of Washington v. Jones",
     "number": "89302-1",
     "decision": "2014-11-26",
     "decision_day": "Wednesday, November 26, 2014",
+    "citation": "182 Wn.2d 1 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/893021.pdf"
   },
   {
-    "id": "2014-127",
+    "id": "2014-129",
     "title": "State of Washington v. Cobos",
     "number": "89900-2",
     "decision": "2014-11-26",
     "decision_day": "Wednesday, November 26, 2014",
+    "citation": "182 Wn.2d 12 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/899002.pdf"
   },
   {
-    "id": "2014-128",
+    "id": "2014-130",
     "title": "Powers v. WB Mobile Servs., Inc.",
     "number": "90133-3",
     "decision": "2014-12-11",
     "decision_day": "Thursday, December 11, 2014",
+    "citation": "182 Wn.2d 159 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/901333.pdf"
   },
   {
-    "id": "2014-129",
+    "id": "2014-131",
     "title": "In re Personal Restraint of McWilliams",
     "number": "88883-3",
     "decision": "2014-12-24",
     "decision_day": "Wednesday, December 24, 2014",
+    "citation": "182 Wn.2d 213 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/888833.pdf"
   },
   {
-    "id": "2014-130",
+    "id": "2014-132",
     "title": "Martin v. Dematic",
     "number": "89924-0",
     "decision": "2014-12-31",
     "decision_day": "Wednesday, December 31, 2014",
+    "citation": "182 Wn.2d 281 (2014)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/899240.pdf"
   }
 ]

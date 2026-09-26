@@ -1,11 +1,343 @@
 {
+  "1999-02-10": [
+    {
+      "type": "argument",
+      "id": "2000-002",
+      "term": "2000",
+      "number": "65681-9",
+      "title": "Staats v. Brown"
+    }
+  ],
+  "1999-02-25": [
+    {
+      "type": "argument",
+      "id": "2000-003",
+      "term": "2000",
+      "number": "66831-1",
+      "title": "Manufactured Housing Communities v. State of Washington"
+    }
+  ],
+  "1999-03-23": [
+    {
+      "type": "argument",
+      "id": "2000-004",
+      "term": "2000",
+      "number": "67019-6",
+      "title": "Drinkwitz v. Alliant Techsystems, Inc."
+    }
+  ],
+  "1999-03-24": [
+    {
+      "type": "argument",
+      "id": "2000-005",
+      "term": "2000",
+      "number": "66719-5",
+      "title": "State of Washington v. Perez-Cervantes"
+    }
+  ],
+  "1999-05-13": [
+    {
+      "type": "argument",
+      "id": "2000-006",
+      "term": "2000",
+      "number": "67075-7",
+      "title": "Open Door Baptist v. State of Washington"
+    }
+  ],
+  "1999-06-08": [
+    {
+      "type": "argument",
+      "id": "2000-007",
+      "term": "2000",
+      "number": "67694-1",
+      "title": "Weyerhaeuser Co. v. Commercial Union Insurance"
+    },
+    {
+      "type": "argument",
+      "id": "2000-008",
+      "term": "2000",
+      "number": "67105-2",
+      "title": "State of Washington v. Taylor"
+    }
+  ],
+  "1999-06-15": [
+    {
+      "type": "argument",
+      "id": "2000-009",
+      "term": "2000",
+      "number": "67365-9",
+      "title": "Roberts v. Dudley"
+    }
+  ],
+  "1999-06-24": [
+    {
+      "type": "argument",
+      "id": "2000-010",
+      "term": "2000",
+      "number": "67374-8",
+      "title": "Smith v. Bates Technical College"
+    },
+    {
+      "type": "argument",
+      "id": "2001-001",
+      "term": "2001",
+      "number": "67680-1",
+      "title": "Guardianship Estate of Keffeler v. Department of Social & Health Services"
+    }
+  ],
+  "1999-09-14": [
+    {
+      "type": "argument",
+      "id": "2000-011",
+      "term": "2000",
+      "number": "67454-0",
+      "title": "State of Washington v. Wadsworth"
+    },
+    {
+      "type": "argument",
+      "id": "2000-012",
+      "term": "2000",
+      "number": "67488-4",
+      "title": "City of Bellevue v. Lorang"
+    },
+    {
+      "type": "argument",
+      "id": "2000-013",
+      "term": "2000",
+      "number": "67529-5",
+      "title": "Shorewood West Condominium Ass'n v. Sadri"
+    },
+    {
+      "type": "argument",
+      "id": "2000-014",
+      "term": "2000",
+      "number": "67448-5",
+      "title": "Tunstall v. Bergeson"
+    }
+  ],
+  "1999-09-16": [
+    {
+      "type": "argument",
+      "id": "2000-015",
+      "term": "2000",
+      "number": "67602-0",
+      "title": "Tyner v. Department of Social & Health Services"
+    },
+    {
+      "type": "argument",
+      "id": "2000-016",
+      "term": "2000",
+      "number": "67533-3",
+      "title": "Clark County Public Utility District No. 1 v. Wilkinson"
+    },
+    {
+      "type": "argument",
+      "id": "2000-017",
+      "term": "2000",
+      "number": "67577-5",
+      "title": "State of Washington v. Haddock"
+    }
+  ],
+  "1999-09-21": [
+    {
+      "type": "argument",
+      "id": "2000-018",
+      "term": "2000",
+      "number": "67632-1",
+      "title": "Hubbard v. State of Washington"
+    },
+    {
+      "type": "argument",
+      "id": "2000-019",
+      "term": "2000",
+      "number": "67635-6",
+      "title": "Kent Farms, Inc. v. Zurich Insurance"
+    }
+  ],
+  "1999-09-23": [
+    {
+      "type": "argument",
+      "id": "2000-020",
+      "term": "2000",
+      "number": "67793-0",
+      "title": "In re Halgren"
+    },
+    {
+      "type": "argument",
+      "id": "2000-021",
+      "term": "2000",
+      "number": "67520-1",
+      "title": "Henrickson v. State of Washington"
+    },
+    {
+      "type": "argument",
+      "id": "2000-022",
+      "term": "2000",
+      "number": "67442-6",
+      "title": "Washington State Republican Party v. Public Disclosure Commission"
+    },
+    {
+      "type": "argument",
+      "id": "2000-023",
+      "term": "2000",
+      "number": "67805-7",
+      "title": "Lybbert v. Grant County"
+    }
+  ],
+  "1999-10-12": [
+    {
+      "type": "argument",
+      "id": "2000-024",
+      "term": "2000",
+      "number": "67470-1",
+      "title": "State of Washington v. Berry"
+    },
+    {
+      "type": "argument",
+      "id": "2000-025",
+      "term": "2000",
+      "number": "67409-4",
+      "title": "Trimble v. Washington State University"
+    },
+    {
+      "type": "argument",
+      "id": "2000-026",
+      "term": "2000",
+      "number": "67715-8",
+      "title": "Sundquist Homes, Inc. v. Snohomish County Public Utility District No. 1"
+    }
+  ],
+  "1999-10-14": [
+    {
+      "type": "argument",
+      "id": "2000-027",
+      "term": "2000",
+      "number": "67630-5",
+      "title": "Simpson Investment v. State of Washington"
+    }
+  ],
+  "1999-10-26": [
+    {
+      "type": "argument",
+      "id": "2000-028",
+      "term": "2000",
+      "number": "67796-4",
+      "title": "M.A. Mortenson Co. v. Timberline Software Corp."
+    },
+    {
+      "type": "argument",
+      "id": "2000-029",
+      "term": "2000",
+      "number": "67619-4",
+      "title": "Huff v. Budbill"
+    },
+    {
+      "type": "argument",
+      "id": "2000-030",
+      "term": "2000",
+      "number": "67519-8",
+      "title": "State of Washington v. Boeing"
+    }
+  ],
+  "1999-10-28": [
+    {
+      "type": "argument",
+      "id": "2000-031",
+      "term": "2000",
+      "number": "67658-5",
+      "title": "In re Addleman"
+    },
+    {
+      "type": "argument",
+      "id": "2000-032",
+      "term": "2000",
+      "number": "67996-7",
+      "title": "State of Washington v. Ross"
+    }
+  ],
   "1999-11-16": [
     {
       "type": "argument",
-      "id": "2000-001",
+      "id": "2000-033",
       "term": "2000",
       "number": "66876-1",
       "title": "State of Washington v. Baity"
+    },
+    {
+      "type": "argument",
+      "id": "2000-034",
+      "term": "2000",
+      "number": "66875-2",
+      "title": "State of Washington v. Arnestad"
+    },
+    {
+      "type": "argument",
+      "id": "2000-035",
+      "term": "2000",
+      "number": "67294-6",
+      "title": "Allen v. State of Washington"
+    },
+    {
+      "type": "argument",
+      "id": "2000-036",
+      "term": "2000",
+      "number": "67740-9",
+      "title": "Jones v. Sisters of Providence in Washington, Inc."
+    }
+  ],
+  "1999-11-18": [
+    {
+      "type": "argument",
+      "id": "2000-037",
+      "term": "2000",
+      "number": "68027-2",
+      "title": "Association of Rural Residents v. Kitsap County"
+    },
+    {
+      "type": "argument",
+      "id": "2000-038",
+      "term": "2000",
+      "number": "68060-4",
+      "title": "Hoffman v. Shield"
+    },
+    {
+      "type": "argument",
+      "id": "2000-039",
+      "term": "2000",
+      "number": "67126-5",
+      "title": "State of Washington v. Washington Education"
+    },
+    {
+      "type": "argument",
+      "id": "2000-040",
+      "term": "2000",
+      "number": "67785-9",
+      "title": "Wenatchee Sportsmen Ass'n v. Chelan County"
+    }
+  ],
+  "1999-12-07": [
+    {
+      "type": "argument",
+      "id": "2001-002",
+      "term": "2001",
+      "number": "65267-8",
+      "title": "State of Washington v. Clark"
+    }
+  ],
+  "1999-12-09": [
+    {
+      "type": "argument",
+      "id": "2000-041",
+      "term": "2000",
+      "number": "67736-1",
+      "title": "State of Washington v. Fernandez-Medina"
+    },
+    {
+      "type": "argument",
+      "id": "2000-042",
+      "term": "2000",
+      "number": "67402-7",
+      "title": "Haley v. Highland"
     }
   ]
 }

@@ -1,7 +1,73 @@
 [
   {
     "id": "2007-001",
-    "title": "State of Washington v. Bowman",
+    "title": "State of Washington v. Base",
+    "number": "76081-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050324",
+    "argument": "2005-03-24",
+    "argument_day": "Thursday, March 24, 2005",
+    "decision": "2007-01-25",
+    "decision_day": "Thursday, January 25, 2007",
+    "citation": "159 Wn.2d 459 (2007)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-03-24",
+        "title": "Oral Argument on Thursday, March 24, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005031122/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200503/2005030007C.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005031122/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2007-002",
+    "title": "State of Washington v. Metcalf",
+    "number": "76077-2",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050324",
+    "argument": "2005-03-24",
+    "argument_day": "Thursday, March 24, 2005",
+    "decision": "2007-01-25",
+    "decision_day": "Thursday, January 25, 2007",
+    "citation": "159 Wn.2d 459 (2007)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-03-24",
+        "title": "Oral Argument on Thursday, March 24, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005031122/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200503/2005030007C.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005031122/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2007-003",
+    "title": "State of Washington v. Butters",
+    "number": "75989-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050324",
+    "argument": "2005-03-24",
+    "argument_day": "Thursday, March 24, 2005",
+    "decision": "2007-01-25",
+    "decision_day": "Thursday, January 25, 2007",
+    "citation": "159 Wn.2d 459 (2007)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-03-24",
+        "title": "Oral Argument on Thursday, March 24, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005031122/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200503/2005030007C.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005031122/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2007-004",
+    "title": "State of Washington v. Surge",
     "number": "76013-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050526",
     "questions": "Does the compulsory collection of DNA samples from persons convicted of felonies constitute an unreasonable search barred by the Fourth Amendment?",
@@ -9,6 +75,7 @@
     "argument_day": "Thursday, May 26, 2005",
     "decision": "2007-04-19",
     "decision_day": "Thursday, April 19, 2007",
+    "citation": "160 Wn.2d 65 (2007)",
     "bench": "alexander3",
     "score": "7-2",
     "votes": [
@@ -63,8 +130,8 @@
     ]
   },
   {
-    "id": "2007-002",
-    "title": "Arturo Alejandre and Norma Alejandre, husband and wife, Respondents, v. Mary M. Bull, a single person, Petitioner",
+    "id": "2007-005",
+    "title": "Alejandre v. Bull",
     "number": "76274-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050929",
     "facts": "Respondent Arturo Alejandre and his wife Norma purchased a home from respondent Mary Bull. After the Alejandres subsequently discovered that the home’s septic system was defective, they filed suit against Bull in the Superior Court for Walla Walla County, claiming fraudulent and negligent misrepresentation. The trial court granted summary judgment for Bull, ruling that the Alejandres’ claims are barred by the economic loss rule, which bars recovery for breaches of tort duties where a contractual relationship exists between the parties and the losses are economic losses. Upon appeal, the Washington Court of Appeals reversed and remanded the case for trial, holding that the economic loss rule is inapplicable insofar as the contract between Bull and the Alejandres did not allocate risk for fraudulent or negligent misrepresentation. Bull appealed this decision to the Supreme Court of Washington.",
@@ -74,6 +141,7 @@
     "argument_day": "Thursday, September 29, 2005",
     "decision": "2007-03-01",
     "decision_day": "Thursday, March 1, 2007",
+    "citation": "159 Wn.2d 674 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "9-0",
@@ -130,7 +198,7 @@
     ]
   },
   {
-    "id": "2007-003",
+    "id": "2007-006",
     "title": "State of Washington v. Smith",
     "number": "76433-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050929",
@@ -141,6 +209,7 @@
     "argument_day": "Thursday, September 29, 2005",
     "decision": "2007-03-15",
     "decision_day": "Thursday, March 15, 2007",
+    "citation": "159 Wn.2d 778 (2007)",
     "bench": "alexander3",
     "score": "5-4",
     "votes": [
@@ -195,8 +264,8 @@
     ]
   },
   {
-    "id": "2007-004",
-    "title": "Public Utility District No. 2 of Grant County, Washington, a municipal corporation, Respondent, v. North American Foreign Trade Zone Industries , a Washington limited liability company, PACIFIC Northwest Bank, a Washington banking corporation, Petitioners",
+    "id": "2007-007",
+    "title": "Public Utility District No. 2 v. North American Foreign Trade Zone Industries, LLC",
     "number": "76755-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050929",
     "facts": "After failing to reach an agreement with petitioner North American Foreign Trade Zone Industries, L.L.C. to purchase land that it was leasing, the respondent Public Utility District #2 of Grant County decided to acquire the property by condemnation. The Public Utility District subsequently petitioned the Superior Court for Grant County to condemn the property. The superior court condemned the property, ruling that the Public Utility District had complied with the statutory notice requirements for the initiation of an eminent domain action and had established public use and necessity. Upon appeal, the Washington Court of Appeals affirmed. North American Foreign Trade Zone Industries appealed this decision to the Supreme Court of Washington.",
@@ -206,6 +275,7 @@
     "argument_day": "Thursday, September 29, 2005",
     "decision": "2007-02-01",
     "decision_day": "Thursday, February 1, 2007",
+    "citation": "159 Wn.2d 555 (2007)",
     "bench": "alexander3",
     "score": "5-4",
     "votes": [
@@ -259,7 +329,7 @@
     ]
   },
   {
-    "id": "2007-005",
+    "id": "2007-008",
     "title": "State of Washington v. Young",
     "number": "76533-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051011",
@@ -323,7 +393,7 @@
     ]
   },
   {
-    "id": "2007-006",
+    "id": "2007-009",
     "title": "State of Washington v. Pillatos",
     "number": "75984-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051025",
@@ -334,6 +404,7 @@
     "argument_day": "Tuesday, October 25, 2005",
     "decision": "2007-01-25",
     "decision_day": "Thursday, January 25, 2007",
+    "citation": "159 Wn.2d 459 (2007)",
     "bench": "alexander3",
     "score": "9-0",
     "votes": [
@@ -388,8 +459,8 @@
     ]
   },
   {
-    "id": "2007-007",
-    "title": "Chuong Van Pham, an individual, and Heliodoro Lara, an individual, Respondents, v. The City of Seattle, Seattle City Light, Petitioner",
+    "id": "2007-010",
+    "title": "Chuong Van Pham v. Seattle City Light",
     "number": "76595-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051109",
     "questions": "City of Seattle discriminated against Pham and Lara. Are they entitled to a supplemental judgment to offset the federal income tax consequences of emotional distress damages awarded by the jury?",
@@ -397,6 +468,7 @@
     "argument_day": "Wednesday, November 9, 2005",
     "decision": "2007-02-01",
     "decision_day": "Thursday, February 1, 2007",
+    "citation": "159 Wn.2d 527 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "6-3",
@@ -453,8 +525,8 @@
     ]
   },
   {
-    "id": "2007-008",
-    "title": "Tami Davis, as personal representative of the Estate of Alan Davis, deceased; and as trustee for Tami Davis and Melissa Davis for the wrongful death of their father, Alan Davis, Appellant, v. Baugh Industrial Contractors , a Washington corporation; E.J. Rody & Sons , a Washington corporation; Gray & Osborne, Inc.; Selpeco Resources , and Selpeco Resources A Knight Piesold Company, Washington corporations; Tucci & Sons , a Washington corporation; Taiheiyo Cement Corporation and Taiheiyo Cement U.S.A. , foreign corporations; Weyerhaeuser Company, and Weyerhaeuser Real Estate Company, Washington corporations; and “Unknown Business Entities I-X,” jointly and severally, Respondents",
+    "id": "2007-011",
+    "title": "Davis v. Baugh Industrial Contractors, Inc.",
     "number": "76696-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051109",
     "questions": "Under the common-law rule of completion and acceptance a contractor’s liability for negligent acts is extinguished when construction work has been completed and accepted by the owner. The Court must decide whether to recognize a new exception to the rule.",
@@ -462,6 +534,7 @@
     "argument_day": "Wednesday, November 9, 2005",
     "decision": "2007-01-18",
     "decision_day": "Thursday, January 18, 2007",
+    "citation": "159 Wn.2d 413 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "6-3",
@@ -518,8 +591,8 @@
     ]
   },
   {
-    "id": "2007-009",
-    "title": "Silverstreak, Inc. v. Department of Labor and Industries",
+    "id": "2007-012",
+    "title": "Silverstreak, Inc. v. Department of Labor & Industries",
     "number": "76695-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060124",
     "facts": "Respondent fill material suppliers Silverstreak et al. sought judicial review of petitioner Washington Department of Labor and Industries (Department) decision that their end-up truck drivers were entitled to prevailing wages under Wash. Rev. Code §39.12.020. The Superior Court for King County entered a judgment upholding the administrative action, and Silverstreak et al subsequently appealed. The Washington Court of Appeals reversed the trial court, granted judgment in favor of Silverstreak et al, and remanded the case for further proceedings, holding that the drivers did not qualify to be paid the statutory prevailing wages because their activities at the work site did not involve incorporating the delivered material into the Sea-Tac Third Runway Embankment Project in a fashion similar to spreading, leveling, or rolling. The Supreme Court of Washington granted the Department’s petition for review.",
@@ -585,7 +658,7 @@
     ]
   },
   {
-    "id": "2007-010",
+    "id": "2007-013",
     "title": "State of Washington v. Athan",
     "number": "75312-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060126",
@@ -596,6 +669,7 @@
     "argument_day": "Thursday, January 26, 2006",
     "decision": "2007-04-19",
     "decision_day": "Thursday, April 19, 2007",
+    "citation": "160 Wn.2d 354 (2007)",
     "bench": "alexander3",
     "score": "6-3",
     "votes": [
@@ -651,7 +725,7 @@
     ]
   },
   {
-    "id": "2007-011",
+    "id": "2007-014",
     "title": "State of Washington v. Jorden",
     "number": "76800-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060126",
@@ -662,6 +736,7 @@
     "argument_day": "Thursday, January 26, 2006",
     "decision": "2007-04-26",
     "decision_day": "Thursday, April 26, 2007",
+    "citation": "160 Wn.2d 121 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "7-2",
@@ -718,7 +793,7 @@
     ]
   },
   {
-    "id": "2007-012",
+    "id": "2007-015",
     "title": "State of Washington v. Kirkman",
     "number": "76833-1; 77596-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060207",
@@ -786,7 +861,7 @@
     ]
   },
   {
-    "id": "2007-013",
+    "id": "2007-016",
     "title": "Swinomish Indian Tribal Community v. Western Washington Growth Management Hearings Board",
     "number": "76339-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060207",
@@ -797,6 +872,7 @@
     "argument_day": "Tuesday, February 7, 2006",
     "decision": "2007-09-13",
     "decision_day": "Thursday, September 13, 2007",
+    "citation": "161 Wn.2d 415 (2007)",
     "bench": "alexander3",
     "score": "8-1",
     "votes": [
@@ -852,7 +928,7 @@
     ]
   },
   {
-    "id": "2007-014",
+    "id": "2007-017",
     "title": "Scott v. Cingular Wireless",
     "number": "77406-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060228",
@@ -863,6 +939,7 @@
     "argument_day": "Tuesday, February 28, 2006",
     "decision": "2007-07-12",
     "decision_day": "Thursday, July 12, 2007",
+    "citation": "160 Wn.2d 843 (2007)",
     "result": "petitioning party received a favorable disposition",
     "score": "6-3",
     "votes": [
@@ -918,8 +995,8 @@
     ]
   },
   {
-    "id": "2007-015",
-    "title": "Dix v. I.C.T. Group, Inc.",
+    "id": "2007-018",
+    "title": "Dix v. ICT Group, Inc.",
     "number": "77101-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060228",
     "facts": "Respondent Suzy Dix and other subscribers to America Online’s internet service filed a class action in the state of Washington against I.C.T. Group, Inc., asserting that I.C.T. Group, which is responsible for handling customer service inquiries for America Online, engaged in deceptive practices in violation of Washington’s Consumer Protection Act (Washington Revised Code §19.86). The trial court dismissed the class action on grounds that the forum selection clause in America Online’s service agreement requires that any claims arising from customers’ use of the service be brought in Virginia. Upon appeal, the Washington Court of Appeals reversed, holding that the forum selection clause is unenforceable insofar as the selected forum of Virginia does not permit class actions, rendering the forum selection clause contrary to the public policy underlying the Consumer Protection Act. I.C.T. Group appealed this decision to the Supreme Court of Washington.",
@@ -929,6 +1006,7 @@
     "argument_day": "Tuesday, February 28, 2006",
     "decision": "2007-07-12",
     "decision_day": "Thursday, July 12, 2007",
+    "citation": "160 Wn.2d 826 (2007)",
     "bench": "alexander3",
     "score": "9-0",
     "votes": [
@@ -984,7 +1062,7 @@
     ]
   },
   {
-    "id": "2007-016",
+    "id": "2007-019",
     "title": "State of Washington v. Eckenrode",
     "number": "76100-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060314",
@@ -995,6 +1073,7 @@
     "argument_day": "Tuesday, March 14, 2006",
     "decision": "2007-01-25",
     "decision_day": "Thursday, January 25, 2007",
+    "citation": "159 Wn.2d 488 (2007)",
     "bench": "alexander3",
     "score": "9-0",
     "votes": [
@@ -1050,7 +1129,7 @@
     ]
   },
   {
-    "id": "2007-017",
+    "id": "2007-020",
     "title": "State of Washington v. O'Neal",
     "number": "76950-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060314",
@@ -1061,6 +1140,7 @@
     "argument_day": "Tuesday, March 14, 2006",
     "decision": "2007-01-25",
     "decision_day": "Thursday, January 25, 2007",
+    "citation": "159 Wn.2d 500 (2007)",
     "bench": "alexander3",
     "score": "7-2",
     "votes": [
@@ -1116,7 +1196,7 @@
     ]
   },
   {
-    "id": "2007-018",
+    "id": "2007-021",
     "title": "Biggers v. Bainbridge Island",
     "number": "77150-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060316",
@@ -1127,6 +1207,7 @@
     "argument_day": "Thursday, March 16, 2006",
     "decision": "2007-10-11",
     "decision_day": "Thursday, October 11, 2007",
+    "citation": "162 Wn.2d 683 (2007)",
     "bench": "alexander3",
     "score": "5-4",
     "votes": [
@@ -1182,7 +1263,7 @@
     ]
   },
   {
-    "id": "2007-019",
+    "id": "2007-022",
     "title": "Lindeman v. Kelso School District #458",
     "number": "77253-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060316",
@@ -1193,6 +1274,7 @@
     "argument_day": "Thursday, March 16, 2006",
     "decision": "2007-11-15",
     "decision_day": "Thursday, November 15, 2007",
+    "citation": "162 Wn.2d 196 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "7-2",
@@ -1249,7 +1331,7 @@
     ]
   },
   {
-    "id": "2007-020",
+    "id": "2007-023",
     "title": "Valley, L.L.C. v. Stewart",
     "number": "77570-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060509",
@@ -1260,6 +1342,7 @@
     "argument_day": "Tuesday, May 9, 2006",
     "decision": "2007-03-01",
     "decision_day": "Thursday, March 1, 2007",
+    "citation": "159 Wn.2d 736 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "6-3",
@@ -1315,7 +1398,7 @@
     ]
   },
   {
-    "id": "2007-021",
+    "id": "2007-024",
     "title": "Pasco v. Shaw",
     "number": "77195-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060509",
@@ -1326,6 +1409,7 @@
     "argument_day": "Tuesday, May 9, 2006",
     "decision": "2007-09-13",
     "decision_day": "Thursday, September 13, 2007",
+    "citation": "161 Wn.2d 450 (2007)",
     "bench": "alexander3",
     "score": "7-2",
     "votes": [
@@ -1380,8 +1464,8 @@
     ]
   },
   {
-    "id": "2007-022",
-    "title": "Bank of America v. Wells Fargo Bank",
+    "id": "2007-025",
+    "title": "Bank of America v. Prestance Corp.",
     "number": "77038-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060509",
     "facts": "Sakae and Yuko Sugihara received a home loan from Washington Mutual secured with a deed of trust on the property. The Sugiharas subsequently also took out a business loan with respondent Bank of America that was secured in part with the deed of trust on their home and a home equity loan with petitioner Wells Fargo Bank that paid off the Washington Mutual home loan. After the Sugiharas defaulted on the Bank of America business loan, Bank of America filed suit against the Sugiharas, seeking foreclosure to remedy the default. The superior court ruled that, under the doctrine of equitable subrogation, Wells Fargo Bank succeeded to the rights of Washington Mutual and therefore succeeded to its first priority lien. Upon appeal, the Washington Court of Appeals reversed the superior court’s ruling, holding that the application of equitable subrogation is barred by the fact that Wells Fargo Bank’s had actual knowledge of Bank of America’s lien on the home at the time that it approved the home equity loan. Wells Fargo Bank appealed this decision to the Supreme Court of Washington.",
@@ -1391,6 +1475,7 @@
     "argument_day": "Tuesday, May 9, 2006",
     "decision": "2007-06-07",
     "decision_day": "Thursday, June 7, 2007",
+    "citation": "160 Wn.2d 560 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "6-3",
@@ -1446,7 +1531,7 @@
     ]
   },
   {
-    "id": "2007-023",
+    "id": "2007-026",
     "title": "Bostain v. Food Express, Inc.",
     "number": "77201-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060518",
@@ -1513,7 +1598,7 @@
     ]
   },
   {
-    "id": "2007-024",
+    "id": "2007-027",
     "title": "State of Washington v. Moore",
     "number": "77484-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060518",
@@ -1524,6 +1609,7 @@
     "argument_day": "Thursday, May 18, 2006",
     "decision": "2007-10-11",
     "decision_day": "Thursday, October 11, 2007",
+    "citation": "161 Wn.2d 880 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "6-3",
@@ -1579,7 +1665,7 @@
     ]
   },
   {
-    "id": "2007-025",
+    "id": "2007-028",
     "title": "Morin v. Burris",
     "number": "77291-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060518",
@@ -1646,7 +1732,7 @@
     ]
   },
   {
-    "id": "2007-026",
+    "id": "2007-029",
     "title": "Okeson v. Seattle",
     "number": "77888-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060523",
@@ -1713,7 +1799,7 @@
     ]
   },
   {
-    "id": "2007-027",
+    "id": "2007-030",
     "title": "Little v. King",
     "number": "77560-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060523",
@@ -1780,8 +1866,8 @@
     ]
   },
   {
-    "id": "2007-028",
-    "title": "Colorado Structures, Inc. v. Insurance Company of the West",
+    "id": "2007-031",
+    "title": "Colorado Structures, Inc. v. Insurance Co. of the West",
     "number": "76973-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060523",
     "facts": "Respondent Colorado Structures, Inc. subcontracted with Action Excavating and Paving, Inc. to build the sewer system for a Wal-Mart store being constructed by Colorado Structures. When Action Excavating and Paving failed to timely complete its work, Colorado Structures supplemented its crews to minimize cost and delay. Colorado Structures subsequently filed suit against petitioner Insurance Company of the West, Action Excavating and Paving’s surety, in the Superior Court for Clark County in an effort to recover on the performance bond guaranteeing Action Excavating and Paving’s work. The trial court ruled that Insurance Company of the West is liable on the performance bond despite the fact that Colorado Structures had not formally declared Action Excavating and Paving to be in default. However, the trial court declined to award attorney fees to Colorado Structures. Upon appeal, the Washington Court of Appeals affirmed in part and reversed in part, holding that Insurance Company of the West is liable on the performance bond and that Colorado Structures is also entitled to attorney fees. Insurance Company of the West appealed this decision to the Supreme Court of Washington.",
@@ -1791,6 +1877,7 @@
     "argument_day": "Tuesday, May 23, 2006",
     "decision": "2007-09-20",
     "decision_day": "Thursday, September 20, 2007",
+    "citation": "161 Wn.2d 577 (2007)",
     "bench": "alexander3",
     "score": "8-1",
     "votes": [
@@ -1845,7 +1932,7 @@
     ]
   },
   {
-    "id": "2007-029",
+    "id": "2007-032",
     "title": "Voters Education Committee v. Public Disclosure Commission",
     "number": "77724-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060525",
@@ -1911,7 +1998,7 @@
     ]
   },
   {
-    "id": "2007-030",
+    "id": "2007-033",
     "title": "San Juan County v. No New Gas Tax",
     "number": "77966-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060608",
@@ -1922,6 +2009,7 @@
     "argument_day": "Thursday, June 8, 2006",
     "decision": "2007-04-26",
     "decision_day": "Thursday, April 26, 2007",
+    "citation": "160 Wn.2d 141 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "9-0",
@@ -1977,7 +2065,7 @@
     ]
   },
   {
-    "id": "2007-031",
+    "id": "2007-034",
     "title": "In re Detention of Stout",
     "number": "77369-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060608",
@@ -1988,6 +2076,7 @@
     "argument_day": "Thursday, June 8, 2006",
     "decision": "2007-01-04",
     "decision_day": "Thursday, January 4, 2007",
+    "citation": "159 Wn.2d 357 (2007)",
     "bench": "alexander3",
     "score": "8-1",
     "votes": [
@@ -2042,7 +2131,7 @@
     ]
   },
   {
-    "id": "2007-032",
+    "id": "2007-035",
     "title": "Sanders v. Seattle",
     "number": "78579-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060613",
@@ -2108,7 +2197,7 @@
     ]
   },
   {
-    "id": "2007-033",
+    "id": "2007-036",
     "title": "Medina v. Primm",
     "number": "78575-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060613",
@@ -2119,6 +2208,7 @@
     "argument_day": "Tuesday, June 13, 2006",
     "decision": "2007-05-03",
     "decision_day": "Thursday, May 3, 2007",
+    "citation": "160 Wn.2d 268 (2007)",
     "bench": "alexander3",
     "score": "6-3",
     "votes": [
@@ -2173,7 +2263,7 @@
     ]
   },
   {
-    "id": "2007-034",
+    "id": "2007-037",
     "title": "Ford Motor Company v. Seattle",
     "number": "77167-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060615",
@@ -2184,6 +2274,7 @@
     "argument_day": "Thursday, June 15, 2006",
     "decision": "2007-04-12",
     "decision_day": "Thursday, April 12, 2007",
+    "citation": "160 Wn.2d 32 (2007)",
     "bench": "alexander3",
     "score": "5-4",
     "votes": [
@@ -2238,7 +2329,7 @@
     ]
   },
   {
-    "id": "2007-035",
+    "id": "2007-038",
     "title": "Madison v. State of Washington",
     "number": "78598-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060627",
@@ -2304,7 +2395,7 @@
     ]
   },
   {
-    "id": "2007-036",
+    "id": "2007-039",
     "title": "Rickert v. Public Disclosure Commission",
     "number": "77769-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060629",
@@ -2315,6 +2406,7 @@
     "argument_day": "Thursday, June 29, 2006",
     "decision": "2007-10-04",
     "decision_day": "Thursday, October 4, 2007",
+    "citation": "161 Wn.2d 843 (2007)",
     "bench": "alexander3",
     "score": "5-4",
     "votes": [
@@ -2369,7 +2461,7 @@
     ]
   },
   {
-    "id": "2007-037",
+    "id": "2007-040",
     "title": "State of Washington v. Stockwell",
     "number": "77693-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060629",
@@ -2435,7 +2527,7 @@
     ]
   },
   {
-    "id": "2007-038",
+    "id": "2007-041",
     "title": "Soltero v. Wimer",
     "number": "77548-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060912",
@@ -2446,6 +2538,7 @@
     "argument_day": "Tuesday, September 12, 2006",
     "decision": "2007-01-18",
     "decision_day": "Thursday, January 18, 2007",
+    "citation": "159 Wn.2d 428 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "9-0",
@@ -2501,7 +2594,7 @@
     ]
   },
   {
-    "id": "2007-039",
+    "id": "2007-042",
     "title": "Sleasman v. Lacey",
     "number": "77590-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060912",
@@ -2568,8 +2661,8 @@
     ]
   },
   {
-    "id": "2007-040",
-    "title": "Woo v. Fireman's Fund Insurance Company",
+    "id": "2007-043",
+    "title": "Woo v. Fireman's Fund Insurance",
     "number": "77684-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060912",
     "facts": "Tina Alberts filed suit against her oral surgeon, respondent Robert Woo, after Woo inserted imitation boar tusks in Alberts’ mouth and photographed her while she was under anesthesia during a dental procedure. Although Woo maintained a liability insurance policy with respondent Fireman’s Fund Insurance Company, Fireman’s Fund Insurance Company refused to defend Woo on grounds that the conduct that gave rise to Alberts’ lawsuit did not occur in the course of the provision of dental services. After Woo reached a settlement agreement with Alberts, he filed suit against Fireman’s Fund Insurance Company, asserting that it breached its duty to defend him under the policy. The jury returned a verdict for Woo. Upon appeal, the Washington Court of Appeals reversed, holding that Fireman’s Fund Insurance Company did not have a duty to defend Woo against Alberts’ lawsuit. Woo appealed this decision to the Supreme Court of Washington.",
@@ -2579,6 +2672,7 @@
     "argument_day": "Tuesday, September 12, 2006",
     "decision": "2007-07-26",
     "decision_day": "Thursday, July 26, 2007",
+    "citation": "161 Wn.2d 43 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "5-4",
@@ -2634,7 +2728,7 @@
     ]
   },
   {
-    "id": "2007-041",
+    "id": "2007-044",
     "title": "State of Washington v. Brown",
     "number": "77885-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060914",
@@ -2645,6 +2739,7 @@
     "argument_day": "Thursday, September 14, 2006",
     "decision": "2007-12-13",
     "decision_day": "Thursday, December 13, 2007",
+    "citation": "162 Wn.2d 422 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "5-4",
@@ -2700,7 +2795,7 @@
     ]
   },
   {
-    "id": "2007-042",
+    "id": "2007-045",
     "title": "In re disciplinary proceeding against Marshall",
     "number": "302-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060914",
@@ -2761,7 +2856,7 @@
     ]
   },
   {
-    "id": "2007-043",
+    "id": "2007-046",
     "title": "In re Marshall",
     "number": "200,302-8",
     "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060914",
@@ -2769,6 +2864,7 @@
     "argument_day": "Thursday, September 14, 2006",
     "decision": "2007-05-10",
     "decision_day": "Thursday, May 10, 2007",
+    "citation": "160 Wn.2d 317 (2007)",
     "score": "6-3",
     "votes": [
       {
@@ -2810,7 +2906,7 @@
     ]
   },
   {
-    "id": "2007-044",
+    "id": "2007-047",
     "title": "Tingey v. Haisch",
     "number": "77689-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060919",
@@ -2877,7 +2973,7 @@
     ]
   },
   {
-    "id": "2007-045",
+    "id": "2007-048",
     "title": "In re disciplinary proceeding against Dornay",
     "number": "200,315-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060919",
@@ -2943,7 +3039,7 @@
     ]
   },
   {
-    "id": "2007-046",
+    "id": "2007-049",
     "title": "State of Washington v. Thiefault",
     "number": "77753-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060921",
@@ -2954,6 +3050,7 @@
     "argument_day": "Thursday, September 21, 2006",
     "decision": "2007-05-17",
     "decision_day": "Thursday, May 17, 2007",
+    "citation": "160 Wn.2d 409 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "9-0",
@@ -3009,7 +3106,7 @@
     ]
   },
   {
-    "id": "2007-047",
+    "id": "2007-050",
     "title": "State of Washington v. Chenoweth",
     "number": "77615-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060921",
@@ -3075,7 +3172,7 @@
     ]
   },
   {
-    "id": "2007-048",
+    "id": "2007-051",
     "title": "Seto v. American Elevator, Inc.",
     "number": "77751-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060921",
@@ -3086,6 +3183,7 @@
     "argument_day": "Thursday, September 21, 2006",
     "decision": "2007-03-08",
     "decision_day": "Thursday, March 8, 2007",
+    "citation": "159 Wn.2d 767 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "9-0",
@@ -3141,7 +3239,7 @@
     ]
   },
   {
-    "id": "2007-049",
+    "id": "2007-052",
     "title": "State of Washington v. Kronich",
     "number": "78428-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061017",
@@ -3152,6 +3250,7 @@
     "argument_day": "Tuesday, October 17, 2006",
     "decision": "2007-07-12",
     "decision_day": "Thursday, July 12, 2007",
+    "citation": "160 Wn.2d 893 (2007)",
     "bench": "alexander3",
     "score": "8-1",
     "votes": [
@@ -3207,7 +3306,7 @@
     ]
   },
   {
-    "id": "2007-050",
+    "id": "2007-053",
     "title": "State of Washington v. Coleman",
     "number": "77706-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061017",
@@ -3218,6 +3317,7 @@
     "argument_day": "Tuesday, October 17, 2006",
     "decision": "2007-01-25",
     "decision_day": "Thursday, January 25, 2007",
+    "citation": "159 Wn.2d 509 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "9-0",
@@ -3274,7 +3374,7 @@
     ]
   },
   {
-    "id": "2007-051",
+    "id": "2007-054",
     "title": "State of Washington v. Kirkpatrick",
     "number": "77719-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061017",
@@ -3285,6 +3385,7 @@
     "argument_day": "Tuesday, October 17, 2006",
     "decision": "2007-07-12",
     "decision_day": "Thursday, July 12, 2007",
+    "citation": "160 Wn.2d 873 (2007)",
     "bench": "alexander3",
     "score": "9-0",
     "votes": [
@@ -3340,7 +3441,7 @@
     ]
   },
   {
-    "id": "2007-052",
+    "id": "2007-055",
     "title": "State of Washington v. Evans",
     "number": "77700-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061019",
@@ -3351,6 +3452,7 @@
     "argument_day": "Thursday, October 19, 2006",
     "decision": "2007-01-11",
     "decision_day": "Thursday, January 11, 2007",
+    "citation": "159 Wn.2d 402 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "9-0",
@@ -3406,7 +3508,7 @@
     ]
   },
   {
-    "id": "2007-053",
+    "id": "2007-056",
     "title": "Nelson v. Appleway Chevrolet, Inc.",
     "number": "77985-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061019",
@@ -3417,6 +3519,7 @@
     "argument_day": "Thursday, October 19, 2006",
     "decision": "2007-04-26",
     "decision_day": "Thursday, April 26, 2007",
+    "citation": "160 Wn.2d 173 (2007)",
     "bench": "alexander3",
     "score": "6-3",
     "votes": [
@@ -3472,7 +3575,7 @@
     ]
   },
   {
-    "id": "2007-054",
+    "id": "2007-057",
     "title": "State of Washington v. Watt",
     "number": "77281-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061019",
@@ -3483,6 +3586,7 @@
     "argument_day": "Thursday, October 19, 2006",
     "decision": "2007-06-14",
     "decision_day": "Thursday, June 14, 2007",
+    "citation": "160 Wn.2d 626 (2007)",
     "bench": "alexander3",
     "score": "9-0",
     "votes": [
@@ -3538,8 +3642,8 @@
     ]
   },
   {
-    "id": "2007-055",
-    "title": "United Collection Service, Inc. v. Shepherd",
+    "id": "2007-058",
+    "title": "American Discount Corp. v. Shepherd",
     "number": "77974-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061024",
     "facts": "American Discount Corporation assigned a judgment obtained against respondent Austin Shepherd and his wife Joy in 1986 to petitioner United Collection Service, Inc., which in 1996 obtained an order extending the judgment for ten years pursuant to Washington Revised Code §6.17.020. After United Collection Service subsequently moved to appoint an appraiser for the Shepherds’ real property upon which an execution had been levied, Shepherd moved to set aside the order extending the judgment as void. Shepherd cited J.D. Tan, L.L.C. v. Summers, in which the Washington Court of Appeals held that, prior to its 2002 amendment, §6.17.020 only authorized original creditors to obtain orders extending judgments. The superior court denied Shepherd’s motion and appointed an appraiser. Upon appeal, the Washington Court of Appeals reversed, ruling that as the version of §6.17.020 in effect in 1996 only authorized original creditors to obtain orders extending judgments, the judgment against Shepherd expired in 1996 after the ten year limit on judgment enforceability established by Washington Revised Code §4.56.210 expired. United Collection Service appealed this decision to the Supreme Court of Washington.",
@@ -3549,6 +3653,7 @@
     "argument_day": "Tuesday, October 24, 2006",
     "decision": "2007-04-19",
     "decision_day": "Thursday, April 19, 2007",
+    "citation": "160 Wn.2d 93 (2007)",
     "bench": "alexander3",
     "score": "8-1",
     "votes": [
@@ -3604,7 +3709,7 @@
     ]
   },
   {
-    "id": "2007-056",
+    "id": "2007-059",
     "title": "State of Washington v. Graham",
     "number": "77858-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061024",
@@ -3615,6 +3720,7 @@
     "argument_day": "Tuesday, October 24, 2006",
     "decision": "2007-02-01",
     "decision_day": "Thursday, February 1, 2007",
+    "citation": "159 Wn.2d 623 (2007)",
     "bench": "alexander3",
     "score": "9-0",
     "votes": [
@@ -3670,7 +3776,7 @@
     ]
   },
   {
-    "id": "2007-057",
+    "id": "2007-060",
     "title": "State of Washington v. Hacheney",
     "number": "77767-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061024",
@@ -3738,7 +3844,7 @@
     ]
   },
   {
-    "id": "2007-058",
+    "id": "2007-061",
     "title": "McCausland v. McCausland",
     "number": "77890-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061024",
@@ -3749,6 +3855,7 @@
     "argument_day": "Tuesday, October 24, 2006",
     "decision": "2007-02-01",
     "decision_day": "Thursday, February 1, 2007",
+    "citation": "159 Wn.2d 607 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "9-0",
@@ -3805,7 +3912,7 @@
     ]
   },
   {
-    "id": "2007-059",
+    "id": "2007-062",
     "title": "State of Washington v. Lord",
     "number": "77472-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061026",
@@ -3816,6 +3923,7 @@
     "argument_day": "Thursday, October 26, 2006",
     "decision": "2007-08-30",
     "decision_day": "Thursday, August 30, 2007",
+    "citation": "161 Wn.2d 276 (2007)",
     "bench": "alexander3",
     "score": "7-2",
     "votes": [
@@ -3871,7 +3979,7 @@
     ]
   },
   {
-    "id": "2007-060",
+    "id": "2007-063",
     "title": "State of Washington v. Womac",
     "number": "78166-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061026",
@@ -3882,6 +3990,7 @@
     "argument_day": "Thursday, October 26, 2006",
     "decision": "2007-06-14",
     "decision_day": "Thursday, June 14, 2007",
+    "citation": "160 Wn.2d 643 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "8-1",
@@ -3938,7 +4047,7 @@
     ]
   },
   {
-    "id": "2007-061",
+    "id": "2007-064",
     "title": "State of Washington v. Mason",
     "number": "77507-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061026",
@@ -4001,7 +4110,7 @@
     ]
   },
   {
-    "id": "2007-062",
+    "id": "2007-065",
     "title": "Jenkins v. DSHS",
     "number": "78652-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061109",
@@ -4010,6 +4119,7 @@
     "argument_day": "Thursday, November 9, 2006",
     "decision": "2007-05-03",
     "decision_day": "Thursday, May 3, 2007",
+    "citation": "160 Wn.2d 287 (2007)",
     "score": "6-3",
     "votes": [
       {
@@ -4064,8 +4174,8 @@
     ]
   },
   {
-    "id": "2007-063",
-    "title": "Department of Labor and Industries v. Granger",
+    "id": "2007-066",
+    "title": "Department of Labor & Industries v. Granger",
     "number": "78139-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061109",
     "facts": "Petitioner Department of Labor and Industries sought judicial review after the Board of Industrial Insurance Appeals ordered the value from respondent William Granger’s employer-contributions into his medical benefit and health-care trust at the time he sustained an industrial injury should be entered into the worker’s monthly wage basis for calculating his time-loss compensation. The Department of Labor and Industries argued Granger was not eligible to receive the benefits from the trust at the time of his injury because he did not reach the minimum hours worked for the month of his injury according to the rules in his union’s “hour-bank system.” The Department of Labor and Industries appealed to the Skagit County Superior Court which affirmed the Board’s order to include the money Granger’s employer paid into the trust during wage calculation. The Department appealed to the Division One Court of Appeals which also affirmed the order. The Supreme Court of Washington granted the Department's petition for review.",
@@ -4130,7 +4240,7 @@
     ]
   },
   {
-    "id": "2007-064",
+    "id": "2007-067",
     "title": "State of Washington v. Miles",
     "number": "78656-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061109",
@@ -4141,6 +4251,7 @@
     "argument_day": "Thursday, November 9, 2006",
     "decision": "2007-04-26",
     "decision_day": "Thursday, April 26, 2007",
+    "citation": "160 Wn.2d 236 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "9-0",
@@ -4196,7 +4307,7 @@
     ]
   },
   {
-    "id": "2007-065",
+    "id": "2007-068",
     "title": "Kinney v. Cook",
     "number": "78128-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061114",
@@ -4207,6 +4318,7 @@
     "argument_day": "Tuesday, November 14, 2006",
     "decision": "2007-03-22",
     "decision_day": "Thursday, March 22, 2007",
+    "citation": "159 Wn.2d 837 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "8-1",
@@ -4263,7 +4375,7 @@
     ]
   },
   {
-    "id": "2007-066",
+    "id": "2007-069",
     "title": "Burns v. Seattle",
     "number": "78449-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061114",
@@ -4274,6 +4386,7 @@
     "argument_day": "Tuesday, November 14, 2006",
     "decision": "2007-08-02",
     "decision_day": "Thursday, August 2, 2007",
+    "citation": "161 Wn.2d 129 (2007)",
     "bench": "alexander3",
     "score": "6-3",
     "votes": [
@@ -4329,7 +4442,7 @@
     ]
   },
   {
-    "id": "2007-067",
+    "id": "2007-070",
     "title": "State of Washington v. Watson",
     "number": "78052-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061114",
@@ -4340,6 +4453,7 @@
     "argument_day": "Tuesday, November 14, 2006",
     "decision": "2007-04-05",
     "decision_day": "Thursday, April 5, 2007",
+    "citation": "160 Wn.2d 1 (2007)",
     "bench": "alexander3",
     "score": "5-4",
     "votes": [
@@ -4395,7 +4509,7 @@
     ]
   },
   {
-    "id": "2007-068",
+    "id": "2007-071",
     "title": "Washington State Farm Bureau Federation v. Gregoire",
     "number": "78637-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061128",
@@ -4406,6 +4520,7 @@
     "argument_day": "Tuesday, November 28, 2006",
     "decision": "2007-11-21",
     "decision_day": "Wednesday, November 21, 2007",
+    "citation": "162 Wn.2d 284 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "9-0",
@@ -4462,7 +4577,7 @@
     ]
   },
   {
-    "id": "2007-069",
+    "id": "2007-072",
     "title": "In re Personal Restraint of Skylstad",
     "number": "78156-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061128",
@@ -4530,7 +4645,7 @@
     ]
   },
   {
-    "id": "2007-070",
+    "id": "2007-073",
     "title": "Anderson v. Department of Corrections",
     "number": "78715-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061128",
@@ -4595,7 +4710,7 @@
     ]
   },
   {
-    "id": "2007-071",
+    "id": "2007-074",
     "title": "State of Washington v. Conte",
     "number": "78995-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061128",
@@ -4606,6 +4721,7 @@
     "argument_day": "Tuesday, November 28, 2006",
     "decision": "2007-03-15",
     "decision_day": "Thursday, March 15, 2007",
+    "citation": "159 Wn.2d 797 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "6-3",
@@ -4662,7 +4778,7 @@
     ]
   },
   {
-    "id": "2007-072",
+    "id": "2007-075",
     "title": "State of Washington v. Yates",
     "number": "73155-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061130",
@@ -4673,6 +4789,7 @@
     "argument_day": "Thursday, November 30, 2006",
     "decision": "2007-09-27",
     "decision_day": "Thursday, September 27, 2007",
+    "citation": "161 Wn.2d 714 (2007)",
     "bench": "alexander3",
     "score": "8-1",
     "votes": [
@@ -4728,7 +4845,7 @@
     ]
   },
   {
-    "id": "2007-073",
+    "id": "2007-076",
     "title": "Udall v. T.D. Escrow Services, Inc.",
     "number": "78668-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070111",
@@ -4739,6 +4856,7 @@
     "argument_day": "Thursday, January 11, 2007",
     "decision": "2007-03-29",
     "decision_day": "Thursday, March 29, 2007",
+    "citation": "159 Wn.2d 903 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "9-0",
@@ -4794,7 +4912,7 @@
     ]
   },
   {
-    "id": "2007-074",
+    "id": "2007-077",
     "title": "State of Washington v. Ohlson",
     "number": "78238-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070111",
@@ -4805,6 +4923,7 @@
     "argument_day": "Thursday, January 11, 2007",
     "decision": "2007-10-18",
     "decision_day": "Thursday, October 18, 2007",
+    "citation": "162 Wn.2d 1 (2007)",
     "bench": "alexander3",
     "score": "9-0",
     "votes": [
@@ -4859,7 +4978,7 @@
     ]
   },
   {
-    "id": "2007-075",
+    "id": "2007-078",
     "title": "Ehsani v. McCullough Family Partnership",
     "number": "78353-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070111",
@@ -4922,7 +5041,7 @@
     ]
   },
   {
-    "id": "2007-076",
+    "id": "2007-079",
     "title": "In re Personal Restraint of Shale",
     "number": "78254-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070111",
@@ -4933,6 +5052,7 @@
     "argument_day": "Thursday, January 11, 2007",
     "decision": "2007-05-24",
     "decision_day": "Thursday, May 24, 2007",
+    "citation": "160 Wn.2d 489 (2007)",
     "bench": "alexander3",
     "score": "8-1",
     "votes": [
@@ -4987,7 +5107,7 @@
     ]
   },
   {
-    "id": "2007-077",
+    "id": "2007-080",
     "title": "State of Washington v. Benn",
     "number": "78094-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070123",
@@ -4998,6 +5118,7 @@
     "argument_day": "Tuesday, January 23, 2007",
     "decision": "2007-08-23",
     "decision_day": "Thursday, August 23, 2007",
+    "citation": "161 Wn.2d 256 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "7-2",
@@ -5053,7 +5174,7 @@
     ]
   },
   {
-    "id": "2007-078",
+    "id": "2007-081",
     "title": "Stewart-Graves v. Vaughn",
     "number": "78383-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070123",
@@ -5064,6 +5185,7 @@
     "argument_day": "Tuesday, January 23, 2007",
     "decision": "2007-11-08",
     "decision_day": "Thursday, November 8, 2007",
+    "citation": "162 Wn.2d 115 (2007)",
     "bench": "alexander3",
     "score": "9-0",
     "votes": [
@@ -5118,7 +5240,7 @@
     ]
   },
   {
-    "id": "2007-079",
+    "id": "2007-082",
     "title": "State of Washington v. Day",
     "number": "78187-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070123",
@@ -5129,6 +5251,7 @@
     "argument_day": "Tuesday, January 23, 2007",
     "decision": "2007-10-11",
     "decision_day": "Thursday, October 11, 2007",
+    "citation": "161 Wn.2d 889 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "6-3",
@@ -5184,7 +5307,7 @@
     ]
   },
   {
-    "id": "2007-080",
+    "id": "2007-083",
     "title": "In re disciplinary proceeding against Carpenter",
     "number": "200,376-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070125",
@@ -5242,7 +5365,7 @@
     ]
   },
   {
-    "id": "2007-081",
+    "id": "2007-084",
     "title": "Potter v. Washington State Patrol",
     "number": "79172-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070125",
@@ -5253,6 +5376,7 @@
     "argument_day": "Thursday, January 25, 2007",
     "decision": "2007-08-30",
     "decision_day": "Thursday, August 30, 2007",
+    "citation": "161 Wn.2d 335 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "6-3",
@@ -5302,7 +5426,7 @@
     ]
   },
   {
-    "id": "2007-082",
+    "id": "2007-085",
     "title": "Woods v. Kittitas County",
     "number": "78331-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070125",
@@ -5313,6 +5437,7 @@
     "argument_day": "Thursday, January 25, 2007",
     "decision": "2007-12-20",
     "decision_day": "Thursday, December 20, 2007",
+    "citation": "162 Wn.2d 597 (2007)",
     "bench": "alexander3",
     "score": "9-0",
     "votes": [
@@ -5363,7 +5488,7 @@
     ]
   },
   {
-    "id": "2007-083",
+    "id": "2007-086",
     "title": "State of Washington v. Daniels",
     "number": "76802-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070213",
@@ -5374,6 +5499,7 @@
     "argument_day": "Tuesday, February 13, 2007",
     "decision": "2007-05-03",
     "decision_day": "Thursday, May 3, 2007",
+    "citation": "160 Wn.2d 256 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "9-0",
@@ -5430,7 +5556,7 @@
     ]
   },
   {
-    "id": "2007-084",
+    "id": "2007-087",
     "title": "In re Dependency of A.K.",
     "number": "78426-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070213",
@@ -5441,6 +5567,7 @@
     "argument_day": "Tuesday, February 13, 2007",
     "decision": "2007-12-20",
     "decision_day": "Thursday, December 20, 2007",
+    "citation": "162 Wn.2d 632 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "6-3",
@@ -5497,7 +5624,7 @@
     ]
   },
   {
-    "id": "2007-085",
+    "id": "2007-088",
     "title": "Olver v. Fowler",
     "number": "78321-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070213",
@@ -5565,7 +5692,7 @@
     ]
   },
   {
-    "id": "2007-086",
+    "id": "2007-089",
     "title": "Department of Corrections v. Fluor Daniel, Inc.",
     "number": "78290-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070215",
@@ -5576,6 +5703,7 @@
     "argument_day": "Thursday, February 15, 2007",
     "decision": "2007-07-06",
     "decision_day": "Friday, July 6, 2007",
+    "citation": "160 Wn.2d 786 (2007)",
     "bench": "alexander3",
     "score": "8-1",
     "votes": [
@@ -5631,7 +5759,7 @@
     ]
   },
   {
-    "id": "2007-087",
+    "id": "2007-090",
     "title": "In re disability proceeding against Keefe",
     "number": "388-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070215",
@@ -5696,7 +5824,7 @@
     ]
   },
   {
-    "id": "2007-088",
+    "id": "2007-091",
     "title": "In re Disability Proceeding Against Keefe",
     "number": "200,388-5",
     "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070215",
@@ -5704,6 +5832,7 @@
     "argument_day": "Thursday, February 15, 2007",
     "decision": "2007-03-22",
     "decision_day": "Thursday, March 22, 2007",
+    "citation": "159 Wn.2d 822 (2007)",
     "score": "9-0",
     "votes": [
       {
@@ -5745,7 +5874,7 @@
     ]
   },
   {
-    "id": "2007-089",
+    "id": "2007-092",
     "title": "State of Washington v. Frost",
     "number": "77444-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070215",
@@ -5812,7 +5941,7 @@
     ]
   },
   {
-    "id": "2007-090",
+    "id": "2007-093",
     "title": "State of Washington v. George",
     "number": "78362-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070227",
@@ -5878,7 +6007,7 @@
     ]
   },
   {
-    "id": "2007-091",
+    "id": "2007-094",
     "title": "In re Personal Restraint of Bowman",
     "number": "78739-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070227",
@@ -5889,6 +6018,7 @@
     "argument_day": "Tuesday, February 27, 2007",
     "decision": "2007-11-21",
     "decision_day": "Wednesday, November 21, 2007",
+    "citation": "162 Wn.2d 325 (2007)",
     "bench": "alexander3",
     "score": "7-2",
     "votes": [
@@ -5943,7 +6073,7 @@
     ]
   },
   {
-    "id": "2007-092",
+    "id": "2007-095",
     "title": "State of Washington v. Posey",
     "number": "78043-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070227",
@@ -5954,6 +6084,7 @@
     "argument_day": "Tuesday, February 27, 2007",
     "decision": "2007-09-20",
     "decision_day": "Thursday, September 20, 2007",
+    "citation": "161 Wn.2d 638 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "9-0",
@@ -6009,7 +6140,7 @@
     ]
   },
   {
-    "id": "2007-093",
+    "id": "2007-096",
     "title": "State of Washington v. Chhom",
     "number": "78463-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070227",
@@ -6076,7 +6207,7 @@
     ]
   },
   {
-    "id": "2007-094",
+    "id": "2007-097",
     "title": "In re Detention of Ambers",
     "number": "79331-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070301",
@@ -6087,6 +6218,7 @@
     "argument_day": "Thursday, March 1, 2007",
     "decision": "2007-05-31",
     "decision_day": "Thursday, May 31, 2007",
+    "citation": "160 Wn.2d 543 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "9-0",
@@ -6142,7 +6274,7 @@
     ]
   },
   {
-    "id": "2007-095",
+    "id": "2007-098",
     "title": "State of Washington v. Bennett",
     "number": "78377-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070301",
@@ -6153,6 +6285,7 @@
     "argument_day": "Thursday, March 1, 2007",
     "decision": "2007-08-30",
     "decision_day": "Thursday, August 30, 2007",
+    "citation": "161 Wn.2d 303 (2007)",
     "bench": "alexander3",
     "score": "5-4",
     "votes": [
@@ -6207,7 +6340,7 @@
     ]
   },
   {
-    "id": "2007-096",
+    "id": "2007-099",
     "title": "Arkison v. Ethan Allen, Inc.",
     "number": "78481-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070301",
@@ -6274,7 +6407,7 @@
     ]
   },
   {
-    "id": "2007-097",
+    "id": "2007-100",
     "title": "State of Washington v. Armendariz",
     "number": "78452-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070313",
@@ -6285,6 +6418,7 @@
     "argument_day": "Tuesday, March 13, 2007",
     "decision": "2007-04-19",
     "decision_day": "Thursday, April 19, 2007",
+    "citation": "160 Wn.2d 106 (2007)",
     "bench": "alexander3",
     "score": "9-0",
     "votes": [
@@ -6339,7 +6473,7 @@
     ]
   },
   {
-    "id": "2007-098",
+    "id": "2007-101",
     "title": "State of Washington v. Boyd",
     "number": "79371-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070313",
@@ -6350,6 +6484,7 @@
     "argument_day": "Tuesday, March 13, 2007",
     "decision": "2007-05-17",
     "decision_day": "Thursday, May 17, 2007",
+    "citation": "160 Wn.2d 424 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "8-1",
@@ -6405,7 +6540,7 @@
     ]
   },
   {
-    "id": "2007-099",
+    "id": "2007-102",
     "title": "State of Washington v. Nichols",
     "number": "78497-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070315",
@@ -6416,6 +6551,7 @@
     "argument_day": "Thursday, March 15, 2007",
     "decision": "2007-07-19",
     "decision_day": "Thursday, July 19, 2007",
+    "citation": "161 Wn.2d 1 (2007)",
     "bench": "alexander3",
     "score": "9-0",
     "votes": [
@@ -6470,7 +6606,7 @@
     ]
   },
   {
-    "id": "2007-100",
+    "id": "2007-103",
     "title": "In re Personal Restraint of Mulholland",
     "number": "79150-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070315",
@@ -6481,6 +6617,7 @@
     "argument_day": "Thursday, March 15, 2007",
     "decision": "2007-08-30",
     "decision_day": "Thursday, August 30, 2007",
+    "citation": "161 Wn.2d 322 (2007)",
     "bench": "alexander3",
     "score": "9-0",
     "votes": [
@@ -6535,7 +6672,7 @@
     ]
   },
   {
-    "id": "2007-101",
+    "id": "2007-104",
     "title": "Crafts v. Pitts",
     "number": "78564-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070315",
@@ -6546,6 +6683,7 @@
     "argument_day": "Thursday, March 15, 2007",
     "decision": "2007-07-19",
     "decision_day": "Thursday, July 19, 2007",
+    "citation": "161 Wn.2d 16 (2007)",
     "bench": "alexander3",
     "score": "9-0",
     "votes": [
@@ -6596,8 +6734,8 @@
     ]
   },
   {
-    "id": "2007-102",
-    "title": "Spokane School District #81 v. Cowles Publishing Company",
+    "id": "2007-105",
+    "title": "Soter v. Cowles Publishing Co.",
     "number": "78574-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070320",
     "facts": "Nathan Walters died as the result of an allergic reaction to a peanut butter cookie served to him as part of a school lunch on a field trip sponsored by the respondent Spokane School District #81. After Walters’ parents indicated their intent to file a wrongful death claim, they and the school district reached a settlement. In the interim, the Spokesman-Review, a newspaper owned by petitioner Cowles Publishing Company, submitted a request pursuant to the Public Records Act (Washington Revised Code §42.56) for all records related to the school district’s investigation and possible settlement of Nathan Walters’ death. The school district denied the request on grounds that the requested records are privileged communications and attorney work product and therefore exempt from disclosure under §42.56. The school district then requested a declaratory judgment that the records are exempt from disclosure while the Spokesman-Review moved for an order to",
@@ -6607,6 +6745,7 @@
     "argument_day": "Tuesday, March 20, 2007",
     "decision": "2007-12-27",
     "decision_day": "Thursday, December 27, 2007",
+    "citation": "162 Wn.2d 716 (2007)",
     "bench": "alexander3",
     "score": "5-4",
     "votes": [
@@ -6661,7 +6800,7 @@
     ]
   },
   {
-    "id": "2007-103",
+    "id": "2007-106",
     "title": "In re Personal Restraint of McCarthy",
     "number": "79025-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070320",
@@ -6672,6 +6811,7 @@
     "argument_day": "Tuesday, March 20, 2007",
     "decision": "2007-08-16",
     "decision_day": "Thursday, August 16, 2007",
+    "citation": "161 Wn.2d 234 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "5-4",
@@ -6727,7 +6867,7 @@
     ]
   },
   {
-    "id": "2007-104",
+    "id": "2007-107",
     "title": "State of Washington v. Everybodytalksabout",
     "number": "78514-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070320",
@@ -6738,6 +6878,7 @@
     "argument_day": "Tuesday, March 20, 2007",
     "decision": "2007-09-06",
     "decision_day": "Thursday, September 6, 2007",
+    "citation": "161 Wn.2d 702 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "9-0",
@@ -6793,7 +6934,7 @@
     ]
   },
   {
-    "id": "2007-105",
+    "id": "2007-108",
     "title": "State of Washington v. Bergstrom",
     "number": "78355-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070322",
@@ -6804,6 +6945,7 @@
     "argument_day": "Thursday, March 22, 2007",
     "decision": "2007-10-25",
     "decision_day": "Thursday, October 25, 2007",
+    "citation": "162 Wn.2d 87 (2007)",
     "bench": "alexander3",
     "score": "5-4",
     "votes": [
@@ -6858,7 +7000,7 @@
     ]
   },
   {
-    "id": "2007-106",
+    "id": "2007-109",
     "title": "State of Washington v. Dion",
     "number": "78606-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070329",
@@ -6867,6 +7009,7 @@
     "argument_day": "Thursday, March 29, 2007",
     "decision": "2007-06-07",
     "decision_day": "Thursday, June 7, 2007",
+    "citation": "160 Wn.2d 605 (2007)",
     "score": "9-0",
     "votes": [
       {
@@ -6920,8 +7063,8 @@
     ]
   },
   {
-    "id": "2007-107",
-    "title": "Sherry v. Financial Indemnity Company",
+    "id": "2007-110",
+    "title": "Sherry v. Financial Indemnity Co.",
     "number": "78667-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070329",
     "facts": "Respondent Kevin Sherry was injured by an uninsured motorist, and subsequently sought confirmation of an arbitor’s award determining his damages for the injury in Pierce County Superior Court. Sherry’s insurer, petitioner Financial Indemnity Company (FIC), objected to Sherry’s proposed judgment, claiming an entitlement to offset its under insured motorist coverage obligation by the amount of personal injury obligation it had already paid to Sherry. Both Sherry and FIC explicitly waived any objection to the trial court’s deciding the offset issue during the confirmation action. The trial court entered a judgment in favor of Sherry in which FIC was permitted to take the full personal injury protection offset, less a proportionate share of Sherry’s attorney fees. On Sherry’s appeal, the Washington Court of Appeals reversed the trial court’s judgment and remanded for entry of a judgment in favor of Sherry for the full amount of the arbitration award, holding that because Sherry was not fully compensated for his damages, FIC could not take the offset. The Supreme Court of Washington granted FIC’s petition for review.",
@@ -6983,7 +7126,7 @@
     ]
   },
   {
-    "id": "2007-108",
+    "id": "2007-111",
     "title": "In re Personal Restraint of Borrero",
     "number": "78999-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070503",
@@ -6994,6 +7137,7 @@
     "argument_day": "Thursday, May 3, 2007",
     "decision": "2007-09-13",
     "decision_day": "Thursday, September 13, 2007",
+    "citation": "161 Wn.2d 532 (2007)",
     "bench": "alexander3",
     "score": "8-1",
     "votes": [
@@ -7036,7 +7180,7 @@
     ]
   },
   {
-    "id": "2007-109",
+    "id": "2007-112",
     "title": "State of Washington v. George",
     "number": "78782-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070508",
@@ -7102,7 +7246,7 @@
     ]
   },
   {
-    "id": "2007-110",
+    "id": "2007-113",
     "title": "In re Dependency of Schermer",
     "number": "79440-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070508",
@@ -7113,6 +7257,7 @@
     "argument_day": "Tuesday, May 8, 2007",
     "decision": "2007-10-11",
     "decision_day": "Thursday, October 11, 2007",
+    "citation": "161 Wn.2d 927 (2007)",
     "bench": "alexander3",
     "score": "9-0",
     "votes": [
@@ -7167,8 +7312,8 @@
     ]
   },
   {
-    "id": "2007-111",
-    "title": "Washington Citizens Action Welfare Rights Organization Coalition v. State of Washington",
+    "id": "2007-114",
+    "title": "Washington Citizens Action v. State of Washington",
     "number": "78844-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070508",
     "facts": "In the 2000 general election, Initiative 722, which reduced the amount that property taxes may be increased from six percent to two percent, was passed by the voters. Litigation was immediately initiated that challenged the constitutionality of Initiative 722. While this litigation was pending, the sponsors of Initiative 747, which reduced Initiative 722’s two percent limit on property tax increases to one percent, succeeded in placing it on the ballot for the 2001 general election. However, prior to the 2001 general election, Initiative 722 was declared unconstitutional by the Supreme Court of Washington in the case of Burien v. Kiga. Two months later, the voters passed Initiative 747. The respondent Washington Citizens Action Welfare Rights Organization Coalition subsequently petitioned the Superior Court for King County for a declaratory judgment that Initiative 747 is unconstitutional insofar as it does not comply with Article II §37 of the Washington State Constitution’s requirement that an initiative fully set forth the acts or sections it seeks to amend and with Article II §19 of the Washington State Constitution’s requirement that the subject of an initiative be accurately expressed in its ballot title. The superior court ruled that Initiative 747 violates Article II §37 because the invalidation of Initiative 722 rendered language in Initiative 747 indicating that it would reduce the limit on property tax increases from two percent to one percent erroneous and misleading. The state of Washington appealed this decision directly to the Supreme Court of Washington.",
@@ -7178,6 +7323,7 @@
     "argument_day": "Tuesday, May 8, 2007",
     "decision": "2007-11-08",
     "decision_day": "Thursday, November 8, 2007",
+    "citation": "162 Wn.2d 142 (2007)",
     "bench": "alexander3",
     "score": "5-4",
     "votes": [
@@ -7225,8 +7371,8 @@
     ]
   },
   {
-    "id": "2007-112",
-    "title": "Hegwine v. Longview Fibre Company, Inc.",
+    "id": "2007-115",
+    "title": "Hegwine v. Longview Fibre Co.",
     "number": "78728-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070510",
     "facts": "Petitioner Longview Fibre Company, Inc. rescinded its offer of employment to respondent Stacy Hegwine after a pre-employment medical examination revealed that she was pregnant. The stated reason for the rescission of the offer was Hegwine’s inability as a result of her pregnancy to meet the physical requirements of the position. Hegwine subsequently filed a sex discrimination claim against Longview Fibre Company. The trial court ruled in favor of Longview Fibre Company, finding that Hegwine’s pregancy was a disability that prevented her from performing essential functions of the position and that Longview Fibre Company was therefore not required to accommodate her. Upon appeal, the Washington Court of Appeals reversed, holding that employment discrimination because of pregnancy is a form of sex discrimination governed by Washington Revised Code §49.60.180 rather than a form of disability discrimination subject to accommodation analysis. The Washington Court of Appeals also held that Longview Fibre Company’s rescission of its offer of employment to Hegwine violated §49.60.180 insofar as the physical requirements that were the stated reason for the rescission were a pretext rather than a bona fide occupational qualification. Longview Fibre Company appealed this decision to the Supreme Court of Washington.",
@@ -7236,6 +7382,7 @@
     "argument_day": "Thursday, May 10, 2007",
     "decision": "2007-11-29",
     "decision_day": "Thursday, November 29, 2007",
+    "citation": "162 Wn.2d 340 (2007)",
     "bench": "alexander3",
     "score": "9-0",
     "votes": [
@@ -7290,7 +7437,7 @@
     ]
   },
   {
-    "id": "2007-113",
+    "id": "2007-116",
     "title": "In re disciplinary proceeding against Day",
     "number": "429-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070510",
@@ -7355,7 +7502,7 @@
     ]
   },
   {
-    "id": "2007-114",
+    "id": "2007-117",
     "title": "In re Day",
     "number": "200,429-6",
     "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070510",
@@ -7363,6 +7510,7 @@
     "argument_day": "Thursday, May 10, 2007",
     "decision": "2007-12-20",
     "decision_day": "Thursday, December 20, 2007",
+    "citation": "162 Wn.2d 527 (2007)",
     "score": "8-1",
     "votes": [
       {
@@ -7404,7 +7552,7 @@
     ]
   },
   {
-    "id": "2007-115",
+    "id": "2007-118",
     "title": "In re Detention of Elmore",
     "number": "79208-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070510",
@@ -7415,6 +7563,7 @@
     "argument_day": "Thursday, May 10, 2007",
     "decision": "2007-10-18",
     "decision_day": "Thursday, October 18, 2007",
+    "citation": "162 Wn.2d 27 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "6-3",
@@ -7470,7 +7619,7 @@
     ]
   },
   {
-    "id": "2007-116",
+    "id": "2007-119",
     "title": "Qwest Corporation v. Bellevue",
     "number": "79909-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070515",
@@ -7481,6 +7630,7 @@
     "argument_day": "Tuesday, May 15, 2007",
     "decision": "2007-08-30",
     "decision_day": "Thursday, August 30, 2007",
+    "citation": "161 Wn.2d 353 (2007)",
     "bench": "alexander3",
     "score": "9-0",
     "votes": [
@@ -7535,7 +7685,7 @@
     ]
   },
   {
-    "id": "2007-117",
+    "id": "2007-120",
     "title": "Hornback v. Wentworth",
     "number": "78707-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070515",
@@ -7556,7 +7706,7 @@
     ]
   },
   {
-    "id": "2007-118",
+    "id": "2007-121",
     "title": "State of Washington v. Chamberlin",
     "number": "79712-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070515",
@@ -7567,6 +7717,7 @@
     "argument_day": "Tuesday, May 15, 2007",
     "decision": "2007-07-19",
     "decision_day": "Thursday, July 19, 2007",
+    "citation": "161 Wn.2d 30 (2007)",
     "bench": "alexander3",
     "score": "9-0",
     "votes": [
@@ -7621,7 +7772,7 @@
     ]
   },
   {
-    "id": "2007-119",
+    "id": "2007-122",
     "title": "In re Jack Lee Burtch, Attorney at Law",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070517",
     "questions": "Show cause hearing.",
@@ -7641,7 +7792,7 @@
     ]
   },
   {
-    "id": "2007-120",
+    "id": "2007-123",
     "title": "Stevens v. Brink's Home Security, Inc.",
     "number": "79815-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070517",
@@ -7652,6 +7803,7 @@
     "argument_day": "Thursday, May 17, 2007",
     "decision": "2007-10-18",
     "decision_day": "Thursday, October 18, 2007",
+    "citation": "162 Wn.2d 42 (2007)",
     "bench": "alexander3",
     "score": "7-2",
     "votes": [
@@ -7706,8 +7858,8 @@
     ]
   },
   {
-    "id": "2007-121",
-    "title": "Herring v. Todd Shipyards Corporation",
+    "id": "2007-124",
+    "title": "Herring v. Texaco, Inc.",
     "number": "78774-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070517",
     "facts": "Respondent Roger Herring filed suit against petitioner Todd Shipyards Corporation after being diagnosed with mesothelioma caused by his exposure to asbestos while working for subcontractors of Todd Shipyards. Todd Shipyards successfully moved for summary judgment, arguing that Herring’s claim had been discharged when it filed for bankruptcy seventeen years earlier. Upon appeal, the Washington Court of Appeals reversed, holding that Todd Shipyards should have given notice of its bankruptcy to Herring’s union as it was reasonably ascertainable to Todd Shipyards that it would be liable to union members for asbestos-related claims. Todd Shipyards appealed this decision to the Supreme Court of Washington.",
@@ -7717,6 +7869,7 @@
     "argument_day": "Thursday, May 17, 2007",
     "decision": "2007-08-09",
     "decision_day": "Thursday, August 9, 2007",
+    "citation": "161 Wn.2d 189 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "9-0",
@@ -7772,7 +7925,7 @@
     ]
   },
   {
-    "id": "2007-122",
+    "id": "2007-125",
     "title": "In re disciplinary proceeding against Perez-Pena",
     "number": "200,428-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070517",
@@ -7838,8 +7991,8 @@
     ]
   },
   {
-    "id": "2007-123",
-    "title": "Erwin v. Cotter Health Care Ctrs., Inc.",
+    "id": "2007-126",
+    "title": "Erwin v. Cotter Health Centers, Inc.",
     "number": "78928-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070522",
     "facts": "Respondent Cary Erwin filed suit against petitioners James F. Cotter and Cotter Health Centers Inc. in Yakima County Superior Court to collect commissions and fees arising from Cotter’s leasing of several senior health care facilities in California and Texas. According to the dispute selection clause of their contractual agreement, any disputes would be resolved under Washington law and in Washington courts. Cotter argued the contractual choice of Washington law is ineffective, and that California law should govern the dispute. Cotter also argues that under California law Erwin is prohibited from claiming leasing fees since he is not a licensed real estate broker in the state, whereas Erwin argues that under Washington Law, specifically Wash. Rev. Code §18.85, he is allowed to claim leasing fees for work done outside of Washington. The trial court ruled in favor Erwin, holding the contractual choice of choosing Washington jurisdiction for disputes is effective, entitling Erwin to the leasing fees. Cotter appealed, declaring Erwin did not act as a real estate broker when working outside of Washington. The Washington Court of Appeals affirmed the trial court’s judgment, while recognizing that under California law Erwin’s work was not considered that of a “real estate broker.” The Supreme Court of Washington granted Cotter’s petition for review.",
@@ -7904,8 +8057,8 @@
     ]
   },
   {
-    "id": "2007-124",
-    "title": "Beal Bank, S.S.B. v. Sarich",
+    "id": "2007-127",
+    "title": "Beal Bank, SSB v. Sarich",
     "number": "79875-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070522",
     "facts": "Respondent Steven Sarich and his wife Kay took out a loan with Washington Mutual Bank secured with a deed of trust on their home. Sarich subsequently took out two additional loans with U.S. Bank that used the same home as security. After Sarich defaulted, Washington Mutual Bank, as the senior lienholder, foreclosed on the home, which was sold at a trustee’s sale. Following the sale, petitioner Beal Bank, S.S.B., to which U.S. Bank had assigned both loans, petitioned the Superior Court for King County for a judgment against Sarich for the amount of both outstanding loans. The superior court granted summary judgment for Sarich, ruling that, under Washington Revised Code §61.24.100, the foreclosure of a senior lienholder’s deed of trust precludes an action by a junior lienholder to recover on a debt secured by a deed of trust on the same property. Beal Bank appealed the superior court’s decision to the Washington Court of Appeals, which transferred the case to the Supreme Court of Washington.",
@@ -7915,6 +8068,7 @@
     "argument_day": "Tuesday, May 22, 2007",
     "decision": "2007-09-13",
     "decision_day": "Thursday, September 13, 2007",
+    "citation": "161 Wn.2d 544 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "9-0",
@@ -7970,7 +8124,7 @@
     ]
   },
   {
-    "id": "2007-125",
+    "id": "2007-128",
     "title": "Densley v. Department of Retirement Systems",
     "number": "79951-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070524",
@@ -7981,6 +8135,7 @@
     "argument_day": "Thursday, May 24, 2007",
     "decision": "2007-11-15",
     "decision_day": "Thursday, November 15, 2007",
+    "citation": "162 Wn.2d 210 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "7-2",
@@ -8036,7 +8191,7 @@
     ]
   },
   {
-    "id": "2007-126",
+    "id": "2007-129",
     "title": "State of Washington v. Tobin",
     "number": "78628-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070524",
@@ -8047,6 +8202,7 @@
     "argument_day": "Thursday, May 24, 2007",
     "decision": "2007-09-13",
     "decision_day": "Thursday, September 13, 2007",
+    "citation": "161 Wn.2d 517 (2007)",
     "bench": "alexander3",
     "score": "9-0",
     "votes": [
@@ -8101,8 +8257,8 @@
     ]
   },
   {
-    "id": "2007-127",
-    "title": "In re post-sentence review of Leach",
+    "id": "2007-130",
+    "title": "In re Postsentence Review of Leach",
     "number": "79432-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070524",
     "facts": "Respondent Yulanda Leach pleaded guilty to attempted assault of a child in the second degree, and was sentenced to 23.25 months confinement and between nine and 18 months community custody. The Department of Corrections petitioned for post-sentence review on the community custody component of the sentence, arguing “attempted assault” of a child is not a specifically enumerated offense for which a defendant can be sentenced to community custody according to Wash. Rev. Code §9.94A.715. The Washington Court of Appeals denied the Department of Correction’s petition, holding that attempted second degree assault of a child qualifies for a term of community custody and that the conviction can be included in the illustrative examples of “crimes against persons” found under Wash. Rev. Code §9.94A.411(2). The Supreme Court of Washington granted the Department of Corrections’ petition for review.",
@@ -8168,7 +8324,7 @@
     ]
   },
   {
-    "id": "2007-128",
+    "id": "2007-131",
     "title": "Indoor Billboard, Inc. v. Integra Telecom of Washington, Inc.",
     "number": "79977-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070529",
@@ -8179,6 +8335,7 @@
     "argument_day": "Tuesday, May 29, 2007",
     "decision": "2007-10-18",
     "decision_day": "Thursday, October 18, 2007",
+    "citation": "162 Wn.2d 59 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "9-0",
@@ -8235,7 +8392,7 @@
     ]
   },
   {
-    "id": "2007-129",
+    "id": "2007-132",
     "title": "Morin v. Harrell",
     "number": "79971-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070529",
@@ -8302,7 +8459,7 @@
     ]
   },
   {
-    "id": "2007-130",
+    "id": "2007-133",
     "title": "Beaupre v. Pierce County",
     "number": "79976-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070529",
@@ -8313,6 +8470,7 @@
     "argument_day": "Tuesday, May 29, 2007",
     "decision": "2007-09-13",
     "decision_day": "Thursday, September 13, 2007",
+    "citation": "161 Wn.2d 568 (2007)",
     "bench": "alexander3",
     "score": "9-0",
     "votes": [
@@ -8367,7 +8525,7 @@
     ]
   },
   {
-    "id": "2007-131",
+    "id": "2007-134",
     "title": "State of Washington v. Foxhoven",
     "number": "78888-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070531",
@@ -8378,6 +8536,7 @@
     "argument_day": "Thursday, May 31, 2007",
     "decision": "2007-08-02",
     "decision_day": "Thursday, August 2, 2007",
+    "citation": "161 Wn.2d 168 (2007)",
     "bench": "alexander3",
     "score": "9-0",
     "votes": [
@@ -8428,7 +8587,7 @@
     ]
   },
   {
-    "id": "2007-132",
+    "id": "2007-135",
     "title": "King v. King",
     "number": "79978-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070531",
@@ -8439,6 +8598,7 @@
     "argument_day": "Thursday, May 31, 2007",
     "decision": "2007-12-06",
     "decision_day": "Thursday, December 6, 2007",
+    "citation": "162 Wn.2d 378 (2007)",
     "bench": "alexander3",
     "score": "7-2",
     "votes": [
@@ -8489,8 +8649,8 @@
     ]
   },
   {
-    "id": "2007-133",
-    "title": "Delaney v. The Board of Spokane County Commissioners",
+    "id": "2007-136",
+    "title": "Delaney v. Spokane County Board of Commissioners",
     "number": "79966-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070612",
     "questions": "Must the Board of Spokane County Commissioners establish and fund a tenth district court judge position?",
@@ -8498,6 +8658,7 @@
     "argument_day": "Tuesday, June 12, 2007",
     "decision": "2007-08-16",
     "decision_day": "Thursday, August 16, 2007",
+    "citation": "161 Wn.2d 249 (2007)",
     "score": "9-0",
     "votes": [
       {
@@ -8551,7 +8712,7 @@
     ]
   },
   {
-    "id": "2007-134",
+    "id": "2007-137",
     "title": "Ludvigsen v. Seattle",
     "number": "79974-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070612",
@@ -8562,6 +8723,7 @@
     "argument_day": "Tuesday, June 12, 2007",
     "decision": "2007-12-20",
     "decision_day": "Thursday, December 20, 2007",
+    "citation": "162 Wn.2d 660 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "9-0",
@@ -8617,7 +8779,7 @@
     ]
   },
   {
-    "id": "2007-135",
+    "id": "2007-138",
     "title": "State of Washington v. Reep",
     "number": "79969-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070612",
@@ -8684,7 +8846,7 @@
     ]
   },
   {
-    "id": "2007-136",
+    "id": "2007-139",
     "title": "Feature Realty, Inc. v. Preston Gates Ellis, L.L.P.",
     "number": "79967-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070612",
@@ -8695,6 +8857,7 @@
     "argument_day": "Tuesday, June 12, 2007",
     "decision": "2007-08-09",
     "decision_day": "Thursday, August 9, 2007",
+    "citation": "161 Wn.2d 214 (2007)",
     "bench": "alexander3",
     "score": "9-0",
     "votes": [
@@ -8748,7 +8911,7 @@
     ]
   },
   {
-    "id": "2007-137",
+    "id": "2007-140",
     "title": "Mutual of Enumclaw Insurance Company v. Martinelli",
     "number": "79027-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070614",
@@ -8759,6 +8922,7 @@
     "argument_day": "Thursday, June 14, 2007",
     "decision": "2007-10-11",
     "decision_day": "Thursday, October 11, 2007",
+    "citation": "161 Wn.2d 903 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "9-0",
@@ -8814,7 +8978,7 @@
     ]
   },
   {
-    "id": "2007-138",
+    "id": "2007-141",
     "title": "State of Washington v. Williams",
     "number": "78984-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070614",
@@ -8825,6 +8989,7 @@
     "argument_day": "Thursday, June 14, 2007",
     "decision": "2007-11-08",
     "decision_day": "Thursday, November 8, 2007",
+    "citation": "162 Wn.2d 177 (2007)",
     "bench": "alexander3",
     "score": "9-0",
     "votes": [
@@ -8879,7 +9044,7 @@
     ]
   },
   {
-    "id": "2007-139",
+    "id": "2007-142",
     "title": "State of Washington v. Varnell",
     "number": "78979-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070614",
@@ -8890,6 +9055,7 @@
     "argument_day": "Thursday, June 14, 2007",
     "decision": "2007-11-08",
     "decision_day": "Thursday, November 8, 2007",
+    "citation": "162 Wn.2d 165 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "7-2",
@@ -8945,8 +9111,8 @@
     ]
   },
   {
-    "id": "2007-140",
-    "title": "Atchison v. Great Western Malting Company",
+    "id": "2007-143",
+    "title": "Atchison v. Great Western Malting Co.",
     "number": "80034-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070626",
     "facts": "Petitioner Kaela Atchison, the personal representative of her deceased father William Atchison’s estate, filed a wrongful death action against his former employer, respondent Great Western Malting Company, in the Superior Court for Clark County, claiming that workplace exposure to pesticides and contaminated dust was the cause of the cancer that led to his death. The superior court dismissed the action on grounds that the three year statute of limitations had expired. Atchison appealed the superior court’s decision, asserting that as she was a minor at the time of her father’s death and therefore ineligible to be appointed personal respresentative of his estate and to bring a wrongful death action, the statute of limitations tolled until she reached her majority. The Washington Court of Appeals transferred the case to the Supreme Court of Washington.",
@@ -8956,6 +9122,7 @@
     "argument_day": "Tuesday, June 26, 2007",
     "decision": "2007-08-30",
     "decision_day": "Thursday, August 30, 2007",
+    "citation": "161 Wn.2d 372 (2007)",
     "bench": "alexander3",
     "score": "9-0",
     "votes": [
@@ -9010,7 +9177,7 @@
     ]
   },
   {
-    "id": "2007-141",
+    "id": "2007-144",
     "title": "Locke v. Seattle",
     "number": "79222-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070626",
@@ -9076,7 +9243,7 @@
     ]
   },
   {
-    "id": "2007-142",
+    "id": "2007-145",
     "title": "State of Washington v. Hatchie",
     "number": "78889-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070626",
@@ -9142,8 +9309,8 @@
     ]
   },
   {
-    "id": "2007-143",
-    "title": "J&J Celcom v. AT&T Wireless Services, Inc.",
+    "id": "2007-146",
+    "title": "J&J Celcom v. AT&T Wireless Services Inc.",
     "number": "79884-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070628",
     "facts": "J&J Celcom acquired fractional interests in several regional cellular telephone partnerships in which AT&T Wireless Services, Inc. was the majority partner. AT&T Wireless Services subsequently invoked its majority interest and voted to buy out J&J Celcom, offering to buy out J&J Celcom at a price higher than a third party appraisal. After J&J Celcom declined this offer, AT&T Wireless Services voted to sell the assets of the partnerships at their appraised value to an affiliated party, dissolve the partnerships, and pay J&J Celcom its prorated share of the sale proceeds. J&J Celcom responded by filing suit against AT&T Wireless Services in the United States District Court for the Western District of Washington, alleging that AT&T Wireless Services’ actions breached its duty of loyalty to the partnership and to its partner. The district court granted summary judgment for AT&T Wireless Services. Upon appeal, the United States Circuit Court for the Ninth Circuit certified to the Supreme Court of Washington the question of whether, under Washington’s Revised Uniform Partnership Act (Washington Revised Code §25.05.165), a controlling partner who causes the partnership to sell its assets to an affiliated party violates their duty of loyalty.",
@@ -9153,6 +9320,7 @@
     "argument_day": "Thursday, June 28, 2007",
     "decision": "2007-10-25",
     "decision_day": "Thursday, October 25, 2007",
+    "citation": "162 Wn.2d 102 (2007)",
     "bench": "alexander3",
     "score": "9-0",
     "votes": [
@@ -9207,8 +9375,8 @@
     ]
   },
   {
-    "id": "2007-144",
-    "title": "City of Seattle v. Klein & Deibert",
+    "id": "2007-147",
+    "title": "City of Seattle v. Klein",
     "number": "79973-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070628",
     "facts": "Petitioner City of Seattle filed a motion to dismiss respondents Stephen Klein’s and Melissa Deibert’s right to appeal their underlying conviction in light of subsequent arrest warrants issued as a result of failing to appear at their respective review hearings after appealing their convictions. Klein and Deibert argued their appeals cannot be dismissed because they had not made a voluntary, knowing, and intelligent waiver of their constitutional right to appeal. The City claimed the Fugitive Disentitlement Doctrine (FDD) serves to abrogate the respondents’ constitutionally guaranteed right to appeal. The King County Superior Court agreed with Klein and Deibert and denied the City’s motion in both cases. The City’s petition for discretionary review was granted by the Division One Court of Appeals, and the cases were consolidated for transfer to the Supreme Court of Washington.",
@@ -9273,7 +9441,7 @@
     ]
   },
   {
-    "id": "2007-145",
+    "id": "2007-148",
     "title": "Preview Properties, Inc. v. Landis",
     "number": "79187-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070711",
@@ -9328,7 +9496,7 @@
     ]
   },
   {
-    "id": "2007-146",
+    "id": "2007-149",
     "title": "Futurewise v. Reed",
     "number": "80430-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070906",
@@ -9339,6 +9507,7 @@
     "argument_day": "Thursday, September 6, 2007",
     "decision": "2007-09-07",
     "decision_day": "Friday, September 7, 2007",
+    "citation": "161 Wn.2d 407 (2007)",
     "bench": "alexander3",
     "score": "9-0",
     "votes": [
@@ -9393,7 +9562,7 @@
     ]
   },
   {
-    "id": "2007-147",
+    "id": "2007-150",
     "title": "In re disciplinary proceeding against Holcomb",
     "number": "200,448-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070911",
@@ -9404,6 +9573,7 @@
     "argument_day": "Tuesday, September 11, 2007",
     "decision": "2007-12-20",
     "decision_day": "Thursday, December 20, 2007",
+    "citation": "162 Wn.2d 563 (2007)",
     "bench": "alexander3",
     "score": "5-4",
     "votes": [
@@ -9458,7 +9628,7 @@
     ]
   },
   {
-    "id": "2007-148",
+    "id": "2007-151",
     "title": "Ingram v. Department of Licensing",
     "number": "80149-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20070911",
@@ -9525,7 +9695,7 @@
     ]
   },
   {
-    "id": "2007-149",
+    "id": "2007-152",
     "title": "American Safety Casualty Insurance Company v. Olympia",
     "number": "79001-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20071009",
@@ -9536,6 +9706,7 @@
     "argument_day": "Tuesday, October 9, 2007",
     "decision": "2007-12-27",
     "decision_day": "Thursday, December 27, 2007",
+    "citation": "162 Wn.2d 762 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "9-0",
@@ -9591,7 +9762,7 @@
     ]
   },
   {
-    "id": "2007-150",
+    "id": "2007-153",
     "title": "Christensen v. Ellsworth",
     "number": "79128-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20071011",
@@ -9602,6 +9773,7 @@
     "argument_day": "Thursday, October 11, 2007",
     "decision": "2007-12-06",
     "decision_day": "Thursday, December 6, 2007",
+    "citation": "162 Wn.2d 365 (2007)",
     "result": "petitioning party received a favorable disposition",
     "bench": "alexander3",
     "score": "9-0",
@@ -9657,53 +9829,36 @@
     ]
   },
   {
-    "id": "2007-151",
-    "title": "State of Washington v. Eaton",
-    "number": "78970-3",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2007&file=20071016",
-    "questions": "Whether a defendant may be convicted of cocaine possession when the charging document mistakenly listed amphetamine possession.",
-    "argument": "2007-10-16",
-    "argument_day": "Tuesday, October 16, 2007",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2007-10-16",
-        "title": "Oral Argument on Tuesday, October 16, 2007",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2007101066/",
-        "audio_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/ce14753ca46d28053abdca31805d7269d6dd8486_audio.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2007101066/media.m3u8",
-        "length": "00:37:31"
-      }
-    ]
-  },
-  {
-    "id": "2007-152",
+    "id": "2007-154",
     "title": "In re Pers. Restraint of Schillereff",
     "number": "78855-3",
     "decision": "2007-02-08",
-    "decision_day": "Thursday, February 8, 2007"
-  },
-  {
-    "id": "2007-153",
-    "title": "Belfor USA Group, Inc. v. Thiel",
-    "number": "79691-2",
-    "decision": "2007-06-14",
-    "decision_day": "Thursday, June 14, 2007"
-  },
-  {
-    "id": "2007-154",
-    "title": "Wright v. Terrell",
-    "number": "79542-8",
-    "decision": "2007-11-08",
-    "decision_day": "Thursday, November 8, 2007"
+    "decision_day": "Thursday, February 8, 2007",
+    "citation": "159 Wn.2d 649 (2007)"
   },
   {
     "id": "2007-155",
+    "title": "Belfor USA Group, Inc. v. Thiel",
+    "number": "79691-2",
+    "decision": "2007-06-14",
+    "decision_day": "Thursday, June 14, 2007",
+    "citation": "160 Wn.2d 669 (2007)"
+  },
+  {
+    "id": "2007-156",
+    "title": "Wright v. Terrell",
+    "number": "79542-8",
+    "decision": "2007-11-08",
+    "decision_day": "Thursday, November 8, 2007",
+    "citation": "162 Wn.2d 192 (2007)"
+  },
+  {
+    "id": "2007-157",
     "title": "In re Pers. Restraint of Elmore",
     "number": "70233-1",
     "decision": "2007-11-21",
     "decision_day": "Wednesday, November 21, 2007",
+    "citation": "162 Wn.2d 236 (2007)",
     "score": "8-1",
     "votes": [
       {
@@ -9745,25 +9900,28 @@
     ]
   },
   {
-    "id": "2007-156",
+    "id": "2007-158",
     "title": "Schmidt v. Coogan",
     "number": "79554-1",
     "decision": "2007-12-13",
-    "decision_day": "Thursday, December 13, 2007"
+    "decision_day": "Thursday, December 13, 2007",
+    "citation": "162 Wn.2d 488 (2007)"
   },
   {
-    "id": "2007-157",
+    "id": "2007-159",
     "title": "Ross v. Kirner",
     "number": "79609-2",
     "decision": "2007-12-13",
-    "decision_day": "Thursday, December 13, 2007"
+    "decision_day": "Thursday, December 13, 2007",
+    "citation": "162 Wn.2d 493 (2007)"
   },
   {
-    "id": "2007-158",
+    "id": "2007-160",
     "title": "In re Recall Charges Against Seattle Sch. Dist. No. 1 Dir. Butler-Wall",
     "number": "79869-9",
     "decision": "2007-12-13",
     "decision_day": "Thursday, December 13, 2007",
+    "citation": "162 Wn.2d 501 (2007)",
     "score": "9-0",
     "votes": [
       {

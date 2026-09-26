@@ -1,58 +1,335 @@
 {
+  "2005-01-13": [
+    {
+      "type": "argument",
+      "id": "2006-004",
+      "term": "2006",
+      "number": "74987-6",
+      "title": "City of Sequim v. Malkasian"
+    },
+    {
+      "type": "argument",
+      "id": "2006-005",
+      "term": "2006",
+      "number": "75001-7",
+      "title": "Alby v. Banc One Financial"
+    }
+  ],
+  "2005-01-19": [
+    {
+      "type": "argument",
+      "id": "2006-006",
+      "term": "2006",
+      "number": "75024-6",
+      "title": "McClarty v. Totem Electric"
+    }
+  ],
+  "2005-02-08": [
+    {
+      "type": "argument",
+      "id": "2006-007",
+      "term": "2006",
+      "number": "75270-2",
+      "title": "City of Olympia v. Drebick"
+    }
+  ],
+  "2005-02-10": [
+    {
+      "type": "argument",
+      "id": "2006-008",
+      "term": "2006",
+      "number": "75491-8",
+      "title": "State of Washington v. Korum"
+    }
+  ],
+  "2005-03-08": [
+    {
+      "type": "argument",
+      "id": "2006-009",
+      "term": "2006",
+      "number": "75956-1",
+      "title": "Cunningham v. State of Washington"
+    },
+    {
+      "type": "argument",
+      "id": "2006-010",
+      "term": "2006",
+      "number": "75934-1",
+      "title": "Christian v. State of Washington"
+    }
+  ],
   "2005-03-22": [
     {
       "type": "argument",
-      "id": "2006-001",
+      "id": "2006-011",
       "term": "2006",
       "number": "71155-1",
       "title": "State of Washington v. Gregory"
     }
   ],
-  "2005-05-26": [
+  "2005-03-24": [
     {
       "type": "argument",
       "id": "2007-001",
       "term": "2007",
+      "number": "76081-1",
+      "title": "State of Washington v. Base"
+    },
+    {
+      "type": "argument",
+      "id": "2007-002",
+      "term": "2007",
+      "number": "76077-2",
+      "title": "State of Washington v. Metcalf"
+    },
+    {
+      "type": "argument",
+      "id": "2007-003",
+      "term": "2007",
+      "number": "75989-8",
+      "title": "State of Washington v. Butters"
+    }
+  ],
+  "2005-05-10": [
+    {
+      "type": "argument",
+      "id": "2006-012",
+      "term": "2006",
+      "number": "200153-0",
+      "title": "In re Disciplinary Proceeding Against Haley"
+    },
+    {
+      "type": "argument",
+      "id": "2006-013",
+      "term": "2006",
+      "number": "200124-6",
+      "title": "In re Disciplinary Proceeding Against Poole"
+    }
+  ],
+  "2005-05-24": [
+    {
+      "type": "argument",
+      "id": "2006-014",
+      "term": "2006",
+      "number": "75866-2",
+      "title": "State of Washington v. Leyda"
+    }
+  ],
+  "2005-05-26": [
+    {
+      "type": "argument",
+      "id": "2006-015",
+      "term": "2006",
+      "number": "75784-4",
+      "title": "State of Washington v. Linton"
+    },
+    {
+      "type": "argument",
+      "id": "2006-016",
+      "term": "2006",
+      "number": "76284-8",
+      "title": "Central Puget Sound Regional Transit Authority v. Miller"
+    },
+    {
+      "type": "argument",
+      "id": "2007-004",
+      "term": "2007",
       "number": "76013-6",
-      "title": "State of Washington v. Bowman"
+      "title": "State of Washington v. Surge"
+    }
+  ],
+  "2005-06-09": [
+    {
+      "type": "argument",
+      "id": "2006-017",
+      "term": "2006",
+      "number": "76723-8",
+      "title": "Aba Sheikh v. Choe"
+    }
+  ],
+  "2005-06-23": [
+    {
+      "type": "argument",
+      "id": "2006-018",
+      "term": "2006",
+      "number": "75977-4",
+      "title": "In re Trummel"
+    }
+  ],
+  "2005-06-28": [
+    {
+      "type": "argument",
+      "id": "2006-019",
+      "term": "2006",
+      "number": "75982-1",
+      "title": "Kershaw Sunnyside Ranches v. State of Washington"
+    },
+    {
+      "type": "argument",
+      "id": "2006-020",
+      "term": "2006",
+      "number": "75889-1",
+      "title": "Koenig v. City of Des Moines"
+    },
+    {
+      "type": "argument",
+      "id": "2006-021",
+      "term": "2006",
+      "number": "75771-2",
+      "title": "State of Washington v. Bisson"
+    }
+  ],
+  "2005-06-30": [
+    {
+      "type": "argument",
+      "id": "2006-022",
+      "term": "2006",
+      "number": "75605-8",
+      "title": "State of Washington v. Shafer"
+    }
+  ],
+  "2005-09-13": [
+    {
+      "type": "argument",
+      "id": "2006-023",
+      "term": "2006",
+      "number": "76249-0",
+      "title": "Cummins v. Lewis County"
+    },
+    {
+      "type": "argument",
+      "id": "2006-024",
+      "term": "2006",
+      "number": "76101-9",
+      "title": "Osborn v. Mason County"
+    }
+  ],
+  "2005-09-15": [
+    {
+      "type": "argument",
+      "id": "2006-025",
+      "term": "2006",
+      "number": "76161-2",
+      "title": "In re Halgren"
+    },
+    {
+      "type": "argument",
+      "id": "2006-026",
+      "term": "2006",
+      "number": "76270-8",
+      "title": "In re Gourley"
+    }
+  ],
+  "2005-09-27": [
+    {
+      "type": "argument",
+      "id": "2006-027",
+      "term": "2006",
+      "number": "76109-4",
+      "title": "Pacific Northwest Shooting v. State of Washington"
+    },
+    {
+      "type": "argument",
+      "id": "2006-028",
+      "term": "2006",
+      "number": "77073-5",
+      "title": "Larson v. Seattle Popular Monorail Authority"
+    },
+    {
+      "type": "argument",
+      "id": "2006-029",
+      "term": "2006",
+      "number": "76292-9",
+      "title": "Gildon v. Simon Property Group, Inc."
     }
   ],
   "2005-09-29": [
     {
       "type": "argument",
-      "id": "2007-002",
+      "id": "2007-005",
       "term": "2007",
       "number": "76274-1",
-      "title": "Arturo Alejandre and Norma Alejandre, husband and wife, Respondents, v. Mary M. Bull, a single person, Petitioner"
+      "title": "Alejandre v. Bull"
     },
     {
       "type": "argument",
-      "id": "2007-003",
+      "id": "2007-006",
       "term": "2007",
       "number": "76433-6",
       "title": "State of Washington v. Smith"
     },
     {
       "type": "argument",
-      "id": "2007-004",
+      "id": "2007-007",
       "term": "2007",
       "number": "76755-6",
-      "title": "Public Utility District No. 2 of Grant County, Washington, a municipal corporation, Respondent, v. North American Foreign Trade Zone Industries , a Washington limited liability company, PACIFIC Northwest Bank, a Washington banking corporation, Petitioners"
+      "title": "Public Utility District No. 2 v. North American Foreign Trade Zone Industries, LLC"
     }
   ],
   "2005-10-11": [
     {
       "type": "argument",
-      "id": "2007-005",
+      "id": "2006-030",
+      "term": "2006",
+      "number": "76726-2",
+      "title": "T.S. v. Boy Scouts of America"
+    },
+    {
+      "type": "argument",
+      "id": "2006-031",
+      "term": "2006",
+      "number": "76544-8",
+      "title": "State of Washington v. Johnston"
+    },
+    {
+      "type": "argument",
+      "id": "2007-008",
       "term": "2007",
       "number": "76533-2",
       "title": "State of Washington v. Young"
     }
   ],
+  "2005-10-18": [
+    {
+      "type": "argument",
+      "id": "2006-032",
+      "term": "2006",
+      "number": "76064-1",
+      "title": "Cobra Roofing Services, Inc. v. Department of Labor & Industries"
+    },
+    {
+      "type": "argument",
+      "id": "2006-033",
+      "term": "2006",
+      "number": "76547-2",
+      "title": "State of Washington v. Borboa"
+    },
+    {
+      "type": "argument",
+      "id": "2006-034",
+      "term": "2006",
+      "number": "76602-9",
+      "title": "State of Washington v. Clarke"
+    }
+  ],
   "2005-10-25": [
     {
       "type": "argument",
-      "id": "2007-006",
+      "id": "2006-035",
+      "term": "2006",
+      "number": "76198-1",
+      "title": "State of Washington v. Cantu"
+    },
+    {
+      "type": "argument",
+      "id": "2006-036",
+      "term": "2006",
+      "number": "76164-7",
+      "title": "State of Washington v. Cooper"
+    },
+    {
+      "type": "argument",
+      "id": "2007-009",
       "term": "2007",
       "number": "75984-7",
       "title": "State of Washington v. Pillatos"
@@ -61,35 +338,137 @@
   "2005-10-27": [
     {
       "type": "argument",
-      "id": "2006-002",
+      "id": "2006-037",
+      "term": "2006",
+      "number": "76574-0",
+      "title": "State of Washington v. Jackman"
+    },
+    {
+      "type": "argument",
+      "id": "2006-038",
+      "term": "2006",
+      "number": "76738-6",
+      "title": "City of Fircrest v. Jensen"
+    },
+    {
+      "type": "argument",
+      "id": "2006-039",
       "term": "2006",
       "number": "76625-8",
       "title": "State of Washington v. Williams"
+    },
+    {
+      "type": "argument",
+      "id": "2006-040",
+      "term": "2006",
+      "number": "75913-8",
+      "title": "State of Washington v. Levy"
     }
   ],
   "2005-11-09": [
     {
       "type": "argument",
-      "id": "2007-007",
-      "term": "2007",
-      "number": "76595-2",
-      "title": "Chuong Van Pham, an individual, and Heliodoro Lara, an individual, Respondents, v. The City of Seattle, Seattle City Light, Petitioner"
+      "id": "2006-041",
+      "term": "2006",
+      "number": "76458-1",
+      "title": "State of Washington v. Easterling"
     },
     {
       "type": "argument",
-      "id": "2007-008",
+      "id": "2006-042",
+      "term": "2006",
+      "number": "76590-1",
+      "title": "Amunrud v. Board of Appeals"
+    },
+    {
+      "type": "argument",
+      "id": "2007-010",
+      "term": "2007",
+      "number": "76595-2",
+      "title": "Chuong Van Pham v. Seattle City Light"
+    },
+    {
+      "type": "argument",
+      "id": "2007-011",
       "term": "2007",
       "number": "76696-7",
-      "title": "Tami Davis, as personal representative of the Estate of Alan Davis, deceased; and as trustee for Tami Davis and Melissa Davis for the wrongful death of their father, Alan Davis, Appellant, v. Baugh Industrial Contractors , a Washington corporation; E.J. Rody & Sons , a Washington corporation; Gray & Osborne, Inc.; Selpeco Resources , and Selpeco Resources A Knight Piesold Company, Washington corporations; Tucci & Sons , a Washington corporation; Taiheiyo Cement Corporation and Taiheiyo Cement U.S.A. , foreign corporations; Weyerhaeuser Company, and Weyerhaeuser Real Estate Company, Washington corporations; and “Unknown Business Entities I-X,” jointly and severally, Respondents"
+      "title": "Davis v. Baugh Industrial Contractors, Inc."
+    }
+  ],
+  "2005-11-10": [
+    {
+      "type": "argument",
+      "id": "2006-043",
+      "term": "2006",
+      "number": "76730-1",
+      "title": "In re Personal Restraint of Dyer"
+    },
+    {
+      "type": "argument",
+      "id": "2006-044",
+      "term": "2006",
+      "number": "76585-5",
+      "title": "State of Washington v. McKenzie"
+    },
+    {
+      "type": "argument",
+      "id": "2006-045",
+      "term": "2006",
+      "number": "76553-7",
+      "title": "Lewis County v. Western Washington Growth Management Hearings Board"
+    }
+  ],
+  "2005-11-15": [
+    {
+      "type": "argument",
+      "id": "2006-046",
+      "term": "2006",
+      "number": "75263-0",
+      "title": "In re Harwood"
+    },
+    {
+      "type": "argument",
+      "id": "2006-047",
+      "term": "2006",
+      "number": "76807-2",
+      "title": "State of Washington v. Suleiman"
+    },
+    {
+      "type": "argument",
+      "id": "2006-048",
+      "term": "2006",
+      "number": "77138-3",
+      "title": "State of Washington v. Hagar"
+    },
+    {
+      "type": "argument",
+      "id": "2006-049",
+      "term": "2006",
+      "number": "76665-7",
+      "title": "State of Washington v. Ermels"
+    },
+    {
+      "type": "argument",
+      "id": "2006-050",
+      "term": "2006",
+      "number": "76776-9",
+      "title": "State of Washington v. Mehlhaff"
     }
   ],
   "2005-11-17": [
     {
       "type": "argument",
-      "id": "2006-003",
+      "id": "2006-051",
       "term": "2006",
       "number": "76618-5",
       "title": "Ongom v. State of Washington"
+    },
+    {
+      "type": "argument",
+      "id": "2006-052",
+      "term": "2006",
+      "number": "76575-8",
+      "title": "Harvey v. Snohomish County"
     }
   ]
 }

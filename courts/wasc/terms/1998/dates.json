@@ -1,20 +1,413 @@
 {
+  "1998-01-14": [
+    {
+      "type": "argument",
+      "id": "1999-003",
+      "term": "1999",
+      "number": "64581-7",
+      "title": "Perkins v. CTX Mortgage Co."
+    }
+  ],
+  "1998-02-24": [
+    {
+      "type": "argument",
+      "id": "1999-004",
+      "term": "1999",
+      "number": "65454-9",
+      "title": "State of Washington v. Martin"
+    }
+  ],
+  "1998-05-13": [
+    {
+      "type": "argument",
+      "id": "1999-005",
+      "term": "1999",
+      "number": "64100-5",
+      "title": "In re Turay"
+    },
+    {
+      "type": "argument",
+      "id": "1999-006",
+      "term": "1999",
+      "number": "63986-8",
+      "title": "In re Campbell"
+    }
+  ],
+  "1998-05-19": [
+    {
+      "type": "argument",
+      "id": "1999-007",
+      "term": "1999",
+      "number": "65817-0",
+      "title": "Landmark Development, Inc. v. City of Roy"
+    }
+  ],
   "1998-05-20": [
     {
       "type": "argument",
-      "id": "1999-001",
+      "id": "1999-008",
       "term": "1999",
       "number": "65801-3",
       "title": "State of Washington v. Ladson"
     }
   ],
+  "1998-06-09": [
+    {
+      "type": "argument",
+      "id": "1999-009",
+      "term": "1999",
+      "number": "64335-1",
+      "title": "W.R. Grace & Co. v. Department of Revenue"
+    },
+    {
+      "type": "argument",
+      "id": "1999-010",
+      "term": "1999",
+      "number": "65608-8",
+      "title": "Buffelen Woodworking v. State of Washington"
+    },
+    {
+      "type": "argument",
+      "id": "1999-011",
+      "term": "1999",
+      "number": "66037-9",
+      "title": "Wilson v. Horsley"
+    }
+  ],
+  "1998-06-16": [
+    {
+      "type": "argument",
+      "id": "1999-012",
+      "term": "1999",
+      "number": "66108-1",
+      "title": "State of Washington v. Fields"
+    },
+    {
+      "type": "argument",
+      "id": "1999-013",
+      "term": "1999",
+      "number": "65999-1",
+      "title": "State of Washington v. Ameline"
+    },
+    {
+      "type": "argument",
+      "id": "1999-014",
+      "term": "1999",
+      "number": "65943-5",
+      "title": "State of Washington v. Studd"
+    },
+    {
+      "type": "argument",
+      "id": "1999-015",
+      "term": "1999",
+      "number": "65845-5",
+      "title": "State of Washington v. Riley"
+    },
+    {
+      "type": "argument",
+      "id": "1999-016",
+      "term": "1999",
+      "number": "65948-6",
+      "title": "State of Washington v. Cook"
+    },
+    {
+      "type": "argument",
+      "id": "1999-017",
+      "term": "1999",
+      "number": "65956-7",
+      "title": "State of Washington v. Bennett"
+    },
+    {
+      "type": "argument",
+      "id": "1999-018",
+      "term": "1999",
+      "number": "65995-8",
+      "title": "State of Washington v. McLoyd"
+    }
+  ],
+  "1998-06-17": [
+    {
+      "type": "argument",
+      "id": "1999-019",
+      "term": "1999",
+      "number": "66271-1",
+      "title": "In re Gronquist"
+    },
+    {
+      "type": "argument",
+      "id": "1999-020",
+      "term": "1999",
+      "number": "66096-4",
+      "title": "Backlund v. State of Washington"
+    }
+  ],
+  "1998-06-23": [
+    {
+      "type": "argument",
+      "id": "1999-021",
+      "term": "1999",
+      "number": "65919-2",
+      "title": "Soproni v. Polygon Apartment Partners"
+    },
+    {
+      "type": "argument",
+      "id": "1999-022",
+      "term": "1999",
+      "number": "65924-9",
+      "title": "Crosby v. Spokane County"
+    }
+  ],
+  "1998-09-09": [
+    {
+      "type": "argument",
+      "id": "1999-023",
+      "term": "1999",
+      "number": "65953-2",
+      "title": "National Electrical Contractors Ass'n v. Riveland"
+    },
+    {
+      "type": "argument",
+      "id": "1999-024",
+      "term": "1999",
+      "number": "65866-8",
+      "title": "In re Petersen"
+    }
+  ],
+  "1998-09-10": [
+    {
+      "type": "argument",
+      "id": "1999-025",
+      "term": "1999",
+      "number": "66143-0",
+      "title": "State of Washington v. Robbins"
+    },
+    {
+      "type": "argument",
+      "id": "1999-026",
+      "term": "1999",
+      "number": "66148-1",
+      "title": "State of Washington v. Oseguera"
+    },
+    {
+      "type": "argument",
+      "id": "1999-027",
+      "term": "1999",
+      "number": "66212-6",
+      "title": "Civil Service Commission v. City of Kelso"
+    }
+  ],
+  "1998-09-22": [
+    {
+      "type": "argument",
+      "id": "1999-028",
+      "term": "1999",
+      "number": "66580-0",
+      "title": "C.J.C. v. Corporation of Catholic Bishop"
+    },
+    {
+      "type": "argument",
+      "id": "1999-029",
+      "term": "1999",
+      "number": "65654-1",
+      "title": "C.J.C. v. Corporation of Catholic Bishop"
+    },
+    {
+      "type": "argument",
+      "id": "1999-030",
+      "term": "1999",
+      "number": "66231-2",
+      "title": "State of Washington v. Halgren"
+    },
+    {
+      "type": "argument",
+      "id": "1999-031",
+      "term": "1999",
+      "number": "66252-5",
+      "title": "C.J.C. v. Corporation of Catholic Bishop"
+    },
+    {
+      "type": "argument",
+      "id": "1999-032",
+      "term": "1999",
+      "number": "66220-7",
+      "title": "State of Washington v. Jackson"
+    }
+  ],
+  "1998-09-23": [
+    {
+      "type": "argument",
+      "id": "1999-033",
+      "term": "1999",
+      "number": "66318-1",
+      "title": "State of Washington v. Mendez"
+    },
+    {
+      "type": "argument",
+      "id": "1999-034",
+      "term": "1999",
+      "number": "66523-1",
+      "title": "State of Washington v. Hunnel"
+    },
+    {
+      "type": "argument",
+      "id": "1999-035",
+      "term": "1999",
+      "number": "66147-2",
+      "title": "State of Washington v. Parker"
+    },
+    {
+      "type": "argument",
+      "id": "1999-036",
+      "term": "1999",
+      "number": "66522-2",
+      "title": "State of Washington v. Jines"
+    }
+  ],
+  "1998-09-24": [
+    {
+      "type": "argument",
+      "id": "1999-037",
+      "term": "1999",
+      "number": "66254-1",
+      "title": "Hollis v. Garwall, Inc."
+    },
+    {
+      "type": "argument",
+      "id": "1999-038",
+      "term": "1999",
+      "number": "66547-8",
+      "title": "Watkins v. Peterson Enterprises, Inc."
+    }
+  ],
   "1998-10-20": [
     {
       "type": "argument",
-      "id": "1999-002",
+      "id": "1999-039",
+      "term": "1999",
+      "number": "66210-0",
+      "title": "State of Washington v. Ford"
+    },
+    {
+      "type": "argument",
+      "id": "1999-040",
+      "term": "1999",
+      "number": "66224-0",
+      "title": "Ed Nowogroski Insurance v. Rucker"
+    },
+    {
+      "type": "argument",
+      "id": "1999-041",
       "term": "1999",
       "number": "66275-4",
       "title": "State of Washington v. McCorkle"
+    },
+    {
+      "type": "argument",
+      "id": "2000-001",
+      "term": "2000",
+      "number": "66246-1",
+      "title": "Mendoza v. Rivera-Chavez"
+    }
+  ],
+  "1998-10-21": [
+    {
+      "type": "argument",
+      "id": "1999-042",
+      "term": "1999",
+      "number": "66529-0",
+      "title": "Roberts v. Johnson"
+    },
+    {
+      "type": "argument",
+      "id": "1999-043",
+      "term": "1999",
+      "number": "66352-1",
+      "title": "Benjamin v. Washington State Bar Ass'n"
+    },
+    {
+      "type": "argument",
+      "id": "1999-044",
+      "term": "1999",
+      "number": "66694-6",
+      "title": "Cynthia Nary, Appellant, v. Marcelle E. Hoey and John Doe Hoey, Respondents"
+    }
+  ],
+  "1998-11-17": [
+    {
+      "type": "argument",
+      "id": "1999-045",
+      "term": "1999",
+      "number": "66380-7",
+      "title": "Bishop v. Miche"
+    },
+    {
+      "type": "argument",
+      "id": "1999-046",
+      "term": "1999",
+      "number": "66136-7",
+      "title": "Hertog v. City of Seattle"
+    },
+    {
+      "type": "argument",
+      "id": "1999-047",
+      "term": "1999",
+      "number": "66239-8",
+      "title": "Martini v. Boeing Co."
+    }
+  ],
+  "1998-11-18": [
+    {
+      "type": "argument",
+      "id": "1999-048",
+      "term": "1999",
+      "number": "66696-2",
+      "title": "Warnek v. ABB Combustion Engineering Services, Inc."
+    },
+    {
+      "type": "argument",
+      "id": "1999-049",
+      "term": "1999",
+      "number": "66574-5",
+      "title": "Aviation West Corp. v. Department of Labor & Industries"
+    },
+    {
+      "type": "argument",
+      "id": "1999-050",
+      "term": "1999",
+      "number": "66493-5",
+      "title": "Allstate Insurance v. Batacan"
+    },
+    {
+      "type": "argument",
+      "id": "1999-051",
+      "term": "1999",
+      "number": "66054-9",
+      "title": "State of Washington v. Buchanan"
+    }
+  ],
+  "1998-11-19": [
+    {
+      "type": "argument",
+      "id": "1999-052",
+      "term": "1999",
+      "number": "64085-8",
+      "title": "State of Washington v. Elmore"
+    }
+  ],
+  "1998-12-08": [
+    {
+      "type": "argument",
+      "id": "1999-053",
+      "term": "1999",
+      "number": "66563-0",
+      "title": "Dumas v. Gagner"
+    },
+    {
+      "type": "argument",
+      "id": "1999-054",
+      "term": "1999",
+      "number": "66425-1",
+      "title": "In re Breedlove"
     }
   ]
 }

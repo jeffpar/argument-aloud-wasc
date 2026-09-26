@@ -9,6 +9,7 @@
     "argument_day": "Tuesday, March 17, 2015",
     "decision": "2016-06-16",
     "decision_day": "Thursday, June 16, 2016",
+    "citation": "186 Wn.2d 128 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/905983.pdf",
     "score": "4-5",
     "votes": [
@@ -71,6 +72,7 @@
     "argument_day": "Thursday, May 7, 2015",
     "decision": "2016-03-24",
     "decision_day": "Thursday, March 24, 2016",
+    "citation": "185 Wn.2d 270 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/896291.pdf",
     "score": "5-4",
     "votes": [
@@ -133,6 +135,7 @@
     "argument_day": "Tuesday, May 12, 2015",
     "decision": "2016-12-22",
     "decision_day": "Thursday, December 22, 2016",
+    "citation": "187 Wn.2d 210 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/904197.pdf",
     "score": "6-3",
     "votes": [
@@ -195,6 +198,7 @@
     "argument_day": "Thursday, September 10, 2015",
     "decision": "2016-02-11",
     "decision_day": "Thursday, February 11, 2016",
+    "citation": "185 Wn.2d 111 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/910651.pdf",
     "score": "8-1",
     "votes": [
@@ -257,6 +261,7 @@
     "argument_day": "Thursday, September 10, 2015",
     "decision": "2016-03-31",
     "decision_day": "Thursday, March 31, 2016",
+    "citation": "185 Wn.2d 324 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/913315.pdf",
     "score": "5-4",
     "votes": [
@@ -319,6 +324,7 @@
     "argument_day": "Thursday, September 17, 2015",
     "decision": "2016-02-04",
     "decision_day": "Thursday, February 4, 2016",
+    "citation": "185 Wn.2d 79 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/913854.pdf",
     "score": "5-4",
     "votes": [
@@ -373,7 +379,7 @@
   },
   {
     "id": "2016-007",
-    "title": "John Doe A v. Wash. State Patrol",
+    "title": "Doe v. Washington State Patrol",
     "number": "90413-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20150917",
     "questions": "Does RCW 4.24.550 (the Community Protection Act) exempt the plaintiffs' sex offender registration records from disclosure under the Public Records Act?",
@@ -381,6 +387,7 @@
     "argument_day": "Thursday, September 17, 2015",
     "decision": "2016-04-07",
     "decision_day": "Thursday, April 7, 2016",
+    "citation": "185 Wn.2d 363 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/904138.pdf",
     "score": "7-2",
     "votes": [
@@ -443,6 +450,7 @@
     "argument_day": "Thursday, September 24, 2015",
     "decision": "2016-01-14",
     "decision_day": "Thursday, January 14, 2016",
+    "citation": "184 Wn.2d 911 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/912700.pdf",
     "score": "9-0",
     "votes": [
@@ -497,7 +505,7 @@
   },
   {
     "id": "2016-009",
-    "title": "State of Washington v. LG Elecs., Inc.",
+    "title": "State of Washington v. LG Electronics, Inc.",
     "number": "91263-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20150924",
     "questions": "Is this consumer protection action by the Attorney General time-barred?",
@@ -505,6 +513,7 @@
     "argument_day": "Thursday, September 24, 2015",
     "decision": "2016-07-14",
     "decision_day": "Thursday, July 14, 2016",
+    "citation": "186 Wn.2d 1 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/912637.pdf",
     "score": "7-2",
     "votes": [
@@ -555,7 +564,7 @@
   },
   {
     "id": "2016-010",
-    "title": "State of Washington v. LG Elecs., Inc.",
+    "title": "State of Washington v. LG Electronics, Inc.",
     "number": "91391-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20150924",
     "questions": "Personal jurisdiction over a foreign corporation.",
@@ -563,6 +572,7 @@
     "argument_day": "Thursday, September 24, 2015",
     "decision": "2016-07-21",
     "decision_day": "Thursday, July 21, 2016",
+    "citation": "186 Wn.2d 169 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/913919.pdf",
     "score": "6-3",
     "votes": [
@@ -621,6 +631,7 @@
     "argument_day": "Tuesday, October 20, 2015",
     "decision": "2016-02-04",
     "decision_day": "Thursday, February 4, 2016",
+    "citation": "185 Wn.2d 30 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/911932.pdf",
     "score": "9-0",
     "votes": [
@@ -684,6 +695,7 @@
     "argument_day": "Tuesday, October 20, 2015",
     "decision": "2016-10-06",
     "decision_day": "Thursday, October 6, 2016",
+    "citation": "186 Wn.2d 648 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/914753.pdf",
     "score": "6-3",
     "votes": [
@@ -746,6 +758,7 @@
     "argument_day": "Thursday, October 22, 2015",
     "decision": "2016-02-04",
     "decision_day": "Thursday, February 4, 2016",
+    "citation": "185 Wn.2d 43 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/912831.pdf",
     "score": "9-0",
     "votes": [
@@ -804,6 +817,7 @@
     "argument_day": "Thursday, October 22, 2015",
     "decision": "2016-06-23",
     "decision_day": "Thursday, June 23, 2016",
+    "citation": "185 Wn.2d 768 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/912971.pdf",
     "score": "5-4",
     "votes": [
@@ -866,6 +880,7 @@
     "argument_day": "Tuesday, October 27, 2015",
     "decision": "2016-03-31",
     "decision_day": "Thursday, March 31, 2016",
+    "citation": "185 Wn.2d 302 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/913013.pdf",
     "score": "6-3",
     "votes": [
@@ -928,6 +943,7 @@
     "argument_day": "Tuesday, October 27, 2015",
     "decision": "2016-01-14",
     "decision_day": "Thursday, January 14, 2016",
+    "citation": "184 Wn.2d 925 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/918465.pdf",
     "score": "9-0",
     "votes": [
@@ -990,6 +1006,7 @@
     "argument_day": "Tuesday, October 27, 2015",
     "decision": "2016-03-17",
     "decision_day": "Thursday, March 17, 2016",
+    "citation": "185 Wn.2d 186 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/913579.pdf",
     "score": "9-0",
     "votes": [
@@ -1048,6 +1065,7 @@
     "argument_day": "Thursday, October 29, 2015",
     "decision": "2016-05-19",
     "decision_day": "Thursday, May 19, 2016",
+    "citation": "185 Wn.2d 566 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/915296.pdf",
     "score": "5-4",
     "votes": [
@@ -1112,6 +1130,7 @@
     "argument_day": "Tuesday, November 10, 2015",
     "decision": "2016-02-04",
     "decision_day": "Thursday, February 4, 2016",
+    "citation": "185 Wn.2d 97 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/915512.pdf",
     "score": "9-0",
     "votes": [
@@ -1167,7 +1186,7 @@
   },
   {
     "id": "2016-020",
-    "title": "In re Detention of M. W.",
+    "title": "In re Detention of M.W.",
     "number": "90570-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20151110",
     "questions": "Is an amendment to the involuntary treatment act that alters the process for recommitting certain violent mentally ill individuals unconstitutional?",
@@ -1175,6 +1194,7 @@
     "argument_day": "Tuesday, November 10, 2015",
     "decision": "2016-06-09",
     "decision_day": "Thursday, June 9, 2016",
+    "citation": "185 Wn.2d 633 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/905703.pdf",
     "score": "7-2",
     "votes": [
@@ -1237,6 +1257,7 @@
     "argument_day": "Tuesday, November 10, 2015",
     "decision": "2016-05-05",
     "decision_day": "Thursday, May 5, 2016",
+    "citation": "185 Wn.2d 492 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/914664.pdf",
     "score": "9-0",
     "votes": [
@@ -1301,6 +1322,7 @@
     "argument_day": "Tuesday, November 10, 2015",
     "decision": "2016-01-28",
     "decision_day": "Thursday, January 28, 2016",
+    "citation": "185 Wn.2d 19 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/915555.pdf",
     "score": "9-0",
     "votes": [
@@ -1363,6 +1385,7 @@
     "argument_day": "Thursday, November 12, 2015",
     "decision": "2016-01-07",
     "decision_day": "Thursday, January 7, 2016",
+    "citation": "184 Wn.2d 897 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/91623-3%20Opinion.pdf",
     "score": "9-0",
     "votes": [
@@ -1427,6 +1450,7 @@
     "argument_day": "Thursday, November 12, 2015",
     "decision": "2016-03-17",
     "decision_day": "Thursday, March 17, 2016",
+    "citation": "185 Wn.2d 218 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/913668.pdf",
     "score": "5-4",
     "votes": [
@@ -1491,6 +1515,7 @@
     "argument_day": "Thursday, November 12, 2015",
     "decision": "2016-05-12",
     "decision_day": "Thursday, May 12, 2016",
+    "citation": "185 Wn.2d 532 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/915369.pdf",
     "score": "9-0",
     "votes": [
@@ -1555,6 +1580,7 @@
     "argument_day": "Tuesday, November 17, 2015",
     "decision": "2016-12-22",
     "decision_day": "Thursday, December 22, 2016",
+    "citation": "187 Wn.2d 241 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/913871.pdf",
     "score": "6-3",
     "votes": [
@@ -1619,6 +1645,7 @@
     "argument_day": "Tuesday, November 17, 2015",
     "decision": "2016-04-28",
     "decision_day": "Thursday, April 28, 2016",
+    "citation": "185 Wn.2d 430 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/901881.pdf",
     "score": "9-0",
     "votes": [
@@ -1683,6 +1710,7 @@
     "argument_day": "Tuesday, November 17, 2015",
     "decision": "2016-01-28",
     "decision_day": "Thursday, January 28, 2016",
+    "citation": "185 Wn.2d 1 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/914885.pdf",
     "score": "9-0",
     "votes": [
@@ -1743,6 +1771,7 @@
     "argument_day": "Tuesday, November 17, 2015",
     "decision": "2016-10-20",
     "decision_day": "Thursday, October 20, 2016",
+    "citation": "186 Wn.2d 769 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/901945.pdf",
     "score": "5-4",
     "votes": [
@@ -1807,6 +1836,7 @@
     "argument_day": "Tuesday, January 12, 2016",
     "decision": "2016-07-28",
     "decision_day": "Thursday, July 28, 2016",
+    "citation": "186 Wn.2d 262 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/915326.pdf",
     "score": "6-3",
     "votes": [
@@ -1871,6 +1901,7 @@
     "argument_day": "Tuesday, January 12, 2016",
     "decision": "2016-05-05",
     "decision_day": "Thursday, May 5, 2016",
+    "citation": "185 Wn.2d 510 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/917426.pdf",
     "score": "9-0",
     "votes": [
@@ -1935,6 +1966,7 @@
     "argument_day": "Tuesday, January 12, 2016",
     "decision": "2016-07-07",
     "decision_day": "Thursday, July 7, 2016",
+    "citation": "185 Wn.2d 856 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/915679.pdf",
     "score": "5-4",
     "votes": [
@@ -1999,6 +2031,7 @@
     "argument_day": "Thursday, January 14, 2016",
     "decision": "2016-03-03",
     "decision_day": "Thursday, March 3, 2016",
+    "citation": "185 Wn.2d 171 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/919453.pdf",
     "score": "9-0",
     "votes": [
@@ -2063,6 +2096,7 @@
     "argument_day": "Thursday, January 14, 2016",
     "decision": "2016-09-22",
     "decision_day": "Thursday, September 22, 2016",
+    "citation": "186 Wn.2d 573 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/916446.pdf",
     "score": "5-4",
     "votes": [
@@ -2114,6 +2148,7 @@
     "argument_day": "Thursday, January 14, 2016",
     "decision": "2016-07-07",
     "decision_day": "Thursday, July 7, 2016",
+    "citation": "185 Wn.2d 836 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/914389.pdf",
     "score": "6-3",
     "votes": [
@@ -2178,6 +2213,7 @@
     "argument_day": "Tuesday, January 19, 2016",
     "decision": "2016-10-13",
     "decision_day": "Thursday, October 13, 2016",
+    "citation": "186 Wn.2d 744 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/917612.pdf",
     "score": "5-4",
     "votes": [
@@ -2242,6 +2278,7 @@
     "argument_day": "Tuesday, January 19, 2016",
     "decision": "2016-03-03",
     "decision_day": "Thursday, March 3, 2016",
+    "citation": "185 Wn.2d 147 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/916608.pdf",
     "score": "9-0",
     "votes": [
@@ -2306,6 +2343,7 @@
     "argument_day": "Tuesday, January 19, 2016",
     "decision": "2016-07-07",
     "decision_day": "Thursday, July 7, 2016",
+    "citation": "185 Wn.2d 876 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/920818.pdf",
     "score": "6-3",
     "votes": [
@@ -2370,6 +2408,7 @@
     "argument_day": "Thursday, January 21, 2016",
     "decision": "2016-07-14",
     "decision_day": "Thursday, July 14, 2016",
+    "citation": "186 Wn.2d 58 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/919321.pdf",
     "score": "9-0",
     "votes": [
@@ -2434,6 +2473,7 @@
     "argument_day": "Thursday, January 21, 2016",
     "decision": "2016-05-19",
     "decision_day": "Thursday, May 19, 2016",
+    "citation": "185 Wn.2d 721 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/916101.pdf",
     "score": "9-0",
     "votes": [
@@ -2498,6 +2538,7 @@
     "argument_day": "Thursday, January 21, 2016",
     "decision": "2016-08-04",
     "decision_day": "Thursday, August 4, 2016",
+    "citation": "186 Wn.2d 336 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/916535.pdf",
     "score": "6-3",
     "votes": [
@@ -2562,6 +2603,7 @@
     "argument_day": "Thursday, January 28, 2016",
     "decision": "2016-03-17",
     "decision_day": "Thursday, March 17, 2016",
+    "citation": "185 Wn.2d 239 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/923981.pdf",
     "score": "9-0",
     "votes": [
@@ -2626,6 +2668,7 @@
     "argument_day": "Thursday, January 28, 2016",
     "decision": "2016-09-01",
     "decision_day": "Thursday, September 1, 2016",
+    "citation": "186 Wn.2d 422 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/917752.pdf",
     "score": "5-4",
     "votes": [
@@ -2690,6 +2733,7 @@
     "argument_day": "Thursday, January 28, 2016",
     "decision": "2016-04-28",
     "decision_day": "Thursday, April 28, 2016",
+    "citation": "185 Wn.2d 454 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/915318.pdf",
     "score": "9-0",
     "votes": [
@@ -2754,6 +2798,7 @@
     "argument_day": "Tuesday, February 16, 2016",
     "decision": "2016-03-24",
     "decision_day": "Thursday, March 24, 2016",
+    "citation": "185 Wn.2d 260 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/919500.pdf",
     "score": "9-0",
     "votes": [
@@ -2810,7 +2855,7 @@
   },
   {
     "id": "2016-046",
-    "title": "State of Washington v. K. H.-H.",
+    "title": "State of Washington v. K.H.-H.",
     "number": "91934-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160216",
     "questions": "Is it a violation of freedom of speech to order a juvenile defendant in a criminal case to write a letter of apology?",
@@ -2818,6 +2863,7 @@
     "argument_day": "Tuesday, February 16, 2016",
     "decision": "2016-06-23",
     "decision_day": "Thursday, June 23, 2016",
+    "citation": "185 Wn.2d 745 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/919348.pdf",
     "score": "6-3",
     "votes": [
@@ -2882,6 +2928,7 @@
     "argument_day": "Tuesday, February 16, 2016",
     "decision": "2016-07-21",
     "decision_day": "Thursday, July 21, 2016",
+    "citation": "186 Wn.2d 210 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/918279.pdf",
     "score": "6-3",
     "votes": [
@@ -2946,6 +2993,7 @@
     "argument_day": "Thursday, February 18, 2016",
     "decision": "2016-07-14",
     "decision_day": "Thursday, July 14, 2016",
+    "citation": "186 Wn.2d 32 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/917710.pdf",
     "score": "9-0",
     "votes": [
@@ -3010,6 +3058,7 @@
     "argument_day": "Thursday, February 18, 2016",
     "decision": "2016-06-09",
     "decision_day": "Thursday, June 9, 2016",
+    "citation": "185 Wn.2d 673 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/916691.pdf",
     "score": "9-0",
     "votes": [
@@ -3074,6 +3123,7 @@
     "argument_day": "Thursday, February 18, 2016",
     "decision": "2016-04-28",
     "decision_day": "Thursday, April 28, 2016",
+    "citation": "185 Wn.2d 443 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/912475.pdf",
     "score": "9-0",
     "votes": [
@@ -3138,6 +3188,7 @@
     "argument_day": "Tuesday, February 23, 2016",
     "decision": "2016-05-26",
     "decision_day": "Thursday, May 26, 2016",
+    "citation": "185 Wn.2d 594 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/919780.pdf",
     "score": "9-0",
     "votes": [
@@ -3194,7 +3245,7 @@
   },
   {
     "id": "2016-052",
-    "title": "State of Washington v. Juarez Deleon",
+    "title": "State of Washington v. DeLeon",
     "number": "91185-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160223",
     "questions": "Were the defendants prejudiced by gang evidence introduced at their trial for assault?",
@@ -3202,6 +3253,7 @@
     "argument_day": "Tuesday, February 23, 2016",
     "decision": "2016-05-05",
     "decision_day": "Thursday, May 5, 2016",
+    "citation": "185 Wn.2d 478 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/911851.pdf",
     "score": "9-0",
     "votes": [
@@ -3266,6 +3318,7 @@
     "argument_day": "Tuesday, February 23, 2016",
     "decision": "2016-04-21",
     "decision_day": "Thursday, April 21, 2016",
+    "citation": "185 Wn.2d 412 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/893217.pdf",
     "score": "9-0",
     "votes": [
@@ -3326,6 +3379,7 @@
     "argument_day": "Thursday, March 10, 2016",
     "decision": "2016-10-06",
     "decision_day": "Thursday, October 6, 2016",
+    "citation": "186 Wn.2d 716 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/919691.pdf",
     "score": "5-4",
     "votes": [
@@ -3390,6 +3444,7 @@
     "argument_day": "Thursday, March 10, 2016",
     "decision": "2016-09-15",
     "decision_day": "Thursday, September 15, 2016",
+    "citation": "186 Wn.2d 506 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/919861.pdf",
     "score": "7-2",
     "votes": [
@@ -3454,6 +3509,7 @@
     "argument_day": "Thursday, March 10, 2016",
     "decision": "2016-06-09",
     "decision_day": "Thursday, June 9, 2016",
+    "citation": "185 Wn.2d 703 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/917779.pdf",
     "score": "9-0",
     "votes": [
@@ -3518,6 +3574,7 @@
     "argument_day": "Tuesday, March 15, 2016",
     "decision": "2016-05-26",
     "decision_day": "Thursday, May 26, 2016",
+    "citation": "185 Wn.2d 608 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/927081.pdf",
     "score": "9-0",
     "votes": [
@@ -3582,6 +3639,7 @@
     "argument_day": "Tuesday, March 15, 2016",
     "decision": "2016-04-28",
     "decision_day": "Thursday, April 28, 2016",
+    "citation": "185 Wn.2d 466 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/919631.pdf",
     "score": "9-0",
     "votes": [
@@ -3646,6 +3704,7 @@
     "argument_day": "Tuesday, May 3, 2016",
     "decision": "2016-09-29",
     "decision_day": "Thursday, September 29, 2016",
+    "citation": "186 Wn.2d 614 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/924210.pdf",
     "score": "7-2",
     "votes": [
@@ -3710,6 +3769,7 @@
     "argument_day": "Tuesday, May 3, 2016",
     "decision": "2016-09-08",
     "decision_day": "Thursday, September 8, 2016",
+    "citation": "186 Wn.2d 466 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/917574.pdf",
     "score": "9-0",
     "votes": [
@@ -3766,7 +3826,7 @@
   },
   {
     "id": "2016-061",
-    "title": "In re Parental Rights to B.P.",
+    "title": "Department of Social & Health Services v. H.O.",
     "number": "91925-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160503",
     "questions": "Did the trial court err by finding that the State provided all necessary and available services before terminating the petitioner's parental rights? Did the trial court err by finding that the petitioner was an unfit parent?",
@@ -3774,6 +3834,7 @@
     "argument_day": "Tuesday, May 3, 2016",
     "decision": "2016-07-28",
     "decision_day": "Thursday, July 28, 2016",
+    "citation": "186 Wn.2d 292 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/919259.pdf",
     "score": "5-4",
     "votes": [
@@ -3838,6 +3899,7 @@
     "argument_day": "Thursday, May 5, 2016",
     "decision": "2016-07-28",
     "decision_day": "Thursday, July 28, 2016",
+    "citation": "186 Wn.2d 250 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/914940.pdf",
     "score": "9-0",
     "votes": [
@@ -3902,6 +3964,7 @@
     "argument_day": "Thursday, May 5, 2016",
     "decision": "2016-12-22",
     "decision_day": "Thursday, December 22, 2016",
+    "citation": "187 Wn.2d 289 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/915342.pdf",
     "score": "9-0",
     "votes": [
@@ -3966,6 +4029,7 @@
     "argument_day": "Thursday, May 5, 2016",
     "decision": "2016-10-27",
     "decision_day": "Thursday, October 27, 2016",
+    "citation": "186 Wn.2d 884 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/925933.pdf",
     "score": "8-1",
     "votes": [
@@ -4052,6 +4116,7 @@
     "argument_day": "Tuesday, May 10, 2016",
     "decision": "2016-10-27",
     "decision_day": "Thursday, October 27, 2016",
+    "citation": "186 Wn.2d 801 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/912688.pdf",
     "score": "5-4",
     "votes": [
@@ -4116,6 +4181,7 @@
     "argument_day": "Tuesday, May 10, 2016",
     "decision": "2016-08-18",
     "decision_day": "Thursday, August 18, 2016",
+    "citation": "186 Wn.2d 393 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/926719.pdf",
     "score": "9-0",
     "votes": [
@@ -4180,6 +4246,7 @@
     "argument_day": "Thursday, May 12, 2016",
     "decision": "2016-11-23",
     "decision_day": "Wednesday, November 23, 2016",
+    "citation": "187 Wn.2d 44 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/920800.pdf",
     "score": "6-3",
     "votes": [
@@ -4244,6 +4311,7 @@
     "argument_day": "Thursday, May 12, 2016",
     "decision": "2016-09-01",
     "decision_day": "Thursday, September 1, 2016",
+    "citation": "186 Wn.2d 452 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/921610.pdf",
     "score": "7-2",
     "votes": [
@@ -4308,6 +4376,7 @@
     "argument_day": "Thursday, May 12, 2016",
     "decision": "2016-07-14",
     "decision_day": "Thursday, July 14, 2016",
+    "citation": "186 Wn.2d 49 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/919208.pdf",
     "score": "9-0",
     "votes": [
@@ -4364,7 +4433,7 @@
   },
   {
     "id": "2016-071",
-    "title": "In re Adoption of T.A.W.",
+    "title": "R.B. v. C.W.",
     "number": "92127-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160524",
     "questions": "The court must decide whether the state or federal Indian Child Welfare Acts protect the parental rights of a non-custodial, non-Indian biological father",
@@ -4372,6 +4441,7 @@
     "argument_day": "Tuesday, May 24, 2016",
     "decision": "2016-10-27",
     "decision_day": "Thursday, October 27, 2016",
+    "citation": "186 Wn.2d 828 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/921270.pdf",
     "score": "8-1",
     "votes": [
@@ -4428,7 +4498,7 @@
   },
   {
     "id": "2016-072",
-    "title": "In re Dependency of D.L.B.",
+    "title": "Department of Social & Health Services v. Saint-Louis",
     "number": "92448-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2016&file=20160526",
     "questions": "If the parent is not incarcerated at the time of the parental rights termination hearing, must the trial court still consider the incarceration-related factors listed in RCW 13.34.180(f)?",
@@ -4436,6 +4506,7 @@
     "argument_day": "Thursday, May 26, 2016",
     "decision": "2016-07-14",
     "decision_day": "Thursday, July 14, 2016",
+    "citation": "186 Wn.2d 103 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/924481.pdf",
     "score": "9-0",
     "votes": [
@@ -4500,6 +4571,7 @@
     "argument_day": "Thursday, May 26, 2016",
     "decision": "2016-07-14",
     "decision_day": "Thursday, July 14, 2016",
+    "citation": "186 Wn.2d 95 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/921229.pdf",
     "score": "9-0",
     "votes": [
@@ -4564,6 +4636,7 @@
     "argument_day": "Tuesday, June 7, 2016",
     "decision": "2016-08-04",
     "decision_day": "Thursday, August 4, 2016",
+    "citation": "186 Wn.2d 357 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/918015.pdf",
     "score": "9-0",
     "votes": [
@@ -4628,6 +4701,7 @@
     "argument_day": "Tuesday, June 7, 2016",
     "decision": "2016-07-21",
     "decision_day": "Thursday, July 21, 2016",
+    "citation": "186 Wn.2d 235 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/922616.pdf",
     "score": "9-0",
     "votes": [
@@ -4692,6 +4766,7 @@
     "argument_day": "Tuesday, June 21, 2016",
     "decision": "2016-09-15",
     "decision_day": "Thursday, September 15, 2016",
+    "citation": "186 Wn.2d 537 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/922152.pdf",
     "score": "9-0",
     "votes": [
@@ -4756,6 +4831,7 @@
     "argument_day": "Tuesday, June 21, 2016",
     "decision": "2016-12-08",
     "decision_day": "Thursday, December 8, 2016",
+    "citation": "187 Wn.2d 85 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/922934.pdf",
     "score": "7-2",
     "votes": [
@@ -4820,6 +4896,7 @@
     "argument_day": "Tuesday, June 21, 2016",
     "decision": "2016-09-15",
     "decision_day": "Thursday, September 15, 2016",
+    "citation": "186 Wn.2d 556 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/923248.pdf",
     "score": "7-2",
     "votes": [
@@ -4884,6 +4961,7 @@
     "argument_day": "Thursday, June 23, 2016",
     "decision": "2016-10-27",
     "decision_day": "Thursday, October 27, 2016",
+    "citation": "186 Wn.2d 869 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/923108.pdf",
     "score": "5-4",
     "votes": [
@@ -4948,6 +5026,7 @@
     "argument_day": "Thursday, June 23, 2016",
     "decision": "2016-08-18",
     "decision_day": "Thursday, August 18, 2016",
+    "citation": "186 Wn.2d 385 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/924899.pdf",
     "score": "9-0",
     "votes": [
@@ -5008,6 +5087,7 @@
     "argument_day": "Thursday, July 7, 2016",
     "decision": "2016-11-17",
     "decision_day": "Thursday, November 17, 2016",
+    "citation": "187 Wn.2d 27 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/922161.pdf",
     "score": "9-0",
     "votes": [
@@ -5068,6 +5148,7 @@
     "argument_day": "Thursday, July 7, 2016",
     "decision": "2016-08-18",
     "decision_day": "Thursday, August 18, 2016",
+    "citation": "186 Wn.2d 372 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/922748.pdf",
     "score": "9-0",
     "votes": [
@@ -5128,6 +5209,7 @@
     "argument_day": "Thursday, July 7, 2016",
     "decision": "2016-12-15",
     "decision_day": "Thursday, December 15, 2016",
+    "citation": "187 Wn.2d 148 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/923329.pdf",
     "score": "9-0",
     "votes": [
@@ -5188,6 +5270,7 @@
     "argument_day": "Thursday, September 8, 2016",
     "decision": "2016-11-03",
     "decision_day": "Thursday, November 3, 2016",
+    "citation": "186 Wn.2d 921 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/924830.pdf",
     "score": "9-0",
     "votes": [
@@ -5252,6 +5335,7 @@
     "argument_day": "Thursday, September 8, 2016",
     "decision": "2016-12-29",
     "decision_day": "Thursday, December 29, 2016",
+    "citation": "187 Wn.2d 326 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/917116.pdf",
     "score": "9-0",
     "votes": [
@@ -5316,6 +5400,7 @@
     "argument_day": "Thursday, September 8, 2016",
     "decision": "2016-11-10",
     "decision_day": "Thursday, November 10, 2016",
+    "citation": "187 Wn.2d 15 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/927758.pdf",
     "score": "9-0",
     "votes": [
@@ -5380,6 +5465,7 @@
     "argument_day": "Tuesday, September 20, 2016",
     "decision": "2016-11-10",
     "decision_day": "Thursday, November 10, 2016",
+    "citation": "187 Wn.2d 1 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/926204.pdf",
     "score": "9-0",
     "votes": [
@@ -5444,6 +5530,7 @@
     "argument_day": "Tuesday, September 20, 2016",
     "decision": "2016-12-22",
     "decision_day": "Thursday, December 22, 2016",
+    "citation": "187 Wn.2d 188 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/2014356.pdf",
     "score": "9-0",
     "votes": [
@@ -5508,6 +5595,7 @@
     "argument_day": "Thursday, September 22, 2016",
     "decision": "2016-12-15",
     "decision_day": "Thursday, December 15, 2016",
+    "citation": "187 Wn.2d 157 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/927499.pdf",
     "score": "9-0",
     "votes": [
@@ -5572,6 +5660,7 @@
     "argument_day": "Thursday, October 13, 2016",
     "decision": "2016-12-29",
     "decision_day": "Thursday, December 29, 2016",
+    "citation": "187 Wn.2d 346 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/928053.pdf",
     "score": "9-0",
     "votes": [
@@ -5636,6 +5725,7 @@
     "argument_day": "Tuesday, October 18, 2016",
     "decision": "2016-12-15",
     "decision_day": "Thursday, December 15, 2016",
+    "citation": "187 Wn.2d 127 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/895856.pdf",
     "score": "9-0",
     "votes": [
@@ -5700,6 +5790,7 @@
     "argument_day": "Thursday, October 27, 2016",
     "decision": "2016-12-08",
     "decision_day": "Thursday, December 8, 2016",
+    "citation": "187 Wn.2d 115 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/929301.pdf",
     "score": "9-0",
     "votes": [
@@ -5764,6 +5855,7 @@
     "argument_day": "Thursday, October 27, 2016",
     "decision": "2016-12-08",
     "decision_day": "Thursday, December 8, 2016",
+    "citation": "187 Wn.2d 106 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/926166.pdf",
     "score": "9-0",
     "votes": [
@@ -5828,6 +5920,7 @@
     "argument_day": "Tuesday, November 8, 2016",
     "decision": "2016-12-22",
     "decision_day": "Thursday, December 22, 2016",
+    "citation": "187 Wn.2d 308 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/929785.pdf",
     "score": "9-0",
     "votes": [
@@ -5904,6 +5997,7 @@
     "number": "91148-7",
     "decision": "2016-02-25",
     "decision_day": "Thursday, February 25, 2016",
+    "citation": "185 Wn.2d 143 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/911487.pdf"
   },
   {
@@ -5912,6 +6006,7 @@
     "number": "90976-8",
     "decision": "2016-02-25",
     "decision_day": "Thursday, February 25, 2016",
+    "citation": "185 Wn.2d 127 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/909768.pdf"
   },
   {
@@ -5920,6 +6015,7 @@
     "number": "91843-1",
     "decision": "2016-03-03",
     "decision_day": "Thursday, March 3, 2016",
+    "citation": "185 Wn.2d 158 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/918431.pdf"
   },
   {
@@ -5928,14 +6024,16 @@
     "number": "92190-3",
     "decision": "2016-04-07",
     "decision_day": "Thursday, April 7, 2016",
+    "citation": "185 Wn.2d 405 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/921903.pdf"
   },
   {
     "id": "2016-101",
-    "title": "In re Custody of M.W.",
+    "title": "Minium v. Shmilenko",
     "number": "90072-8",
     "decision": "2016-07-07",
     "decision_day": "Thursday, July 7, 2016",
+    "citation": "185 Wn.2d 803 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/900728.pdf"
   },
   {
@@ -5944,6 +6042,7 @@
     "number": "92060-5",
     "decision": "2016-07-14",
     "decision_day": "Thursday, July 14, 2016",
+    "citation": "186 Wn.2d 85 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/920605.pdf"
   },
   {
@@ -5952,6 +6051,7 @@
     "number": "92594-1",
     "decision": "2016-09-22",
     "decision_day": "Thursday, September 22, 2016",
+    "citation": "186 Wn.2d 596 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/925941.pdf"
   },
   {
@@ -5960,6 +6060,7 @@
     "number": "93173-9",
     "decision": "2016-12-15",
     "decision_day": "Thursday, December 15, 2016",
+    "citation": "187 Wn.2d 184 (2016)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/931739.pdf"
   }
 ]

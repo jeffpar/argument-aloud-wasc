@@ -1,11 +1,424 @@
 {
+  "2002-01-31": [
+    {
+      "type": "argument",
+      "id": "2003-002",
+      "term": "2003",
+      "number": "70814-2",
+      "title": "Washington Water Jet Workers Ass'n v. Yarbrough"
+    }
+  ],
+  "2002-03-14": [
+    {
+      "type": "argument",
+      "id": "2003-003",
+      "term": "2003",
+      "number": "71451-7",
+      "title": "City of Sumner v. Walsh"
+    }
+  ],
+  "2002-05-07": [
+    {
+      "type": "argument",
+      "id": "2003-004",
+      "term": "2003",
+      "number": "08652-4",
+      "title": "In re Schafer, Attorney at Law"
+    }
+  ],
+  "2002-05-09": [
+    {
+      "type": "argument",
+      "id": "2003-005",
+      "term": "2003",
+      "number": "71251-4",
+      "title": "In re Tortorelli"
+    }
+  ],
+  "2002-05-16": [
+    {
+      "type": "argument",
+      "id": "2003-006",
+      "term": "2003",
+      "number": "71713-3",
+      "title": "Kommavongsa v. Haskell"
+    }
+  ],
+  "2002-05-23": [
+    {
+      "type": "argument",
+      "id": "2003-007",
+      "term": "2003",
+      "number": "71681-1",
+      "title": "State of Washington v. Tili"
+    }
+  ],
+  "2002-05-29": [
+    {
+      "type": "argument",
+      "id": "2003-008",
+      "term": "2003",
+      "number": "70967-0",
+      "title": "In re Bishop"
+    },
+    {
+      "type": "argument",
+      "id": "2003-009",
+      "term": "2003",
+      "number": "70488-1",
+      "title": "In re Detention of Thorell"
+    },
+    {
+      "type": "argument",
+      "id": "2003-010",
+      "term": "2003",
+      "number": "69574-1",
+      "title": "In re Detention of Thorell"
+    },
+    {
+      "type": "argument",
+      "id": "2003-011",
+      "term": "2003",
+      "number": "71811-3",
+      "title": "Tegman v. Accident & Medical Investigations, Inc."
+    },
+    {
+      "type": "argument",
+      "id": "2003-012",
+      "term": "2003",
+      "number": "71315-4",
+      "title": "In re Johnson"
+    },
+    {
+      "type": "argument",
+      "id": "2003-013",
+      "term": "2003",
+      "number": "71059-7",
+      "title": "State of Washington v. Strauss"
+    },
+    {
+      "type": "argument",
+      "id": "2003-014",
+      "term": "2003",
+      "number": "70405-8",
+      "title": "In re Ross"
+    }
+  ],
+  "2002-06-11": [
+    {
+      "type": "argument",
+      "id": "2003-015",
+      "term": "2003",
+      "number": "71783-4",
+      "title": "Michak v. Transnation Title Insurance"
+    }
+  ],
+  "2002-06-25": [
+    {
+      "type": "argument",
+      "id": "2003-016",
+      "term": "2003",
+      "number": "71296-4",
+      "title": "Eggleston v. Pierce County"
+    }
+  ],
+  "2002-06-27": [
+    {
+      "type": "argument",
+      "id": "2003-017",
+      "term": "2003",
+      "number": "71794-0",
+      "title": "State of Washington v. Pauling"
+    },
+    {
+      "type": "argument",
+      "id": "2003-018",
+      "term": "2003",
+      "number": "71867-9",
+      "title": "State of Washington v. Johnson"
+    }
+  ],
+  "2002-09-19": [
+    {
+      "type": "argument",
+      "id": "2003-019",
+      "term": "2003",
+      "number": "71847-4",
+      "title": "Retired Public Employees Council v. Charles"
+    },
+    {
+      "type": "argument",
+      "id": "2003-020",
+      "term": "2003",
+      "number": "71905-5",
+      "title": "Young v. Clark"
+    },
+    {
+      "type": "argument",
+      "id": "2003-021",
+      "term": "2003",
+      "number": "70874-6",
+      "title": "Northwest Ecosystem Alliance v. Forest Practices Board"
+    },
+    {
+      "type": "argument",
+      "id": "2003-022",
+      "term": "2003",
+      "number": "71926-8",
+      "title": "Shoop v. Kittitas County"
+    }
+  ],
+  "2002-09-24": [
+    {
+      "type": "argument",
+      "id": "2003-023",
+      "term": "2003",
+      "number": "71855-5",
+      "title": "Hickle v. Whitney Farms, Inc."
+    },
+    {
+      "type": "argument",
+      "id": "2003-024",
+      "term": "2003",
+      "number": "71918-7",
+      "title": "State of Washington v. DeSantiago"
+    }
+  ],
+  "2002-10-15": [
+    {
+      "type": "argument",
+      "id": "2003-025",
+      "term": "2003",
+      "number": "71858-0",
+      "title": "Denaxas v. Sandstone Court of Bellevue, L.L.C."
+    },
+    {
+      "type": "argument",
+      "id": "2003-026",
+      "term": "2003",
+      "number": "72456-3",
+      "title": "Washington Ass'n of Neighborhood Stores v. State of Washington"
+    },
+    {
+      "type": "argument",
+      "id": "2003-027",
+      "term": "2003",
+      "number": "71906-3",
+      "title": "State of Washington v. Ward"
+    },
+    {
+      "type": "argument",
+      "id": "2003-028",
+      "term": "2003",
+      "number": "71430-4",
+      "title": "HJS Development, Inc. v. Pierce County"
+    }
+  ],
+  "2002-10-17": [
+    {
+      "type": "argument",
+      "id": "2003-029",
+      "term": "2003",
+      "number": "72250-1",
+      "title": "Davis v. Microsoft Corp."
+    },
+    {
+      "type": "argument",
+      "id": "2003-030",
+      "term": "2003",
+      "number": "71969-1",
+      "title": "State of Washington v. Delgado"
+    },
+    {
+      "type": "argument",
+      "id": "2003-031",
+      "term": "2003",
+      "number": "72081-9",
+      "title": "State of Washington v. Mertens"
+    }
+  ],
+  "2002-10-22": [
+    {
+      "type": "argument",
+      "id": "2003-032",
+      "term": "2003",
+      "number": "72113-1",
+      "title": "Clawson v. Grays Harbor College District No. 2"
+    },
+    {
+      "type": "argument",
+      "id": "2003-033",
+      "term": "2003",
+      "number": "72116-5",
+      "title": "Puget Sound Energy, Inc. v. Alba General Insurance"
+    }
+  ],
+  "2002-10-24": [
+    {
+      "type": "argument",
+      "id": "2003-034",
+      "term": "2003",
+      "number": "72712-1",
+      "title": "Parents Involved in v. State of Washington"
+    },
+    {
+      "type": "argument",
+      "id": "2003-035",
+      "term": "2003",
+      "number": "72264-1",
+      "title": "Scott v. Trans-System, Inc."
+    },
+    {
+      "type": "argument",
+      "id": "2003-036",
+      "term": "2003",
+      "number": "72104-1",
+      "title": "State of Washington v. Wilson"
+    },
+    {
+      "type": "argument",
+      "id": "2003-037",
+      "term": "2003",
+      "number": "72780-5",
+      "title": "State of Washington v. Taylor"
+    }
+  ],
+  "2002-11-07": [
+    {
+      "type": "argument",
+      "id": "2003-038",
+      "term": "2003",
+      "number": "13294-1",
+      "title": "In re Mckean, Attorney at Law"
+    },
+    {
+      "type": "argument",
+      "id": "2003-039",
+      "term": "2003",
+      "number": "72862-3",
+      "title": "Webster v. Public School Employees of Washington, Inc."
+    }
+  ],
   "2002-11-13": [
     {
       "type": "argument",
-      "id": "2003-001",
+      "id": "2003-040",
+      "term": "2003",
+      "number": "72265-0",
+      "title": "New Hampshire Indemnity Co. v. Budget Rent-A-Car Systems, Inc."
+    },
+    {
+      "type": "argument",
+      "id": "2003-041",
+      "term": "2003",
+      "number": "72354-1",
+      "title": "State of Washington v. Banks"
+    },
+    {
+      "type": "argument",
+      "id": "2003-042",
+      "term": "2003",
+      "number": "72273-1",
+      "title": "Mader v. Health Care Authority"
+    },
+    {
+      "type": "argument",
+      "id": "2003-043",
       "term": "2003",
       "number": "71934-9",
       "title": "Washington Public Ports v. State of Washington"
+    }
+  ],
+  "2002-11-14": [
+    {
+      "type": "argument",
+      "id": "2003-044",
+      "term": "2003",
+      "number": "72329-0",
+      "title": "Stahl v. Delicor of Puget Sound, Inc."
+    },
+    {
+      "type": "argument",
+      "id": "2003-045",
+      "term": "2003",
+      "number": "72251-0",
+      "title": "State of Washington v. DeVries"
+    },
+    {
+      "type": "argument",
+      "id": "2003-046",
+      "term": "2003",
+      "number": "72259-5",
+      "title": "State of Washington v. Acrey"
+    },
+    {
+      "type": "argument",
+      "id": "2003-047",
+      "term": "2003",
+      "number": "72284-6",
+      "title": "In re Jannot"
+    }
+  ],
+  "2002-11-19": [
+    {
+      "type": "argument",
+      "id": "2003-048",
+      "term": "2003",
+      "number": "72282-0",
+      "title": "Dahl-Smyth, Inc. v. City of Walla Walla"
+    },
+    {
+      "type": "argument",
+      "id": "2003-049",
+      "term": "2003",
+      "number": "72330-3",
+      "title": "Washington Independent Telephone Ass'n v. Washington Utilities & Transportation Commission"
+    },
+    {
+      "type": "argument",
+      "id": "2003-050",
+      "term": "2003",
+      "number": "72598-5",
+      "title": "Braam v. State of Washington"
+    },
+    {
+      "type": "argument",
+      "id": "2003-051",
+      "term": "2003",
+      "number": "72186-6",
+      "title": "Citizens for Responsible v. State of Washington"
+    }
+  ],
+  "2002-11-21": [
+    {
+      "type": "argument",
+      "id": "2003-052",
+      "term": "2003",
+      "number": "72332-0",
+      "title": "State of Washington v. Harrison"
+    },
+    {
+      "type": "argument",
+      "id": "2003-053",
+      "term": "2003",
+      "number": "72882-8",
+      "title": "Mt. Hood Beverage Co. v. Constellation Brands, Inc."
+    },
+    {
+      "type": "argument",
+      "id": "2004-001",
+      "term": "2004",
+      "number": "72485-7",
+      "title": "In re Orange"
+    }
+  ],
+  "2002-12-10": [
+    {
+      "type": "argument",
+      "id": "2003-054",
+      "term": "2003",
+      "number": "73235-3",
+      "title": "Washington State Labor Council v. Reed"
     }
   ]
 }

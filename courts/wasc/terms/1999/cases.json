@@ -1,6 +1,135 @@
 [
   {
     "id": "1999-001",
+    "title": "R.D. Merrill Co. v. Pollution Control Hearings Board",
+    "number": "64607-4",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=f&file=10-14",
+    "argument": "1997-10-14",
+    "argument_day": "Tuesday, October 14, 1997",
+    "decision": "1999-01-07",
+    "decision_day": "Thursday, January 7, 1999",
+    "citation": "137 Wn.2d 118 (1999)"
+  },
+  {
+    "id": "1999-002",
+    "title": "State of Washington v. Finch",
+    "number": "62938-2",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1997&season=f&file=11-20",
+    "argument": "1997-11-20",
+    "argument_day": "Thursday, November 20, 1997",
+    "decision": "1999-05-06",
+    "decision_day": "Thursday, May 6, 1999",
+    "citation": "137 Wn.2d 792 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1997-11-20",
+        "title": "Oral Argument on Thursday, November 20, 1997",
+        "page_url": "https://tvw.org/video/supreme-court-oral-arguments-121/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199711/1997110068.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1997111010/media.m3u8",
+        "length": "01:51:38",
+        "captions_url": "https://m-download.invintus.com/9375922947/a59dd2bd18a2c3535a12892129cc594361637d35.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-003",
+    "title": "Perkins v. CTX Mortgage Co.",
+    "number": "64581-7",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=w&file=98-01-14",
+    "argument": "1998-01-14",
+    "argument_day": "Wednesday, January 14, 1998",
+    "decision": "1999-01-07",
+    "decision_day": "Thursday, January 7, 1999",
+    "citation": "137 Wn.2d 93 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-01-14",
+        "title": "Oral Argument on Wednesday, January 14, 1998",
+        "page_url": "https://tvw.org/video/supreme-court-oral-arguments-133/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/04bcff6c446ab877c5cf0104b1acf583a91baaab.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998011256/media.m3u8",
+        "length": "01:03:13",
+        "captions_url": "https://m-download.invintus.com/9375922947/add1516c673baedaaff48d1ba4f6f7992f8f8d78.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-004",
+    "title": "State of Washington v. Martin",
+    "number": "65454-9",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=w&file=98-02-24",
+    "argument": "1998-02-24",
+    "argument_day": "Tuesday, February 24, 1998",
+    "decision": "1999-01-07",
+    "decision_day": "Thursday, January 7, 1999",
+    "citation": "137 Wn.2d 149 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-02-24",
+        "title": "Oral Argument on Tuesday, February 24, 1998",
+        "page_url": "https://tvw.org/video/supreme-court-oral-arguments-146/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199802/1998020092C.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998021071/media.m3u8",
+        "length": "00:39:55",
+        "captions_url": "https://m-download.invintus.com/9375922947/30b106998ec3426efeeded7861fff8e1e79a62d6.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-005",
+    "title": "In re Turay",
+    "number": "64100-5",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=s&file=98-05-13",
+    "argument": "1998-05-13",
+    "argument_day": "Wednesday, May 13, 1998",
+    "decision": "1999-10-21",
+    "decision_day": "Thursday, October 21, 1999",
+    "citation": "139 Wn.2d 379 (1999)"
+  },
+  {
+    "id": "1999-006",
+    "title": "In re Campbell",
+    "number": "63986-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=s&file=98-05-13",
+    "argument": "1998-05-13",
+    "argument_day": "Wednesday, May 13, 1998",
+    "decision": "1999-10-21",
+    "decision_day": "Thursday, October 21, 1999",
+    "citation": "139 Wn.2d 341 (1999)"
+  },
+  {
+    "id": "1999-007",
+    "title": "Landmark Development, Inc. v. City of Roy",
+    "number": "65817-0",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=s&file=98-05-19",
+    "argument": "1998-05-19",
+    "argument_day": "Tuesday, May 19, 1998",
+    "decision": "1999-07-22",
+    "decision_day": "Thursday, July 22, 1999",
+    "citation": "138 Wn.2d 561 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-05-19",
+        "title": "Oral Argument on Tuesday, May 19, 1998",
+        "page_url": "https://tvw.org/video/supreme-court-oral-arguments-180/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199805/1998050009D.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998051044/media.m3u8",
+        "length": "00:43:50",
+        "captions_url": "https://m-download.invintus.com/9375922947/dcc84a1a229ff1249f0700acafa01a4e3ca7ac98.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-008",
     "title": "State of Washington v. Ladson",
     "number": "65801-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=s&file=98-05-20",
@@ -64,7 +193,671 @@
     ]
   },
   {
-    "id": "1999-002",
+    "id": "1999-009",
+    "title": "W.R. Grace & Co. v. Department of Revenue",
+    "number": "64335-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=s&file=98-06-09",
+    "argument": "1998-06-09",
+    "argument_day": "Tuesday, June 9, 1998",
+    "decision": "1999-04-01",
+    "decision_day": "Thursday, April 1, 1999",
+    "citation": "137 Wn.2d 580 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-06-09",
+        "title": "Oral Argument on Tuesday, June 9, 1998",
+        "page_url": "https://tvw.org/video/supreme-court-oral-arguments-199/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199806/1998060005A.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998061106/media.m3u8",
+        "length": "01:14:05",
+        "captions_url": "https://m-download.invintus.com/9375922947/b705487db4b9b362df5bd8b7eba3ddcd75a41796.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-010",
+    "title": "Buffelen Woodworking v. State of Washington",
+    "number": "65608-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=s&file=98-06-09",
+    "argument": "1998-06-09",
+    "argument_day": "Tuesday, June 9, 1998",
+    "decision": "1999-04-01",
+    "decision_day": "Thursday, April 1, 1999",
+    "citation": "137 Wn.2d 580 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-06-09",
+        "title": "Oral Argument on Tuesday, June 9, 1998",
+        "page_url": "https://tvw.org/video/supreme-court-oral-arguments-200/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199806/1998060005B.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998061107/media.m3u8",
+        "length": "00:56:35",
+        "captions_url": "https://m-download.invintus.com/9375922947/84888d2bc12c92e7d34bf025b680187bcd097a38.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-011",
+    "title": "Wilson v. Horsley",
+    "number": "66037-9",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=s&file=98-06-09",
+    "argument": "1998-06-09",
+    "argument_day": "Tuesday, June 9, 1998",
+    "decision": "1999-03-11",
+    "decision_day": "Thursday, March 11, 1999",
+    "citation": "137 Wn.2d 500 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-06-09",
+        "title": "Oral Argument on Tuesday, June 9, 1998",
+        "page_url": "https://tvw.org/video/supreme-court-oral-arguments-202/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199806/1998060005D.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998061109/media.m3u8",
+        "length": "00:38:04",
+        "captions_url": "https://m-download.invintus.com/9375922947/3d0142ca3fe329267f268e90b41862a9f2e16e53.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-012",
+    "title": "State of Washington v. Fields",
+    "number": "66108-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=s&file=98-06-16",
+    "argument": "1998-06-16",
+    "argument_day": "Tuesday, June 16, 1998",
+    "decision": "1999-04-01",
+    "decision_day": "Thursday, April 1, 1999",
+    "citation": "137 Wn.2d 533 (1999)"
+  },
+  {
+    "id": "1999-013",
+    "title": "State of Washington v. Ameline",
+    "number": "65999-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=s&file=98-06-16",
+    "argument": "1998-06-16",
+    "argument_day": "Tuesday, June 16, 1998",
+    "decision": "1999-04-01",
+    "decision_day": "Thursday, April 1, 1999",
+    "citation": "137 Wn.2d 533 (1999)"
+  },
+  {
+    "id": "1999-014",
+    "title": "State of Washington v. Studd",
+    "number": "65943-5",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=s&file=98-06-16",
+    "argument": "1998-06-16",
+    "argument_day": "Tuesday, June 16, 1998",
+    "decision": "1999-04-01",
+    "decision_day": "Thursday, April 1, 1999",
+    "citation": "137 Wn.2d 533 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-06-16",
+        "title": "Oral Argument on Tuesday, June 16, 1998",
+        "page_url": "https://tvw.org/video/supreme-court-oral-arguments-193/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199806/1998060007B.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998061065/media.m3u8",
+        "length": "01:29:33",
+        "captions_url": "https://m-download.invintus.com/9375922947/204c1a160a46e022d9639c370bd3e98961fd7bae.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-015",
+    "title": "State of Washington v. Riley",
+    "number": "65845-5",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=s&file=98-06-16",
+    "argument": "1998-06-16",
+    "argument_day": "Tuesday, June 16, 1998",
+    "decision": "1999-05-13",
+    "decision_day": "Thursday, May 13, 1999",
+    "citation": "137 Wn.2d 904 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-06-16",
+        "title": "Oral Argument on Tuesday, June 16, 1998",
+        "page_url": "https://tvw.org/video/supreme-court-oral-arguments-192/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199806/1998060007A.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998061064/media.m3u8",
+        "length": "00:44:04",
+        "captions_url": "https://m-download.invintus.com/9375922947/159fed85703668cd06d977b978e1e8c523459910.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-016",
+    "title": "State of Washington v. Cook",
+    "number": "65948-6",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=s&file=98-06-16",
+    "argument": "1998-06-16",
+    "argument_day": "Tuesday, June 16, 1998",
+    "decision": "1999-04-01",
+    "decision_day": "Thursday, April 1, 1999",
+    "citation": "137 Wn.2d 533 (1999)"
+  },
+  {
+    "id": "1999-017",
+    "title": "State of Washington v. Bennett",
+    "number": "65956-7",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=s&file=98-06-16",
+    "argument": "1998-06-16",
+    "argument_day": "Tuesday, June 16, 1998",
+    "decision": "1999-04-01",
+    "decision_day": "Thursday, April 1, 1999",
+    "citation": "137 Wn.2d 533 (1999)"
+  },
+  {
+    "id": "1999-018",
+    "title": "State of Washington v. McLoyd",
+    "number": "65995-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=s&file=98-06-16",
+    "argument": "1998-06-16",
+    "argument_day": "Tuesday, June 16, 1998",
+    "decision": "1999-04-01",
+    "decision_day": "Thursday, April 1, 1999",
+    "citation": "137 Wn.2d 533 (1999)"
+  },
+  {
+    "id": "1999-019",
+    "title": "In re Gronquist",
+    "number": "66271-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=s&file=98-06-17",
+    "argument": "1998-06-17",
+    "argument_day": "Wednesday, June 17, 1998",
+    "decision": "1999-06-24",
+    "decision_day": "Thursday, June 24, 1999",
+    "citation": "138 Wn.2d 388 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-06-17",
+        "title": "Oral Argument on Wednesday, June 17, 1998",
+        "page_url": "https://tvw.org/video/supreme-court-oral-arguments-189/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199806/1998060088B.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998061055/media.m3u8",
+        "length": "00:57:05",
+        "captions_url": "https://m-download.invintus.com/9375922947/860b46ed1dd09bbb9255cfb558cf850e0319a86a.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-020",
+    "title": "Backlund v. State of Washington",
+    "number": "66096-4",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=s&file=98-06-17",
+    "argument": "1998-06-17",
+    "argument_day": "Wednesday, June 17, 1998",
+    "decision": "1999-04-08",
+    "decision_day": "Thursday, April 8, 1999",
+    "citation": "137 Wn.2d 651 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-06-17",
+        "title": "Oral Argument on Wednesday, June 17, 1998",
+        "page_url": "https://tvw.org/video/supreme-court-oral-arguments-191/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199806/1998060088D.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998061057/media.m3u8",
+        "length": "00:58:33",
+        "captions_url": "https://m-download.invintus.com/9375922947/ea7643348343c97d94cfcaabb9a35fcc6ef43d8f.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-021",
+    "title": "Soproni v. Polygon Apartment Partners",
+    "number": "65919-2",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=s&file=98-06-23",
+    "argument": "1998-06-23",
+    "argument_day": "Tuesday, June 23, 1998",
+    "decision": "1999-02-11",
+    "decision_day": "Thursday, February 11, 1999",
+    "citation": "137 Wn.2d 319 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-06-23",
+        "title": "Oral Argument on Tuesday, June 23, 1998",
+        "page_url": "https://tvw.org/video/supreme-court-oral-arguments-185/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199806/1998060008A.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998061019/media.m3u8",
+        "length": "00:43:06",
+        "captions_url": "https://m-download.invintus.com/9375922947/a1a575fe20b54b43bc999d9f994ed2ef33bb6071.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-022",
+    "title": "Crosby v. Spokane County",
+    "number": "65924-9",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=s&file=98-06-23",
+    "argument": "1998-06-23",
+    "argument_day": "Tuesday, June 23, 1998",
+    "decision": "1999-02-04",
+    "decision_day": "Thursday, February 4, 1999",
+    "citation": "137 Wn.2d 296 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-06-23",
+        "title": "Oral Argument on Tuesday, June 23, 1998",
+        "page_url": "https://tvw.org/video/supreme-court-oral-arguments-186/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199806/1998060008B.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998061020/media.m3u8",
+        "length": "00:42:40",
+        "captions_url": "https://m-download.invintus.com/9375922947/dcd67ee00b2973ceaa4960051d42fca3fd7020e3.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-023",
+    "title": "National Electrical Contractors Ass'n v. Riveland",
+    "number": "65953-2",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-09-09",
+    "argument": "1998-09-09",
+    "argument_day": "Wednesday, September 9, 1998",
+    "decision": "1999-06-03",
+    "decision_day": "Thursday, June 3, 1999",
+    "citation": "138 Wn.2d 9 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-09-09",
+        "title": "Oral Argument on Wednesday, September 9, 1998",
+        "page_url": "https://tvw.org/video/wa-state-supreme-court-2/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/3dea26b3c61af35281079f45ade572be3de6b98c.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998091117/media.m3u8",
+        "length": "01:02:10",
+        "captions_url": "https://m-download.invintus.com/9375922947/dd059ee9b3580c3023c95ab5a703b8536173a2d2.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-024",
+    "title": "In re Petersen",
+    "number": "65866-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-09-09",
+    "argument": "1998-09-09",
+    "argument_day": "Wednesday, September 9, 1998",
+    "decision": "1999-06-10",
+    "decision_day": "Thursday, June 10, 1999",
+    "citation": "138 Wn.2d 70 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-09-09",
+        "title": "Oral Argument on Wednesday, September 9, 1998",
+        "page_url": "https://tvw.org/video/wa-state-supreme-court-4/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/4f70b3bc86c860d31b0c27ae7a96da4e12501372.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998091119/media.m3u8",
+        "length": "00:43:05",
+        "captions_url": "https://m-download.invintus.com/9375922947/dcaf488b84bfaced1277a7a9df70e0cd268babc8.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-025",
+    "title": "State of Washington v. Robbins",
+    "number": "66143-0",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-09-10",
+    "argument": "1998-09-10",
+    "argument_day": "Thursday, September 10, 1998",
+    "decision": "1999-07-15",
+    "decision_day": "Thursday, July 15, 1999",
+    "citation": "138 Wn.2d 486 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-09-10",
+        "title": "Oral Argument on Thursday, September 10, 1998",
+        "page_url": "https://tvw.org/video/state-supreme-court-12/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199809/1998090024A.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998091107/media.m3u8",
+        "length": "00:43:31",
+        "captions_url": "https://m-download.invintus.com/9375922947/da17e2a84219aa8c8e78263608dc9d9c9367f82b.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-026",
+    "title": "State of Washington v. Oseguera",
+    "number": "66148-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-09-10",
+    "argument": "1998-09-10",
+    "argument_day": "Thursday, September 10, 1998",
+    "decision": "1999-01-14",
+    "decision_day": "Thursday, January 14, 1999",
+    "citation": "137 Wn.2d 179 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-09-10",
+        "title": "Oral Argument on Thursday, September 10, 1998",
+        "page_url": "https://tvw.org/video/state-supreme-court-13/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199809/1998090024B.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998091108/media.m3u8",
+        "length": "00:32:21",
+        "captions_url": "https://m-download.invintus.com/9375922947/05ad9d829c251141c947809b9189e1411b56675f.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-027",
+    "title": "Civil Service Commission v. City of Kelso",
+    "number": "66212-6",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-09-10",
+    "argument": "1998-09-10",
+    "argument_day": "Thursday, September 10, 1998",
+    "decision": "1999-01-07",
+    "decision_day": "Thursday, January 7, 1999",
+    "citation": "137 Wn.2d 166 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-09-10",
+        "title": "Oral Argument on Thursday, September 10, 1998",
+        "page_url": "https://tvw.org/video/state-supreme-court-14/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199809/1998090024C.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998091109/media.m3u8",
+        "length": "00:36:15",
+        "captions_url": "https://m-download.invintus.com/9375922947/b3379f5890ab69a4922dcf456e8c2708167247e7.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-028",
+    "title": "C.J.C. v. Corporation of Catholic Bishop",
+    "number": "66580-0",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-09-22",
+    "argument": "1998-09-22",
+    "argument_day": "Tuesday, September 22, 1998",
+    "decision": "1999-07-29",
+    "decision_day": "Thursday, July 29, 1999",
+    "citation": "138 Wn.2d 699 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-09-22",
+        "title": "Oral Argument on Tuesday, September 22, 1998",
+        "page_url": "https://tvw.org/video/state-supreme-court-9/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199809/1998090025B.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998091036/media.m3u8",
+        "length": "00:57:50",
+        "captions_url": "https://m-download.invintus.com/9375922947/fc2dc40ef225c6660d28cdae4ba6ab85757fd560.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-029",
+    "title": "C.J.C. v. Corporation of Catholic Bishop",
+    "number": "65654-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-09-22",
+    "argument": "1998-09-22",
+    "argument_day": "Tuesday, September 22, 1998",
+    "decision": "1999-07-29",
+    "decision_day": "Thursday, July 29, 1999",
+    "citation": "138 Wn.2d 699 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-09-22",
+        "title": "Oral Argument on Tuesday, September 22, 1998",
+        "page_url": "https://tvw.org/video/state-supreme-court-9/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199809/1998090025B.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998091036/media.m3u8",
+        "length": "00:57:50",
+        "captions_url": "https://m-download.invintus.com/9375922947/fc2dc40ef225c6660d28cdae4ba6ab85757fd560.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-030",
+    "title": "State of Washington v. Halgren",
+    "number": "66231-2",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-09-22",
+    "argument": "1998-09-22",
+    "argument_day": "Tuesday, September 22, 1998",
+    "decision": "1999-02-11",
+    "decision_day": "Thursday, February 11, 1999",
+    "citation": "137 Wn.2d 340 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-09-22",
+        "title": "Oral Argument on Tuesday, September 22, 1998",
+        "page_url": "https://tvw.org/video/state-supreme-court-10/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/8e2a1dbc6e8e5fe9714b3fc85718fc6a784435f4.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998091037/media.m3u8",
+        "length": "00:43:02",
+        "captions_url": "https://m-download.invintus.com/9375922947/3a031a66281220c310c5c818a0b163e6b78c96b0.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-031",
+    "title": "C.J.C. v. Corporation of Catholic Bishop",
+    "number": "66252-5",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-09-22",
+    "argument": "1998-09-22",
+    "argument_day": "Tuesday, September 22, 1998",
+    "decision": "1999-07-29",
+    "decision_day": "Thursday, July 29, 1999",
+    "citation": "138 Wn.2d 699 (1999)"
+  },
+  {
+    "id": "1999-032",
+    "title": "State of Washington v. Jackson",
+    "number": "66220-7",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-09-22",
+    "argument": "1998-09-22",
+    "argument_day": "Tuesday, September 22, 1998",
+    "decision": "1999-04-15",
+    "decision_day": "Thursday, April 15, 1999",
+    "citation": "137 Wn.2d 712 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-09-22",
+        "title": "Oral Argument on Tuesday, September 22, 1998",
+        "page_url": "https://tvw.org/video/state-supreme-court-8/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199809/1998090025A.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998091035/media.m3u8",
+        "length": "00:43:39",
+        "captions_url": "https://m-download.invintus.com/9375922947/b588192f137180ed8ef5fffe7f8ad4a199b0baaa.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-033",
+    "title": "State of Washington v. Mendez",
+    "number": "66318-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-09-23",
+    "argument": "1998-09-23",
+    "argument_day": "Wednesday, September 23, 1998",
+    "decision": "1999-01-28",
+    "decision_day": "Thursday, January 28, 1999",
+    "citation": "137 Wn.2d 208 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-09-23",
+        "title": "Oral Argument on Wednesday, September 23, 1998",
+        "page_url": "https://tvw.org/video/state-supreme-court-4/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199809/1998090026A.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998091031/media.m3u8",
+        "length": "00:35:54",
+        "captions_url": "https://m-download.invintus.com/9375922947/c1fdceb54d41edec2ef78df5da8cd56b6d3723ea.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-034",
+    "title": "State of Washington v. Hunnel",
+    "number": "66523-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-09-23",
+    "argument": "1998-09-23",
+    "argument_day": "Wednesday, September 23, 1998",
+    "decision": "1999-11-04",
+    "decision_day": "Thursday, November 4, 1999",
+    "citation": "139 Wn.2d 486 (1999)"
+  },
+  {
+    "id": "1999-035",
+    "title": "State of Washington v. Parker",
+    "number": "66147-2",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-09-23",
+    "argument": "1998-09-23",
+    "argument_day": "Wednesday, September 23, 1998",
+    "decision": "1999-11-04",
+    "decision_day": "Thursday, November 4, 1999",
+    "citation": "139 Wn.2d 486 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-09-23",
+        "title": "Oral Argument on Wednesday, September 23, 1998",
+        "page_url": "https://tvw.org/video/state-supreme-court-5/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199809/1998090026B.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998091032/media.m3u8",
+        "length": "01:02:16",
+        "captions_url": "https://m-download.invintus.com/9375922947/452806a694ff28ec369b7820a79498ae2a2a2c8e.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-036",
+    "title": "State of Washington v. Jines",
+    "number": "66522-2",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-09-23",
+    "argument": "1998-09-23",
+    "argument_day": "Wednesday, September 23, 1998",
+    "decision": "1999-11-04",
+    "decision_day": "Thursday, November 4, 1999",
+    "citation": "139 Wn.2d 486 (1999)"
+  },
+  {
+    "id": "1999-037",
+    "title": "Hollis v. Garwall, Inc.",
+    "number": "66254-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-09-24",
+    "argument": "1998-09-24",
+    "argument_day": "Thursday, September 24, 1998",
+    "decision": "1999-04-15",
+    "decision_day": "Thursday, April 15, 1999",
+    "citation": "137 Wn.2d 683 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-09-24",
+        "title": "Oral Argument on Thursday, September 24, 1998",
+        "page_url": "https://tvw.org/video/state-supreme-court/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199809/1998090027A.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998091024/media.m3u8",
+        "length": "00:44:36",
+        "captions_url": "https://m-download.invintus.com/9375922947/7a27622c0c7e0899b3cbc6c767ea56db8837fd6f.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-038",
+    "title": "Watkins v. Peterson Enterprises, Inc.",
+    "number": "66547-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-09-24",
+    "argument": "1998-09-24",
+    "argument_day": "Thursday, September 24, 1998",
+    "decision": "1999-04-01",
+    "decision_day": "Thursday, April 1, 1999",
+    "citation": "137 Wn.2d 632 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-09-24",
+        "title": "Oral Argument on Thursday, September 24, 1998",
+        "page_url": "https://tvw.org/video/state-supreme-court-2/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199809/1998090027B.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998091025/media.m3u8",
+        "length": "01:03:01",
+        "captions_url": "https://m-download.invintus.com/9375922947/44a9957cad0fffc0c8881a8114cd7c84bc8c1976.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-039",
+    "title": "State of Washington v. Ford",
+    "number": "66210-0",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-10-20",
+    "argument": "1998-10-20",
+    "argument_day": "Tuesday, October 20, 1998",
+    "decision": "1999-03-11",
+    "decision_day": "Thursday, March 11, 1999",
+    "citation": "137 Wn.2d 472 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-10-20",
+        "title": "Oral Argument on Tuesday, October 20, 1998",
+        "page_url": "https://tvw.org/video/wa-state-supreme-court-oral-arguments-4/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199810/1998100011A.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998101040/media.m3u8",
+        "length": "00:43:48",
+        "captions_url": "https://m-download.invintus.com/9375922947/227c39ab7043e95a36bb9a1c7f49b8f8763bde9a.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-040",
+    "title": "Ed Nowogroski Insurance v. Rucker",
+    "number": "66224-0",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-10-20",
+    "argument": "1998-10-20",
+    "argument_day": "Tuesday, October 20, 1998",
+    "decision": "1999-02-25",
+    "decision_day": "Thursday, February 25, 1999",
+    "citation": "137 Wn.2d 427 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-10-20",
+        "title": "Oral Argument on Tuesday, October 20, 1998",
+        "page_url": "https://tvw.org/video/wa-state-supreme-court-oral-arguments-6/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/f974a9ac50ba7e6a6d0e4d920f284cf718df3bd9.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998101042/media.m3u8",
+        "length": "00:37:54",
+        "captions_url": "https://m-download.invintus.com/9375922947/9da9592f4c448f1284bf00911d5c44f96bd00c33.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-041",
     "title": "State of Washington v. McCorkle",
     "number": "66275-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-10-20",
@@ -127,12 +920,329 @@
     ]
   },
   {
-    "id": "1999-003",
-    "title": "Melinda Ashley, individually and as guardian ad litem for Annelies Stranahan, a minor child, Respondent, v. Russell C. Hall and Jane Doe Hall, husband and wife, and the marital community composed thereof, Petitioners",
+    "id": "1999-042",
+    "title": "Roberts v. Johnson",
+    "number": "66529-0",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-10-21",
+    "argument": "1998-10-21",
+    "argument_day": "Wednesday, October 21, 1998",
+    "decision": "1999-01-07",
+    "decision_day": "Thursday, January 7, 1999",
+    "citation": "137 Wn.2d 84 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-10-21",
+        "title": "Oral Argument on Wednesday, October 21, 1998",
+        "page_url": "https://tvw.org/video/wa-state-supreme-court-oral-arguments-3/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199810/1998100012C.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998101032/media.m3u8",
+        "length": "00:32:06",
+        "captions_url": "https://m-download.invintus.com/9375922947/91ff9fb2d80258b97ec9aadfd09b034643730663.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-043",
+    "title": "Benjamin v. Washington State Bar Ass'n",
+    "number": "66352-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-10-21",
+    "argument": "1998-10-21",
+    "argument_day": "Wednesday, October 21, 1998",
+    "decision": "1999-07-22",
+    "decision_day": "Thursday, July 22, 1999",
+    "citation": "138 Wn.2d 506 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-10-21",
+        "title": "Oral Argument on Wednesday, October 21, 1998",
+        "page_url": "https://tvw.org/video/wa-state-supreme-court-oral-arguments-2/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199810/1998100012B.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998101031/media.m3u8",
+        "length": "01:04:09",
+        "captions_url": "https://m-download.invintus.com/9375922947/a9f44370e5489aeb351add794ca1008d054de48e.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-044",
+    "title": "Cynthia Nary, Appellant, v. Marcelle E. Hoey and John Doe Hoey, Respondents",
+    "number": "66694-6",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-10-21",
+    "argument": "1998-10-21",
+    "argument_day": "Wednesday, October 21, 1998",
+    "decision": "1999-01-07",
+    "decision_day": "Thursday, January 7, 1999",
+    "citation": "137 Wn.2d 84 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-10-21",
+        "title": "Oral Argument on Wednesday, October 21, 1998",
+        "page_url": "https://tvw.org/video/wa-state-supreme-court-oral-arguments-3/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199810/1998100012C.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998101032/media.m3u8",
+        "length": "00:32:06",
+        "captions_url": "https://m-download.invintus.com/9375922947/91ff9fb2d80258b97ec9aadfd09b034643730663.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-045",
+    "title": "Bishop v. Miche",
+    "number": "66380-7",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-11-17",
+    "argument": "1998-11-17",
+    "argument_day": "Tuesday, November 17, 1998",
+    "decision": "1999-03-25",
+    "decision_day": "Thursday, March 25, 1999",
+    "citation": "137 Wn.2d 518 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-11-17",
+        "title": "Oral Argument on Tuesday, November 17, 1998",
+        "page_url": "https://tvw.org/video/wa-state-supreme-court-7/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/76594bec3eafd8426a39e5559ba4569f5bd3223c.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998111035/media.m3u8",
+        "length": "00:44:35",
+        "size": 449839104,
+        "captions_url": "https://m-download.invintus.com/9375922947/3eca7e1f4243d3623bf058a404361be824242890.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-046",
+    "title": "Hertog v. City of Seattle",
+    "number": "66136-7",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-11-17",
+    "argument": "1998-11-17",
+    "argument_day": "Tuesday, November 17, 1998",
+    "decision": "1999-06-24",
+    "decision_day": "Thursday, June 24, 1999",
+    "citation": "138 Wn.2d 265 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-11-17",
+        "title": "Oral Argument on Tuesday, November 17, 1998",
+        "page_url": "https://tvw.org/video/wa-state-supreme-court-6/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/1ebae325aa4888712ece9f93ab592245cb333eee.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998111034/media.m3u8",
+        "length": "01:03:36",
+        "size": 615514112,
+        "captions_url": "https://m-download.invintus.com/9375922947/7e12c17eb2b0eb4203b158c5ffdaf3b1197ea239.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-047",
+    "title": "Martini v. Boeing Co.",
+    "number": "66239-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-11-17",
+    "argument": "1998-11-17",
+    "argument_day": "Tuesday, November 17, 1998",
+    "decision": "1999-02-11",
+    "decision_day": "Thursday, February 11, 1999",
+    "citation": "137 Wn.2d 357 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-11-17",
+        "title": "Oral Argument on Tuesday, November 17, 1998",
+        "page_url": "https://tvw.org/video/wa-state-supreme-court-8/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/b9741c86c678e8d477afa9ba9a81eea406586ffd.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998111036/media.m3u8",
+        "length": "00:39:31",
+        "captions_url": "https://m-download.invintus.com/9375922947/d5bde8d0a024bf2b0ed8f5965534123734d7272d.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-048",
+    "title": "Warnek v. ABB Combustion Engineering Services, Inc.",
+    "number": "66696-2",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-11-18",
+    "argument": "1998-11-18",
+    "argument_day": "Wednesday, November 18, 1998",
+    "decision": "1999-03-04",
+    "decision_day": "Thursday, March 4, 1999",
+    "citation": "137 Wn.2d 450 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-11-18",
+        "title": "Oral Argument on Wednesday, November 18, 1998",
+        "page_url": "https://tvw.org/video/state-supreme-court-17/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199811/1998110008C.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998111025/media.m3u8",
+        "length": "00:44:03",
+        "captions_url": "https://m-download.invintus.com/9375922947/6b4cd08c8d896e5aa086ae8824268e209ce404c5.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-049",
+    "title": "Aviation West Corp. v. Department of Labor & Industries",
+    "number": "66574-5",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-11-18",
+    "argument": "1998-11-18",
+    "argument_day": "Wednesday, November 18, 1998",
+    "decision": "1999-07-08",
+    "decision_day": "Thursday, July 8, 1999",
+    "citation": "138 Wn.2d 413 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-11-18",
+        "title": "Oral Argument on Wednesday, November 18, 1998",
+        "page_url": "https://tvw.org/video/state-supreme-court-16/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199811/1998110008B.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998111024/media.m3u8",
+        "length": "00:47:30",
+        "captions_url": "https://m-download.invintus.com/9375922947/4e0c2ae7afda52314c147894c20e4a2328063daa.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-050",
+    "title": "Allstate Insurance v. Batacan",
+    "number": "66493-5",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-11-18",
+    "argument": "1998-11-18",
+    "argument_day": "Wednesday, November 18, 1998",
+    "decision": "1999-10-21",
+    "decision_day": "Thursday, October 21, 1999",
+    "citation": "139 Wn.2d 443 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-11-18",
+        "title": "Oral Argument on Wednesday, November 18, 1998",
+        "page_url": "https://tvw.org/video/state-supreme-court-18/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199811/1998110008D.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998111026/media.m3u8",
+        "length": "01:00:25",
+        "captions_url": "https://m-download.invintus.com/9375922947/43c0030e94a679a19597486d4a9ae8903e03ca20.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-051",
+    "title": "State of Washington v. Buchanan",
+    "number": "66054-9",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-11-18",
+    "argument": "1998-11-18",
+    "argument_day": "Wednesday, November 18, 1998",
+    "decision": "1999-06-17",
+    "decision_day": "Thursday, June 17, 1999",
+    "citation": "138 Wn.2d 186 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-11-18",
+        "title": "Oral Argument on Wednesday, November 18, 1998",
+        "page_url": "https://tvw.org/video/state-supreme-court-15/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199811/1998110008A.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998111023/media.m3u8",
+        "length": "01:03:33",
+        "captions_url": "https://m-download.invintus.com/9375922947/67667ece403fce6d7ca31ab1b4701a457f7ced86.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-052",
+    "title": "State of Washington v. Elmore",
+    "number": "64085-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-11-19",
+    "argument": "1998-11-19",
+    "argument_day": "Thursday, November 19, 1998",
+    "decision": "1999-10-07",
+    "decision_day": "Thursday, October 7, 1999",
+    "citation": "139 Wn.2d 250 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-11-19",
+        "title": "Oral Argument on Thursday, November 19, 1998",
+        "page_url": "https://tvw.org/video/wa-state-supreme-court-5/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/90e078f01a2e5708a7c58ff43513f6d80ce08d3f.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998111005/media.m3u8",
+        "length": "03:25:09",
+        "captions_url": "https://m-download.invintus.com/9375922947/2d70151160a8da1a757ce69330b50b251e9a18e2.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-053",
+    "title": "Dumas v. Gagner",
+    "number": "66563-0",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-12-08",
+    "argument": "1998-12-08",
+    "argument_day": "Tuesday, December 8, 1998",
+    "decision": "1999-02-04",
+    "decision_day": "Thursday, February 4, 1999",
+    "citation": "137 Wn.2d 268 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-12-08",
+        "title": "Oral Argument on Tuesday, December 8, 1998",
+        "page_url": "https://tvw.org/video/wa-st-supreme-court-4/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/c96a5c1a761443f27e2317bcb28152b8dee60fb5.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998121041/media.m3u8",
+        "length": "00:41:28",
+        "captions_url": "https://m-download.invintus.com/9375922947/7f934f1876a52992c44b2cd2642ea7cd3c2bb5ee.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-054",
+    "title": "In re Breedlove",
+    "number": "66425-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1998&season=f&file=98-12-08",
+    "argument": "1998-12-08",
+    "argument_day": "Tuesday, December 8, 1998",
+    "decision": "1999-06-24",
+    "decision_day": "Thursday, June 24, 1999",
+    "citation": "138 Wn.2d 298 (1999)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "1998-12-08",
+        "title": "Oral Argument on Tuesday, December 8, 1998",
+        "page_url": "https://tvw.org/video/wa-st-supreme-court-3/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/8339bf9dfb384661bc87568cede1dadd67348eeb.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1998121040/media.m3u8",
+        "length": "00:43:16",
+        "captions_url": "https://m-download.invintus.com/9375922947/a412585232bae76346ae2b96381d0c025c5dea8e.vtt"
+      }
+    ]
+  },
+  {
+    "id": "1999-055",
+    "title": "Ashley v. Hall",
     "number": "66578-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990112",
     "argument": "1999-01-12",
     "argument_day": "Tuesday, January 12, 1999",
+    "decision": "1999-06-10",
+    "decision_day": "Thursday, June 10, 1999",
+    "citation": "138 Wn.2d 151 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -148,12 +1258,15 @@
     ]
   },
   {
-    "id": "1999-004",
-    "title": "John Lundborg, Respondent, v. Keystone Shipping Company, Petitioner",
+    "id": "1999-056",
+    "title": "Lundborg v. Keystone Shipping Co.",
     "number": "65673-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990112",
     "argument": "1999-01-12",
     "argument_day": "Tuesday, January 12, 1999",
+    "decision": "1999-07-29",
+    "decision_day": "Thursday, July 29, 1999",
+    "citation": "138 Wn.2d 658 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -169,12 +1282,15 @@
     ]
   },
   {
-    "id": "1999-005",
+    "id": "1999-057",
     "title": "State of Washington v. Bencivenga",
     "number": "66605-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990112",
     "argument": "1999-01-12",
     "argument_day": "Tuesday, January 12, 1999",
+    "decision": "1999-04-15",
+    "decision_day": "Thursday, April 15, 1999",
+    "citation": "137 Wn.2d 703 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -190,12 +1306,15 @@
     ]
   },
   {
-    "id": "1999-006",
-    "title": "Development Services of America, Inc.; Services Group of America , a Washington corporation; and Eagle Pacific Insurance Company, a Washington corporation, Petitioners, v. City of Seattle, a charter city; R.F. Krochalis, in his capacity as Director of the Department of Construction and Land Use, City of Seattle, Respondents",
+    "id": "1999-058",
+    "title": "Development Services of America, Inc. v. City of Seattle",
     "number": "66653-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990112",
     "argument": "1999-01-12",
     "argument_day": "Tuesday, January 12, 1999",
+    "decision": "1999-06-10",
+    "decision_day": "Thursday, June 10, 1999",
+    "citation": "138 Wn.2d 107 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -211,12 +1330,15 @@
     ]
   },
   {
-    "id": "1999-007",
+    "id": "1999-059",
     "title": "King v. State of Washington",
     "number": "66904-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990114",
     "argument": "1999-01-14",
     "argument_day": "Thursday, January 14, 1999",
+    "decision": "1999-06-10",
+    "decision_day": "Thursday, June 10, 1999",
+    "citation": "138 Wn.2d 161 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -232,12 +1354,15 @@
     ]
   },
   {
-    "id": "1999-008",
+    "id": "1999-060",
     "title": "In re Brewer",
     "number": "66577-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990114",
     "argument": "1999-01-14",
     "argument_day": "Thursday, January 14, 1999",
+    "decision": "1999-05-06",
+    "decision_day": "Thursday, May 6, 1999",
+    "citation": "137 Wn.2d 756 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -253,12 +1378,15 @@
     ]
   },
   {
-    "id": "1999-009",
-    "title": "State of Washington v. WWJ Corporation a",
+    "id": "1999-061",
+    "title": "State of Washington v. WWJ Corp.",
     "number": "66469-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990114",
     "argument": "1999-01-14",
     "argument_day": "Thursday, January 14, 1999",
+    "decision": "1999-07-29",
+    "decision_day": "Thursday, July 29, 1999",
+    "citation": "138 Wn.2d 595 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -274,12 +1402,15 @@
     ]
   },
   {
-    "id": "1999-010",
+    "id": "1999-062",
     "title": "State of Washington v. Enstone",
     "number": "65662-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990126",
     "argument": "1999-01-26",
     "argument_day": "Tuesday, January 26, 1999",
+    "decision": "1999-04-15",
+    "decision_day": "Thursday, April 15, 1999",
+    "citation": "137 Wn.2d 675 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -295,7 +1426,7 @@
     ]
   },
   {
-    "id": "1999-011",
+    "id": "1999-063",
     "title": "State of Washington v. Moreno",
     "number": "66730-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990126",
@@ -316,12 +1447,15 @@
     ]
   },
   {
-    "id": "1999-012",
-    "title": "Mary F. Morgan, Appellante, v. Louis H. Johnson, Respondent",
+    "id": "1999-064",
+    "title": "Morgan v. Johnson",
     "number": "66170-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990126",
     "argument": "1999-01-26",
     "argument_day": "Tuesday, January 26, 1999",
+    "decision": "1999-05-06",
+    "decision_day": "Thursday, May 6, 1999",
+    "citation": "137 Wn.2d 887 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -337,7 +1471,7 @@
     ]
   },
   {
-    "id": "1999-013",
+    "id": "1999-065",
     "title": "State of Washington v. Aho",
     "number": "65656-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990126",
@@ -405,12 +1539,15 @@
     ]
   },
   {
-    "id": "1999-014",
+    "id": "1999-066",
     "title": "State of Washington v. Clark",
     "number": "66828-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990127",
     "argument": "1999-01-27",
     "argument_day": "Wednesday, January 27, 1999",
+    "decision": "1999-10-07",
+    "decision_day": "Thursday, October 7, 1999",
+    "citation": "139 Wn.2d 152 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -426,12 +1563,15 @@
     ]
   },
   {
-    "id": "1999-015",
+    "id": "1999-067",
     "title": "State of Washington v. Brown",
     "number": "67024-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990127",
     "argument": "1999-01-27",
     "argument_day": "Wednesday, January 27, 1999",
+    "decision": "1999-09-09",
+    "decision_day": "Thursday, September 9, 1999",
+    "citation": "139 Wn.2d 20 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -447,12 +1587,15 @@
     ]
   },
   {
-    "id": "1999-016",
+    "id": "1999-068",
     "title": "State of Washington v. Robinson",
     "number": "66758-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990127",
     "argument": "1999-01-27",
     "argument_day": "Wednesday, January 27, 1999",
+    "decision": "1999-08-19",
+    "decision_day": "Thursday, August 19, 1999",
+    "citation": "138 Wn.2d 753 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -468,12 +1611,15 @@
     ]
   },
   {
-    "id": "1999-017",
-    "title": "Lela L. Moody, Respondent, v. Homer Moody, Jr., Petitioner",
+    "id": "1999-069",
+    "title": "In re Marriage of Moody",
     "number": "66604-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990209",
     "argument": "1999-02-09",
     "argument_day": "Tuesday, February 9, 1999",
+    "decision": "1999-05-27",
+    "decision_day": "Thursday, May 27, 1999",
+    "citation": "137 Wn.2d 979 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -489,12 +1635,15 @@
     ]
   },
   {
-    "id": "1999-018",
+    "id": "1999-070",
     "title": "In re Hopkins",
     "number": "66504-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990209",
     "argument": "1999-02-09",
     "argument_day": "Tuesday, February 9, 1999",
+    "decision": "1999-05-06",
+    "decision_day": "Thursday, May 6, 1999",
+    "citation": "137 Wn.2d 897 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -510,12 +1659,15 @@
     ]
   },
   {
-    "id": "1999-019",
+    "id": "1999-071",
     "title": "Davis v. State of Washington",
     "number": "65688-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990209",
     "argument": "1999-02-09",
     "argument_day": "Tuesday, February 9, 1999",
+    "decision": "1999-05-27",
+    "decision_day": "Thursday, May 27, 1999",
+    "citation": "137 Wn.2d 957 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -531,12 +1683,15 @@
     ]
   },
   {
-    "id": "1999-020",
-    "title": "Cal Currens and Elsa M. Currens, a marital community, Petitioners, v. Irene Sleek and Dennis and Jane Doe Stephenson, individually and as a marital community; Dennis Stephenson Logging, a sole proprietorship, Respondents, and Gary and Barbara Hanson, individually and as a marital community, Defendants",
+    "id": "1999-072",
+    "title": "Currens v. Sleek",
     "number": "66830-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990210",
     "argument": "1999-02-10",
     "argument_day": "Wednesday, February 10, 1999",
+    "decision": "1999-09-09",
+    "decision_day": "Thursday, September 9, 1999",
+    "citation": "138 Wn.2d 858 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -552,12 +1707,15 @@
     ]
   },
   {
-    "id": "1999-021",
-    "title": "Everett Ruse, Petitioner, v. Department of Labor and Industries, Respondent",
+    "id": "1999-073",
+    "title": "Ruse v. Department of Labor & Industries",
     "number": "65679-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990210",
     "argument": "1999-02-10",
     "argument_day": "Wednesday, February 10, 1999",
+    "decision": "1999-06-03",
+    "decision_day": "Thursday, June 3, 1999",
+    "citation": "138 Wn.2d 1 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -573,33 +1731,15 @@
     ]
   },
   {
-    "id": "1999-022",
-    "title": "Staats v. State of Washington",
-    "number": "65681-9",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990210",
-    "argument": "1999-02-10",
-    "argument_day": "Wednesday, February 10, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-02-10",
-        "title": "Oral Argument on Wednesday, February 10, 1999",
-        "page_url": "https://tvw.org/video/wa-state-supreme-court-17/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/cd8ba3e2a6c38dbc85842bc958d5035dca9bf796.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999021275/media.m3u8",
-        "length": "00:43:59",
-        "captions_url": "https://m-download.invintus.com/9375922947/576f1a153b08bfa0994c856a8565c42e7f9fac4a.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-023",
+    "id": "1999-074",
     "title": "In re Burrell",
     "number": "66999-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990224",
     "argument": "1999-02-24",
     "argument_day": "Wednesday, February 24, 1999",
+    "decision": "1999-05-13",
+    "decision_day": "Thursday, May 13, 1999",
+    "citation": "137 Wn.2d 918 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -615,12 +1755,15 @@
     ]
   },
   {
-    "id": "1999-024",
+    "id": "1999-075",
     "title": "In re Zahm",
     "number": "66895-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990224",
     "argument": "1999-02-24",
     "argument_day": "Wednesday, February 24, 1999",
+    "decision": "1999-06-17",
+    "decision_day": "Thursday, June 17, 1999",
+    "citation": "138 Wn.2d 213 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -636,12 +1779,15 @@
     ]
   },
   {
-    "id": "1999-025",
+    "id": "1999-076",
     "title": "State of Washington v. Williams",
     "number": "67009-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990224",
     "argument": "1999-02-24",
     "argument_day": "Wednesday, February 24, 1999",
+    "decision": "1999-04-22",
+    "decision_day": "Thursday, April 22, 1999",
+    "citation": "137 Wn.2d 746 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -657,12 +1803,15 @@
     ]
   },
   {
-    "id": "1999-026",
-    "title": "McDonald v. State of Washington",
+    "id": "1999-077",
+    "title": "Washington State Legislature v. State of Washington",
     "number": "66710-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990225",
     "argument": "1999-02-25",
     "argument_day": "Thursday, February 25, 1999",
+    "decision": "1999-10-07",
+    "decision_day": "Thursday, October 7, 1999",
+    "citation": "139 Wn.2d 129 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -679,33 +1828,15 @@
     ]
   },
   {
-    "id": "1999-027",
-    "title": "Manufactured Housing Communities v. State of Washington",
-    "number": "66831-1",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990225",
-    "argument": "1999-02-25",
-    "argument_day": "Thursday, February 25, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-02-25",
-        "title": "Oral Argument on Thursday, February 25, 1999",
-        "page_url": "https://tvw.org/video/wa-state-supreme-court-10/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/251aee330c7139ba7f22e7eb1327e77cb6f098c2.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999021029/media.m3u8",
-        "length": "00:48:38",
-        "captions_url": "https://m-download.invintus.com/9375922947/df686ea04c50e416c81f1e3f7feb352f597a9a0a.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-028",
-    "title": "Cheryl Miller, Appellant, v. City of Tacoma, a municipal corporation; Robin S. Jenkinson, in her capacity as Tacoma City Attorney; and Harold G. Moss, Mayor; Robert W. Evans, Deputy Mayor and Council Member; William Baarsma, Council Member; Delores I. Silas, Council Member; Sharon M. McGavick, Council Member; David DeForrest, Council Member; Steven Kirby, Council Member; and Michael Crowley, Council Member, Respondents",
+    "id": "1999-078",
+    "title": "Miller v. City of Tacoma",
     "number": "65597-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990225",
     "argument": "1999-02-25",
     "argument_day": "Thursday, February 25, 1999",
+    "decision": "1999-07-01",
+    "decision_day": "Thursday, July 1, 1999",
+    "citation": "138 Wn.2d 318 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -721,12 +1852,15 @@
     ]
   },
   {
-    "id": "1999-029",
-    "title": "DGHI Enterprises, a Washington general partnership, Petitioner, v. Pacific Cities , a Washington corporation; Richard F. Evans, Jr. and Jane Doe Evans, husband and wife; and John A. Taylor and Jane Doe Taylor, Respondents, and Michael R. Ukena and Ponce Pierson Ukena, husband and wife; James Contini and Jane Doe Contini, husband and wife; Border 2 Border Screenprinting , a Washington corporation; Sea To Sea Sportswear , a Washington corporation; and George C. Brain and Jane Doe Brain, husband and wife, Defendants",
+    "id": "1999-079",
+    "title": "DGHI Enterprises v. Pacific Cities, Inc.",
     "number": "67041-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990309",
     "argument": "1999-03-09",
     "argument_day": "Tuesday, March 9, 1999",
+    "decision": "1999-05-13",
+    "decision_day": "Thursday, May 13, 1999",
+    "citation": "137 Wn.2d 933 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -742,12 +1876,15 @@
     ]
   },
   {
-    "id": "1999-030",
-    "title": "Key Design , a Washington corporation, Appellant, v. Vince L. Moser and Joni L. Moser, husband and wife, and the marital community composed thereof; and Creighton Kolbeck and Jane Doe Kolbeck, husband and wife, and the marital community composed thereof, Respondents",
+    "id": "1999-080",
+    "title": "Key Design, Inc. v. Moser",
     "number": "66916-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990309",
     "argument": "1999-03-09",
     "argument_day": "Tuesday, March 9, 1999",
+    "decision": "1999-09-09",
+    "decision_day": "Thursday, September 9, 1999",
+    "citation": "138 Wn.2d 875 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -763,12 +1900,15 @@
     ]
   },
   {
-    "id": "1999-031",
+    "id": "1999-081",
     "title": "State of Washington v. Thein",
     "number": "67085-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990309",
     "argument": "1999-03-09",
     "argument_day": "Tuesday, March 9, 1999",
+    "decision": "1999-06-10",
+    "decision_day": "Thursday, June 10, 1999",
+    "citation": "138 Wn.2d 133 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -785,12 +1925,15 @@
     ]
   },
   {
-    "id": "1999-032",
-    "title": "City of Seattle, Petitioner, v. Loyd Stalsbroten, Respondent",
+    "id": "1999-082",
+    "title": "City of Seattle v. Stalsbroten",
     "number": "66998-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990309",
     "argument": "1999-03-09",
     "argument_day": "Tuesday, March 9, 1999",
+    "decision": "1999-06-17",
+    "decision_day": "Thursday, June 17, 1999",
+    "citation": "138 Wn.2d 227 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -806,20 +1949,26 @@
     ]
   },
   {
-    "id": "1999-033",
-    "title": "In re In the Matter of the Detention of A.S. A.S",
+    "id": "1999-083",
+    "title": "State of Washington v. A.S.",
     "number": "66997-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990310",
     "argument": "1999-03-10",
-    "argument_day": "Wednesday, March 10, 1999"
+    "argument_day": "Wednesday, March 10, 1999",
+    "decision": "1999-09-09",
+    "decision_day": "Thursday, September 9, 1999",
+    "citation": "138 Wn.2d 898 (1999)"
   },
   {
-    "id": "1999-034",
+    "id": "1999-084",
     "title": "State of Washington v. Mora",
     "number": "66168-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990310",
     "argument": "1999-03-10",
     "argument_day": "Wednesday, March 10, 1999",
+    "decision": "1999-06-03",
+    "decision_day": "Thursday, June 3, 1999",
+    "citation": "138 Wn.2d 43 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -835,7 +1984,7 @@
     ]
   },
   {
-    "id": "1999-035",
+    "id": "1999-085",
     "title": "State of Washington v. Reyes N. Mora Eric Biggar Thomas Weaver Jeffrey Barker",
     "number": "66185-5",
     "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990310",
@@ -843,12 +1992,15 @@
     "argument_day": "Wednesday, March 10, 1999"
   },
   {
-    "id": "1999-036",
+    "id": "1999-086",
     "title": "In re Ecklund",
     "number": "66992-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990310",
     "argument": "1999-03-10",
     "argument_day": "Wednesday, March 10, 1999",
+    "decision": "1999-10-07",
+    "decision_day": "Thursday, October 7, 1999",
+    "citation": "139 Wn.2d 166 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -864,12 +2016,15 @@
     ]
   },
   {
-    "id": "1999-037",
+    "id": "1999-087",
     "title": "State of Washington v. Dolson",
     "number": "67038-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990323",
     "argument": "1999-03-23",
     "argument_day": "Tuesday, March 23, 1999",
+    "decision": "1999-08-19",
+    "decision_day": "Thursday, August 19, 1999",
+    "citation": "138 Wn.2d 773 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -885,33 +2040,15 @@
     ]
   },
   {
-    "id": "1999-038",
-    "title": "Dan Drinkwitz and Kenneth Caproni, Respondents, v. Alliant Techsystems , a foreign corporation, Petitioner",
-    "number": "67019-6",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990323",
-    "argument": "1999-03-23",
-    "argument_day": "Tuesday, March 23, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-03-23",
-        "title": "Oral Argument on Tuesday, March 23, 1999",
-        "page_url": "https://tvw.org/video/state-supreme-court-38/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199903/1999030004A.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999031127/media.m3u8",
-        "length": "00:51:00",
-        "captions_url": "https://m-download.invintus.com/9375922947/b04189bfa4a8cb3a59db71efa73b62617401ab38.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-039",
+    "id": "1999-088",
     "title": "State of Washington v. Hamlin",
     "number": "67254-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990323",
     "argument": "1999-03-23",
     "argument_day": "Tuesday, March 23, 1999",
+    "decision": "1999-05-06",
+    "decision_day": "Thursday, May 6, 1999",
+    "citation": "137 Wn.2d 774 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -927,12 +2064,15 @@
     ]
   },
   {
-    "id": "1999-040",
-    "title": "Richard Pudmaroff, a single man, Respondent, v. Leona Allen and John Doe Allen, wife and husband, and the marital community composed thereof, Plaintiff",
+    "id": "1999-089",
+    "title": "Pudmaroff v. Allen",
     "number": "66769-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990324",
     "argument": "1999-03-24",
     "argument_day": "Wednesday, March 24, 1999",
+    "decision": "1999-06-03",
+    "decision_day": "Thursday, June 3, 1999",
+    "citation": "138 Wn.2d 55 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -948,12 +2088,15 @@
     ]
   },
   {
-    "id": "1999-041",
+    "id": "1999-090",
     "title": "State of Washington v. McDonald",
     "number": "66784-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990324",
     "argument": "1999-03-24",
     "argument_day": "Wednesday, March 24, 1999",
+    "decision": "1999-08-05",
+    "decision_day": "Thursday, August 5, 1999",
+    "citation": "138 Wn.2d 680 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -969,41 +2112,26 @@
     ]
   },
   {
-    "id": "1999-042",
-    "title": "State of Washington v. Perez-Cervantes",
-    "number": "66719-5",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=w&file=990324",
-    "argument": "1999-03-24",
-    "argument_day": "Wednesday, March 24, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-03-24",
-        "title": "Oral Argument on Wednesday, March 24, 1999",
-        "page_url": "https://tvw.org/video/state-supreme-court-35/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199903/1999030005C.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999031102/media.m3u8",
-        "length": "00:42:00",
-        "captions_url": "https://m-download.invintus.com/9375922947/aa49a9170ba71b43383c4f3b976e2176076f8d0e.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-043",
-    "title": "State v. and",
+    "id": "1999-091",
+    "title": "State of Washington v. Shultz",
     "number": "67776-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990511",
     "argument": "1999-05-11",
-    "argument_day": "Tuesday, May 11, 1999"
+    "argument_day": "Tuesday, May 11, 1999",
+    "decision": "1999-07-29",
+    "decision_day": "Thursday, July 29, 1999",
+    "citation": "138 Wn.2d 638 (1999)"
   },
   {
-    "id": "1999-044",
-    "title": "State v. State",
+    "id": "1999-092",
+    "title": "State of Washington v. Humphrey",
     "number": "67212-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990511",
     "argument": "1999-05-11",
     "argument_day": "Tuesday, May 11, 1999",
+    "decision": "1999-09-16",
+    "decision_day": "Thursday, September 16, 1999",
+    "citation": "139 Wn.2d 53 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1019,12 +2147,15 @@
     ]
   },
   {
-    "id": "1999-045",
+    "id": "1999-093",
     "title": "In re Sappenfield",
     "number": "67380-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990511",
     "argument": "1999-05-11",
     "argument_day": "Tuesday, May 11, 1999",
+    "decision": "1999-07-29",
+    "decision_day": "Thursday, July 29, 1999",
+    "citation": "138 Wn.2d 588 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1040,12 +2171,15 @@
     ]
   },
   {
-    "id": "1999-046",
-    "title": "Julia K. Hiner, an individual, Respondent, v. Bridgestone/Firestone , a corporation, Petitioner",
+    "id": "1999-094",
+    "title": "Hiner v. Bridgestone/Firestone, Inc.",
     "number": "67234-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990511",
     "argument": "1999-05-11",
     "argument_day": "Tuesday, May 11, 1999",
+    "decision": "1999-06-17",
+    "decision_day": "Thursday, June 17, 1999",
+    "citation": "138 Wn.2d 248 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1061,12 +2195,15 @@
     ]
   },
   {
-    "id": "1999-047",
+    "id": "1999-095",
     "title": "In re Sappenfield",
     "number": "65577-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990511",
     "argument": "1999-05-11",
     "argument_day": "Tuesday, May 11, 1999",
+    "decision": "1999-07-29",
+    "decision_day": "Thursday, July 29, 1999",
+    "citation": "138 Wn.2d 588 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1082,12 +2219,15 @@
     ]
   },
   {
-    "id": "1999-048",
-    "title": "Concerned Ratepayers Association, a Washington nonprofit corporation, Petitioner, v. Public Utility District No. 1 of Clark County, Washington, a Washington Public Utility also known as Clark Public Utilities, Respondent",
+    "id": "1999-096",
+    "title": "Concerned Ratepayers Ass'n v. Public Utility District No. 1",
     "number": "67244-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990513",
     "argument": "1999-05-13",
     "argument_day": "Thursday, May 13, 1999",
+    "decision": "1999-09-09",
+    "decision_day": "Thursday, September 9, 1999",
+    "citation": "138 Wn.2d 950 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1103,33 +2243,15 @@
     ]
   },
   {
-    "id": "1999-049",
-    "title": "Open Door Baptist v. State of Washington",
-    "number": "67075-7",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990513",
-    "argument": "1999-05-13",
-    "argument_day": "Thursday, May 13, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-05-13",
-        "title": "Oral Argument on Thursday, May 13, 1999",
-        "page_url": "https://tvw.org/video/state-supreme-court-47/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199905/1999050017B.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999051100/media.m3u8",
-        "length": "01:13:31",
-        "captions_url": "https://m-download.invintus.com/9375922947/ba9f25674f4d50d6d208001fb7a7bbc58f5d9935.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-050",
-    "title": "Harbour Village Apartments; Pinnacle Realty Management Company, a Washington corporation; Don Vell, a Limited Partnership; Gerald M. Anderson and Carol Anderson, a partnership; United States Fidelity and Guaranty Company, a Maryland Corporation; Essex Property Trust , a Maryland Corporation; Royce and Agdalee Church, as a marital community; Security Capital Pacific Trust, a Maryland Investment Trust; and that class of persons and entities similarly situated, Appellants, v. City of Mukilteo, a Municipal Corporation, Respondent",
+    "id": "1999-097",
+    "title": "Harbour Village Apartments v. City of Mukilteo",
     "number": "66920-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990518",
     "argument": "1999-05-18",
     "argument_day": "Tuesday, May 18, 1999",
+    "decision": "1999-12-16",
+    "decision_day": "Thursday, December 16, 1999",
+    "citation": "139 Wn.2d 604 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1145,12 +2267,15 @@
     ]
   },
   {
-    "id": "1999-051",
+    "id": "1999-098",
     "title": "In re Jennings",
     "number": "67094-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990518",
     "argument": "1999-05-18",
     "argument_day": "Tuesday, May 18, 1999",
+    "decision": "1999-07-29",
+    "decision_day": "Thursday, July 29, 1999",
+    "citation": "138 Wn.2d 612 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1166,12 +2291,15 @@
     ]
   },
   {
-    "id": "1999-052",
+    "id": "1999-099",
     "title": "In re Webb",
     "number": "67053-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990518",
     "argument": "1999-05-18",
     "argument_day": "Tuesday, May 18, 1999",
+    "decision": "1999-08-05",
+    "decision_day": "Thursday, August 5, 1999",
+    "citation": "138 Wn.2d 650 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1187,12 +2315,15 @@
     ]
   },
   {
-    "id": "1999-053",
+    "id": "1999-100",
     "title": "State of Washington v. Cruz",
     "number": "67147-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990518",
     "argument": "1999-05-18",
     "argument_day": "Tuesday, May 18, 1999",
+    "decision": "1999-10-07",
+    "decision_day": "Thursday, October 7, 1999",
+    "citation": "139 Wn.2d 186 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1208,12 +2339,15 @@
     ]
   },
   {
-    "id": "1999-054",
+    "id": "1999-101",
     "title": "State of Washington v. Thomas",
     "number": "67168-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990520",
     "argument": "1999-05-20",
     "argument_day": "Thursday, May 20, 1999",
+    "decision": "1999-07-29",
+    "decision_day": "Thursday, July 29, 1999",
+    "citation": "138 Wn.2d 630 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1229,12 +2363,15 @@
     ]
   },
   {
-    "id": "1999-055",
-    "title": "In re Washington",
+    "id": "1999-102",
+    "title": "In re Personal Restraint of Yim",
     "number": "67183-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990520",
     "argument": "1999-05-20",
     "argument_day": "Thursday, May 20, 1999",
+    "decision": "1999-12-02",
+    "decision_day": "Thursday, December 2, 1999",
+    "citation": "139 Wn.2d 581 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1250,12 +2387,15 @@
     ]
   },
   {
-    "id": "1999-056",
-    "title": "The City of Bellevue, a Washington municipal corporation, Respondent, v. East Bellevue Community Council, a Washington municipal corporation, Petitioner",
+    "id": "1999-103",
+    "title": "City of Bellevue v. East Bellevue Community Council",
     "number": "67157-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990520",
     "argument": "1999-05-20",
     "argument_day": "Thursday, May 20, 1999",
+    "decision": "1999-09-09",
+    "decision_day": "Thursday, September 9, 1999",
+    "citation": "138 Wn.2d 937 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1271,20 +2411,26 @@
     ]
   },
   {
-    "id": "1999-057",
-    "title": "State v. them",
+    "id": "1999-104",
+    "title": "State of Washington v. Yokley",
     "number": "67214-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990520",
     "argument": "1999-05-20",
-    "argument_day": "Thursday, May 20, 1999"
+    "argument_day": "Thursday, May 20, 1999",
+    "decision": "1999-12-02",
+    "decision_day": "Thursday, December 2, 1999",
+    "citation": "139 Wn.2d 581 (1999)"
   },
   {
-    "id": "1999-058",
+    "id": "1999-105",
     "title": "State of Washington v. Barnett",
     "number": "67171-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990525",
     "argument": "1999-05-25",
     "argument_day": "Tuesday, May 25, 1999",
+    "decision": "1999-10-28",
+    "decision_day": "Thursday, October 28, 1999",
+    "citation": "139 Wn.2d 462 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1300,12 +2446,15 @@
     ]
   },
   {
-    "id": "1999-059",
+    "id": "1999-106",
     "title": "Thompson v. State of Washington",
     "number": "67225-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990525",
     "argument": "1999-05-25",
     "argument_day": "Tuesday, May 25, 1999",
+    "decision": "1999-08-19",
+    "decision_day": "Thursday, August 19, 1999",
+    "citation": "138 Wn.2d 783 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1321,12 +2470,15 @@
     ]
   },
   {
-    "id": "1999-060",
+    "id": "1999-107",
     "title": "State of Washington v. Dahl",
     "number": "67173-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990525",
     "argument": "1999-05-25",
     "argument_day": "Tuesday, May 25, 1999",
+    "decision": "1999-12-23",
+    "decision_day": "Thursday, December 23, 1999",
+    "citation": "139 Wn.2d 678 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1342,12 +2494,15 @@
     ]
   },
   {
-    "id": "1999-061",
+    "id": "1999-108",
     "title": "State of Washington v. Gonzales-Morales",
     "number": "67200-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990525",
     "argument": "1999-05-25",
     "argument_day": "Tuesday, May 25, 1999",
+    "decision": "1999-07-01",
+    "decision_day": "Thursday, July 1, 1999",
+    "citation": "138 Wn.2d 374 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1363,12 +2518,15 @@
     ]
   },
   {
-    "id": "1999-062",
+    "id": "1999-109",
     "title": "State of Washington v. Greene",
     "number": "67250-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990527",
     "argument": "1999-05-27",
     "argument_day": "Thursday, May 27, 1999",
+    "decision": "1999-09-30",
+    "decision_day": "Thursday, September 30, 1999",
+    "citation": "139 Wn.2d 64 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1384,12 +2542,15 @@
     ]
   },
   {
-    "id": "1999-063",
-    "title": "Halverson v. State of Washington",
+    "id": "1999-110",
+    "title": "Halverson v. Skagit County",
     "number": "66171-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990527",
     "argument": "1999-05-27",
     "argument_day": "Thursday, May 27, 1999",
+    "decision": "1999-09-09",
+    "decision_day": "Thursday, September 9, 1999",
+    "citation": "139 Wn.2d 1 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1405,12 +2566,15 @@
     ]
   },
   {
-    "id": "1999-064",
+    "id": "1999-111",
     "title": "Brand v. State of Washington",
     "number": "67319-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990527",
     "argument": "1999-05-27",
     "argument_day": "Thursday, May 27, 1999",
+    "decision": "1999-12-16",
+    "decision_day": "Thursday, December 16, 1999",
+    "citation": "139 Wn.2d 659 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1426,12 +2590,15 @@
     ]
   },
   {
-    "id": "1999-065",
-    "title": "Edwin C. McRory and Irene McRory, husband and wife; and McRory and Company, a Washington corporation, Plaintiffs, v. Northern Insurance Company of New York, a foreign company, Defendant",
+    "id": "1999-112",
+    "title": "McRory v. Northern Insurance",
     "number": "67544-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990527",
     "argument": "1999-05-27",
     "argument_day": "Thursday, May 27, 1999",
+    "decision": "1999-07-22",
+    "decision_day": "Thursday, July 22, 1999",
+    "citation": "138 Wn.2d 550 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1447,33 +2614,15 @@
     ]
   },
   {
-    "id": "1999-066",
-    "title": "Weyerhaeuser Company, Respondent/Cross-Appellant, v. Commercial Union Insurance Company, Appellant/Cross-Respondent",
-    "number": "67694-1",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990608",
-    "argument": "1999-06-08",
-    "argument_day": "Tuesday, June 8, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-06-08",
-        "title": "Oral Argument on Tuesday, June 8, 1999",
-        "page_url": "https://tvw.org/video/state-supreme-court-69/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199906/1999060005B.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999061130/media.m3u8",
-        "length": "01:05:35",
-        "captions_url": "https://m-download.invintus.com/9375922947/8faa9ac637cf15b55d123d5d7bec1b1cefc3b459.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-067",
+    "id": "1999-113",
     "title": "State of Washington v. Slaton",
     "number": "67377-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990608",
     "argument": "1999-06-08",
     "argument_day": "Tuesday, June 8, 1999",
+    "decision": "1999-07-15",
+    "decision_day": "Thursday, July 15, 1999",
+    "citation": "138 Wn.2d 466 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1489,12 +2638,15 @@
     ]
   },
   {
-    "id": "1999-068",
+    "id": "1999-114",
     "title": "State of Washington v. Sweet",
     "number": "67136-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990608",
     "argument": "1999-06-08",
     "argument_day": "Tuesday, June 8, 1999",
+    "decision": "1999-07-15",
+    "decision_day": "Thursday, July 15, 1999",
+    "citation": "138 Wn.2d 466 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1510,33 +2662,15 @@
     ]
   },
   {
-    "id": "1999-069",
-    "title": "State of Washington v. Taylor",
-    "number": "67105-2",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990608",
-    "argument": "1999-06-08",
-    "argument_day": "Tuesday, June 8, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-06-08",
-        "title": "Oral Argument on Tuesday, June 8, 1999",
-        "page_url": "https://tvw.org/video/state-supreme-court-68/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199906/1999060005C.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999061127/media.m3u8",
-        "length": "00:40:37",
-        "captions_url": "https://m-download.invintus.com/9375922947/fdf75586f257ab2b38517f3e3f359c740ccccbb9.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-070",
+    "id": "1999-115",
     "title": "State of Washington v. Tili",
     "number": "66695-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990608",
     "argument": "1999-06-08",
     "argument_day": "Tuesday, June 8, 1999",
+    "decision": "1999-10-07",
+    "decision_day": "Thursday, October 7, 1999",
+    "citation": "139 Wn.2d 107 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1552,12 +2686,15 @@
     ]
   },
   {
-    "id": "1999-071",
+    "id": "1999-116",
     "title": "In re Gronquist",
     "number": "67390-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990610",
     "argument": "1999-06-10",
     "argument_day": "Thursday, June 10, 1999",
+    "decision": "1999-10-14",
+    "decision_day": "Thursday, October 14, 1999",
+    "citation": "139 Wn.2d 199 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1573,12 +2710,15 @@
     ]
   },
   {
-    "id": "1999-072",
-    "title": "Waremart , an Idaho corporation, Respondent, v. Progressive Campaigns , a California corporation, Appellant",
+    "id": "1999-117",
+    "title": "Waremart, Inc. v. Progressive Campaigns, Inc.",
     "number": "67029-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990610",
     "argument": "1999-06-10",
     "argument_day": "Thursday, June 10, 1999",
+    "decision": "1999-12-16",
+    "decision_day": "Thursday, December 16, 1999",
+    "citation": "139 Wn.2d 623 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1594,12 +2734,15 @@
     ]
   },
   {
-    "id": "1999-073",
+    "id": "1999-118",
     "title": "In re Smith",
     "number": "67182-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990610",
     "argument": "1999-06-10",
     "argument_day": "Thursday, June 10, 1999",
+    "decision": "1999-10-14",
+    "decision_day": "Thursday, October 14, 1999",
+    "citation": "139 Wn.2d 199 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1615,12 +2758,15 @@
     ]
   },
   {
-    "id": "1999-074",
+    "id": "1999-119",
     "title": "In re Johns-pape",
     "number": "67527-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990610",
     "argument": "1999-06-10",
     "argument_day": "Thursday, June 10, 1999",
+    "decision": "1999-12-23",
+    "decision_day": "Thursday, December 23, 1999",
+    "citation": "139 Wn.2d 694 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1636,7 +2782,7 @@
     ]
   },
   {
-    "id": "1999-075",
+    "id": "1999-120",
     "title": "In re An, Attorney at Law",
     "number": "06297",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990610",
@@ -1657,12 +2803,15 @@
     ]
   },
   {
-    "id": "1999-076",
+    "id": "1999-121",
     "title": "State of Washington v. West",
     "number": "67373-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990615",
     "argument": "1999-06-15",
     "argument_day": "Tuesday, June 15, 1999",
+    "decision": "1999-09-09",
+    "decision_day": "Thursday, September 9, 1999",
+    "citation": "139 Wn.2d 37 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1678,12 +2827,15 @@
     ]
   },
   {
-    "id": "1999-077",
-    "title": "Raymond L. Seeberger, Respondent, v. Burlington Northern Railroad Company, a corporation, Petitioner",
+    "id": "1999-122",
+    "title": "Seeberger v. Burlington Northern Railroad",
     "number": "67328-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990615",
     "argument": "1999-06-15",
     "argument_day": "Tuesday, June 15, 1999",
+    "decision": "1999-09-02",
+    "decision_day": "Thursday, September 2, 1999",
+    "citation": "138 Wn.2d 815 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1699,33 +2851,15 @@
     ]
   },
   {
-    "id": "1999-078",
-    "title": "Lynne Elizabeth Roberts, Respondent, v. Eric G. Dudley, D.V.M. and Rebecca Dudley, and their marital community, Petitioners",
-    "number": "67365-9",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990615",
-    "argument": "1999-06-15",
-    "argument_day": "Tuesday, June 15, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-06-15",
-        "title": "Oral Argument on Tuesday, June 15, 1999",
-        "page_url": "https://tvw.org/video/state-supreme-court-60/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199906/1999060007B.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999061090/media.m3u8",
-        "length": "01:03:46",
-        "captions_url": "https://m-download.invintus.com/9375922947/f0c3afc062a92d167c267c09e767079bc96cc12a.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-079",
+    "id": "1999-123",
     "title": "State of Washington v. Bustamente-Davila",
     "number": "67320-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990615",
     "argument": "1999-06-15",
     "argument_day": "Tuesday, June 15, 1999",
+    "decision": "1999-09-09",
+    "decision_day": "Thursday, September 9, 1999",
+    "citation": "138 Wn.2d 964 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1741,12 +2875,15 @@
     ]
   },
   {
-    "id": "1999-080",
-    "title": "State of Washington v. D.",
+    "id": "1999-124",
+    "title": "State of Washington v. T.K.",
     "number": "67185-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990617",
     "argument": "1999-06-17",
     "argument_day": "Thursday, June 17, 1999",
+    "decision": "1999-10-14",
+    "decision_day": "Thursday, October 14, 1999",
+    "citation": "139 Wn.2d 320 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1762,12 +2899,15 @@
     ]
   },
   {
-    "id": "1999-081",
-    "title": "Cowles Publishing Company, Petitioner, v. Spokane Police Department, City of Spokane, Washington, Respondent",
+    "id": "1999-125",
+    "title": "Cowles Publishing Co. v. Spokane Police Department",
     "number": "67290-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990617",
     "argument": "1999-06-17",
     "argument_day": "Thursday, June 17, 1999",
+    "decision": "1999-10-21",
+    "decision_day": "Thursday, October 21, 1999",
+    "citation": "139 Wn.2d 472 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1783,12 +2923,15 @@
     ]
   },
   {
-    "id": "1999-082",
+    "id": "1999-126",
     "title": "State of Washington v. Casciato",
     "number": "67435-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990617",
     "argument": "1999-06-17",
     "argument_day": "Thursday, June 17, 1999",
+    "decision": "1999-10-14",
+    "decision_day": "Thursday, October 14, 1999",
+    "citation": "139 Wn.2d 320 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1804,12 +2947,15 @@
     ]
   },
   {
-    "id": "1999-083",
-    "title": "State of Washington v. Treasurer",
+    "id": "1999-127",
+    "title": "State of Washington v. Murphy",
     "number": "67692-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990617",
     "argument": "1999-06-17",
     "argument_day": "Thursday, June 17, 1999",
+    "decision": "1999-08-26",
+    "decision_day": "Thursday, August 26, 1999",
+    "citation": "138 Wn.2d 800 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -1825,57 +2971,18 @@
     ]
   },
   {
-    "id": "1999-084",
+    "id": "1999-128",
     "title": "State of Washington v. Keough",
     "number": "67819-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990617",
     "argument": "1999-06-17",
-    "argument_day": "Thursday, June 17, 1999"
+    "argument_day": "Thursday, June 17, 1999",
+    "decision": "1999-10-14",
+    "decision_day": "Thursday, October 14, 1999",
+    "citation": "139 Wn.2d 320 (1999)"
   },
   {
-    "id": "1999-085",
-    "title": "situated v. State",
-    "number": "67680-1",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990624",
-    "argument": "1999-06-24",
-    "argument_day": "Thursday, June 24, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-06-24",
-        "title": "Oral Argument on Thursday, June 24, 1999",
-        "page_url": "https://tvw.org/video/state-supreme-court-54/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199906/1999060009A.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999061042/media.m3u8",
-        "length": "01:05:10",
-        "captions_url": "https://m-download.invintus.com/9375922947/9da5bfde346ca7b1a084021d5ff226247bf8641f.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-086",
-    "title": "Kelly Smith, Petitioner, v. Bates Technical College, College District No. 28, William P. Mohler, Jon Thorpe, Deborah Emond, and Sally Cofchin, Respondents",
-    "number": "67374-8",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990624",
-    "argument": "1999-06-24",
-    "argument_day": "Thursday, June 24, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-06-24",
-        "title": "Oral Argument on Thursday, June 24, 1999",
-        "page_url": "https://tvw.org/video/state-supreme-court-53/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199906/1999060009B.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999061040/media.m3u8",
-        "length": "00:33:39",
-        "captions_url": "https://m-download.invintus.com/9375922947/d3fc7203f704154c3b33a9a965546c8e41669081.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-087",
+    "id": "1999-129",
     "title": "In re Boelter, Attorney at Law",
     "number": "9213",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=s&file=990624",
@@ -1896,201 +3003,15 @@
     ]
   },
   {
-    "id": "1999-088",
-    "title": "State of Washington v. Wadsworth",
-    "number": "67454-0",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=990914",
-    "argument": "1999-09-14",
-    "argument_day": "Tuesday, September 14, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-09-14",
-        "title": "Oral Argument on Tuesday, September 14, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-13/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199909/1999090014A.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999091105/media.m3u8",
-        "length": "00:52:38",
-        "captions_url": "https://m-download.invintus.com/9375922947/db0f971577f65ee6d1d2a26ea38018b2342cb051.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-089",
-    "title": "City of Bellevue, Respondent, v. Jon M. Lorang, Petitioner",
-    "number": "67488-4",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=990914",
-    "argument": "1999-09-14",
-    "argument_day": "Tuesday, September 14, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-09-14",
-        "title": "Oral Argument on Tuesday, September 14, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-11/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199909/1999090014C.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999091093/media.m3u8",
-        "length": "00:43:31",
-        "captions_url": "https://m-download.invintus.com/9375922947/2f1b616d795fae7295b7273deb7dcb7917454480.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-090",
-    "title": "Sunsirae Tunstall, a minor, by and through her mother, Tanya Tunstall; Phillip Krist, a minor, by and through his grandmother and legal guardian, Frances Krist; Jeffrey Coats, a minor, by and through his mother, Terry Walker; Minh Thach, a minor, by and through his mother, Sopinh Thach; and Jimi Hamilton, Respondents/ Cross-Appellants, v. Teresa Bergeson, Superintendent of Public Instruction; and Joseph Lehman, Secretary, Department of Corrections, Appellants/ Cross-Respondents",
-    "number": "67448-5",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=990914",
-    "argument": "1999-09-14",
-    "argument_day": "Tuesday, September 14, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-09-14",
-        "title": "Oral Argument on Tuesday, September 14, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-12/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199909/1999090014B.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999091095/media.m3u8",
-        "length": "01:07:33",
-        "captions_url": "https://m-download.invintus.com/9375922947/d5bfaa997b7c78b88617dc7e8ef031533364785f.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-091",
-    "title": "Shorewood West Condominium Association, a Washington condominium association, Respondent, v. Asghar Sadri and Dorothy Grazul, Petitioners",
-    "number": "67529-5",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=990914",
-    "argument": "1999-09-14",
-    "argument_day": "Tuesday, September 14, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-09-14",
-        "title": "Oral Argument on Tuesday, September 14, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-10/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199909/1999090014D.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999091092/media.m3u8",
-        "length": "00:32:44",
-        "captions_url": "https://m-download.invintus.com/9375922947/f50d80dcc3a1ca6b980a0bec6f028acd899ec93a.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-092",
-    "title": "L. v. State of Washington",
-    "number": "67602-0",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=990916",
-    "argument": "1999-09-16",
-    "argument_day": "Thursday, September 16, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-09-16",
-        "title": "Oral Argument on Thursday, September 16, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-7/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199909/1999090015C.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999091077/media.m3u8",
-        "length": "00:45:10",
-        "captions_url": "https://m-download.invintus.com/9375922947/e528bfacb927f7671d6b4285d1e487400a4b3368.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-093",
-    "title": "Clark County Public Utility District No. 1, d/b/a Clark Public Utilities, Petitioner, v. Jane R. Wilkinson, Labor Arbitrator, Defendant, and International Brotherhood of Electrical Workers, Local 125, Respondent",
-    "number": "67533-3",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=990916",
-    "argument": "1999-09-16",
-    "argument_day": "Thursday, September 16, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-09-16",
-        "title": "Oral Argument on Thursday, September 16, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-9/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199909/1999090015A.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999091083/media.m3u8",
-        "length": "00:45:12",
-        "captions_url": "https://m-download.invintus.com/9375922947/e269d28709c7367cd290809a9c57278aaf387952.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-094",
-    "title": "State of Washington v. Justiniano",
-    "number": "67577-5",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=990916",
-    "argument": "1999-09-16",
-    "argument_day": "Thursday, September 16, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-09-16",
-        "title": "Oral Argument on Thursday, September 16, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-8/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199909/1999090015B.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999091078/media.m3u8",
-        "length": "00:24:11",
-        "captions_url": "https://m-download.invintus.com/9375922947/0b308c0a1e28d0398ee2bf90704e3d61caf2f994.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-095",
-    "title": "Hubbard v. State of Washington",
-    "number": "67632-1",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=990921",
-    "argument": "1999-09-21",
-    "argument_day": "Tuesday, September 21, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-09-21",
-        "title": "Oral Argument on Tuesday, September 21, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-6/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199909/1999090016A.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999091046/media.m3u8",
-        "length": "00:43:37",
-        "captions_url": "https://m-download.invintus.com/9375922947/174661ef5ac4939539067a00f6daabc7346956e5.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-096",
-    "title": "Kent Farms , a Washington corporation, Respondent, v. Zurich Insurance Company, a foreign corporation, Petitioner",
-    "number": "67635-6",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=990921",
-    "argument": "1999-09-21",
-    "argument_day": "Tuesday, September 21, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-09-21",
-        "title": "Oral Argument on Tuesday, September 21, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-5/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199909/1999090016B.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999091045/media.m3u8",
-        "length": "00:45:42",
-        "captions_url": "https://m-download.invintus.com/9375922947/a32a77603672e56141a2f3f3b80dd0dc106ce8e2.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-097",
-    "title": "J.R. Simplot , d/b/a Simplot Soilbuilders, a Nevada corporation, Respondent, v. Richard L. Knight and Doris M. Knight, husband and wife; Richard E. Knight, a single person, Defendants, Yakima Federal Savings and Loan Association, Petitioner",
+    "id": "1999-130",
+    "title": "J.R. Simplot, Inc. v. Knight",
     "number": "67652-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=990921",
     "argument": "1999-09-21",
     "argument_day": "Tuesday, September 21, 1999",
+    "decision": "1999-11-18",
+    "decision_day": "Thursday, November 18, 1999",
+    "citation": "139 Wn.2d 534 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -2106,154 +3027,7 @@
     ]
   },
   {
-    "id": "1999-098",
-    "title": "In re Halgren",
-    "number": "67793-0",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=990923",
-    "argument": "1999-09-23",
-    "argument_day": "Thursday, September 23, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-09-23",
-        "title": "Oral Argument on Thursday, September 23, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-2/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199909/1999090017B.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999091028/media.m3u8",
-        "length": "00:43:41",
-        "captions_url": "https://m-download.invintus.com/9375922947/f1019ad12309524b1d4a5b5132e6b506a8cc038c.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-099",
-    "title": "Henrickson v. State of Washington",
-    "number": "67520-1",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=990923",
-    "argument": "1999-09-23",
-    "argument_day": "Thursday, September 23, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-09-23",
-        "title": "Oral Argument on Thursday, September 23, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-2/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199909/1999090017B.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999091028/media.m3u8",
-        "length": "00:43:41",
-        "captions_url": "https://m-download.invintus.com/9375922947/f1019ad12309524b1d4a5b5132e6b506a8cc038c.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-100",
-    "title": "Washington State Republican Party, Respondent, v. Washington State Public Disclosure Commission; Gary Maehara; Susan Brady; Rhonda Cahill; Ronald Meyers; Melissa Warheit; and Christine Gregoire",
-    "number": "67442-6",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=990923",
-    "argument": "1999-09-23",
-    "argument_day": "Thursday, September 23, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-09-23",
-        "title": "Oral Argument on Thursday, September 23, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-3/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199909/1999090017A.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999091029/media.m3u8",
-        "length": "01:06:42",
-        "captions_url": "https://m-download.invintus.com/9375922947/442db4c7eded4e827fba67ed148583cc6fc18db7.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-101",
-    "title": "Lybbert v. State of Washington",
-    "number": "67805-7",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=990923",
-    "argument": "1999-09-23",
-    "argument_day": "Thursday, September 23, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-09-23",
-        "title": "Oral Argument on Thursday, September 23, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199909/1999090017C.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999091027/media.m3u8",
-        "length": "01:04:36",
-        "captions_url": "https://m-download.invintus.com/9375922947/22dc4df607fba4aa76d3803a6e1c2979932403db.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-102",
-    "title": "State of Washington v. Berry",
-    "number": "67470-1",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=991012",
-    "argument": "1999-10-12",
-    "argument_day": "Tuesday, October 12, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-10-12",
-        "title": "Oral Argument on Tuesday, October 12, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-26/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199910/1999100008B.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999101077/media.m3u8",
-        "length": "00:39:09",
-        "captions_url": "https://m-download.invintus.com/9375922947/fa2dd2eeedbe15de250a9e092320a0c3bfe5cd7b.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-103",
-    "title": "John Trimble, Petitioner, v. Washington State University, Respondent",
-    "number": "67409-4",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=991012",
-    "argument": "1999-10-12",
-    "argument_day": "Tuesday, October 12, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-10-12",
-        "title": "Oral Argument on Tuesday, October 12, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-27/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199910/1999100008A.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999101078/media.m3u8",
-        "length": "00:48:38",
-        "captions_url": "https://m-download.invintus.com/9375922947/e5c96113bc396e2909aef27598a9689128cdec88.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-104",
-    "title": "Sundquist Homes , a Washington corporation; Echelbarger Development , a Washington corporation; Simmie Energy , a Delaware corporation; Phoenix Development , a Washington corporation; Alfred Mus and Donald Saunders, Petitioners, v. Snohomish County Public Utility District No. 1, Respondent",
-    "number": "67715-8",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=991012",
-    "argument": "1999-10-12",
-    "argument_day": "Tuesday, October 12, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-10-12",
-        "title": "Oral Argument on Tuesday, October 12, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-24/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199910/1999100008D.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999101073/media.m3u8",
-        "length": "00:57:12",
-        "captions_url": "https://m-download.invintus.com/9375922947/f7a84b74d0f540112650b53e16e3505b49c5a68b.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-105",
+    "id": "1999-131",
     "title": "PRO TEM JUDGES: None",
     "number": "5462",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=991012",
@@ -2274,33 +3048,15 @@
     ]
   },
   {
-    "id": "1999-106",
-    "title": "Simpson Investment v. State of Washington",
-    "number": "67630-5",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=991014",
-    "argument": "1999-10-14",
-    "argument_day": "Thursday, October 14, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-10-14",
-        "title": "Oral Argument on Thursday, October 14, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-22/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199910/1999100009B.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999101062/media.m3u8",
-        "length": "01:03:07",
-        "captions_url": "https://m-download.invintus.com/9375922947/0e6a024ff7cc622652d2a9555bf63d4305bd06df.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-107",
-    "title": "In re Person",
+    "id": "1999-132",
+    "title": "Egelhoff v. Egelhoff",
     "number": "67626-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=991014",
     "argument": "1999-10-14",
     "argument_day": "Thursday, October 14, 1999",
+    "decision": "1999-11-18",
+    "decision_day": "Thursday, November 18, 1999",
+    "citation": "139 Wn.2d 557 (1999)",
     "events": [
       {
         "source": "tvw",
@@ -2316,7 +3072,7 @@
     ]
   },
   {
-    "id": "1999-108",
+    "id": "1999-133",
     "title": "In re Halverson, Attorney at Law",
     "number": "01518",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=991014",
@@ -2337,70 +3093,7 @@
     ]
   },
   {
-    "id": "1999-109",
-    "title": "Myrtle Huff, Respondent, v. Gerry J. Budbill and Jane Doe Budbill and the marital community thereof, Petitioners",
-    "number": "67619-4",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=991026",
-    "argument": "1999-10-26",
-    "argument_day": "Tuesday, October 26, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-10-26",
-        "title": "Oral Argument on Tuesday, October 26, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-19/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199910/1999100010B.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999101022/media.m3u8",
-        "length": "00:41:41",
-        "captions_url": "https://m-download.invintus.com/9375922947/a0163b5d898aea6d398c956135304a68cd89ddf1.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-110",
-    "title": "M.A. Mortenson Company , Petitioner, v. Timberline Software Corporation and Softworks Data Systems , Respondents",
-    "number": "67796-4",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=991026",
-    "argument": "1999-10-26",
-    "argument_day": "Tuesday, October 26, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-10-26",
-        "title": "Oral Argument on Tuesday, October 26, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-17/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199910/1999100010D.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999101018/media.m3u8",
-        "length": "01:01:31",
-        "captions_url": "https://m-download.invintus.com/9375922947/4dd9aae06a72cdc181f9b399e4cb077249aa05bc.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-111",
-    "title": "State of Washington v. Boeing",
-    "number": "67519-8",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=991026",
-    "argument": "1999-10-26",
-    "argument_day": "Tuesday, October 26, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-10-26",
-        "title": "Oral Argument on Tuesday, October 26, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-20/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199910/1999100010A.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999101023/media.m3u8",
-        "length": "01:04:04",
-        "captions_url": "https://m-download.invintus.com/9375922947/5b0268b9fa0f9eb96b55307dda1c5849bd48ced1.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-112",
+    "id": "1999-134",
     "title": "PRO TEM JUDGES: None",
     "number": "12426",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=991026",
@@ -2421,8 +3114,8 @@
     ]
   },
   {
-    "id": "1999-113",
-    "title": "Enterprise Leasing , d/b/a Enterprise Rent-A-Car, Petitioner, v. City of Tacoma, Finance Department, Respondent",
+    "id": "1999-135",
+    "title": "Enterprise Leasing, Inc. v. City of Tacoma",
     "number": "67721-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=991028",
     "facts": "Petitioner Enterprise Leasing filed suit in the Superior Court for Pierce County seeking a declaratory judgment that the city of Tacoma's attempt to assess its income at the higher local business and occupation tax rate applied to services rather than the local business and occupation tax rate applied to retail sales was invalid insofar as it was inconsistent with the definitions of retail sales and services established by state law. The Superior Court for Pierce County granted summary judgment to Enterprise Leasing and ordered the company's income to be assessed at the lower retail sales rate. On appeal, the Washington Court of Appeals reversed the trial court's decision, holding that the city of Tacoma was not prohibited from defining retail sales differently than the state. Enterprise Leasing appealed this decision to the Supreme Court of Washington.",
@@ -2484,263 +3177,11 @@
     ]
   },
   {
-    "id": "1999-114",
-    "title": "In re Addleman",
-    "number": "67658-5",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=991028",
-    "argument": "1999-10-28",
-    "argument_day": "Thursday, October 28, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-10-28",
-        "title": "Oral Argument on Thursday, October 28, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-14/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199910/1999100011C.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999101006/media.m3u8",
-        "length": "00:36:01",
-        "captions_url": "https://m-download.invintus.com/9375922947/9a49072d9abfdbfe85f3012a931f93aff3970ef6.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-115",
-    "title": "State of Washington v. Ross",
-    "number": "67996-7",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=991028",
-    "argument": "1999-10-28",
-    "argument_day": "Thursday, October 28, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-10-28",
-        "title": "Oral Argument on Thursday, October 28, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-16/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199910/1999100011A.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999101011/media.m3u8",
-        "length": "00:44:01",
-        "captions_url": "https://m-download.invintus.com/9375922947/d7939ea99b89b1d9f2e3d4a0052b8170bf8cc015.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-116",
-    "title": "State of Washington v. Arnestad",
-    "number": "66875-2",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=991116",
-    "argument": "1999-11-16",
-    "argument_day": "Tuesday, November 16, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-11-16",
-        "title": "Oral Argument on Tuesday, November 16, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-32/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199911/1999110011C.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999111047/media.m3u8",
-        "length": "00:42:37",
-        "captions_url": "https://m-download.invintus.com/9375922947/ea2eff1b985f5d9ca37e77b306aa616f60d05fba.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-117",
-    "title": "Allen v. State of Washington",
-    "number": "67294-6",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=991116",
-    "argument": "1999-11-16",
-    "argument_day": "Tuesday, November 16, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-11-16",
-        "title": "Oral Argument on Tuesday, November 16, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-33/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199911/1999110011B.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999111048/media.m3u8",
-        "length": "00:59:37",
-        "captions_url": "https://m-download.invintus.com/9375922947/678496470214d43b0785948217143f5107dfe95e.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-118",
-    "title": "Frederick L. Jones, Sr., Respondent, v. Sisters of Providence in Washington, a Washington corporation d/b/a Providence Medical Center and Providence Family Medical Center, Defendant, Susan Lo, M.D., and Richard G. Foutch, M.D., Petitioners",
-    "number": "67740-9",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=991116",
-    "argument": "1999-11-16",
-    "argument_day": "Tuesday, November 16, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-11-16",
-        "title": "Oral Argument on Tuesday, November 16, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-34/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199911/1999110011A.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999111054/media.m3u8",
-        "length": "01:02:10",
-        "captions_url": "https://m-download.invintus.com/9375922947/4159d60f151e305f5cf84fcd994901b6627715bc.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-119",
-    "title": "Association of Rural Residents, a Washington nonprofit corporation; and Norman H. Lockwood; Ruth Jaadan Pickrell; Moira Kane; Gerald Levengood; and Robert W. Merriam, Respondents, v. Kitsap County; Jim Lindsey; Elizabeth Bosanko; Barbara A. Anderson; Catherine Fortune; Joe D. Tarbill; and Apple Tree Point Partners, Petitioners",
-    "number": "68027-2",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=991118",
-    "argument": "1999-11-18",
-    "argument_day": "Thursday, November 18, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-11-18",
-        "title": "Oral Argument on Thursday, November 18, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-30/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199911/1999110012B.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999111030/media.m3u8",
-        "length": "00:44:30",
-        "captions_url": "https://m-download.invintus.com/9375922947/6cac0f37191568c9a08a3b6962fe4c55ddd56015.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-120",
-    "title": "James E. Hoffman and Dale Snow, individually and on behalf of all other similarly-situated persons, Plaintiffs, v. Regence Blue Shield, Defendant",
-    "number": "68060-4",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=991118",
-    "argument": "1999-11-18",
-    "argument_day": "Thursday, November 18, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-11-18",
-        "title": "Oral Argument on Thursday, November 18, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-28/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199911/1999110012D.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999111027/media.m3u8",
-        "length": "01:03:05",
-        "captions_url": "https://m-download.invintus.com/9375922947/b420c9161067d6d0c14bf444d5f5841bbc9a154d.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-121",
+    "id": "1999-136",
     "title": "James E. Hoffman and Dale W. Snow v. Regence Blue Shield",
     "number": "68064-4",
     "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=991118",
     "argument": "1999-11-18",
     "argument_day": "Thursday, November 18, 1999"
-  },
-  {
-    "id": "1999-122",
-    "title": "State of Washington v. Washington Education",
-    "number": "67126-5",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=991118",
-    "argument": "1999-11-18",
-    "argument_day": "Thursday, November 18, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-11-18",
-        "title": "Oral Argument on Thursday, November 18, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-29/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199911/1999110012C.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999111028/media.m3u8",
-        "length": "00:55:08",
-        "captions_url": "https://m-download.invintus.com/9375922947/682128575224cd88780225349618ff7d4782ec05.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-123",
-    "title": "Wenatchee Sportsmen Association, Respondent, v. Chelan County, Defendant, and Section 19 Llp and Stemilt Land Company, Appellants",
-    "number": "67785-9",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=991118",
-    "argument": "1999-11-18",
-    "argument_day": "Thursday, November 18, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-11-18",
-        "title": "Oral Argument on Thursday, November 18, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-31/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199911/1999110012A.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999111032/media.m3u8",
-        "length": "01:03:42",
-        "captions_url": "https://m-download.invintus.com/9375922947/58fae095dea2599ed4eedc56314554628683ff8c.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-124",
-    "title": "State of Washington v. Clark",
-    "number": "65267-8",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=991207",
-    "argument": "1999-12-07",
-    "argument_day": "Tuesday, December 7, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-12-07",
-        "title": "Oral Argument on Tuesday, December 7, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-37/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/650680af448609731d7a2bceab3368acd6968f16.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999121043/media.m3u8",
-        "length": "03:01:50",
-        "captions_url": "https://m-download.invintus.com/9375922947/60225c7e3489b249aedaa6c9ef42e0d8e50b448a.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-125",
-    "title": "State of Washington v. Fernandez-Medina",
-    "number": "67736-1",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=991209",
-    "argument": "1999-12-09",
-    "argument_day": "Thursday, December 9, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-12-09",
-        "title": "Oral Argument on Thursday, December 9, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-35/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199912/1999120007B.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999121037/media.m3u8",
-        "length": "00:40:53",
-        "captions_url": "https://m-download.invintus.com/9375922947/e9e0ce0a98ac415a807c77111c37b744092376ef.vtt"
-      }
-    ]
-  },
-  {
-    "id": "1999-126",
-    "title": "Star Software , and J.T. Haley, Respondent, v. Carl Highland, Petitioner",
-    "number": "67402-7",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=1999&season=f&file=991209",
-    "argument": "1999-12-09",
-    "argument_day": "Thursday, December 9, 1999",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "1999-12-09",
-        "title": "Oral Argument on Thursday, December 9, 1999",
-        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-36/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/199912/1999120007A.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/1999121038/media.m3u8",
-        "length": "00:37:06",
-        "captions_url": "https://m-download.invintus.com/9375922947/0a48b7a1cbe4a5dc1a33db6e5a923818ebb96cb6.vtt"
-      }
-    ]
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "id": "2012-001",
-    "title": "Snohomish County Public Transportation Benefit Area Corporation v. FirstGroup America, Inc.",
+    "title": "Snohomish County Public Transportation Benefit Area Corp. v. Firstgroup America, Inc.",
     "number": "83795-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20101109",
     "facts": "The petitioner Snohomish County Public Transportation Benefit Area Corporation, doing business as Community Transit, entered into a contract with respondent FirstGroup America, Inc., doing business as First Transit, under which First Transit agreed to provide bus services between Snohomish County and parts of King County for Community Transit. The contract included an indemnity provision requiring that First Transit indemnify Community Transit for any losses occasioned in whole or in part by the presence of First Transit buses except for those resulting solely from the negligence of Community Transit. Following a multiple vehicle accident involving a Community Transit bus, a First Transit bus, and two other automobiles that was caused by the shared negligence of the driver of the Community Transit bus and the driver of one of the other automobiles, Community Transit tendered a claim of indemnification to First Transit. After First Transit refused to indemnify Community Transit, Community Transit settled the claims against it by the drivers of the other automobiles and filed suit against First Transit in the Superior Court for Snohomish County, asserting that First Transit had breached the contract. The trial court granted summary judgment for First Transit. Upon appeal, the Washington Court of Appeals affirmed. Community Transit appealed this decision to the Supreme Court of Washington.",
@@ -11,6 +11,7 @@
     "argument_day": "Tuesday, November 9, 2010",
     "decision": "2012-02-23",
     "decision_day": "Thursday, February 23, 2012",
+    "citation": "173 Wn.2d 829 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "5-4",
@@ -69,7 +70,7 @@
   },
   {
     "id": "2012-002",
-    "title": "Z.D.I. Gaming, Inc. v. Washington State Gambling Commission",
+    "title": "ZDI Gaming, Inc. v. Washington State Gambling Commission",
     "number": "83745-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20101116",
     "facts": "Respondent Z.D.I. Gaming, Inc. filed an application with the petitioner Washington State Gambling Commission requesting permission to distribute a new type of electronic gaming machine that it had developed. After the Washington State Gambling Commission denied the application on grounds that the machine’s use of a “cash card” violates Washington Administrative Code §230-30-070’s requirement that all prizes be awarded in either cash or merchandise, Z.D.I. Gaming petitioned the Superior Court for Pierce County for judicial review. The Washington State Gambling Commission moved for dismissal, asserting that Washington Revised Code §9.46.095 confers exclusive subject matter jurisdiction over cases in which the Washington State Gambling Commission is a party upon the Superior Court for Thurston County. The superior court denied the motion to dismiss but transferred the case to the Superior Court for Thurston County, which reversed the Washington State Gambling Commission’s denial of Z.D.I. Gaming’s application. Upon appeal, the Washington Court of Appeals affirmed, holding that dismissal was not required insofar as §9.46.095 relates to venue rather than subject matter jurisdiction and that the Washington State Gambling Commission’s denial of Z.D.I. Gaming’s application was not supported by substantial evidence. The Washington State Gambling Commission appealed this decision to the Supreme Court of Washington.",
@@ -79,6 +80,7 @@
     "argument_day": "Tuesday, November 16, 2010",
     "decision": "2012-01-12",
     "decision_day": "Thursday, January 12, 2012",
+    "citation": "173 Wn.2d 608 (2012)",
     "bench": "madsen1",
     "score": "5-4",
     "votes": [
@@ -146,6 +148,7 @@
     "argument_day": "Tuesday, November 16, 2010",
     "decision": "2012-03-01",
     "decision_day": "Thursday, March 1, 2012",
+    "citation": "173 Wn.2d 911 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "6-3",
@@ -216,6 +219,7 @@
     "argument_day": "Thursday, January 13, 2011",
     "decision": "2012-02-16",
     "decision_day": "Thursday, February 16, 2012",
+    "citation": "173 Wn.2d 697 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen2",
     "score": "9-0",
@@ -281,6 +285,7 @@
     "argument_day": "Thursday, January 20, 2011",
     "decision": "2012-05-24",
     "decision_day": "Thursday, May 24, 2012",
+    "citation": "174 Wn.2d 539 (2012)",
     "score": "5-4",
     "votes": [
       {
@@ -347,6 +352,7 @@
     "argument_day": "Thursday, January 20, 2011",
     "decision": "2012-03-22",
     "decision_day": "Thursday, March 22, 2012",
+    "citation": "174 Wn.2d 131 (2012)",
     "bench": "madsen2",
     "score": "8-1",
     "votes": [
@@ -413,6 +419,7 @@
     "argument_day": "Tuesday, February 8, 2011",
     "decision": "2012-06-07",
     "decision_day": "Thursday, June 7, 2012",
+    "citation": "174 Wn.2d 683 (2012)",
     "bench": "madsen2",
     "score": "9-0",
     "votes": [
@@ -478,6 +485,7 @@
     "argument_day": "Thursday, February 10, 2011",
     "decision": "2012-09-20",
     "decision_day": "Thursday, September 20, 2012",
+    "citation": "175 Wn.2d 287 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -493,6 +501,30 @@
   },
   {
     "id": "2012-009",
+    "title": "State of Washington v. Davis",
+    "number": "80209-2",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110210",
+    "questions": "Oral argument in State v. Davis continues.",
+    "argument": "2011-02-10",
+    "argument_day": "Thursday, February 10, 2011",
+    "decision": "2012-09-20",
+    "decision_day": "Thursday, September 20, 2012",
+    "citation": "175 Wn.2d 287 (2012)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2011-02-10",
+        "title": "Oral Argument on Thursday, February 10, 2011",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2011021230/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/201102/2011020004B.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2011021230/media.m3u8",
+        "size": 273678336
+      }
+    ]
+  },
+  {
+    "id": "2012-010",
     "title": "Niccum v. Enquist",
     "number": "83983-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110215",
@@ -501,6 +533,7 @@
     "argument_day": "Tuesday, February 15, 2011",
     "decision": "2012-09-20",
     "decision_day": "Thursday, September 20, 2012",
+    "citation": "175 Wn.2d 441 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -515,7 +548,7 @@
     ]
   },
   {
-    "id": "2012-010",
+    "id": "2012-011",
     "title": "State of Washington v. Morales",
     "number": "84197-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110315",
@@ -526,6 +559,7 @@
     "argument_day": "Tuesday, March 15, 2011",
     "decision": "2012-01-26",
     "decision_day": "Thursday, January 26, 2012",
+    "citation": "173 Wn.2d 560 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen2",
     "score": "8-1",
@@ -583,7 +617,7 @@
     ]
   },
   {
-    "id": "2012-011",
+    "id": "2012-012",
     "title": "In re Personal Restraint of Carrier",
     "number": "83377-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110317",
@@ -594,6 +628,7 @@
     "argument_day": "Thursday, March 17, 2011",
     "decision": "2012-02-23",
     "decision_day": "Thursday, February 23, 2012",
+    "citation": "173 Wn.2d 791 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen2",
     "score": "6-3",
@@ -652,7 +687,7 @@
     ]
   },
   {
-    "id": "2012-012",
+    "id": "2012-013",
     "title": "State of Washington v. Gresham",
     "number": "84148-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110317",
@@ -663,6 +698,7 @@
     "argument_day": "Thursday, March 17, 2011",
     "decision": "2012-01-05",
     "decision_day": "Thursday, January 5, 2012",
+    "citation": "173 Wn.2d 405 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen2",
     "score": "7-2",
@@ -721,7 +757,7 @@
     ]
   },
   {
-    "id": "2012-013",
+    "id": "2012-014",
     "title": "State of Washington v. Wise",
     "number": "82802-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110503",
@@ -730,6 +766,7 @@
     "argument_day": "Tuesday, May 3, 2011",
     "decision": "2012-11-21",
     "decision_day": "Wednesday, November 21, 2012",
+    "citation": "176 Wn.2d 1 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -744,7 +781,7 @@
     ]
   },
   {
-    "id": "2012-014",
+    "id": "2012-015",
     "title": "State of Washington v. Paumier",
     "number": "84585-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110503",
@@ -753,6 +790,7 @@
     "argument_day": "Tuesday, May 3, 2011",
     "decision": "2012-11-21",
     "decision_day": "Wednesday, November 21, 2012",
+    "citation": "176 Wn.2d 29 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -767,7 +805,7 @@
     ]
   },
   {
-    "id": "2012-015",
+    "id": "2012-016",
     "title": "In re Personal Restraint of Morris",
     "number": "84929-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110505",
@@ -776,6 +814,7 @@
     "argument_day": "Thursday, May 5, 2011",
     "decision": "2012-11-21",
     "decision_day": "Wednesday, November 21, 2012",
+    "citation": "176 Wn.2d 157 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -790,7 +829,7 @@
     ]
   },
   {
-    "id": "2012-016",
+    "id": "2012-017",
     "title": "State of Washington v. Thompson",
     "number": "84739-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110505",
@@ -801,6 +840,7 @@
     "argument_day": "Thursday, May 5, 2011",
     "decision": "2012-02-23",
     "decision_day": "Thursday, February 23, 2012",
+    "citation": "173 Wn.2d 865 (2012)",
     "bench": "madsen2",
     "score": "5-4",
     "votes": [
@@ -857,7 +897,7 @@
     ]
   },
   {
-    "id": "2012-017",
+    "id": "2012-018",
     "title": "In re Personal Restraint of Glasmann",
     "number": "84475-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110510",
@@ -866,6 +906,7 @@
     "argument_day": "Tuesday, May 10, 2011",
     "decision": "2012-10-18",
     "decision_day": "Thursday, October 18, 2012",
+    "citation": "175 Wn.2d 696 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen2",
     "score": "5-4",
@@ -924,7 +965,7 @@
     ]
   },
   {
-    "id": "2012-018",
+    "id": "2012-019",
     "title": "State of Washington v. Griffin",
     "number": "84554-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110510",
@@ -935,6 +976,7 @@
     "argument_day": "Tuesday, May 10, 2011",
     "decision": "2012-01-05",
     "decision_day": "Thursday, January 5, 2012",
+    "citation": "173 Wn.2d 467 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen2",
     "score": "9-0",
@@ -991,7 +1033,7 @@
     ]
   },
   {
-    "id": "2012-019",
+    "id": "2012-020",
     "title": "State of Washington v. McCuistion",
     "number": "81644-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110512",
@@ -1000,6 +1042,7 @@
     "argument_day": "Thursday, May 12, 2011",
     "decision": "2012-05-03",
     "decision_day": "Thursday, May 3, 2012",
+    "citation": "174 Wn.2d 369 (2012)",
     "bench": "madsen2",
     "score": "6-3",
     "votes": [
@@ -1057,7 +1100,7 @@
     ]
   },
   {
-    "id": "2012-020",
+    "id": "2012-021",
     "title": "State of Washington v. Tracer",
     "number": "84452-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110512",
@@ -1068,6 +1111,7 @@
     "argument_day": "Thursday, May 12, 2011",
     "decision": "2012-02-16",
     "decision_day": "Thursday, February 16, 2012",
+    "citation": "173 Wn.2d 708 (2012)",
     "bench": "madsen2",
     "score": "9-0",
     "votes": [
@@ -1124,7 +1168,7 @@
     ]
   },
   {
-    "id": "2012-021",
+    "id": "2012-022",
     "title": "State of Washington v. Snapp",
     "number": "84223-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110519",
@@ -1135,6 +1179,7 @@
     "argument_day": "Thursday, May 19, 2011",
     "decision": "2012-04-05",
     "decision_day": "Thursday, April 5, 2012",
+    "citation": "174 Wn.2d 177 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen2",
     "score": "8-1",
@@ -1192,8 +1237,8 @@
     ]
   },
   {
-    "id": "2012-022",
-    "title": "Townsend v. Quadrant Corporation",
+    "id": "2012-023",
+    "title": "Townsend v. Quadrant Corp.",
     "number": "84422-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110519",
     "facts": "Petitioner Donia Townsend entered into a purchase and sale agreement to purchase a home from respondent Quadrant Corporation that included an arbitration clause requiring that any controversy or claim arising from the agreement be determined by arbitration. Several years later, Townsend and a number of other owners of homes purchased from Quadrant Corporation filed suit against Quadrant Corporation in the Superior Court for King County, alleging that Quadrant Corporation knowingly engaged in poor workmanship that resulted in serious construction defects. After the cases were consolidated, Quadrant Corporation moved to compel arbitration. The superior court denied the motion, ruling that there were material issues of fact as to whether the purchase and sale agreement was a negotiated contract or a contract of adhesion. Upon appeal, the Washington Court of Appeals reversed, holding that the issue of the purchase and sale agreement’s unconscionability is an issue for the arbitrator to decide. The Washington Court of Appeals also held that claims raised on behalf of the homeowners’ minor children are also subject to the arbitration clause despite the fact that the children were not parties to the purchase and sale agreement. Townsend appealed this decision to the Supreme Court of Washington.",
@@ -1203,6 +1248,7 @@
     "argument_day": "Thursday, May 19, 2011",
     "decision": "2012-01-05",
     "decision_day": "Thursday, January 5, 2012",
+    "citation": "173 Wn.2d 451 (2012)",
     "bench": "madsen2",
     "score": "9-0",
     "votes": [
@@ -1259,7 +1305,7 @@
     ]
   },
   {
-    "id": "2012-023",
+    "id": "2012-024",
     "title": "In re Estate of Bracken",
     "number": "84114-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110519",
@@ -1268,6 +1314,7 @@
     "argument_day": "Thursday, May 19, 2011",
     "decision": "2012-10-18",
     "decision_day": "Thursday, October 18, 2012",
+    "citation": "175 Wn.2d 549 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen2",
     "score": "9-0",
@@ -1316,7 +1363,7 @@
     ]
   },
   {
-    "id": "2012-024",
+    "id": "2012-025",
     "title": "Erdman v. Chapel Hill Presbyterian Church",
     "number": "84998-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110524",
@@ -1325,6 +1372,7 @@
     "argument_day": "Tuesday, May 24, 2011",
     "decision": "2012-10-04",
     "decision_day": "Thursday, October 4, 2012",
+    "citation": "175 Wn.2d 659 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen2",
     "score": "9-0",
@@ -1379,8 +1427,8 @@
     ]
   },
   {
-    "id": "2012-025",
-    "title": "Mukilteo Citizens for Simple Government v. Mukilteo",
+    "id": "2012-026",
+    "title": "Mukilteo Citizens v. City of Mukilteo",
     "number": "84921-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110524",
     "facts": "Washington Revised Code §46.63.170 authorizes local governments to enact ordinances that allow the use of automated traffic safety cameras to issue notices of traffic infractions. Pursuant to this authorization, the respondent city of Mukilteo enacted an ordinance authorizing and setting forth guidelines for the use of automated traffic safety cameras. Residents of Mukilteo subsequently submitted Initiative 2, which would forbid the city from installing automated traffic safety cameras without voter approval, limit the amount of fines that could be imposed for infractions arising from automated safety camera surveillance, and repeal the ordinance authorizing the use of automated traffic safety cameras, for inclusion on the ballot. After the Mukilteo City Council directed that the initiative be included on the ballot, Mukilteo Citizens for Simple Government petitioned the Superior Court for Snohomish County for a declaratory judgment that Initiative 2 is beyond the scope of the local initiative power and an injunction preventing its inclusion on the ballot. The superior court denied the petition, ruling that it was premature. Mukilteo Citizens for Simple Government appealed this decision directly to the Supreme Court of Washington, which declined accelerated review but granted direct review. In the interim, Initiative 2 was passed and the Mukilteo City Council repealed the ordinance authorizing automated traffic safety cameras.",
@@ -1390,6 +1438,7 @@
     "argument_day": "Tuesday, May 24, 2011",
     "decision": "2012-03-08",
     "decision_day": "Thursday, March 8, 2012",
+    "citation": "174 Wn.2d 41 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen2",
     "score": "5-4",
@@ -1447,8 +1496,8 @@
     ]
   },
   {
-    "id": "2012-026",
-    "title": "Matsyuk v. State Farm Fire & Casualty Company",
+    "id": "2012-027",
+    "title": "Matsyuk v. State Farm Fire & Casualty Co.",
     "number": "84686-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110526",
     "facts": "Petitioner Olga Matsyuk was injured while riding in an automobile driven by Omelyan Stemditsky. Matsyuk subsequently recovered $1,874 in personal injury benefits from Stemditsky’s insurance policy with respondent State Farm Fire & Casualty Company. Matsyuk also recovered $5,874 from State Farm in its capacity as Stemditsky’s liability insurer after reaching a settlement with State Farm. After State Farm indicated that it would seek reimbursement of its personal injury payment through an offset to the liability payment, Matsyuk demanded that this offset be reduced by a prorated share of the attorney fees she incurred in obtaining the settlement. When State Farm refused, Matsyuk filed suit against State Farm in the Superior Court for King County. The trial court granted summary judgment for State Farm and the Washington Court of Appeals affirmed. Matsyuk appealed this decision to the Supreme Court of Washington.",
@@ -1458,6 +1507,7 @@
     "argument_day": "Thursday, May 26, 2011",
     "decision": "2012-02-09",
     "decision_day": "Thursday, February 9, 2012",
+    "citation": "173 Wn.2d 643 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen2",
     "score": "6-3",
@@ -1515,7 +1565,7 @@
     ]
   },
   {
-    "id": "2012-027",
+    "id": "2012-028",
     "title": "State of Washington v. Budik",
     "number": "84714-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110614",
@@ -1526,6 +1576,7 @@
     "argument_day": "Tuesday, June 14, 2011",
     "decision": "2012-02-16",
     "decision_day": "Thursday, February 16, 2012",
+    "citation": "173 Wn.2d 727 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen2",
     "score": "8-1",
@@ -1584,7 +1635,7 @@
     ]
   },
   {
-    "id": "2012-028",
+    "id": "2012-029",
     "title": "Anthis v. Copland",
     "number": "85230-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110614",
@@ -1595,6 +1646,7 @@
     "argument_day": "Tuesday, June 14, 2011",
     "decision": "2012-02-16",
     "decision_day": "Thursday, February 16, 2012",
+    "citation": "173 Wn.2d 752 (2012)",
     "bench": "madsen2",
     "score": "5-4",
     "votes": [
@@ -1651,8 +1703,8 @@
     ]
   },
   {
-    "id": "2012-029",
-    "title": "Jackowski v. Hawkins Poe, Inc.",
+    "id": "2012-030",
+    "title": "Jackowski v. Borchelt",
     "number": "83660-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110616",
     "questions": "Whether, in an action arising out of the sale of a home, the economic loss rule bars a claim for damages for fraudulent concealment, bars the remedy of rescission of the sales contract for negligent misrepresentation, and bars an action against the buyers' realtor for breach of common law and statutory duties.",
@@ -1660,6 +1712,7 @@
     "argument_day": "Thursday, June 16, 2011",
     "decision": "2012-06-14",
     "decision_day": "Thursday, June 14, 2012",
+    "citation": "174 Wn.2d 720 (2012)",
     "bench": "madsen2",
     "score": "9-0",
     "votes": [
@@ -1715,7 +1768,7 @@
     ]
   },
   {
-    "id": "2012-030",
+    "id": "2012-031",
     "title": "State of Washington v. Sublett",
     "number": "84856-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110616",
@@ -1724,6 +1777,7 @@
     "argument_day": "Thursday, June 16, 2011",
     "decision": "2012-11-21",
     "decision_day": "Wednesday, November 21, 2012",
+    "citation": "176 Wn.2d 58 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -1738,7 +1792,7 @@
     ]
   },
   {
-    "id": "2012-031",
+    "id": "2012-032",
     "title": "McCleary v. Washington",
     "number": "84362-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110628",
@@ -1749,6 +1803,7 @@
     "argument_day": "Tuesday, June 28, 2011",
     "decision": "2012-01-05",
     "decision_day": "Thursday, January 5, 2012",
+    "citation": "173 Wn.2d 477 (2012)",
     "bench": "madsen2",
     "score": "9-0",
     "votes": [
@@ -1805,7 +1860,7 @@
     ]
   },
   {
-    "id": "2012-032",
+    "id": "2012-033",
     "title": "State of Washington v. Jim",
     "number": "84716-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110628",
@@ -1816,6 +1871,7 @@
     "argument_day": "Tuesday, June 28, 2011",
     "decision": "2012-02-09",
     "decision_day": "Thursday, February 9, 2012",
+    "citation": "173 Wn.2d 672 (2012)",
     "bench": "madsen2",
     "score": "6-3",
     "votes": [
@@ -1872,7 +1928,7 @@
     ]
   },
   {
-    "id": "2012-033",
+    "id": "2012-034",
     "title": "State of Washington v. Abdulle",
     "number": "84660-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110630",
@@ -1881,6 +1937,7 @@
     "argument_day": "Thursday, June 30, 2011",
     "decision": "2012-05-03",
     "decision_day": "Thursday, May 3, 2012",
+    "citation": "174 Wn.2d 411 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen2",
     "score": "5-4",
@@ -1938,8 +1995,8 @@
     ]
   },
   {
-    "id": "2012-034",
-    "title": "Sprague v. Safeco Insurance Company of America",
+    "id": "2012-035",
+    "title": "Sprague v. Safeco Insurance Co. of America",
     "number": "85794-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110915",
     "questions": "What is the proper interpretation of an “ensuing loss clause” in an all-risk insurance policy? Note: This case was consolidated with Vision One, LLC v. Philadelphia Indemnity Insurance Co. (No. 85350-9) for argument, but was decided separately.",
@@ -1947,6 +2004,7 @@
     "argument_day": "Thursday, September 15, 2011",
     "decision": "2012-05-17",
     "decision_day": "Thursday, May 17, 2012",
+    "citation": "174 Wn.2d 524 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen2",
     "score": "5-4",
@@ -2001,7 +2059,7 @@
     ]
   },
   {
-    "id": "2012-035",
+    "id": "2012-036",
     "title": "Clausen v. Icicle Seafoods, Inc.",
     "number": "85200-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110915",
@@ -2012,6 +2070,7 @@
     "argument_day": "Thursday, September 15, 2011",
     "decision": "2012-03-15",
     "decision_day": "Thursday, March 15, 2012",
+    "citation": "174 Wn.2d 70 (2012)",
     "bench": "madsen2",
     "score": "7-2",
     "votes": [
@@ -2069,8 +2128,8 @@
     ]
   },
   {
-    "id": "2012-036",
-    "title": "Vision One, LLC v. Philadelphia Indemnity Insurance Co.",
+    "id": "2012-037",
+    "title": "Vision One, LLC v. Philadelphia Indemnity Insurance",
     "number": "85350-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110915",
     "questions": "Whether damages caused by collapsed shoring during the construction of a building are covered under the ensuing loss provision of an all-risk insurance policy that excludes coverage for faulty workmanship design and defects, and whether damages from the imminent collapse of a home deck are covered under the ensuing loss provision of an all-risk homeowners policy that excludes coverage for construction defects and rot. Note: This case was consolidated with Sprague v. Safeco Insurance Company of America (No. 85794-6) for argument, but was decided separately.",
@@ -2078,6 +2137,7 @@
     "argument_day": "Thursday, September 15, 2011",
     "decision": "2012-05-17",
     "decision_day": "Thursday, May 17, 2012",
+    "citation": "174 Wn.2d 501 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen2",
     "score": "9-0",
@@ -2131,7 +2191,7 @@
     ]
   },
   {
-    "id": "2012-037",
+    "id": "2012-038",
     "title": "Albice v. Premier Mortgage Services of Washington",
     "number": "85260-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110922",
@@ -2140,6 +2200,7 @@
     "argument_day": "Thursday, September 22, 2011",
     "decision": "2012-05-24",
     "decision_day": "Thursday, May 24, 2012",
+    "citation": "174 Wn.2d 560 (2012)",
     "bench": "madsen2",
     "score": "9-0",
     "votes": [
@@ -2197,7 +2258,7 @@
     ]
   },
   {
-    "id": "2012-038",
+    "id": "2012-039",
     "title": "Koenig v. Thurston County",
     "number": "84940-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111006",
@@ -2206,6 +2267,7 @@
     "argument_day": "Thursday, October 6, 2011",
     "decision": "2012-09-27",
     "decision_day": "Thursday, September 27, 2012",
+    "citation": "175 Wn.2d 837 (2012)",
     "bench": "madsen2",
     "score": "6-3",
     "votes": [
@@ -2263,8 +2325,8 @@
     ]
   },
   {
-    "id": "2012-039",
-    "title": "Tesoro Refining & Marketing Company v. Department of Revenue",
+    "id": "2012-040",
+    "title": "Tesoro Refining & Marketing Co. v. Department of Revenue",
     "number": "85556-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111011",
     "facts": "Respondent Tesoro Refining & Marketing Company produces marine bunker fuel for foreign consumption at its refinery near Anacortes. Under Washington Revised Code §82.04.433, proceeds from the foreign sale of oil products may be deducted in calculating liability for business and occupation taxes on oil products. This deducation was claimed by Tesoro Refining & Marketing Company in its tax returns for both its business and occupation tax on wholesaling and retailing and its business and occupation tax on manufacturing. After the Department of Revenue’s appeals division ruled that the deduction does not apply to business and occupation taxes on manufacturing, Tesoro Refining & Marketing Company petitioned the Superior Court for Thurston County for a declaratory judgment that the deduction is not limited to business and occupation taxes on wholesaling and retailing. In the interim, the legislature enacted a retroactive clarifying amendment to §82.04.433 that expressly limits the deduction to business and occupation taxes on wholesaling and retailing. The superior court granted summary judgment for the Department of Revenue. Upon appeal, the Washington Court of Appeals reversed, holding that the plain language of §82.04.433 permits deductions for foreign sales of oil products from business and occupation taxes on manufacturing and that the clarifying amendment may not be applied retroactively. The Department of Revenue appealed this decision to the Supreme Court of Washington.",
@@ -2274,6 +2336,7 @@
     "argument_day": "Tuesday, October 11, 2011",
     "decision": "2012-01-12",
     "decision_day": "Thursday, January 12, 2012",
+    "citation": "173 Wn.2d 551 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen2",
     "score": "9-0",
@@ -2330,7 +2393,7 @@
     ]
   },
   {
-    "id": "2012-040",
+    "id": "2012-041",
     "title": "In re Personal Restraint of Eastmond",
     "number": "81939-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111011",
@@ -2341,6 +2404,7 @@
     "argument_day": "Tuesday, October 11, 2011",
     "decision": "2012-02-02",
     "decision_day": "Thursday, February 2, 2012",
+    "citation": "173 Wn.2d 632 (2012)",
     "bench": "madsen2",
     "score": "7-2",
     "votes": [
@@ -2397,7 +2461,7 @@
     ]
   },
   {
-    "id": "2012-041",
+    "id": "2012-042",
     "title": "Gendler v. Batiste",
     "number": "85408-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111011",
@@ -2408,6 +2472,7 @@
     "argument_day": "Tuesday, October 11, 2011",
     "decision": "2012-04-12",
     "decision_day": "Thursday, April 12, 2012",
+    "citation": "174 Wn.2d 244 (2012)",
     "bench": "madsen2",
     "score": "7-2",
     "votes": [
@@ -2459,7 +2524,7 @@
     ]
   },
   {
-    "id": "2012-042",
+    "id": "2012-043",
     "title": "State of Washington v. Johnson",
     "number": "85765-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111018",
@@ -2470,6 +2535,7 @@
     "argument_day": "Tuesday, October 18, 2011",
     "decision": "2012-02-23",
     "decision_day": "Thursday, February 23, 2012",
+    "citation": "173 Wn.2d 895 (2012)",
     "bench": "madsen2",
     "score": "9-0",
     "votes": [
@@ -2525,8 +2591,8 @@
     ]
   },
   {
-    "id": "2012-043",
-    "title": "In re Dependency of M.S.R.",
+    "id": "2012-044",
+    "title": "Department of Social & Health Services v. Luak",
     "number": "85729-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111018",
     "facts": "The respondent Department of Social and Health Services petitioned the Superior Court for King County to terminate the parental rights of petitioner Nyakat Luak with regard to her sons M.S.R. and T.S.R. on grounds that Luak suffers from psychological incapacities and mental deficiencies so severe and chronic as to render her unable to provide proper care for her children. Following a trial, Luak’s parental rights were terminated on the basis of the trial court’s findings that the state had expressly and understandably offered Luak services to correct her parental deficiencies and that there was little likelihood that these deficiencies could be corrected in the foreseeable future. Luak appealed the trial court’s decision, asserting that these findings were not supported by sufficient evidence and that not appointing counsel to represent the children during the proceedings denied them their constitutional right to counsel.",
@@ -2536,6 +2602,7 @@
     "argument_day": "Tuesday, October 18, 2011",
     "decision": "2012-03-01",
     "decision_day": "Thursday, March 1, 2012",
+    "citation": "174 Wn.2d 1 (2012)",
     "bench": "madsen2",
     "score": "9-0",
     "votes": [
@@ -2591,7 +2658,7 @@
     ]
   },
   {
-    "id": "2012-044",
+    "id": "2012-045",
     "title": "In re Personal Restraint of Stenson",
     "number": "83606-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111020",
@@ -2600,6 +2667,7 @@
     "argument_day": "Thursday, October 20, 2011",
     "decision": "2012-05-10",
     "decision_day": "Thursday, May 10, 2012",
+    "citation": "174 Wn.2d 474 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen2",
     "score": "8-1",
@@ -2653,7 +2721,7 @@
     ]
   },
   {
-    "id": "2012-045",
+    "id": "2012-046",
     "title": "Peck v. AT&T Mobility",
     "number": "85581-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111020",
@@ -2664,6 +2732,7 @@
     "argument_day": "Thursday, October 20, 2011",
     "decision": "2012-04-26",
     "decision_day": "Thursday, April 26, 2012",
+    "citation": "174 Wn.2d 333 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen2",
     "score": "8-1",
@@ -2721,7 +2790,7 @@
     ]
   },
   {
-    "id": "2012-046",
+    "id": "2012-047",
     "title": "Tacoma v. Bonney Lake",
     "number": "84824-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111020",
@@ -2732,6 +2801,7 @@
     "argument_day": "Thursday, October 20, 2011",
     "decision": "2012-01-26",
     "decision_day": "Thursday, January 26, 2012",
+    "citation": "173 Wn.2d 584 (2012)",
     "bench": "madsen2",
     "score": "9-0",
     "votes": [
@@ -2787,8 +2857,8 @@
     ]
   },
   {
-    "id": "2012-047",
-    "title": "Macias v. Mine Safety Appliances Co.",
+    "id": "2012-048",
+    "title": "Macias v. Saberhagen Holdings, Inc.",
     "number": "85535-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111020",
     "questions": "Whether the manufacturer of a respirator designed to protect users from inhaling asbestos particles and other contaminants has a duty to warn users of the danger of exposure to asbestos in cleaning the respirators and a duty to instruct on safe cleaning methods.",
@@ -2796,6 +2866,7 @@
     "argument_day": "Thursday, October 20, 2011",
     "decision": "2012-08-09",
     "decision_day": "Thursday, August 9, 2012",
+    "citation": "175 Wn.2d 402 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -2810,7 +2881,7 @@
     ]
   },
   {
-    "id": "2012-048",
+    "id": "2012-049",
     "title": "Williams v. Tilaye",
     "number": "85570-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111025",
@@ -2821,6 +2892,7 @@
     "argument_day": "Tuesday, October 25, 2011",
     "decision": "2012-03-08",
     "decision_day": "Thursday, March 8, 2012",
+    "citation": "174 Wn.2d 57 (2012)",
     "bench": "madsen2",
     "score": "9-0",
     "votes": [
@@ -2876,7 +2948,7 @@
     ]
   },
   {
-    "id": "2012-049",
+    "id": "2012-050",
     "title": "State of Washington v. Siers",
     "number": "85469-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111025",
@@ -2887,6 +2959,7 @@
     "argument_day": "Tuesday, October 25, 2011",
     "decision": "2012-04-19",
     "decision_day": "Thursday, April 19, 2012",
+    "citation": "174 Wn.2d 269 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen2",
     "score": "9-0",
@@ -2944,7 +3017,7 @@
     ]
   },
   {
-    "id": "2012-050",
+    "id": "2012-051",
     "title": "Kiely v. Graves",
     "number": "84828-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111025",
@@ -2955,6 +3028,7 @@
     "argument_day": "Tuesday, October 25, 2011",
     "decision": "2012-03-01",
     "decision_day": "Thursday, March 1, 2012",
+    "citation": "173 Wn.2d 926 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen2",
     "score": "9-0",
@@ -3007,7 +3081,7 @@
     ]
   },
   {
-    "id": "2012-051",
+    "id": "2012-052",
     "title": "State of Washington v. Deer",
     "number": "85511-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111027",
@@ -3016,6 +3090,7 @@
     "argument_day": "Thursday, October 27, 2011",
     "decision": "2012-10-25",
     "decision_day": "Thursday, October 25, 2012",
+    "citation": "175 Wn.2d 725 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen2",
     "score": "7-2",
@@ -3073,7 +3148,7 @@
     ]
   },
   {
-    "id": "2012-052",
+    "id": "2012-053",
     "title": "Elcon Construction, Inc. v. Eastern Washington University",
     "number": "83690-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111027",
@@ -3084,6 +3159,7 @@
     "argument_day": "Thursday, October 27, 2011",
     "decision": "2012-03-29",
     "decision_day": "Thursday, March 29, 2012",
+    "citation": "174 Wn.2d 157 (2012)",
     "bench": "madsen2",
     "score": "9-0",
     "votes": [
@@ -3140,7 +3216,7 @@
     ]
   },
   {
-    "id": "2012-053",
+    "id": "2012-054",
     "title": "State of Washington v. Hurst",
     "number": "85549-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111027",
@@ -3151,6 +3227,7 @@
     "argument_day": "Thursday, October 27, 2011",
     "decision": "2012-01-26",
     "decision_day": "Thursday, January 26, 2012",
+    "citation": "173 Wn.2d 597 (2012)",
     "bench": "madsen2",
     "score": "9-0",
     "votes": [
@@ -3206,7 +3283,7 @@
     ]
   },
   {
-    "id": "2012-054",
+    "id": "2012-055",
     "title": "State of Washington v. Saenz",
     "number": "84949-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111027",
@@ -3215,6 +3292,7 @@
     "argument_day": "Thursday, October 27, 2011",
     "decision": "2012-08-23",
     "decision_day": "Thursday, August 23, 2012",
+    "citation": "175 Wn.2d 167 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -3229,8 +3307,8 @@
     ]
   },
   {
-    "id": "2012-055",
-    "title": "Business Services of America II, Inc. v. WaferTech L.L.C.",
+    "id": "2012-056",
+    "title": "Business Services of America II, Inc. v. WaferTech, LLC",
     "number": "85654-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111108",
     "facts": "Respondent Business Services of America II, Inc. filed suit against petitioner WaferTech, L.L.C. in the Superior Court for Clark County following a construction contract dispute. The trial court dismissed Business Services of America II’s claims and awarded WaferTech attorney fees. Upon appeal, the Washington Court of Appeals affirmed in part and reversed in part, affirming the dismissal of most of Business Services of America II’s claims but reversing and remanding with respect to a lien foreclosure claim. The trial court subsequently entered a stipulation and order for return of exhibits. Neither party responded to the order. Two years later, Business Services of America II’s attorney filed a notice of intent to withdraw. The notice inaccurately stated that the case had been dismissed and judgment entered against Business Services of America II. One year later, Business Services of America II, under new ownership, moved to try the remanded lien claim and the case was noted for trial. However, the trial court subsequently granted WaferTech’s motion for dismissal, ruling that Business Services of America II’s dilatoriness and deception constituted unacceptable litigation practices. Upon appeal, the Washington Court of Appeals reversed, holding that Washington State Court Rule 41(b)(1), which states that a case shall not be dismissed if it is noted for trial before the hearing on the motion to dismiss, prohibits dismissal. WaferTech appealed this decision to the Supreme Court of Washington.",
@@ -3240,6 +3318,7 @@
     "argument_day": "Tuesday, November 8, 2011",
     "decision": "2012-04-19",
     "decision_day": "Thursday, April 19, 2012",
+    "citation": "174 Wn.2d 304 (2012)",
     "bench": "madsen2",
     "score": "7-2",
     "votes": [
@@ -3292,7 +3371,7 @@
     ]
   },
   {
-    "id": "2012-056",
+    "id": "2012-057",
     "title": "In re Personal Restraint of Heidari",
     "number": "85653-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111108",
@@ -3303,6 +3382,7 @@
     "argument_day": "Tuesday, November 8, 2011",
     "decision": "2012-04-19",
     "decision_day": "Thursday, April 19, 2012",
+    "citation": "174 Wn.2d 288 (2012)",
     "bench": "madsen2",
     "score": "9-0",
     "votes": [
@@ -3359,7 +3439,7 @@
     ]
   },
   {
-    "id": "2012-057",
+    "id": "2012-058",
     "title": "Estate of Bunch v. McGraw Residential Center",
     "number": "85679-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111108",
@@ -3368,6 +3448,7 @@
     "argument_day": "Tuesday, November 8, 2011",
     "decision": "2012-05-03",
     "decision_day": "Thursday, May 3, 2012",
+    "citation": "174 Wn.2d 425 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen2",
     "score": "8-1",
@@ -3425,7 +3506,7 @@
     ]
   },
   {
-    "id": "2012-058",
+    "id": "2012-059",
     "title": "Washington v. Jasper",
     "number": "85227-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111108",
@@ -3436,6 +3517,7 @@
     "argument_day": "Tuesday, November 8, 2011",
     "decision": "2012-03-15",
     "decision_day": "Thursday, March 15, 2012",
+    "citation": "174 Wn.2d 96 (2012)",
     "bench": "madsen2",
     "score": "9-0",
     "votes": [
@@ -3491,7 +3573,7 @@
     ]
   },
   {
-    "id": "2012-059",
+    "id": "2012-060",
     "title": "State of Washington v. McEnroe",
     "number": "86084-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111110",
@@ -3500,6 +3582,7 @@
     "argument_day": "Thursday, November 10, 2011",
     "decision": "2012-06-28",
     "decision_day": "Thursday, June 28, 2012",
+    "citation": "174 Wn.2d 795 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -3514,7 +3597,7 @@
     ]
   },
   {
-    "id": "2012-060",
+    "id": "2012-061",
     "title": "Minnick v. Clearwire",
     "number": "85810-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111110",
@@ -3523,6 +3606,7 @@
     "argument_day": "Thursday, November 10, 2011",
     "decision": "2012-05-03",
     "decision_day": "Thursday, May 3, 2012",
+    "citation": "174 Wn.2d 443 (2012)",
     "bench": "madsen2",
     "score": "5-4",
     "votes": [
@@ -3579,7 +3663,7 @@
     ]
   },
   {
-    "id": "2012-061",
+    "id": "2012-062",
     "title": "Stafne v. Snohomish County",
     "number": "84894-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111110",
@@ -3590,6 +3674,7 @@
     "argument_day": "Thursday, November 10, 2011",
     "decision": "2012-03-08",
     "decision_day": "Thursday, March 8, 2012",
+    "citation": "174 Wn.2d 24 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen2",
     "score": "9-0",
@@ -3646,7 +3731,7 @@
     ]
   },
   {
-    "id": "2012-062",
+    "id": "2012-063",
     "title": "Teter v. Deck",
     "number": "85342-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111110",
@@ -3657,6 +3742,7 @@
     "argument_day": "Thursday, November 10, 2011",
     "decision": "2012-04-05",
     "decision_day": "Thursday, April 5, 2012",
+    "citation": "174 Wn.2d 207 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen2",
     "score": "9-0",
@@ -3713,8 +3799,8 @@
     ]
   },
   {
-    "id": "2012-063",
-    "title": "Broughton Lumber Co. v. BNSF Railway Co. & Harsco Corp.",
+    "id": "2012-064",
+    "title": "Broughton Lumber Co. v. BNSF Railway Co.",
     "number": "85905-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111115",
     "questions": "Whether defendants who started a fire on their property that spread to plaintiffs property can be said to have destroyed or otherwise injured the plaintiffs tress for purposes of the timber trespass statute, RCW 64.12.030.",
@@ -3722,6 +3808,7 @@
     "argument_day": "Tuesday, November 15, 2011",
     "decision": "2012-05-31",
     "decision_day": "Thursday, May 31, 2012",
+    "citation": "174 Wn.2d 619 (2012)",
     "bench": "madsen2",
     "score": "6-3",
     "votes": [
@@ -3778,7 +3865,7 @@
     ]
   },
   {
-    "id": "2012-064",
+    "id": "2012-065",
     "title": "Jongeward v. BNSF Railway Co.",
     "number": "85781-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111115",
@@ -3787,6 +3874,7 @@
     "argument_day": "Tuesday, November 15, 2011",
     "decision": "2012-05-31",
     "decision_day": "Thursday, May 31, 2012",
+    "citation": "174 Wn.2d 586 (2012)",
     "bench": "madsen2",
     "score": "6-3",
     "votes": [
@@ -3843,7 +3931,7 @@
     ]
   },
   {
-    "id": "2012-065",
+    "id": "2012-066",
     "title": "In re Marriage of Katare",
     "number": "85591-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20111115",
@@ -3852,6 +3940,7 @@
     "argument_day": "Tuesday, November 15, 2011",
     "decision": "2012-08-16",
     "decision_day": "Thursday, August 16, 2012",
+    "citation": "175 Wn.2d 23 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -3866,7 +3955,7 @@
     ]
   },
   {
-    "id": "2012-066",
+    "id": "2012-067",
     "title": "In re Bond Issuance of Greater Wenatchee Regional Events Center",
     "number": "86552-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120110",
@@ -3875,6 +3964,7 @@
     "argument_day": "Tuesday, January 10, 2012",
     "decision": "2012-10-25",
     "decision_day": "Thursday, October 25, 2012",
+    "citation": "175 Wn.2d 788 (2012)",
     "bench": "madsen3",
     "score": "5-4",
     "votes": [
@@ -3931,7 +4021,7 @@
     ]
   },
   {
-    "id": "2012-067",
+    "id": "2012-068",
     "title": "Lowy v. PeaceHealth",
     "number": "85697-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120110",
@@ -3940,6 +4030,7 @@
     "argument_day": "Tuesday, January 10, 2012",
     "decision": "2012-06-21",
     "decision_day": "Thursday, June 21, 2012",
+    "citation": "174 Wn.2d 769 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -3954,7 +4045,7 @@
     ]
   },
   {
-    "id": "2012-068",
+    "id": "2012-069",
     "title": "State of Washington v. Nunez",
     "number": "85789-0; 85947-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120112",
@@ -3962,6 +4053,7 @@
     "argument_day": "Thursday, January 12, 2012",
     "decision": "2012-06-07",
     "decision_day": "Thursday, June 7, 2012",
+    "citation": "174 Wn.2d 707 (2012)",
     "bench": "madsen3",
     "score": "9-0",
     "votes": [
@@ -4017,7 +4109,7 @@
     ]
   },
   {
-    "id": "2012-069",
+    "id": "2012-070",
     "title": "Auto. United Trades Org. v. State of Washington",
     "number": "85661-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120112",
@@ -4026,6 +4118,7 @@
     "argument_day": "Thursday, January 12, 2012",
     "decision": "2012-08-30",
     "decision_day": "Thursday, August 30, 2012",
+    "citation": "175 Wn.2d 214 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -4040,8 +4133,8 @@
     ]
   },
   {
-    "id": "2012-070",
-    "title": "Stout v. Johnson Bail Bonds",
+    "id": "2012-071",
+    "title": "Stout v. Warren",
     "number": "85699-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120117",
     "questions": "Whether a fugitive criminal defendant injured while being apprehended by an independent contractor hired by a bail bond company is precluded from suing the company for personal injury because he assumed the risk of an inherently dangerous activity by absconding.",
@@ -4049,6 +4142,7 @@
     "argument_day": "Tuesday, January 17, 2012",
     "decision": "2012-12-20",
     "decision_day": "Thursday, December 20, 2012",
+    "citation": "176 Wn.2d 263 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -4063,7 +4157,7 @@
     ]
   },
   {
-    "id": "2012-071",
+    "id": "2012-072",
     "title": "In re Estate of Blessing",
     "number": "85944-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120117",
@@ -4074,6 +4168,7 @@
     "argument_day": "Tuesday, January 17, 2012",
     "decision": "2012-04-05",
     "decision_day": "Thursday, April 5, 2012",
+    "citation": "174 Wn.2d 228 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen3",
     "score": "9-0",
@@ -4130,7 +4225,7 @@
     ]
   },
   {
-    "id": "2012-072",
+    "id": "2012-073",
     "title": "State of Washington v. Rice",
     "number": "85893-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120117",
@@ -4139,6 +4234,7 @@
     "argument_day": "Tuesday, January 17, 2012",
     "decision": "2012-06-28",
     "decision_day": "Thursday, June 28, 2012",
+    "citation": "174 Wn.2d 884 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -4153,7 +4249,7 @@
     ]
   },
   {
-    "id": "2012-073",
+    "id": "2012-074",
     "title": "Auburn v. Gauntt",
     "number": "85892-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120117",
@@ -4164,6 +4260,7 @@
     "argument_day": "Tuesday, January 17, 2012",
     "decision": "2012-04-19",
     "decision_day": "Thursday, April 19, 2012",
+    "citation": "174 Wn.2d 321 (2012)",
     "bench": "madsen3",
     "score": "9-0",
     "votes": [
@@ -4219,7 +4316,7 @@
     ]
   },
   {
-    "id": "2012-074",
+    "id": "2012-075",
     "title": "In re Personal Restraint of Crace",
     "number": "85131-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120124",
@@ -4228,6 +4325,7 @@
     "argument_day": "Tuesday, January 24, 2012",
     "decision": "2012-07-19",
     "decision_day": "Thursday, July 19, 2012",
+    "citation": "174 Wn.2d 835 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -4242,14 +4340,15 @@
     ]
   },
   {
-    "id": "2012-075",
-    "title": "In re Personal Restraint of Ronnie Jackson",
+    "id": "2012-076",
+    "title": "In re Personal Restraint of Jackson",
     "number": "82363-4; 83923-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120124",
     "argument": "2012-01-24",
     "argument_day": "Tuesday, January 24, 2012",
     "decision": "2012-08-23",
     "decision_day": "Thursday, August 23, 2012",
+    "citation": "175 Wn.2d 155 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -4264,7 +4363,7 @@
     ]
   },
   {
-    "id": "2012-076",
+    "id": "2012-077",
     "title": "State of Washington v. Meneese",
     "number": "86203-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120124",
@@ -4273,6 +4372,7 @@
     "argument_day": "Tuesday, January 24, 2012",
     "decision": "2012-08-02",
     "decision_day": "Thursday, August 2, 2012",
+    "citation": "174 Wn.2d 937 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -4287,7 +4387,7 @@
     ]
   },
   {
-    "id": "2012-077",
+    "id": "2012-078",
     "title": "State of Washington v. Rowland",
     "number": "86117-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120126",
@@ -4298,6 +4398,7 @@
     "argument_day": "Thursday, January 26, 2012",
     "decision": "2012-03-22",
     "decision_day": "Thursday, March 22, 2012",
+    "citation": "174 Wn.2d 150 (2012)",
     "bench": "madsen3",
     "score": "9-0",
     "votes": [
@@ -4353,7 +4454,7 @@
     ]
   },
   {
-    "id": "2012-078",
+    "id": "2012-079",
     "title": "State of Washington v. Lyons",
     "number": "85746-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120126",
@@ -4364,6 +4465,7 @@
     "argument_day": "Thursday, January 26, 2012",
     "decision": "2012-04-26",
     "decision_day": "Thursday, April 26, 2012",
+    "citation": "174 Wn.2d 354 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen3",
     "score": "9-0",
@@ -4420,7 +4522,7 @@
     ]
   },
   {
-    "id": "2012-079",
+    "id": "2012-080",
     "title": "Bird v. Farmers Ins. Exchange",
     "number": "86109-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120126",
@@ -4429,6 +4531,7 @@
     "argument_day": "Thursday, January 26, 2012",
     "decision": "2012-10-25",
     "decision_day": "Thursday, October 25, 2012",
+    "citation": "175 Wn.2d 756 (2012)",
     "bench": "madsen3",
     "score": "6-3",
     "votes": [
@@ -4485,7 +4588,7 @@
     ]
   },
   {
-    "id": "2012-080",
+    "id": "2012-081",
     "title": "Gorman v. City of Woodinville",
     "number": "85962-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120214",
@@ -4494,6 +4597,7 @@
     "argument_day": "Tuesday, February 14, 2012",
     "decision": "2012-08-16",
     "decision_day": "Thursday, August 16, 2012",
+    "citation": "175 Wn.2d 68 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -4508,7 +4612,7 @@
     ]
   },
   {
-    "id": "2012-081",
+    "id": "2012-082",
     "title": "Anfinson v. FedEx Ground Package Sys., Inc.",
     "number": "85949-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120214",
@@ -4517,6 +4621,7 @@
     "argument_day": "Tuesday, February 14, 2012",
     "decision": "2012-07-19",
     "decision_day": "Thursday, July 19, 2012",
+    "citation": "174 Wn.2d 851 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -4531,8 +4636,8 @@
     ]
   },
   {
-    "id": "2012-082",
-    "title": "Diaz v. Medical Center Laboratory, Inc.",
+    "id": "2012-083",
+    "title": "Diaz v. State of Washington",
     "number": "86049-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120216",
     "questions": "Whether evidence that a codefendant in a medical malpractice action settled with the plaintiff is admissible under RCW 7.70.080.",
@@ -4540,6 +4645,7 @@
     "argument_day": "Thursday, February 16, 2012",
     "decision": "2012-09-20",
     "decision_day": "Thursday, September 20, 2012",
+    "citation": "175 Wn.2d 457 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -4554,7 +4660,7 @@
     ]
   },
   {
-    "id": "2012-083",
+    "id": "2012-084",
     "title": "In re Harry Perfater, Attorney at Law",
     "number": "201,025-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120228",
@@ -4574,7 +4680,7 @@
     ]
   },
   {
-    "id": "2012-084",
+    "id": "2012-085",
     "title": "In re Detention of Coe",
     "number": "85965-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120228",
@@ -4583,6 +4689,7 @@
     "argument_day": "Tuesday, February 28, 2012",
     "decision": "2012-09-27",
     "decision_day": "Thursday, September 27, 2012",
+    "citation": "175 Wn.2d 482 (2012)",
     "bench": "madsen3",
     "score": "9-0",
     "votes": [
@@ -4639,7 +4746,7 @@
     ]
   },
   {
-    "id": "2012-085",
+    "id": "2012-086",
     "title": "State of Washington v. Emery",
     "number": "86033-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120228",
@@ -4648,6 +4755,7 @@
     "argument_day": "Tuesday, February 28, 2012",
     "decision": "2012-06-14",
     "decision_day": "Thursday, June 14, 2012",
+    "citation": "174 Wn.2d 741 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -4662,7 +4770,7 @@
     ]
   },
   {
-    "id": "2012-086",
+    "id": "2012-087",
     "title": "In re Bakary Fansu Conteh, Attorney at Law",
     "number": "200,915-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120228",
@@ -4671,6 +4779,7 @@
     "argument_day": "Tuesday, February 28, 2012",
     "decision": "2012-08-23",
     "decision_day": "Thursday, August 23, 2012",
+    "citation": "175 Wn.2d 134 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -4685,7 +4794,7 @@
     ]
   },
   {
-    "id": "2012-087",
+    "id": "2012-088",
     "title": "In re Thomas F. McGrath, Attorney at Law",
     "number": "200,917-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120301",
@@ -4694,6 +4803,7 @@
     "argument_day": "Thursday, March 1, 2012",
     "decision": "2012-07-12",
     "decision_day": "Thursday, July 12, 2012",
+    "citation": "174 Wn.2d 813 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -4708,7 +4818,7 @@
     ]
   },
   {
-    "id": "2012-088",
+    "id": "2012-089",
     "title": "State of Washington v. Rose",
     "number": "85791-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120313",
@@ -4717,6 +4827,7 @@
     "argument_day": "Tuesday, March 13, 2012",
     "decision": "2012-08-09",
     "decision_day": "Thursday, August 9, 2012",
+    "citation": "175 Wn.2d 10 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -4731,7 +4842,7 @@
     ]
   },
   {
-    "id": "2012-089",
+    "id": "2012-090",
     "title": "Ruvalcaba v. Baek",
     "number": "85732-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120313",
@@ -4740,6 +4851,7 @@
     "argument_day": "Tuesday, March 13, 2012",
     "decision": "2012-08-09",
     "decision_day": "Thursday, August 9, 2012",
+    "citation": "175 Wn.2d 1 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -4754,7 +4866,7 @@
     ]
   },
   {
-    "id": "2012-090",
+    "id": "2012-091",
     "title": "State of Washington v. Hunley",
     "number": "86135-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120313",
@@ -4763,6 +4875,7 @@
     "argument_day": "Tuesday, March 13, 2012",
     "decision": "2012-11-01",
     "decision_day": "Thursday, November 1, 2012",
+    "citation": "175 Wn.2d 901 (2012)",
     "bench": "madsen3",
     "score": "9-0",
     "votes": [
@@ -4818,8 +4931,8 @@
     ]
   },
   {
-    "id": "2012-091",
-    "title": "Bain v. Mortgage Electronic Registration Systems",
+    "id": "2012-092",
+    "title": "Bain v. Metropolitan Mortgage Group, Inc.",
     "number": "86206-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120315",
     "questions": "May a party be a lawful beneficiary under WA's Deed of Trust Act if it never held the promissory note secured by the deed of trust?",
@@ -4827,6 +4940,7 @@
     "argument_day": "Thursday, March 15, 2012",
     "decision": "2012-08-16",
     "decision_day": "Thursday, August 16, 2012",
+    "citation": "175 Wn.2d 83 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -4841,7 +4955,7 @@
     ]
   },
   {
-    "id": "2012-092",
+    "id": "2012-093",
     "title": "Annechino v. Worthy",
     "number": "86220-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120501",
@@ -4850,6 +4964,7 @@
     "argument_day": "Tuesday, May 1, 2012",
     "decision": "2012-10-18",
     "decision_day": "Thursday, October 18, 2012",
+    "citation": "175 Wn.2d 630 (2012)",
     "bench": "madsen3",
     "score": "9-0",
     "votes": [
@@ -4905,7 +5020,7 @@
     ]
   },
   {
-    "id": "2012-093",
+    "id": "2012-094",
     "title": "Munich v. Skagit Emergency Communication Center",
     "number": "85984-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120503",
@@ -4914,6 +5029,7 @@
     "argument_day": "Thursday, May 3, 2012",
     "decision": "2012-11-01",
     "decision_day": "Thursday, November 1, 2012",
+    "citation": "175 Wn.2d 871 (2012)",
     "bench": "madsen3",
     "score": "8-1",
     "votes": [
@@ -4971,7 +5087,7 @@
     ]
   },
   {
-    "id": "2012-094",
+    "id": "2012-095",
     "title": "Cregan v. Fourth Memorial Church",
     "number": "86835-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120503",
@@ -4980,6 +5096,7 @@
     "argument_day": "Thursday, May 3, 2012",
     "decision": "2012-09-13",
     "decision_day": "Thursday, September 13, 2012",
+    "citation": "175 Wn.2d 279 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -4994,7 +5111,7 @@
     ]
   },
   {
-    "id": "2012-095",
+    "id": "2012-096",
     "title": "In re Paul Eugene Simmerly, Attorney at Law",
     "number": "200,983-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120503",
@@ -5002,6 +5119,7 @@
     "argument_day": "Thursday, May 3, 2012",
     "decision": "2012-08-02",
     "decision_day": "Thursday, August 2, 2012",
+    "citation": "174 Wn.2d 963 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -5016,7 +5134,7 @@
     ]
   },
   {
-    "id": "2012-096",
+    "id": "2012-097",
     "title": "In re Belinda Armijo, Attorney at Law",
     "number": "201,041-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120508",
@@ -5024,8 +5142,8 @@
     "argument_day": "Tuesday, May 8, 2012"
   },
   {
-    "id": "2012-097",
-    "title": "Washington State Nurses Association v. Sacred Heart Medical Center",
+    "id": "2012-098",
+    "title": "Washington State Nurses Ass'n v. Sacred Heart Medical Center",
     "number": "86563-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120508",
     "questions": "Whether an employee denied a 10-minute break period required by WAC 296-126-092(4) during the first 40 hours of the employee's work week is entitled to overtime pay for the missed break under the Washington Minimum Wage Act.",
@@ -5033,6 +5151,7 @@
     "argument_day": "Tuesday, May 8, 2012",
     "decision": "2012-10-25",
     "decision_day": "Thursday, October 25, 2012",
+    "citation": "175 Wn.2d 822 (2012)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen3",
     "score": "9-0",
@@ -5089,7 +5208,7 @@
     ]
   },
   {
-    "id": "2012-098",
+    "id": "2012-099",
     "title": "State of Washington v. Sisouvanh",
     "number": "85422-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120510",
@@ -5098,6 +5217,7 @@
     "argument_day": "Thursday, May 10, 2012",
     "decision": "2012-10-18",
     "decision_day": "Thursday, October 18, 2012",
+    "citation": "175 Wn.2d 607 (2012)",
     "bench": "madsen3",
     "score": "9-0",
     "votes": [
@@ -5153,7 +5273,7 @@
     ]
   },
   {
-    "id": "2012-099",
+    "id": "2012-100",
     "title": "Perez-Fairas v. Global Horizons, Inc.",
     "number": "86793-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120510",
@@ -5162,6 +5282,7 @@
     "argument_day": "Thursday, May 10, 2012",
     "decision": "2012-09-27",
     "decision_day": "Thursday, September 27, 2012",
+    "citation": "175 Wn.2d 518 (2012)",
     "bench": "madsen3",
     "score": "9-0",
     "votes": [
@@ -5217,7 +5338,7 @@
     ]
   },
   {
-    "id": "2012-100",
+    "id": "2012-101",
     "title": "State of Washington v. Sweany",
     "number": "86270-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120515",
@@ -5226,6 +5347,7 @@
     "argument_day": "Tuesday, May 15, 2012",
     "decision": "2012-07-19",
     "decision_day": "Thursday, July 19, 2012",
+    "citation": "174 Wn.2d 909 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -5240,7 +5362,7 @@
     ]
   },
   {
-    "id": "2012-101",
+    "id": "2012-102",
     "title": "Fellows v. Moynihan",
     "number": "85382-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120515",
@@ -5249,6 +5371,7 @@
     "argument_day": "Tuesday, May 15, 2012",
     "decision": "2012-09-20",
     "decision_day": "Thursday, September 20, 2012",
+    "citation": "175 Wn.2d 641 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -5263,8 +5386,8 @@
     ]
   },
   {
-    "id": "2012-102",
-    "title": "Washington Association for Substance Abuse and Violence Prevention v. State of Washington",
+    "id": "2012-103",
+    "title": "Washington Ass'n for Substance Abuse & Violence Prevention v. State of Washington",
     "number": "87188-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120517",
     "questions": "Does Initiative 1183 violate Article II, Section 19 of the Washington State Constitution?",
@@ -5273,6 +5396,7 @@
     "argument_day": "Thursday, May 17, 2012",
     "decision": "2012-05-31",
     "decision_day": "Thursday, May 31, 2012",
+    "citation": "174 Wn.2d 642 (2012)",
     "bench": "madsen3",
     "score": "5-4",
     "votes": [
@@ -5330,17 +5454,18 @@
     ]
   },
   {
-    "id": "2012-103",
+    "id": "2012-104",
     "title": "Franklin County Sheriff's Office v. Parmelee",
     "number": "86410-1",
     "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120522",
     "argument": "2012-05-22",
     "argument_day": "Tuesday, May 22, 2012",
     "decision": "2012-09-20",
-    "decision_day": "Thursday, September 20, 2012"
+    "decision_day": "Thursday, September 20, 2012",
+    "citation": "175 Wn.2d 476 (2012)"
   },
   {
-    "id": "2012-104",
+    "id": "2012-105",
     "title": "Wash. Off Highway Vehicle Alliance v. State of Washington",
     "number": "86602-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120522",
@@ -5349,6 +5474,7 @@
     "argument_day": "Tuesday, May 22, 2012",
     "decision": "2012-12-13",
     "decision_day": "Thursday, December 13, 2012",
+    "citation": "176 Wn.2d 225 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -5363,7 +5489,7 @@
     ]
   },
   {
-    "id": "2012-105",
+    "id": "2012-106",
     "title": "State of Washington v. Arreola",
     "number": "86610-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120522",
@@ -5372,6 +5498,7 @@
     "argument_day": "Tuesday, May 22, 2012",
     "decision": "2012-12-20",
     "decision_day": "Thursday, December 20, 2012",
+    "citation": "176 Wn.2d 284 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -5386,7 +5513,7 @@
     ]
   },
   {
-    "id": "2012-106",
+    "id": "2012-107",
     "title": "In re Fredric Sanai, Attorney at Law",
     "number": "201,046-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120522",
@@ -5407,7 +5534,7 @@
     ]
   },
   {
-    "id": "2012-107",
+    "id": "2012-108",
     "title": "State of Washington v. Gray",
     "number": "86359-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120524",
@@ -5416,6 +5543,7 @@
     "argument_day": "Thursday, May 24, 2012",
     "decision": "2012-07-19",
     "decision_day": "Thursday, July 19, 2012",
+    "citation": "174 Wn.2d 920 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -5430,7 +5558,7 @@
     ]
   },
   {
-    "id": "2012-108",
+    "id": "2012-109",
     "title": "State of Washington v. Lamb",
     "number": "86603-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120612",
@@ -5439,6 +5567,7 @@
     "argument_day": "Tuesday, June 12, 2012",
     "decision": "2012-08-16",
     "decision_day": "Thursday, August 16, 2012",
+    "citation": "175 Wn.2d 121 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -5455,7 +5584,7 @@
     ]
   },
   {
-    "id": "2012-109",
+    "id": "2012-110",
     "title": "Automotive United Trades Organization v. State of Washington",
     "number": "85971-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120614",
@@ -5464,6 +5593,7 @@
     "argument_day": "Thursday, June 14, 2012",
     "decision": "2012-10-04",
     "decision_day": "Thursday, October 4, 2012",
+    "citation": "175 Wn.2d 537 (2012)",
     "bench": "madsen3",
     "score": "9-0",
     "votes": [
@@ -5519,7 +5649,7 @@
     ]
   },
   {
-    "id": "2012-110",
+    "id": "2012-111",
     "title": "State of Washington v. Gassman",
     "number": "85801-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120614",
@@ -5528,6 +5658,7 @@
     "argument_day": "Thursday, June 14, 2012",
     "decision": "2012-08-23",
     "decision_day": "Thursday, August 23, 2012",
+    "citation": "175 Wn.2d 208 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -5542,7 +5673,7 @@
     ]
   },
   {
-    "id": "2012-111",
+    "id": "2012-112",
     "title": "In re Personal Restraint of Dyer",
     "number": "85091-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120614",
@@ -5551,6 +5682,7 @@
     "argument_day": "Thursday, June 14, 2012",
     "decision": "2012-08-23",
     "decision_day": "Thursday, August 23, 2012",
+    "citation": "175 Wn.2d 186 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -5565,7 +5697,7 @@
     ]
   },
   {
-    "id": "2012-112",
+    "id": "2012-113",
     "title": "In re Personal Restraint of Weber",
     "number": "85992-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120626",
@@ -5574,6 +5706,7 @@
     "argument_day": "Tuesday, June 26, 2012",
     "decision": "2012-09-06",
     "decision_day": "Thursday, September 6, 2012",
+    "citation": "175 Wn.2d 247 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -5588,8 +5721,8 @@
     ]
   },
   {
-    "id": "2012-113",
-    "title": "Loeffelholz v. Univ. of Wash. & Lukehart",
+    "id": "2012-114",
+    "title": "Loeffelholz v. University of Washington",
     "number": "86511-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120628",
     "questions": "Whether, in an action for hostile work environment discrimination based on sexual orientation, the employee may present evidence that conduct occurring after the amendment to Washington's Law Against Discrimination prohibiting sexual orientation discrimination was part of a pattern of conduct that predated the amendment.",
@@ -5597,6 +5730,7 @@
     "argument_day": "Thursday, June 28, 2012",
     "decision": "2012-09-13",
     "decision_day": "Thursday, September 13, 2012",
+    "citation": "175 Wn.2d 264 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -5611,7 +5745,7 @@
     ]
   },
   {
-    "id": "2012-114",
+    "id": "2012-115",
     "title": "State of Washington v. Pappas",
     "number": "86859-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120913",
@@ -5620,6 +5754,7 @@
     "argument_day": "Thursday, September 13, 2012",
     "decision": "2012-12-06",
     "decision_day": "Thursday, December 6, 2012",
+    "citation": "176 Wn.2d 188 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -5631,7 +5766,7 @@
     ]
   },
   {
-    "id": "2012-115",
+    "id": "2012-116",
     "title": "In re Young Suk Oh, Attorney at Law",
     "number": "201,001-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120920",
@@ -5640,6 +5775,7 @@
     "argument_day": "Thursday, September 20, 2012",
     "decision": "2012-12-20",
     "decision_day": "Thursday, December 20, 2012",
+    "citation": "176 Wn.2d 245 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -5655,8 +5791,8 @@
     ]
   },
   {
-    "id": "2012-116",
-    "title": "P.E. Systems v. CPI Corporation",
+    "id": "2012-117",
+    "title": "P.E. Systems, LLC v. CPI Corp.",
     "number": "86936-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120927",
     "questions": "Whether a trial court erroneously dismissed a breach of contract claim on the pleadings without converting the motion to dismiss to a summary judgment proceeding when the court considered the disputed agreement, and if so, whether the Court of Appeals in reversing the dismissal order erroneously directed the trial court to enter judgment in favor of the plaintiff.",
@@ -5664,6 +5800,7 @@
     "argument_day": "Thursday, September 27, 2012",
     "decision": "2012-12-06",
     "decision_day": "Thursday, December 6, 2012",
+    "citation": "176 Wn.2d 198 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -5679,27 +5816,6 @@
     ]
   },
   {
-    "id": "2012-117",
-    "title": "State of Washington v. Lui",
-    "number": "84045-8",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20121016",
-    "questions": "Whether a criminal defendant's right to confront witnesses is violated when an expert witness for the State testifies based on a nontestifying expert's report.",
-    "argument": "2012-10-16",
-    "argument_day": "Tuesday, October 16, 2012",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2012-10-16",
-        "title": "Oral Argument on Tuesday, October 16, 2012",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2012101052/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/201210/2012100006C.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2012101052/media.m3u8",
-        "size": 142606336
-      }
-    ]
-  },
-  {
     "id": "2012-118",
     "title": "Parker v. Wyman",
     "number": "87823-4",
@@ -5709,6 +5825,7 @@
     "argument_day": "Thursday, October 18, 2012",
     "decision": "2012-12-06",
     "decision_day": "Thursday, December 6, 2012",
+    "citation": "176 Wn.2d 212 (2012)",
     "events": [
       {
         "source": "tvw",
@@ -5727,55 +5844,63 @@
     "title": "State v. Irish",
     "number": "86416-1",
     "decision": "2012-02-16",
-    "decision_day": "Thursday, February 16, 2012"
+    "decision_day": "Thursday, February 16, 2012",
+    "citation": "173 Wn.2d 787 (2012)"
   },
   {
     "id": "2012-120",
     "title": "State v. Zillyette",
     "number": "86415-2",
     "decision": "2012-02-16",
-    "decision_day": "Thursday, February 16, 2012"
+    "decision_day": "Thursday, February 16, 2012",
+    "citation": "173 Wn.2d 784 (2012)"
   },
   {
     "id": "2012-121",
     "title": "State v. Hahn",
     "number": "86427-6",
     "decision": "2012-03-15",
-    "decision_day": "Thursday, March 15, 2012"
+    "decision_day": "Thursday, March 15, 2012",
+    "citation": "174 Wn.2d 126 (2012)"
   },
   {
     "id": "2012-122",
     "title": "State v. Caton",
     "number": "86532-9",
     "decision": "2012-04-05",
-    "decision_day": "Thursday, April 5, 2012"
+    "decision_day": "Thursday, April 5, 2012",
+    "citation": "174 Wn.2d 239 (2012)"
   },
   {
     "id": "2012-123",
     "title": "State v. Boyd",
     "number": "86709-7",
     "decision": "2012-05-03",
-    "decision_day": "Thursday, May 3, 2012"
+    "decision_day": "Thursday, May 3, 2012",
+    "citation": "174 Wn.2d 470 (2012)"
   },
   {
     "id": "2012-124",
     "title": "In re Recall of Ward",
     "number": "86899-9",
     "decision": "2012-08-09",
-    "decision_day": "Thursday, August 9, 2012"
+    "decision_day": "Thursday, August 9, 2012",
+    "citation": "175 Wn.2d 429 (2012)"
   },
   {
     "id": "2012-125",
     "title": "State v. Louthan",
     "number": "85608-7",
     "decision": "2012-10-25",
-    "decision_day": "Thursday, October 25, 2012"
+    "decision_day": "Thursday, October 25, 2012",
+    "citation": "175 Wn.2d 751 (2012)"
   },
   {
     "id": "2012-126",
     "title": "State v. Harvey",
     "number": "87357-7",
     "decision": "2012-11-08",
-    "decision_day": "Thursday, November 8, 2012"
+    "decision_day": "Thursday, November 8, 2012",
+    "citation": "175 Wn.2d 919 (2012)"
   }
 ]

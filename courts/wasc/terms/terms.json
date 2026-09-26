@@ -62,14 +62,14 @@
         "id": "1996",
         "name": "1996",
         "file": "/courts/wasc/terms/1996/cases.json",
-        "cases": 116,
+        "cases": 68,
         "dates": true
       },
       {
         "id": "1997",
         "name": "1997",
         "file": "/courts/wasc/terms/1997/cases.json",
-        "cases": 135,
+        "cases": 130,
         "dates": true
       },
       {
@@ -83,7 +83,7 @@
         "id": "1999",
         "name": "1999",
         "file": "/courts/wasc/terms/1999/cases.json",
-        "cases": 126,
+        "cases": 136,
         "dates": true
       }
     ]
@@ -95,13 +95,15 @@
         "id": "2000",
         "name": "2000",
         "file": "/courts/wasc/terms/2000/cases.json",
-        "cases": 126
+        "cases": 110,
+        "dates": true
       },
       {
         "id": "2001",
         "name": "2001",
         "file": "/courts/wasc/terms/2001/cases.json",
-        "cases": 129
+        "cases": 134,
+        "dates": true
       },
       {
         "id": "2002",
@@ -114,42 +116,42 @@
         "id": "2003",
         "name": "2003",
         "file": "/courts/wasc/terms/2003/cases.json",
-        "cases": 124,
+        "cases": 131,
         "dates": true
       },
       {
         "id": "2004",
         "name": "2004",
         "file": "/courts/wasc/terms/2004/cases.json",
-        "cases": 144,
+        "cases": 129,
         "dates": true
       },
       {
         "id": "2005",
         "name": "2005",
         "file": "/courts/wasc/terms/2005/cases.json",
-        "cases": 134,
+        "cases": 144,
         "dates": true
       },
       {
         "id": "2006",
         "name": "2006",
         "file": "/courts/wasc/terms/2006/cases.json",
-        "cases": 62,
+        "cases": 111,
         "dates": true
       },
       {
         "id": "2007",
         "name": "2007",
         "file": "/courts/wasc/terms/2007/cases.json",
-        "cases": 158,
+        "cases": 160,
         "dates": true
       },
       {
         "id": "2008",
         "name": "2008",
         "file": "/courts/wasc/terms/2008/cases.json",
-        "cases": 115,
+        "cases": 116,
         "dates": true
       },
       {
@@ -175,7 +177,7 @@
         "id": "2011",
         "name": "2011",
         "file": "/courts/wasc/terms/2011/cases.json",
-        "cases": 122,
+        "cases": 121,
         "dates": true
       },
       {
@@ -189,14 +191,14 @@
         "id": "2013",
         "name": "2013",
         "file": "/courts/wasc/terms/2013/cases.json",
-        "cases": 122,
+        "cases": 121,
         "dates": true
       },
       {
         "id": "2014",
         "name": "2014",
         "file": "/courts/wasc/terms/2014/cases.json",
-        "cases": 130,
+        "cases": 132,
         "dates": true
       },
       {

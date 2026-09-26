@@ -8,49 +8,425 @@
       "title": "State of Washington v. McClendon"
     }
   ],
-  "1996-05-15": [
+  "1996-03-05": [
     {
       "type": "argument",
       "id": "1997-003",
+      "term": "1997",
+      "number": "63055-1",
+      "title": "Washington State Legislature v. Lowry"
+    }
+  ],
+  "1996-03-06": [
+    {
+      "type": "argument",
+      "id": "1997-004",
+      "term": "1997",
+      "number": "63133-6",
+      "title": "Manor v. Nestle Food Co."
+    }
+  ],
+  "1996-03-27": [
+    {
+      "type": "argument",
+      "id": "1997-005",
+      "term": "1997",
+      "number": "62274-4",
+      "title": "State of Washington v. Valentine"
+    }
+  ],
+  "1996-05-14": [
+    {
+      "type": "argument",
+      "id": "1997-006",
+      "term": "1997",
+      "number": "63339-8",
+      "title": "State of Washington v. Williams"
+    }
+  ],
+  "1996-05-15": [
+    {
+      "type": "argument",
+      "id": "1997-007",
       "term": "1997",
       "number": "62222-1",
       "title": "Leingang v. Pierce County Medical Bureau, Inc."
     }
   ],
+  "1996-05-16": [
+    {
+      "type": "argument",
+      "id": "1997-008",
+      "term": "1997",
+      "number": "63318-5",
+      "title": "Magula v. Benton Franklin Title Co."
+    }
+  ],
   "1996-05-29": [
     {
       "type": "argument",
-      "id": "1997-004",
+      "id": "1997-009",
       "term": "1997",
       "number": "62941-2",
       "title": "Ino Ino, Inc. v. Bellevue"
     }
   ],
+  "1996-05-30": [
+    {
+      "type": "argument",
+      "id": "1997-010",
+      "term": "1997",
+      "number": "63443-2",
+      "title": "Burnet v. Spokane Ambulance"
+    },
+    {
+      "type": "argument",
+      "id": "1997-011",
+      "term": "1997",
+      "number": "63262-6",
+      "title": "Center v. Pollution Control Hearings Board"
+    }
+  ],
   "1996-06-11": [
     {
       "type": "argument",
-      "id": "1997-005",
+      "id": "1997-012",
+      "term": "1997",
+      "number": "63429-7",
+      "title": "Honey v. Davis"
+    },
+    {
+      "type": "argument",
+      "id": "1997-013",
       "term": "1997",
       "number": "62943-9",
-      "title": "Nelson v. McClatchy Newspapers, Inc."
+      "title": "Nelson v. McClatchy Newpapers, Inc."
+    }
+  ],
+  "1996-06-12": [
+    {
+      "type": "argument",
+      "id": "1997-014",
+      "term": "1997",
+      "number": "63615-0",
+      "title": "Smoke v. City of Seattle"
+    },
+    {
+      "type": "argument",
+      "id": "1997-015",
+      "term": "1997",
+      "number": "63596-0",
+      "title": "Niece v. Elmview Group Home"
     }
   ],
   "1996-06-13": [
     {
       "type": "argument",
-      "id": "1997-006",
+      "id": "1997-016",
       "term": "1997",
       "number": "63616-8",
-      "title": "In re Estate of Burns"
+      "title": "Department of Social & Health Services v. Olver"
+    }
+  ],
+  "1996-06-25": [
+    {
+      "type": "argument",
+      "id": "1997-017",
+      "term": "1997",
+      "number": "63629-0",
+      "title": "City of Kennewick v. Benton County"
+    },
+    {
+      "type": "argument",
+      "id": "1997-018",
+      "term": "1997",
+      "number": "63500-5",
+      "title": "White v. State of Washington"
+    },
+    {
+      "type": "argument",
+      "id": "1998-001",
+      "term": "1998",
+      "number": "63661-3",
+      "title": "Reninger v. Department of Corrections"
+    }
+  ],
+  "1996-06-26": [
+    {
+      "type": "argument",
+      "id": "1997-019",
+      "term": "1997",
+      "number": "63664-8",
+      "title": "Malyon v. Pierce County"
+    }
+  ],
+  "1996-06-27": [
+    {
+      "type": "argument",
+      "id": "1997-020",
+      "term": "1997",
+      "number": "61320-6",
+      "title": "State of Washington v. Brown"
+    }
+  ],
+  "1996-09-24": [
+    {
+      "type": "argument",
+      "id": "1997-021",
+      "term": "1997",
+      "number": "63399-1",
+      "title": "Hillis v. Department of Ecology"
+    },
+    {
+      "type": "argument",
+      "id": "1997-022",
+      "term": "1997",
+      "number": "63275-8",
+      "title": "City of Seattle v. McCready"
+    },
+    {
+      "type": "argument",
+      "id": "1998-002",
+      "term": "1998",
+      "number": "63940-0",
+      "title": "Saldin Securities, Inc. v. Snohomish County"
     }
   ],
   "1996-09-25": [
     {
       "type": "argument",
-      "id": "1997-007",
+      "id": "1997-023",
       "term": "1997",
       "number": "63534-0",
       "title": "Seeley v. State of Washington"
+    },
+    {
+      "type": "argument",
+      "id": "1997-024",
+      "term": "1997",
+      "number": "63837-3",
+      "title": "Munns v. Martin"
+    },
+    {
+      "type": "argument",
+      "id": "1997-025",
+      "term": "1997",
+      "number": "63695-8",
+      "title": "McIntyre v. Department of Health"
+    },
+    {
+      "type": "argument",
+      "id": "1998-003",
+      "term": "1998",
+      "number": "63691-5",
+      "title": "State of Washington v. Norlin"
+    }
+  ],
+  "1996-10-08": [
+    {
+      "type": "argument",
+      "id": "1997-026",
+      "term": "1997",
+      "number": "63839-0",
+      "title": "State of Washington v. Blank"
+    },
+    {
+      "type": "argument",
+      "id": "1997-027",
+      "term": "1997",
+      "number": "62879-3",
+      "title": "Washington State Coalition for the Homeless v. Department of Social & Health Services"
+    },
+    {
+      "type": "argument",
+      "id": "1997-028",
+      "term": "1997",
+      "number": "63643-5",
+      "title": "Monroe v. Soliz"
+    }
+  ],
+  "1996-10-09": [
+    {
+      "type": "argument",
+      "id": "1997-029",
+      "term": "1997",
+      "number": "63945-1",
+      "title": "State of Washington v. Virginia Warden"
+    },
+    {
+      "type": "argument",
+      "id": "1997-030",
+      "term": "1997",
+      "number": "63869-1",
+      "title": "Allstate Insurance v. Peasley"
+    },
+    {
+      "type": "argument",
+      "id": "1997-031",
+      "term": "1997",
+      "number": "63891-8",
+      "title": "State of Washington v. Berlin"
+    },
+    {
+      "type": "argument",
+      "id": "1997-032",
+      "term": "1997",
+      "number": "63874-8",
+      "title": "State of Washington v. Becker"
+    }
+  ],
+  "1996-10-10": [
+    {
+      "type": "argument",
+      "id": "1997-033",
+      "term": "1997",
+      "number": "63906-0",
+      "title": "State of Washington v. Rivard"
+    },
+    {
+      "type": "argument",
+      "id": "1997-034",
+      "term": "1997",
+      "number": "63951-5",
+      "title": "State of Washington v. Groom"
+    }
+  ],
+  "1996-10-22": [
+    {
+      "type": "argument",
+      "id": "1997-035",
+      "term": "1997",
+      "number": "64284-2",
+      "title": "In re Personal Restraint of Johnson"
+    },
+    {
+      "type": "argument",
+      "id": "1997-036",
+      "term": "1997",
+      "number": "63898-5",
+      "title": "Riss v. Angel"
+    },
+    {
+      "type": "argument",
+      "id": "1997-037",
+      "term": "1997",
+      "number": "63785-7",
+      "title": "Keene v. Edie"
+    }
+  ],
+  "1996-10-23": [
+    {
+      "type": "argument",
+      "id": "1997-038",
+      "term": "1997",
+      "number": "63959-1",
+      "title": "State of Washington v. Smith"
+    },
+    {
+      "type": "argument",
+      "id": "1997-039",
+      "term": "1997",
+      "number": "63992-2",
+      "title": "State of Washington v. Walden"
+    },
+    {
+      "type": "argument",
+      "id": "1997-040",
+      "term": "1997",
+      "number": "63909-4",
+      "title": "State of Washington v. Miller"
+    },
+    {
+      "type": "argument",
+      "id": "1997-041",
+      "term": "1997",
+      "number": "63929-9",
+      "title": "Amren v. City of Kalama"
+    }
+  ],
+  "1996-10-24": [
+    {
+      "type": "argument",
+      "id": "1997-042",
+      "term": "1997",
+      "number": "64035-1",
+      "title": "Kingery v. Department of Labor & Industries"
+    },
+    {
+      "type": "argument",
+      "id": "1997-043",
+      "term": "1997",
+      "number": "63059-3",
+      "title": "Pasco Police Officers' Ass'n v. City of Pasco"
+    },
+    {
+      "type": "argument",
+      "id": "1997-044",
+      "term": "1997",
+      "number": "63826-8",
+      "title": "Louisiana-Pacific Corp., et al. v. ASARCO, Incorporated"
+    },
+    {
+      "type": "argument",
+      "id": "1998-004",
+      "term": "1998",
+      "number": "64303-2",
+      "title": "State of Washington v. Tamalini"
+    }
+  ],
+  "1996-11-19": [
+    {
+      "type": "argument",
+      "id": "1997-045",
+      "term": "1997",
+      "number": "63644-3",
+      "title": "Greater Harbor 2000 v. City of Seattle"
+    },
+    {
+      "type": "argument",
+      "id": "1997-046",
+      "term": "1997",
+      "number": "63401-7",
+      "title": "Department of Ecology v. Acquavella"
+    },
+    {
+      "type": "argument",
+      "id": "1998-005",
+      "term": "1998",
+      "number": "64311-3",
+      "title": "Crowe v. Gaston"
+    },
+    {
+      "type": "argument",
+      "id": "1998-006",
+      "term": "1998",
+      "number": "64023-8",
+      "title": "Schooley v. Pinch's Deli Market, Inc."
+    }
+  ],
+  "1996-11-20": [
+    {
+      "type": "argument",
+      "id": "1997-047",
+      "term": "1997",
+      "number": "63740-7",
+      "title": "Wallace v. Evans"
+    },
+    {
+      "type": "argument",
+      "id": "1998-007",
+      "term": "1998",
+      "number": "64632-5",
+      "title": "Reynolds v. Hicks"
+    }
+  ],
+  "1996-12-10": [
+    {
+      "type": "argument",
+      "id": "1997-048",
+      "term": "1997",
+      "number": "61965-4",
+      "title": "State of Washington v. Stenson"
     }
   ]
 }

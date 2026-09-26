@@ -9,6 +9,7 @@
     "argument_day": "Thursday, February 21, 2013",
     "decision": "2015-03-05",
     "decision_day": "Thursday, March 5, 2015",
+    "citation": "182 Wn.2d 752 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/877220.pdf",
     "events": [
       {
@@ -33,6 +34,7 @@
     "argument_day": "Thursday, May 23, 2013",
     "decision": "2015-02-12",
     "decision_day": "Thursday, February 12, 2015",
+    "citation": "182 Wn.2d 574 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/883173.pdf",
     "score": "6-3",
     "votes": [
@@ -91,6 +93,7 @@
     "argument_day": "Tuesday, October 29, 2013",
     "decision": "2015-06-11",
     "decision_day": "Thursday, June 11, 2015",
+    "citation": "183 Wn.2d 327 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/852367.pdf",
     "score": "5-4",
     "votes": [
@@ -149,6 +152,7 @@
     "argument_day": "Tuesday, February 11, 2014",
     "decision": "2015-03-12",
     "decision_day": "Thursday, March 12, 2015",
+    "citation": "182 Wn.2d 827 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/890285.pdf",
     "score": "9-0",
     "votes": [
@@ -209,6 +213,7 @@
     "argument_day": "Tuesday, February 25, 2014",
     "decision": "2015-01-29",
     "decision_day": "Thursday, January 29, 2015",
+    "citation": "182 Wn.2d 519 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/889490.pdf",
     "score": "7-2",
     "votes": [
@@ -267,6 +272,7 @@
     "argument_day": "Tuesday, February 25, 2014",
     "decision": "2015-01-08",
     "decision_day": "Thursday, January 8, 2015",
+    "citation": "182 Wn.2d 307 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/888540.pdf",
     "score": "5-4",
     "votes": [
@@ -325,6 +331,7 @@
     "argument_day": "Thursday, February 27, 2014",
     "decision": "2015-06-25",
     "decision_day": "Thursday, June 25, 2015",
+    "citation": "183 Wn.2d 497 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/886946.pdf",
     "score": "9-0",
     "votes": [
@@ -384,6 +391,7 @@
     "argument_day": "Thursday, May 8, 2014",
     "decision": "2015-02-12",
     "decision_day": "Thursday, February 12, 2015",
+    "citation": "182 Wn.2d 632 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/892512.pdf",
     "score": "6-3",
     "votes": [
@@ -434,7 +442,7 @@
   },
   {
     "id": "2015-009",
-    "title": "Utter v. Bldg. Indus. Ass'n of Wash.",
+    "title": "Utter v. Building Industry Ass'n",
     "number": "89462-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140527",
     "questions": "The court must decide whether a citizen suit to enforce Washington's Fair Campaign Practices Act is permitted in this case, and, if it is, whether the trial court erred by granting summary judgment to one of the parties",
@@ -442,6 +450,7 @@
     "argument_day": "Tuesday, May 27, 2014",
     "decision": "2015-01-22",
     "decision_day": "Thursday, January 22, 2015",
+    "citation": "182 Wn.2d 398 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/894621.pdf",
     "score": "8-1",
     "votes": [
@@ -500,6 +509,7 @@
     "argument_day": "Thursday, May 29, 2014",
     "decision": "2015-01-22",
     "decision_day": "Thursday, January 22, 2015",
+    "citation": "182 Wn.2d 447 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/896747.pdf",
     "score": "9-0",
     "votes": [
@@ -562,6 +572,7 @@
     "argument_day": "Tuesday, June 10, 2014",
     "decision": "2015-02-12",
     "decision_day": "Thursday, February 12, 2015",
+    "citation": "182 Wn.2d 665 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/895333.pdf",
     "score": "6-3",
     "votes": [
@@ -624,6 +635,7 @@
     "argument_day": "Thursday, June 12, 2014",
     "decision": "2015-05-28",
     "decision_day": "Thursday, May 28, 2015",
+    "citation": "183 Wn.2d 253 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/897867.pdf",
     "score": "5-4",
     "votes": [
@@ -686,6 +698,7 @@
     "argument_day": "Tuesday, June 24, 2014",
     "decision": "2015-01-22",
     "decision_day": "Thursday, January 22, 2015",
+    "citation": "182 Wn.2d 463 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/898308.pdf",
     "score": "9-0",
     "votes": [
@@ -748,6 +761,7 @@
     "argument_day": "Thursday, June 26, 2014",
     "decision": "2015-08-20",
     "decision_day": "Thursday, August 20, 2015",
+    "citation": "183 Wn.2d 770 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/897239.pdf",
     "score": "5-4",
     "votes": [
@@ -810,6 +824,7 @@
     "argument_day": "Tuesday, September 9, 2014",
     "decision": "2015-02-05",
     "decision_day": "Thursday, February 5, 2015",
+    "citation": "182 Wn.2d 556 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/897425.pdf",
     "score": "5-4",
     "votes": [
@@ -872,6 +887,7 @@
     "argument_day": "Tuesday, September 9, 2014",
     "decision": "2015-01-15",
     "decision_day": "Thursday, January 15, 2015",
+    "citation": "182 Wn.2d 364 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/899177.pdf",
     "score": "9-0",
     "votes": [
@@ -934,6 +950,7 @@
     "argument_day": "Tuesday, September 9, 2014",
     "decision": "2015-03-12",
     "decision_day": "Thursday, March 12, 2015",
+    "citation": "182 Wn.2d 842 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/898669.pdf",
     "score": "9-0",
     "votes": [
@@ -996,6 +1013,7 @@
     "argument_day": "Thursday, September 11, 2014",
     "decision": "2015-06-11",
     "decision_day": "Thursday, June 11, 2015",
+    "citation": "183 Wn.2d 408 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/903557.pdf",
     "score": "7-2",
     "votes": [
@@ -1059,6 +1077,7 @@
     "argument_day": "Tuesday, September 16, 2014",
     "decision": "2015-03-19",
     "decision_day": "Thursday, March 19, 2015",
+    "citation": "182 Wn.2d 854 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/900213.pdf",
     "score": "7-2",
     "votes": [
@@ -1121,6 +1140,7 @@
     "argument_day": "Tuesday, September 16, 2014",
     "decision": "2015-01-15",
     "decision_day": "Thursday, January 15, 2015",
+    "citation": "182 Wn.2d 388 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/899266.pdf",
     "score": "9-0",
     "votes": [
@@ -1183,6 +1203,7 @@
     "argument_day": "Thursday, September 18, 2014",
     "decision": "2015-07-09",
     "decision_day": "Thursday, July 9, 2015",
+    "citation": "183 Wn.2d 578 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/899711.pdf",
     "score": "9-0",
     "votes": [
@@ -1237,7 +1258,7 @@
   },
   {
     "id": "2015-022",
-    "title": "State of Washington v. Z. U. E.",
+    "title": "State of Washington v. Z.U.E.",
     "number": "89894-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20140918",
     "questions": "Whether the information provided by multiple 911 callers has sufficient 'indicia of reliability,' to justify an officer's investigatory stop of a car to investigate a suspicion of criminal activity",
@@ -1245,6 +1266,7 @@
     "argument_day": "Thursday, September 18, 2014",
     "decision": "2015-07-16",
     "decision_day": "Thursday, July 16, 2015",
+    "citation": "183 Wn.2d 610 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/898944.pdf",
     "score": "9-0",
     "votes": [
@@ -1308,6 +1330,7 @@
     "argument_day": "Tuesday, October 21, 2014",
     "decision": "2015-09-03",
     "decision_day": "Thursday, September 3, 2015",
+    "citation": "184 Wn.2d 95 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/905100.pdf",
     "score": "6-3",
     "votes": [
@@ -1362,7 +1385,7 @@
   },
   {
     "id": "2015-024",
-    "title": "In re Welfare of A.W.",
+    "title": "Department of Social & Health Services v. T.P.",
     "number": "90393-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20141021",
     "questions": "There are two issues presented in this direct review case: (1) whether the preponderance of the evidence standard of proof to establish a guardianship under chapter 13.36 RCW satisfies due process; and (2) whether there is substantial evidence in the record to support the trial court's decision to establish guardianship for A.W. and M.W.",
@@ -1370,6 +1393,7 @@
     "argument_day": "Tuesday, October 21, 2014",
     "decision": "2015-02-19",
     "decision_day": "Thursday, February 19, 2015",
+    "citation": "182 Wn.2d 689 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/903930.pdf",
     "score": "9-0",
     "votes": [
@@ -1432,6 +1456,7 @@
     "argument_day": "Tuesday, October 21, 2014",
     "decision": "2015-06-04",
     "decision_day": "Thursday, June 4, 2015",
+    "citation": "183 Wn.2d 297 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/899762.pdf",
     "score": "6-3",
     "votes": [
@@ -1494,6 +1519,7 @@
     "argument_day": "Tuesday, October 21, 2014",
     "decision": "2015-05-07",
     "decision_day": "Thursday, May 7, 2015",
+    "citation": "183 Wn.2d 91 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/887705.pdf",
     "score": "5-4",
     "votes": [
@@ -1556,6 +1582,7 @@
     "argument_day": "Thursday, October 23, 2014",
     "decision": "2015-01-22",
     "decision_day": "Thursday, January 22, 2015",
+    "citation": "182 Wn.2d 500 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/900370.pdf",
     "score": "6-3",
     "votes": [
@@ -1618,6 +1645,7 @@
     "argument_day": "Thursday, October 23, 2014",
     "decision": "2015-02-26",
     "decision_day": "Thursday, February 26, 2015",
+    "citation": "182 Wn.2d 734 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/901546.pdf",
     "score": "6-3",
     "votes": [
@@ -1680,6 +1708,7 @@
     "argument_day": "Thursday, October 23, 2014",
     "decision": "2015-05-07",
     "decision_day": "Thursday, May 7, 2015",
+    "citation": "183 Wn.2d 117 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/889139.pdf",
     "score": "6-3",
     "votes": [
@@ -1734,7 +1763,7 @@
   },
   {
     "id": "2015-030",
-    "title": "League of Women Voters of Wash. v. State of Washington",
+    "title": "League of Women Voters v. State of Washington",
     "number": "89714-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2014&file=20141028",
     "questions": "Does Initiative 1240 (Charter Schools Act), codified in chapter 28A.710 RCW, violate various provisions of Washington's Constitution?",
@@ -1742,6 +1771,7 @@
     "argument_day": "Tuesday, October 28, 2014",
     "decision": "2015-09-04",
     "decision_day": "Friday, September 4, 2015",
+    "citation": "184 Wn.2d 393 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/897140.pdf",
     "score": "6-3",
     "votes": [
@@ -1804,6 +1834,7 @@
     "argument_day": "Tuesday, October 28, 2014",
     "decision": "2015-01-08",
     "decision_day": "Thursday, January 8, 2015",
+    "citation": "182 Wn.2d 342 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/905614.pdf",
     "score": "9-0",
     "votes": [
@@ -1866,6 +1897,7 @@
     "argument_day": "Tuesday, October 28, 2014",
     "decision": "2015-04-02",
     "decision_day": "Thursday, April 2, 2015",
+    "citation": "182 Wn.2d 896 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/901295.pdf",
     "score": "5-4",
     "votes": [
@@ -1928,6 +1960,7 @@
     "argument_day": "Tuesday, October 28, 2014",
     "decision": "2015-05-07",
     "decision_day": "Thursday, May 7, 2015",
+    "citation": "183 Wn.2d 149 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/900396.pdf",
     "score": "5-4",
     "votes": [
@@ -1990,6 +2023,7 @@
     "argument_day": "Tuesday, November 18, 2014",
     "decision": "2015-12-03",
     "decision_day": "Thursday, December 3, 2015",
+    "citation": "184 Wn.2d 726 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/902461.pdf",
     "score": "9-0",
     "votes": [
@@ -2052,6 +2086,7 @@
     "argument_day": "Tuesday, November 18, 2014",
     "decision": "2015-01-08",
     "decision_day": "Thursday, January 8, 2015",
+    "citation": "182 Wn.2d 335 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/900787.pdf",
     "score": "9-0",
     "votes": [
@@ -2114,6 +2149,7 @@
     "argument_day": "Thursday, January 15, 2015",
     "decision": "2015-07-02",
     "decision_day": "Thursday, July 2, 2015",
+    "citation": "183 Wn.2d 550 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/904791.pdf",
     "score": "9-0",
     "votes": [
@@ -2176,6 +2212,7 @@
     "argument_day": "Thursday, January 15, 2015",
     "decision": "2015-04-09",
     "decision_day": "Thursday, April 9, 2015",
+    "citation": "183 Wn.2d 29 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/903298.pdf",
     "score": "9-0",
     "votes": [
@@ -2238,6 +2275,7 @@
     "argument_day": "Tuesday, January 20, 2015",
     "decision": "2015-05-07",
     "decision_day": "Thursday, May 7, 2015",
+    "citation": "183 Wn.2d 169 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/900680.pdf",
     "score": "5-4",
     "votes": [
@@ -2300,6 +2338,7 @@
     "argument_day": "Tuesday, January 20, 2015",
     "decision": "2015-05-28",
     "decision_day": "Thursday, May 28, 2015",
+    "citation": "183 Wn.2d 269 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/902330.pdf",
     "score": "9-0",
     "votes": [
@@ -2362,6 +2401,7 @@
     "argument_day": "Tuesday, January 20, 2015",
     "decision": "2015-09-17",
     "decision_day": "Thursday, September 17, 2015",
+    "citation": "184 Wn.2d 207 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/903085.pdf",
     "score": "9-0",
     "votes": [
@@ -2424,6 +2464,7 @@
     "argument_day": "Thursday, January 22, 2015",
     "decision": "2015-06-11",
     "decision_day": "Thursday, June 11, 2015",
+    "citation": "183 Wn.2d 388 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/903191.pdf",
     "score": "5-4",
     "votes": [
@@ -2486,6 +2527,7 @@
     "argument_day": "Thursday, January 22, 2015",
     "decision": "2015-11-25",
     "decision_day": "Wednesday, November 25, 2015",
+    "citation": "184 Wn.2d 702 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/901791.pdf",
     "score": "5-4",
     "votes": [
@@ -2548,6 +2590,7 @@
     "argument_day": "Thursday, January 22, 2015",
     "decision": "2015-02-26",
     "decision_day": "Thursday, February 26, 2015",
+    "citation": "182 Wn.2d 716 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/2013279.pdf",
     "score": "9-0",
     "votes": [
@@ -2610,6 +2653,7 @@
     "argument_day": "Tuesday, February 10, 2015",
     "decision": "2015-05-07",
     "decision_day": "Thursday, May 7, 2015",
+    "citation": "183 Wn.2d 197 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/902810.pdf",
     "score": "9-0",
     "votes": [
@@ -2672,6 +2716,7 @@
     "argument_day": "Tuesday, February 10, 2015",
     "decision": "2015-04-16",
     "decision_day": "Thursday, April 16, 2015",
+    "citation": "183 Wn.2d 38 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/902917.pdf",
     "events": [
       {
@@ -2697,6 +2742,7 @@
     "argument_day": "Tuesday, February 10, 2015",
     "decision": "2015-11-25",
     "decision_day": "Wednesday, November 25, 2015",
+    "citation": "184 Wn.2d 679 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/896577.pdf",
     "score": "5-4",
     "votes": [
@@ -2751,7 +2797,7 @@
   },
   {
     "id": "2015-047",
-    "title": "Boeing Co. v. Dep't of Labor & Indus.",
+    "title": "Boeing Co. v. Doss",
     "number": "90304-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20150212",
     "questions": "Under the Industrial Insurance Act, is a self-insured employer entitled to relief from the second injury fund to cover the cost of a worker's post-pension medical treatment costs?",
@@ -2759,6 +2805,7 @@
     "argument_day": "Thursday, February 12, 2015",
     "decision": "2015-04-16",
     "decision_day": "Thursday, April 16, 2015",
+    "citation": "183 Wn.2d 54 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/903042.pdf",
     "score": "9-0",
     "votes": [
@@ -2821,6 +2868,7 @@
     "argument_day": "Thursday, February 12, 2015",
     "decision": "2015-09-24",
     "decision_day": "Thursday, September 24, 2015",
+    "citation": "184 Wn.2d 358 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/903573.pdf",
     "score": "9-0",
     "votes": [
@@ -2883,6 +2931,7 @@
     "argument_day": "Thursday, February 12, 2015",
     "decision": "2015-03-19",
     "decision_day": "Thursday, March 19, 2015",
+    "citation": "182 Wn.2d 882 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/909067.pdf",
     "score": "9-0",
     "votes": [
@@ -2945,6 +2994,7 @@
     "argument_day": "Tuesday, February 17, 2015",
     "decision": "2015-06-11",
     "decision_day": "Thursday, June 11, 2015",
+    "citation": "183 Wn.2d 455 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/903981.pdf",
     "score": "5-4",
     "votes": [
@@ -3007,6 +3057,7 @@
     "argument_day": "Thursday, February 19, 2015",
     "decision": "2015-11-05",
     "decision_day": "Thursday, November 5, 2015",
+    "citation": "184 Wn.2d 605 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/905541.pdf",
     "score": "9-0",
     "votes": [
@@ -3069,6 +3120,7 @@
     "argument_day": "Thursday, February 19, 2015",
     "decision": "2015-04-02",
     "decision_day": "Thursday, April 2, 2015",
+    "citation": "182 Wn.2d 936 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/905339.pdf",
     "score": "9-0",
     "votes": [
@@ -3131,6 +3183,7 @@
     "argument_day": "Tuesday, February 24, 2015",
     "decision": "2015-12-17",
     "decision_day": "Thursday, December 17, 2015",
+    "citation": "184 Wn.2d 805 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/905771.pdf",
     "score": "7-2",
     "votes": [
@@ -3193,6 +3246,7 @@
     "argument_day": "Tuesday, February 24, 2015",
     "decision": "2015-06-18",
     "decision_day": "Thursday, June 18, 2015",
+    "citation": "183 Wn.2d 485 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/906513.pdf",
     "score": "6-3",
     "votes": [
@@ -3255,6 +3309,7 @@
     "argument_day": "Tuesday, February 24, 2015",
     "decision": "2015-05-21",
     "decision_day": "Thursday, May 21, 2015",
+    "citation": "183 Wn.2d 237 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/905444.pdf",
     "score": "9-0",
     "votes": [
@@ -3317,6 +3372,7 @@
     "argument_day": "Tuesday, February 24, 2015",
     "decision": "2015-05-21",
     "decision_day": "Thursday, May 21, 2015",
+    "citation": "183 Wn.2d 219 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/902046.pdf",
     "score": "8-1",
     "votes": [
@@ -3379,6 +3435,7 @@
     "argument_day": "Thursday, February 26, 2015",
     "decision": "2015-04-30",
     "decision_day": "Thursday, April 30, 2015",
+    "citation": "183 Wn.2d 71 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/903671.pdf",
     "score": "9-0",
     "votes": [
@@ -3441,6 +3498,7 @@
     "argument_day": "Thursday, February 26, 2015",
     "decision": "2015-10-01",
     "decision_day": "Thursday, October 1, 2015",
+    "citation": "184 Wn.2d 428 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/905002.pdf",
     "score": "6-3",
     "votes": [
@@ -3503,6 +3561,7 @@
     "argument_day": "Tuesday, March 10, 2015",
     "decision": "2015-07-16",
     "decision_day": "Thursday, July 16, 2015",
+    "citation": "183 Wn.2d 598 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/896194.pdf",
     "score": "9-0",
     "votes": [
@@ -3565,6 +3624,7 @@
     "argument_day": "Tuesday, March 10, 2015",
     "decision": "2015-04-30",
     "decision_day": "Thursday, April 30, 2015",
+    "citation": "183 Wn.2d 84 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/903778.pdf",
     "score": "9-0",
     "votes": [
@@ -3627,6 +3687,7 @@
     "argument_day": "Tuesday, March 10, 2015",
     "decision": "2015-08-20",
     "decision_day": "Thursday, August 20, 2015",
+    "citation": "183 Wn.2d 749 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/896208.pdf",
     "score": "9-0",
     "votes": [
@@ -3681,6 +3742,7 @@
     "argument_day": "Tuesday, March 17, 2015",
     "decision": "2015-07-16",
     "decision_day": "Thursday, July 16, 2015",
+    "citation": "183 Wn.2d 649 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/909326.pdf",
     "score": "9-0",
     "votes": [
@@ -3743,6 +3805,7 @@
     "argument_day": "Tuesday, March 17, 2015",
     "decision": "2015-08-13",
     "decision_day": "Thursday, August 13, 2015",
+    "citation": "183 Wn.2d 680 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/903379.pdf",
     "score": "5-4",
     "votes": [
@@ -3797,7 +3860,7 @@
   },
   {
     "id": "2015-064",
-    "title": "State of Washington v. Figeroa Martines",
+    "title": "State of Washington v. Martines",
     "number": "90926-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20150507",
     "questions": "The defendant was convicted of DUI. This case concerns two issues. First, whether a warrant authorizing a blood draw from a DUI suspect implicitly authorizes testing that blood. Second, whether there was probable cause to test the defendant's blood for drugs and alcohol.",
@@ -3805,6 +3868,7 @@
     "argument_day": "Thursday, May 7, 2015",
     "decision": "2015-08-27",
     "decision_day": "Thursday, August 27, 2015",
+    "citation": "184 Wn.2d 83 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/909261.pdf",
     "score": "9-0",
     "votes": [
@@ -3867,6 +3931,7 @@
     "argument_day": "Thursday, May 7, 2015",
     "decision": "2015-12-31",
     "decision_day": "Thursday, December 31, 2015",
+    "citation": "184 Wn.2d 856 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/906084.pdf",
     "score": "5-4",
     "votes": [
@@ -3929,6 +3994,7 @@
     "argument_day": "Thursday, May 7, 2015",
     "decision": "2015-06-11",
     "decision_day": "Thursday, June 11, 2015",
+    "citation": "183 Wn.2d 475 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/908125.pdf",
     "score": "9-0",
     "votes": [
@@ -4013,6 +4079,7 @@
     "argument_day": "Tuesday, May 12, 2015",
     "decision": "2015-08-27",
     "decision_day": "Thursday, August 27, 2015",
+    "citation": "184 Wn.2d 30 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/906203.pdf",
     "score": "7-2",
     "votes": [
@@ -4075,6 +4142,7 @@
     "argument_day": "Tuesday, May 12, 2015",
     "decision": "2015-08-27",
     "decision_day": "Thursday, August 27, 2015",
+    "citation": "183 Wn.2d 842 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/897344.pdf",
     "score": "9-0",
     "votes": [
@@ -4137,6 +4205,7 @@
     "argument_day": "Thursday, May 14, 2015",
     "decision": "2015-09-03",
     "decision_day": "Thursday, September 3, 2015",
+    "citation": "184 Wn.2d 148 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/907510.pdf",
     "score": "8-1",
     "votes": [
@@ -4199,6 +4268,7 @@
     "argument_day": "Thursday, May 14, 2015",
     "decision": "2015-09-17",
     "decision_day": "Thursday, September 17, 2015",
+    "citation": "184 Wn.2d 238 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/906661.pdf",
     "score": "9-0",
     "votes": [
@@ -4261,6 +4331,7 @@
     "argument_day": "Thursday, May 14, 2015",
     "decision": "2015-07-16",
     "decision_day": "Thursday, July 16, 2015",
+    "citation": "183 Wn.2d 633 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/908273.pdf",
     "score": "9-0",
     "votes": [
@@ -4323,6 +4394,7 @@
     "argument_day": "Thursday, May 14, 2015",
     "decision": "2015-08-27",
     "decision_day": "Thursday, August 27, 2015",
+    "citation": "184 Wn.2d 55 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/908397.pdf",
     "score": "9-0",
     "votes": [
@@ -4385,6 +4457,7 @@
     "argument_day": "Tuesday, May 19, 2015",
     "decision": "2015-09-24",
     "decision_day": "Thursday, September 24, 2015",
+    "citation": "184 Wn.2d 340 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/894655.pdf",
     "score": "9-0",
     "votes": [
@@ -4439,7 +4512,7 @@
   },
   {
     "id": "2015-075",
-    "title": "In re Dependency of M.H.P.",
+    "title": "Department of Social & Health Services v. Parvin",
     "number": "90468-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20150519",
     "questions": "Can a court seal motions and orders in parental termination cases without providing notice to opposing parties?",
@@ -4447,6 +4520,7 @@
     "argument_day": "Tuesday, May 19, 2015",
     "decision": "2015-12-10",
     "decision_day": "Thursday, December 10, 2015",
+    "citation": "184 Wn.2d 741 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/904685.pdf",
     "score": "9-0",
     "votes": [
@@ -4509,6 +4583,7 @@
     "argument_day": "Tuesday, May 19, 2015",
     "decision": "2015-08-20",
     "decision_day": "Thursday, August 20, 2015",
+    "citation": "183 Wn.2d 737 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/895716.pdf",
     "score": "9-0",
     "votes": [
@@ -4563,7 +4638,7 @@
   },
   {
     "id": "2015-077",
-    "title": "In re Adoption of M.S.M.-P.",
+    "title": "N.P. v. A.K.",
     "number": "90467-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20150519",
     "questions": "Petitioner challenges the termination of his parental rights because the termination hearing was closed to the public",
@@ -4571,6 +4646,7 @@
     "argument_day": "Tuesday, May 19, 2015",
     "decision": "2015-10-08",
     "decision_day": "Thursday, October 8, 2015",
+    "citation": "184 Wn.2d 496 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/904677.pdf",
     "score": "9-0",
     "votes": [
@@ -4633,6 +4709,7 @@
     "argument_day": "Thursday, May 21, 2015",
     "decision": "2015-08-13",
     "decision_day": "Thursday, August 13, 2015",
+    "citation": "183 Wn.2d 706 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/907820.pdf",
     "score": "9-0",
     "votes": [
@@ -4695,6 +4772,7 @@
     "argument_day": "Thursday, May 21, 2015",
     "decision": "2015-09-24",
     "decision_day": "Thursday, September 24, 2015",
+    "citation": "184 Wn.2d 376 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/908745.pdf",
     "score": "5-4",
     "votes": [
@@ -4749,7 +4827,7 @@
   },
   {
     "id": "2015-080",
-    "title": "SARA FOSTER v. WASHINGTON STATE DEPARTMENT OF",
+    "title": "Foster v. Department of Ecology",
     "number": "90386-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2015&file=20150521",
     "questions": "Public waters have established minimum water levels. May the Department of Ecology approve a water permit that will impact these minimum water levels?",
@@ -4757,6 +4835,7 @@
     "argument_day": "Thursday, May 21, 2015",
     "decision": "2015-10-08",
     "decision_day": "Thursday, October 8, 2015",
+    "citation": "184 Wn.2d 465 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/903867.pdf",
     "events": [
       {
@@ -4780,6 +4859,7 @@
     "argument_day": "Tuesday, May 26, 2015",
     "decision": "2015-08-27",
     "decision_day": "Thursday, August 27, 2015",
+    "citation": "184 Wn.2d 1 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/2013520.pdf",
     "score": "9-0",
     "votes": [
@@ -4842,6 +4922,7 @@
     "argument_day": "Tuesday, May 26, 2015",
     "decision": "2015-07-09",
     "decision_day": "Thursday, July 9, 2015",
+    "citation": "183 Wn.2d 590 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/904863.pdf",
     "score": "9-0",
     "votes": [
@@ -4904,6 +4985,7 @@
     "argument_day": "Tuesday, May 26, 2015",
     "decision": "2015-09-10",
     "decision_day": "Thursday, September 10, 2015",
+    "citation": "184 Wn.2d 176 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/908915.pdf",
     "score": "9-0",
     "votes": [
@@ -4966,6 +5048,7 @@
     "argument_day": "Tuesday, May 26, 2015",
     "decision": "2015-11-19",
     "decision_day": "Thursday, November 19, 2015",
+    "citation": "184 Wn.2d 656 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/908117.pdf",
     "score": "8-1",
     "votes": [
@@ -5028,6 +5111,7 @@
     "argument_day": "Tuesday, June 9, 2015",
     "decision": "2015-09-17",
     "decision_day": "Thursday, September 17, 2015",
+    "citation": "184 Wn.2d 268 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/909750.pdf",
     "score": "6-3",
     "votes": [
@@ -5090,6 +5174,7 @@
     "argument_day": "Tuesday, June 9, 2015",
     "decision": "2015-09-17",
     "decision_day": "Thursday, September 17, 2015",
+    "citation": "184 Wn.2d 300 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/910405.pdf",
     "score": "9-0",
     "votes": [
@@ -5152,6 +5237,7 @@
     "argument_day": "Tuesday, June 9, 2015",
     "decision": "2015-09-17",
     "decision_day": "Thursday, September 17, 2015",
+    "citation": "184 Wn.2d 252 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/909466.pdf",
     "score": "6-3",
     "votes": [
@@ -5214,6 +5300,7 @@
     "argument_day": "Thursday, June 11, 2015",
     "decision": "2015-10-22",
     "decision_day": "Thursday, October 22, 2015",
+    "citation": "184 Wn.2d 548 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/908460.pdf",
     "score": "9-0",
     "votes": [
@@ -5276,6 +5363,7 @@
     "argument_day": "Thursday, June 11, 2015",
     "decision": "2015-08-27",
     "decision_day": "Thursday, August 27, 2015",
+    "citation": "183 Wn.2d 889 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/910723.pdf",
     "score": "9-0",
     "votes": [
@@ -5338,6 +5426,7 @@
     "argument_day": "Thursday, June 11, 2015",
     "decision": "2015-09-03",
     "decision_day": "Thursday, September 3, 2015",
+    "citation": "184 Wn.2d 170 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/908796.pdf",
     "score": "9-0",
     "votes": [
@@ -5400,6 +5489,7 @@
     "argument_day": "Tuesday, June 23, 2015",
     "decision": "2015-10-22",
     "decision_day": "Thursday, October 22, 2015",
+    "citation": "184 Wn.2d 509 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/906521.pdf",
     "score": "9-0",
     "votes": [
@@ -5462,6 +5552,7 @@
     "argument_day": "Tuesday, June 23, 2015",
     "decision": "2015-08-06",
     "decision_day": "Thursday, August 6, 2015",
+    "citation": "183 Wn.2d 669 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/909393.pdf",
     "score": "9-0",
     "votes": [
@@ -5524,6 +5615,7 @@
     "argument_day": "Tuesday, June 23, 2015",
     "decision": "2015-08-20",
     "decision_day": "Thursday, August 20, 2015",
+    "citation": "183 Wn.2d 820 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/905096.pdf",
     "score": "9-0",
     "votes": [
@@ -5586,6 +5678,7 @@
     "argument_day": "Tuesday, June 23, 2015",
     "decision": "2015-09-17",
     "decision_day": "Thursday, September 17, 2015",
+    "citation": "184 Wn.2d 321 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/911126.pdf",
     "score": "9-0",
     "votes": [
@@ -5648,6 +5741,7 @@
     "argument_day": "Tuesday, September 8, 2015",
     "decision": "2015-10-29",
     "decision_day": "Thursday, October 29, 2015",
+    "citation": "184 Wn.2d 575 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/897069.pdf",
     "score": "9-0",
     "votes": [
@@ -5710,6 +5804,7 @@
     "argument_day": "Thursday, September 10, 2015",
     "decision": "2015-11-05",
     "decision_day": "Thursday, November 5, 2015",
+    "citation": "184 Wn.2d 618 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/912203.pdf",
     "score": "9-0",
     "votes": [
@@ -5772,6 +5867,7 @@
     "argument_day": "Tuesday, October 20, 2015",
     "decision": "2015-12-10",
     "decision_day": "Thursday, December 10, 2015",
+    "citation": "184 Wn.2d 793 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/913935.pdf",
     "score": "9-0",
     "votes": [
@@ -5834,6 +5930,7 @@
     "argument_day": "Thursday, October 22, 2015",
     "decision": "2015-12-24",
     "decision_day": "Thursday, December 24, 2015",
+    "citation": "184 Wn.2d 843 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/914575.pdf",
     "score": "9-0",
     "votes": [
@@ -5893,6 +5990,7 @@
     "number": "88819-1",
     "decision": "2015-03-12",
     "decision_day": "Thursday, March 12, 2015",
+    "citation": "182 Wn.2d 794 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/888191.pdf"
   },
   {
@@ -5901,6 +5999,7 @@
     "number": "90331-0",
     "decision": "2015-04-02",
     "decision_day": "Thursday, April 2, 2015",
+    "citation": "182 Wn.2d 919 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/903310.pdf"
   },
   {
@@ -5909,6 +6008,7 @@
     "number": "89912-6",
     "decision": "2015-04-09",
     "decision_day": "Thursday, April 9, 2015",
+    "citation": "183 Wn.2d 1 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/899126.pdf"
   },
   {
@@ -5917,6 +6017,7 @@
     "number": "89107-9",
     "decision": "2015-05-07",
     "decision_day": "Thursday, May 7, 2015",
+    "citation": "183 Wn.2d 144 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/891079.pdf"
   },
   {
@@ -5925,6 +6026,7 @@
     "number": "89344-6",
     "decision": "2015-06-11",
     "decision_day": "Thursday, June 11, 2015",
+    "citation": "183 Wn.2d 358 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/893446.pdf"
   },
   {
@@ -5933,6 +6035,7 @@
     "number": "89965-7",
     "decision": "2015-07-02",
     "decision_day": "Thursday, July 2, 2015",
+    "citation": "183 Wn.2d 531 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/899657.pdf"
   },
   {
@@ -5941,6 +6044,7 @@
     "number": "89792-1",
     "decision": "2015-07-09",
     "decision_day": "Thursday, July 9, 2015",
+    "citation": "183 Wn.2d 572 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/897921.pdf"
   },
   {
@@ -5949,6 +6053,7 @@
     "number": "89820-1",
     "decision": "2015-07-23",
     "decision_day": "Thursday, July 23, 2015",
+    "citation": "183 Wn.2d 665 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/898201.pdf"
   },
   {
@@ -5957,6 +6062,7 @@
     "number": "85996-5",
     "decision": "2015-08-20",
     "decision_day": "Thursday, August 20, 2015",
+    "citation": "183 Wn.2d 720 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/859965.pdf"
   },
   {
@@ -5965,6 +6071,7 @@
     "number": "90875-3",
     "decision": "2015-08-27",
     "decision_day": "Thursday, August 27, 2015",
+    "citation": "183 Wn.2d 863 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/908753.pdf"
   },
   {
@@ -5973,6 +6080,7 @@
     "number": "91180-1",
     "decision": "2015-09-10",
     "decision_day": "Thursday, September 10, 2015",
+    "citation": "184 Wn.2d 201 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/911801.pdf"
   },
   {
@@ -5981,6 +6089,7 @@
     "number": "90897-4",
     "decision": "2015-10-08",
     "decision_day": "Thursday, October 8, 2015",
+    "citation": "184 Wn.2d 505 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/908974.pdf"
   },
   {
@@ -5989,6 +6098,7 @@
     "number": "90088-4",
     "decision": "2015-10-29",
     "decision_day": "Thursday, October 29, 2015",
+    "citation": "184 Wn.2d 587 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/900884.pdf"
   },
   {
@@ -5997,6 +6107,7 @@
     "number": "92075-3",
     "decision": "2015-11-12",
     "decision_day": "Thursday, November 12, 2015",
+    "citation": "184 Wn.2d 643 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/920753.pdf"
   },
   {
@@ -6005,6 +6116,7 @@
     "number": "90712-9",
     "decision": "2015-11-12",
     "decision_day": "Thursday, November 12, 2015",
+    "citation": "184 Wn.2d 632 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/907129.pdf"
   },
   {
@@ -6013,6 +6125,7 @@
     "number": "90883-4",
     "decision": "2015-12-10",
     "decision_day": "Thursday, December 10, 2015",
+    "citation": "184 Wn.2d 780 (2015)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/908834.pdf"
   }
 ]

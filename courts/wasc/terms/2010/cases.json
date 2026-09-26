@@ -1,7 +1,7 @@
 [
   {
     "id": "2010-001",
-    "title": "In re Welfare of A.B.",
+    "title": "Salas v. Department of Social & Health Services",
     "number": "80759-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2008&file=20080624",
     "facts": "The respondent state of Washington filed a petition to terminate the parental rights of petitioner Rogelio Salas with regard to his daughter A.B. in the Superior Court for Yakima County. The superior court subsequently terminated Salas’s parental rights, finding that A.B.’s permanent placement with her cousin would be in her best interest. Salas appealed the superior court’s decision, asserting that he had been denied due process by the superior court’s failure to find that he is an unfit parent as required by Washington Revised Code §13.34.180(1). The Washington Court of Appeals affirmed the superior court’s decision. Salas appealed this decision to the Supreme Court of Washington.",
@@ -11,6 +11,7 @@
     "argument_day": "Tuesday, June 24, 2008",
     "decision": "2010-06-10",
     "decision_day": "Thursday, June 10, 2010",
+    "citation": "168 Wn.2d 908 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "7-2",
@@ -75,6 +76,7 @@
     "argument_day": "Tuesday, October 14, 2008",
     "decision": "2010-08-05",
     "decision_day": "Thursday, August 5, 2010",
+    "citation": "169 Wn.2d 364 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "5-4",
@@ -144,6 +146,7 @@
     "argument_day": "Tuesday, October 14, 2008",
     "decision": "2010-01-28",
     "decision_day": "Thursday, January 28, 2010",
+    "citation": "168 Wn.2d 84 (2010)",
     "bench": "madsen1",
     "score": "9-0",
     "votes": [
@@ -211,6 +214,7 @@
     "argument_day": "Tuesday, October 21, 2008",
     "decision": "2010-03-18",
     "decision_day": "Thursday, March 18, 2010",
+    "citation": "168 Wn.2d 398 (2010)",
     "bench": "madsen1",
     "score": "9-0",
     "votes": [
@@ -274,6 +278,7 @@
     "argument_day": "Tuesday, October 28, 2008",
     "decision": "2010-01-21",
     "decision_day": "Thursday, January 21, 2010",
+    "citation": "168 Wn.2d 125 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "5-4",
@@ -342,6 +347,7 @@
     "argument_day": "Tuesday, January 20, 2009",
     "decision": "2010-05-13",
     "decision_day": "Thursday, May 13, 2010",
+    "citation": "168 Wn.2d 828 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "5-4",
@@ -407,6 +413,7 @@
     "argument_day": "Tuesday, February 10, 2009",
     "decision": "2010-02-25",
     "decision_day": "Thursday, February 25, 2010",
+    "citation": "168 Wn.2d 306 (2010)",
     "bench": "madsen1",
     "score": "5-4",
     "votes": [
@@ -475,6 +482,7 @@
     "argument_day": "Tuesday, February 10, 2009",
     "decision": "2010-01-14",
     "decision_day": "Thursday, January 14, 2010",
+    "citation": "167 Wn.2d 889 (2010)",
     "bench": "madsen1",
     "score": "6-3",
     "votes": [
@@ -605,11 +613,12 @@
     "argument": "2009-02-24",
     "argument_day": "Tuesday, February 24, 2009",
     "decision": "2010-06-17",
-    "decision_day": "Thursday, June 17, 2010"
+    "decision_day": "Thursday, June 17, 2010",
+    "citation": "169 Wn.2d 1 (2010)"
   },
   {
     "id": "2010-011",
-    "title": "Service Employees International Union v. Gregoire",
+    "title": "SEIU Healthcare 775NW v. Gregoire",
     "number": "82551-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090310",
     "facts": "The petitioner Service Employees International Union, the bargaining representative of the in home personal care service providers contracted by the state of Washington to serve Medicaid recipients, filed a petition with the Supreme Court of Washington for a writ of mandamus compelling respondent Governor Christine Gregoire to revise the budget she submitted to the legislature so as to include funding for pay increases for the personal care service providers it represents that had previously been awarded by an arbitrator.",
@@ -619,6 +628,7 @@
     "argument_day": "Tuesday, March 10, 2009",
     "decision": "2010-04-08",
     "decision_day": "Thursday, April 8, 2010",
+    "citation": "168 Wn.2d 593 (2010)",
     "bench": "madsen1",
     "score": "5-4",
     "votes": [
@@ -677,7 +687,7 @@
   },
   {
     "id": "2010-012",
-    "title": "In re Parentage of M.F.",
+    "title": "Corbin v. Reimen",
     "number": "81043-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090310",
     "facts": "Respondent John Corbin filed suit against petitioner Patricia Reimen, his former wife, in the Superior Court for Snohomish County, seeking visitation rights with regard to Reiman’s daughter M.F., his former stepdaughter. The trial court rejected Reimen’s motion for summary judgment, ruling that Corbin had presented a prima facie case grounded in the de facto parentage doctrine. Upon appeal, the Washington Court of Appeals reversed the trial court’s decision and dismissed the case. Corbin appealed this decision to the Supreme Court of Washington.",
@@ -687,6 +697,7 @@
     "argument_day": "Tuesday, March 10, 2009",
     "decision": "2010-04-01",
     "decision_day": "Thursday, April 1, 2010",
+    "citation": "168 Wn.2d 528 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "6-3",
@@ -755,6 +766,7 @@
     "argument_day": "Thursday, March 12, 2009",
     "decision": "2010-01-21",
     "decision_day": "Thursday, January 21, 2010",
+    "citation": "168 Wn.2d 1 (2010)",
     "bench": "madsen1",
     "score": "8-1",
     "votes": [
@@ -823,6 +835,7 @@
     "argument_day": "Tuesday, March 24, 2009",
     "decision": "2010-02-18",
     "decision_day": "Thursday, February 18, 2010",
+    "citation": "168 Wn.2d 256 (2010)",
     "bench": "madsen1",
     "score": "7-2",
     "votes": [
@@ -890,6 +903,7 @@
     "argument_day": "Thursday, May 14, 2009",
     "decision": "2010-05-27",
     "decision_day": "Thursday, May 27, 2010",
+    "citation": "168 Wn.2d 857 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "6-3",
@@ -961,6 +975,7 @@
     "argument_day": "Thursday, May 14, 2009",
     "decision": "2010-02-11",
     "decision_day": "Thursday, February 11, 2010",
+    "citation": "168 Wn.2d 243 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -1029,6 +1044,7 @@
     "argument_day": "Thursday, May 21, 2009",
     "decision": "2010-01-28",
     "decision_day": "Thursday, January 28, 2010",
+    "citation": "168 Wn.2d 91 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -1098,6 +1114,7 @@
     "argument_day": "Tuesday, May 26, 2009",
     "decision": "2010-12-02",
     "decision_day": "Thursday, December 2, 2010",
+    "citation": "170 Wn.2d 628 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "6-3",
@@ -1168,6 +1185,7 @@
     "argument_day": "Tuesday, May 26, 2009",
     "decision": "2010-09-02",
     "decision_day": "Thursday, September 2, 2010",
+    "citation": "169 Wn.2d 598 (2010)",
     "bench": "madsen1",
     "score": "7-2",
     "votes": [
@@ -1235,6 +1253,7 @@
     "argument_day": "Thursday, May 28, 2009",
     "decision": "2010-04-01",
     "decision_day": "Thursday, April 1, 2010",
+    "citation": "168 Wn.2d 555 (2010)",
     "bench": "madsen1",
     "score": "9-0",
     "votes": [
@@ -1287,7 +1306,7 @@
   },
   {
     "id": "2010-021",
-    "title": "In re Custody of E.A.T.W.",
+    "title": "Grieco v. Wilson",
     "number": "81945-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090528",
     "facts": "Petitioner Vito Grieco and his wife, Yasuko, filed a petition in the Superior Court for King County seeking permanent custody of their grandchildren, who had been in their care for several years, pursuant to Washington Revised Code §26.10.032, which permits non-parents to obtain a custody hearing upon showing that the child is not in the custody of one of its parents or that neither parent is a suitable guardian and setting forth facts supporting the requested order. Respondent Sachi Wilson, the children’s father, contested the petition, moving that it be dismissed insofar as the Griecos had not presented any facts supporting their being awarded custody other than the fact that the children were currently in their care. The trial court rejected Wilson’s motion, ruling that the fact that the children were in the Griecos’ custody was sufficiently adequate cause under §26.10.032 to convene a hearing to determine permanent custody. Wilson appealed the trial court’s decision and the Washington Court of Appeals subsequently reversed, dismissing the Griecos’ petition and holding that the trial court had erroneously interpreted §26.10.032 insofar as it determined that the lack of physical custody by a parent is adequate cause to convene a hearing under §26.10.032. The Griecos appealed this decision to the Supreme Court of Washington.",
@@ -1297,6 +1316,7 @@
     "argument_day": "Thursday, May 28, 2009",
     "decision": "2010-02-25",
     "decision_day": "Thursday, February 25, 2010",
+    "citation": "168 Wn.2d 335 (2010)",
     "bench": "madsen1",
     "score": "9-0",
     "votes": [
@@ -1359,6 +1379,7 @@
     "argument_day": "Thursday, June 11, 2009",
     "decision": "2010-03-25",
     "decision_day": "Thursday, March 25, 2010",
+    "citation": "168 Wn.2d 476 (2010)",
     "bench": "madsen1",
     "score": "5-4",
     "votes": [
@@ -1427,6 +1448,7 @@
     "argument_day": "Tuesday, June 23, 2009",
     "decision": "2010-05-06",
     "decision_day": "Thursday, May 6, 2010",
+    "citation": "168 Wn.2d 789 (2010)",
     "bench": "madsen1",
     "score": "6-3",
     "votes": [
@@ -1496,6 +1518,7 @@
     "argument_day": "Tuesday, June 23, 2009",
     "decision": "2010-11-04",
     "decision_day": "Thursday, November 4, 2010",
+    "citation": "170 Wn.2d 338 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "5-4",
@@ -1555,7 +1578,7 @@
   },
   {
     "id": "2010-025",
-    "title": "Holden v. Farmers Insurance Company of Washington",
+    "title": "Holden v. Farmers Insurance",
     "number": "81487-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090625",
     "facts": "Following a fire at her home, petitioner Laura Holden submitted a claim to her insurer, respondent Farmers Insurance Company of Washington, seeking reimbursement for her lost property. After Farmers Insurance Company calculated the fair market value of the property upon which Holden’s reimbursement would be based without including sales tax, Holden filed suit against Farmers Insurance Company in the Superior Court for King County, asserting that her insurance contract requires that any formula for calculating the property’s value must include sales tax. The trial court ruled that as Farmers Insurance Company uses numerous methods to calculate the fair market value of property, some of which include sales tax, the insurance contract is ambiguous and as ambiguity must be resolved in favor of the insured, the formula for calculating Holden’s reimbursement should include sales tax. Upon appeal, the Washington Court of Appeals reversed, holding that the contract permits reimbursement of sales tax only if the insured purchases replacement property prior to reimbursement. Holden appealed this decision to the Supreme Court of Washington.",
@@ -1565,6 +1588,7 @@
     "argument_day": "Thursday, June 25, 2009",
     "decision": "2010-09-09",
     "decision_day": "Thursday, September 9, 2010",
+    "citation": "169 Wn.2d 750 (2010)",
     "bench": "madsen1",
     "score": "6-3",
     "votes": [
@@ -1629,6 +1653,7 @@
     "argument_day": "Thursday, June 25, 2009",
     "decision": "2010-01-21",
     "decision_day": "Thursday, January 21, 2010",
+    "citation": "168 Wn.2d 23 (2010)",
     "bench": "madsen1",
     "score": "5-4",
     "votes": [
@@ -1697,6 +1722,7 @@
     "argument_day": "Tuesday, June 30, 2009",
     "decision": "2010-01-28",
     "decision_day": "Thursday, January 28, 2010",
+    "citation": "168 Wn.2d 161 (2010)",
     "bench": "madsen1",
     "score": "8-1",
     "votes": [
@@ -1765,6 +1791,7 @@
     "argument_day": "Tuesday, June 30, 2009",
     "decision": "2010-02-18",
     "decision_day": "Thursday, February 18, 2010",
+    "citation": "168 Wn.2d 276 (2010)",
     "bench": "madsen1",
     "score": "8-1",
     "votes": [
@@ -1834,6 +1861,7 @@
     "argument_day": "Tuesday, September 15, 2009",
     "decision": "2010-06-17",
     "decision_day": "Thursday, June 17, 2010",
+    "citation": "169 Wn.2d 47 (2010)",
     "bench": "madsen1",
     "score": "6-3",
     "votes": [
@@ -1901,6 +1929,7 @@
     "argument_day": "Tuesday, September 15, 2009",
     "decision": "2010-03-25",
     "decision_day": "Thursday, March 25, 2010",
+    "citation": "168 Wn.2d 496 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -1969,6 +1998,7 @@
     "argument_day": "Tuesday, September 15, 2009",
     "decision": "2010-02-11",
     "decision_day": "Thursday, February 11, 2010",
+    "citation": "168 Wn.2d 220 (2010)",
     "bench": "madsen1",
     "score": "8-1",
     "votes": [
@@ -2036,6 +2066,7 @@
     "argument_day": "Thursday, September 17, 2009",
     "decision": "2010-03-11",
     "decision_day": "Thursday, March 11, 2010",
+    "citation": "168 Wn.2d 382 (2010)",
     "bench": "madsen1",
     "score": "9-0",
     "votes": [
@@ -2103,6 +2134,7 @@
     "argument_day": "Thursday, September 17, 2009",
     "decision": "2010-04-08",
     "decision_day": "Thursday, April 8, 2010",
+    "citation": "168 Wn.2d 581 (2010)",
     "bench": "madsen1",
     "score": "8-1",
     "votes": [
@@ -2170,6 +2202,7 @@
     "argument_day": "Thursday, September 17, 2009",
     "decision": "2010-07-01",
     "decision_day": "Thursday, July 1, 2010",
+    "citation": "169 Wn.2d 133 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "6-3",
@@ -2238,6 +2271,7 @@
     "argument_day": "Tuesday, September 22, 2009",
     "decision": "2010-04-15",
     "decision_day": "Thursday, April 15, 2010",
+    "citation": "168 Wn.2d 675 (2010)",
     "bench": "madsen1",
     "score": "5-4",
     "votes": [
@@ -2297,7 +2331,7 @@
   },
   {
     "id": "2010-036",
-    "title": "Yousoufian v. Office of Ron Sims",
+    "title": "Yousoufian v. Office of Sims",
     "number": "80081-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090922",
     "facts": "Respondent Armen Yousoufian filed suit against the Office of Ron Sims, the King County Executive, in the Superior Court for King County, alleging that the county had acted in bad faith in failing to timely and fully respond to public records requests relating to stadium financing. The trial court found that the county had been untimely and unreasonable in its response to Yousoufian’s request but had not acted in bad faith and based the damages it awarded to Yousoufian upon the minimum per day penalty of $5 established by the Public Records Act (Washington Revised Code §42.56). Yousoufian subsequently appealed to the Washington Court of Appeals, which reversed the trial court’s decision, holding that the county had acted with gross negligence, and remanded the case to the trial court, which awarded damages of $15 per day to Yousoufian. Yousoufian appealed the award and the Washington Court of Appeals again reversed the trial court. The county appealed this decision to the Supreme Court of Washington.",
@@ -2307,6 +2341,7 @@
     "argument_day": "Tuesday, September 22, 2009",
     "decision": "2010-03-25",
     "decision_day": "Thursday, March 25, 2010",
+    "citation": "168 Wn.2d 444 (2010)",
     "bench": "madsen1",
     "score": "5-4",
     "votes": [
@@ -2366,6 +2401,7 @@
     "argument_day": "Thursday, September 24, 2009",
     "decision": "2010-11-04",
     "decision_day": "Thursday, November 4, 2010",
+    "citation": "170 Wn.2d 380 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -2435,6 +2471,7 @@
     "argument_day": "Thursday, September 24, 2009",
     "decision": "2010-01-07",
     "decision_day": "Thursday, January 7, 2010",
+    "citation": "167 Wn.2d 873 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -2502,6 +2539,7 @@
     "argument_day": "Tuesday, October 13, 2009",
     "decision": "2010-01-21",
     "decision_day": "Thursday, January 21, 2010",
+    "citation": "168 Wn.2d 51 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -2565,6 +2603,7 @@
     "argument_day": "Tuesday, October 13, 2009",
     "decision": "2010-02-04",
     "decision_day": "Thursday, February 4, 2010",
+    "citation": "168 Wn.2d 204 (2010)",
     "bench": "madsen1",
     "score": "7-2",
     "votes": [
@@ -2632,6 +2671,7 @@
     "argument_day": "Tuesday, October 13, 2009",
     "decision": "2010-04-01",
     "decision_day": "Thursday, April 1, 2010",
+    "citation": "168 Wn.2d 645 (2010)",
     "bench": "madsen1",
     "score": "5-4",
     "votes": [
@@ -2700,6 +2740,7 @@
     "argument_day": "Tuesday, October 20, 2009",
     "decision": "2010-09-02",
     "decision_day": "Thursday, September 2, 2010",
+    "citation": "169 Wn.2d 633 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "5-4",
@@ -2759,7 +2800,7 @@
   },
   {
     "id": "2010-043",
-    "title": "Kustura v. Department of Labor and Industries",
+    "title": "Kustura v. Department of Labor & Industries",
     "number": "81478-3; 81480-5; 81481-3; 81758-8; 81759-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091020",
     "facts": "Following a workplace injury, petitioner Hajrudin Kustura filed a claim for workers’ compensation with the respondent Department of Labor and Industries. Kustura, due to his limited English proficiency, was provided interpreter services at the Department of Labor and Industries’ expense at the subsequent hearing before the Board of Industrial Insurance Appeals but was not provided interpreter services at the Department of Labor and Industries’ expense for his communications with his attorney or for the translation of witness testimony. Following an adverse decision, Kustura appealed to the Washington Court of Appeals, asserting that he was entitled to interpreter services during all phases of the proceedings insofar as Washington Revised Code §2.43.040 requires that individuals with limited English proficiency be provided with interpreter services at state expense during legal proceedings. The Washington Court of Appeals affirmed the Board of Industrial Insurance Appeals, holding that as the right to interpreter services conferred by §2.43.040 is limited to parties with limited English proficiency against whom legal proceedings are initiated by the state, Kustura was not entitled to interpreter services at state expense as he had initiated the proceedings by filing a workers’ compensation claim. Kustura appealed this decision to the Supreme Court of Washington.",
@@ -2768,6 +2809,7 @@
     "argument_day": "Tuesday, October 20, 2009",
     "decision": "2010-06-17",
     "decision_day": "Thursday, June 17, 2010",
+    "citation": "169 Wn.2d 81 (2010)",
     "bench": "madsen1",
     "score": "7-2",
     "votes": [
@@ -2821,7 +2863,7 @@
   },
   {
     "id": "2010-044",
-    "title": "Affiliated F.M. Insurance Company v. L.T.K. Consulting Services, Inc.",
+    "title": "Affiliated FM Insurance v. LTK Consulting Services, Inc.",
     "number": "82738-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091020",
     "facts": "After a fire causing significant damage broke out on the Seattle Monorail the monorail's operating company, Seattle Monorail Services, was reimbursed for the damage by its insurer, petitioner Affiliated F.M. Insurance Company. Affiliated F.M. Insurance Company subsequently filed suit against respondent L.T.K. Consulting Services, Inc., which was responsible for the monorail's maintenance and repair, in the Superior Court for King County, asserting that L.T.K. Consulting Services' negligent maintenance of the monorail system had caused the fire. L.T. K. Consulting Services removed the case to the United States District Court for the Western District of Washington and moved for summary judgment, claiming that under Washington law it was not liable in tort insofar as Seattle Monorail Services' losses were purely economic. The district court granted summary judgment for L.T.K. Consulting Services. Upon appeal, the United States Court of Appeal for the Ninth Circuit certified to the Supreme Court of Washington the question of whether the economic loss rule barred a suit in tort.",
@@ -2831,6 +2873,7 @@
     "argument_day": "Tuesday, October 20, 2009",
     "decision": "2010-11-04",
     "decision_day": "Thursday, November 4, 2010",
+    "citation": "170 Wn.2d 442 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -2900,6 +2943,7 @@
     "argument_day": "Thursday, October 22, 2009",
     "decision": "2010-01-21",
     "decision_day": "Thursday, January 21, 2010",
+    "citation": "168 Wn.2d 57 (2010)",
     "bench": "madsen1",
     "score": "9-0",
     "votes": [
@@ -2966,6 +3010,7 @@
     "argument_day": "Thursday, October 22, 2009",
     "decision": "2010-02-04",
     "decision_day": "Thursday, February 4, 2010",
+    "citation": "168 Wn.2d 193 (2010)",
     "bench": "madsen1",
     "score": "9-0",
     "votes": [
@@ -3032,6 +3077,7 @@
     "argument_day": "Thursday, October 22, 2009",
     "decision": "2010-04-01",
     "decision_day": "Thursday, April 1, 2010",
+    "citation": "168 Wn.2d 540 (2010)",
     "bench": "madsen1",
     "score": "8-1",
     "votes": [
@@ -3100,6 +3146,7 @@
     "argument_day": "Tuesday, October 27, 2009",
     "decision": "2010-01-21",
     "decision_day": "Thursday, January 21, 2010",
+    "citation": "168 Wn.2d 41 (2010)",
     "score": "9-0",
     "votes": [
       {
@@ -3165,6 +3212,7 @@
     "argument_day": "Tuesday, October 27, 2009",
     "decision": "2010-08-26",
     "decision_day": "Thursday, August 26, 2010",
+    "citation": "169 Wn.2d 537 (2010)",
     "score": "7-2",
     "votes": [
       {
@@ -3232,6 +3280,7 @@
     "argument_day": "Thursday, October 29, 2009",
     "decision": "2010-03-04",
     "decision_day": "Thursday, March 4, 2010",
+    "citation": "168 Wn.2d 350 (2010)",
     "bench": "madsen1",
     "score": "9-0",
     "votes": [
@@ -3298,6 +3347,7 @@
     "argument_day": "Thursday, October 29, 2009",
     "decision": "2010-03-11",
     "decision_day": "Thursday, March 11, 2010",
+    "citation": "168 Wn.2d 367 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -3355,7 +3405,7 @@
   },
   {
     "id": "2010-052",
-    "title": "Lake v. Woodcreek Homeowners Association",
+    "title": "Lake v. Woodcreek Homeowners Ass'n",
     "number": "81873-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091029",
     "facts": "Respondent Sandra Lake filed suit against petitioner Woodcreek Homeowners Association, which managed the condominium development Lake resided in, in the Superior Court for King County after Woodcreek Homeowners Association approved her neighbor’s request to construct an addition to his condominium that reduced the size of a common area without obtaining the unanimous consent of all condominium owners in the development. Lake asserted that this violated the Horizontal Property Regimes Act (Washington Revised Code §64.32), which requires that any amendment altering the undivided interest in common areas and facilities held by all owners obtain unanimous consent. The trial court granted Woodcreek Homeowners Association’s motion for summary judgment and dismissed the case, concluding that §64.32 permits the division of a common area and its combination with a condominium so long as majority support is obtained among owners. Upon appeal, the Washington Court of Appeals reversed the trial court’s decision, holding that §64.32 only permits combining condominiums with other condominiums or combining common areas with other common areas. Woodcreek Homeowners Association appealed this decision to the Supreme Court of Washington.",
@@ -3365,6 +3415,7 @@
     "argument_day": "Thursday, October 29, 2009",
     "decision": "2010-04-15",
     "decision_day": "Thursday, April 15, 2010",
+    "citation": "169 Wn.2d 516 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -3432,6 +3483,7 @@
     "argument_day": "Thursday, October 29, 2009",
     "decision": "2010-01-21",
     "decision_day": "Thursday, January 21, 2010",
+    "citation": "168 Wn.2d 72 (2010)",
     "bench": "madsen1",
     "score": "9-0",
     "votes": [
@@ -3498,6 +3550,7 @@
     "argument_day": "Tuesday, November 10, 2009",
     "decision": "2010-01-07",
     "decision_day": "Thursday, January 7, 2010",
+    "citation": "167 Wn.2d 867 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -3565,6 +3618,7 @@
     "argument_day": "Tuesday, November 10, 2009",
     "decision": "2010-03-25",
     "decision_day": "Thursday, March 25, 2010",
+    "citation": "168 Wn.2d 515 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -3622,7 +3676,7 @@
   },
   {
     "id": "2010-056",
-    "title": "McCurry v. Chevy Chase Bank, F.S.B.",
+    "title": "McCurry v. Chevy Chase Bank, FSB",
     "number": "81896-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091110",
     "facts": "Petitioner Anne McCurry filed suit against respondent Chevy Chase Bank, F.S.B. in the Superior Court for King County after Chevy Chase Bank, in violation of the terms of the deed of trust, charged McCurry fax and notary fees for reconveyance of the deed, asserting that Chevy Chase Bank had unjustly enriched itself by deceptively leading McCurry to believe that the fees were necessary to secure reconveyance and thereby violated Washington’s Consumer Protection Act (Washingon Revised Code §19.86.020(2)). The trial court subsequently granted Chevy Chase Bank’s motion for summary judgment, ruling that McCurry had failed to state a claim on which relief could be granted insofar as federal regulations (12 C.F.R. §560.2) preempt state laws purporting to impose requirements regarding loan-related fees. Upon appeal, the Washington Court of Appeals affirmed the trial court’s decision. McCurry appealed this decision to the Supreme Court of Washington.",
@@ -3632,6 +3686,7 @@
     "argument_day": "Tuesday, November 10, 2009",
     "decision": "2010-06-24",
     "decision_day": "Thursday, June 24, 2010",
+    "citation": "169 Wn.2d 96 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "6-3",
@@ -3700,6 +3755,7 @@
     "argument_day": "Tuesday, November 10, 2009",
     "decision": "2010-10-28",
     "decision_day": "Thursday, October 28, 2010",
+    "citation": "170 Wn.2d 273 (2010)",
     "bench": "madsen1",
     "score": "5-4",
     "votes": [
@@ -3757,7 +3813,7 @@
   },
   {
     "id": "2010-058",
-    "title": "Tobin v. Department of Labor and Industries",
+    "title": "Tobin v. Department of Labor & Industries",
     "number": "81946-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091116",
     "facts": "Following a workplace injury that left him permanently disabled, respondent Jim Tobin was awarded workers’ compensation by the petitioner Department of Labor and Industries as well as collected a settlement that included damages for pain and suffering from a responsible third party tortfeasor as authorized by Washington Revised Code §51.24. The Department of Labor and Industries subsequently moved to reduce the amount of workers’ compensation awarded to Tobin by the full amount of the settlement. Tobin petitioned the Superior Court for Pierce County to reverse the Department of Labor and Industries’ decision. The trial court ruled that the Department of Labor and Industries could not include damages awarded to Tobin in the settlement for pain and suffering in its calculations adjusting the amount of workers’ compensation awarded to Tobin as the Department of Labor and Industries had not compensated Tobin for pain and suffering in its initial award. The Washington Court of Appeals affirmed the trial court’s decision. The Department of Labor and Industries appealed this decision to the Supreme Court of Washington.",
@@ -3767,6 +3823,7 @@
     "argument_day": "Monday, November 16, 2009",
     "decision": "2010-08-12",
     "decision_day": "Thursday, August 12, 2010",
+    "citation": "169 Wn.2d 396 (2010)",
     "bench": "madsen1",
     "score": "7-2",
     "votes": [
@@ -3834,6 +3891,7 @@
     "argument_day": "Monday, November 16, 2009",
     "decision": "2010-07-29",
     "decision_day": "Thursday, July 29, 2010",
+    "citation": "169 Wn.2d 274 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "7-2",
@@ -3903,6 +3961,7 @@
     "argument_day": "Monday, November 16, 2009",
     "decision": "2010-04-15",
     "decision_day": "Thursday, April 15, 2010",
+    "citation": "168 Wn.2d 664 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "7-2",
@@ -3971,6 +4030,7 @@
     "argument_day": "Tuesday, November 17, 2009",
     "decision": "2010-03-18",
     "decision_day": "Thursday, March 18, 2010",
+    "citation": "168 Wn.2d 421 (2010)",
     "bench": "madsen1",
     "score": "9-0",
     "votes": [
@@ -4027,7 +4087,7 @@
   },
   {
     "id": "2010-062",
-    "title": "G-P Gypsum Corporation v. Department of Revenue",
+    "title": "G-P Gypsum Corp. v. Department of Revenue",
     "number": "81995-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091117",
     "facts": "Respondent G-P Gypsum Corporation filed suit against the petitioner Department of Revenue in the Superior Court for Thurston County seeking a refund of use taxes that had been levied against it by the city of Tacoma pursuant to Washington Revised Code §82.14.230 (which permits municipalities to impose use taxes upon the use of natural gas) as a result of its use of natural gas in the process of manufacturing wallboard at its plant in Tacoma. G-P Gypsum claimed that it was exempt from the tax due to the fact that it acquired possession of the natural gas it used outside of the city of Tacoma and its activities therefore fell outside of the definition of “use” under Washington Revised Code §82.12.010(2) that is incorporated by §82.14.230. The trial court dismissed G-P Gypsum’s claim, ruling that §82.12.010(2), which defines use as the initial assumption of dominion or control, did not govern the interpretation of §82.14.230. Upon appeal, the Washington Court of Appeals reversed, holding that §82.14.230 incorporates §82.12.010(2) and that the plain meaning of §82.12.010(2) exempted G-P Gypsum from Tacoma’s natural gas use tax. The Department of Revenue appealed this decision to the Supreme Court of Washington.",
@@ -4037,6 +4097,7 @@
     "argument_day": "Tuesday, November 17, 2009",
     "decision": "2010-07-29",
     "decision_day": "Thursday, July 29, 2010",
+    "citation": "169 Wn.2d 304 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "5-4",
@@ -4095,7 +4156,7 @@
   },
   {
     "id": "2010-063",
-    "title": "Sound Infiniti, Inc. ex. rel. Pisheyar v. Snyder",
+    "title": "Sound Infiniti, Inc. ex rel. Pisheyar v. Snyder",
     "number": "81923-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20091117",
     "facts": "Following a reverse stock split orchestrated by his business partners that left him with a fractional share of stock in the corporation he had established with them and the exchange of the fractional share for a cash payout, petitioner Afshin Pisheyar filed suit in the Superior Court for King County against his former partners, bringing both an individual claim alleging that they had breached their fiduciary duty to him as well as derivative claims on behalf of the corporation alleging that they had, among other things, improperly borrowed money from the corporation and improperly reported fringe benefit expenses. The trial court dismissed Pisheyar’s derivative claims on grounds that, as he was no longer a stockholder, he lacked standing and dismissed Pisheyar’s individual claim on grounds that Washington Revised Code §23B.13.020 establishes an appraisal proceeding as the exclusive remedy for dissenting former minority shareholders that have been divested of their shares through a reverse stock split. The Washington Court of Appeals affirmed the trial court’s decision. Pisheyar appealed this decision to the Supreme Court of Washington.",
@@ -4105,6 +4166,7 @@
     "argument_day": "Tuesday, November 17, 2009",
     "decision": "2010-07-22",
     "decision_day": "Thursday, July 22, 2010",
+    "citation": "169 Wn.2d 199 (2010)",
     "bench": "madsen1",
     "score": "5-4",
     "votes": [
@@ -4172,6 +4234,7 @@
     "argument_day": "Tuesday, January 12, 2010",
     "decision": "2010-08-19",
     "decision_day": "Thursday, August 19, 2010",
+    "citation": "169 Wn.2d 491 (2010)",
     "bench": "madsen1",
     "score": "5-4",
     "votes": [
@@ -4239,6 +4302,7 @@
     "argument_day": "Tuesday, January 12, 2010",
     "decision": "2010-07-01",
     "decision_day": "Thursday, July 1, 2010",
+    "citation": "169 Wn.2d 169 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -4307,6 +4371,7 @@
     "argument_day": "Tuesday, January 12, 2010",
     "decision": "2010-10-28",
     "decision_day": "Thursday, October 28, 2010",
+    "citation": "170 Wn.2d 247 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -4374,6 +4439,7 @@
     "argument_day": "Thursday, January 14, 2010",
     "decision": "2010-06-24",
     "decision_day": "Thursday, June 24, 2010",
+    "citation": "169 Wn.2d 118 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "8-1",
@@ -4442,6 +4508,7 @@
     "argument_day": "Thursday, January 14, 2010",
     "decision": "2010-08-05",
     "decision_day": "Thursday, August 5, 2010",
+    "citation": "169 Wn.2d 340 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "5-4",
@@ -4507,6 +4574,7 @@
     "argument_day": "Thursday, January 14, 2010",
     "decision": "2010-07-22",
     "decision_day": "Thursday, July 22, 2010",
+    "citation": "169 Wn.2d 254 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -4574,6 +4642,7 @@
     "argument_day": "Tuesday, January 19, 2010",
     "decision": "2010-09-02",
     "decision_day": "Thursday, September 2, 2010",
+    "citation": "169 Wn.2d 664 (2010)",
     "bench": "madsen1",
     "score": "6-3",
     "votes": [
@@ -4631,7 +4700,7 @@
   },
   {
     "id": "2010-071",
-    "title": "Skinner v. Civil Service Commission of the City of Medina",
+    "title": "Skinner v. Civil Service Commission",
     "number": "82306-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100119",
     "facts": "Respondent Roger Skinner was dismissed from his position as a police officer with the Medina Police Department after allegedly making derogatory comments regarding the city’s chief of police. Skinner’s dismissal was subsequently affirmed twice by the city’s Civil Service Commission after Skinner filed an appeal and a motion to reconsider. Following the commission’s denial of Skinner’s motion to reconsider, Skinner filed suit against the commission in the Superior Court for King County, claiming that he had been wrongfully discharged, and attempted to serve process upon the commission at Medina City Hall, which was listed as the commission’s official address despite the fact that it has no office space in the building and commission personnel are not regularly present in it. The civil service commission subsequently filed a motion for summary judgment that was granted by the court, which ruled that Skinner’s action was untimely and that he had not properly served process upon the commission. Skinner appealed the court’s granting of summary judgment to the Washington Court of Appeals, which reversed. The civil service commission appealed this decision to the Supreme Court of Washington.",
@@ -4641,6 +4710,7 @@
     "argument_day": "Tuesday, January 19, 2010",
     "decision": "2010-05-13",
     "decision_day": "Thursday, May 13, 2010",
+    "citation": "168 Wn.2d 845 (2010)",
     "bench": "madsen1",
     "score": "9-0",
     "votes": [
@@ -4707,6 +4777,7 @@
     "argument_day": "Tuesday, January 19, 2010",
     "decision": "2010-08-05",
     "decision_day": "Thursday, August 5, 2010",
+    "citation": "169 Wn.2d 381 (2010)",
     "bench": "madsen1",
     "score": "9-0",
     "votes": [
@@ -4776,6 +4847,7 @@
     "argument_day": "Thursday, January 21, 2010",
     "decision": "2010-08-19",
     "decision_day": "Thursday, August 19, 2010",
+    "citation": "169 Wn.2d 448 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -4833,7 +4905,7 @@
   },
   {
     "id": "2010-074",
-    "title": "Segaline v. Department of Labor and Industries",
+    "title": "Segaline v. Department of Labor & Industries",
     "number": "81931-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100121",
     "facts": "Petitioner Michael Segaline filed suit against the respondent Department of Labor and Industries in the Superior Court for Thurston County after the Department of Labor and Industries barred Segaline from its East Wenatchee office and summoned the police when he appeared as a result of Segaline allegedly behaving in a course and threatening manner toward Department of Labor and Industries employees. Segaline alleged that the Department of Labor and Industries had negligently and intentionally inflicted emotional distress upon him, engaged in malicious prosecution, negligently supervised its employees, and violated his civil rights and subsequently amended his complaint to also name Department of Labor and Industries employee Alan Croft as a respondent. The trial court dismissed all of Segaline’s claims, ruling that Washington Revised Code §4.24.510, which immunizes persons communicating complaints and/or information to local, state, and federal agencies from civil liability, granted the Department of Labor and Industries immunity and that Segaline’s claim against Croft was untimely. The Washington Court of Appeals affirmed the trial court’s decision. Segaline appealed this decision to the Supreme Court of Washington.",
@@ -4843,6 +4915,7 @@
     "argument_day": "Thursday, January 21, 2010",
     "decision": "2010-08-19",
     "decision_day": "Thursday, August 19, 2010",
+    "citation": "169 Wn.2d 467 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "5-4",
@@ -4912,6 +4985,7 @@
     "argument_day": "Thursday, January 21, 2010",
     "decision": "2010-05-06",
     "decision_day": "Thursday, May 6, 2010",
+    "citation": "168 Wn.2d 763 (2010)",
     "bench": "madsen1",
     "score": "9-0",
     "votes": [
@@ -4978,6 +5052,7 @@
     "argument_day": "Tuesday, January 26, 2010",
     "decision": "2010-04-22",
     "decision_day": "Thursday, April 22, 2010",
+    "citation": "168 Wn.2d 726 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -5045,6 +5120,7 @@
     "argument_day": "Tuesday, January 26, 2010",
     "decision": "2010-03-25",
     "decision_day": "Thursday, March 25, 2010",
+    "citation": "168 Wn.2d 632 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -5112,6 +5188,7 @@
     "argument_day": "Tuesday, January 26, 2010",
     "decision": "2010-09-23",
     "decision_day": "Thursday, September 23, 2010",
+    "citation": "170 Wn.2d 22 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "6-3",
@@ -5180,6 +5257,7 @@
     "argument_day": "Tuesday, January 26, 2010",
     "decision": "2010-04-15",
     "decision_day": "Thursday, April 15, 2010",
+    "citation": "168 Wn.2d 713 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -5237,7 +5315,7 @@
   },
   {
     "id": "2010-080",
-    "title": "Broom v. Morgan Stanley D.W., Inc.",
+    "title": "Broom v. Morgan Stanley DW, Inc.",
     "number": "82311-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100128",
     "facts": "Petitioner Michael Broom filed a notice of claim against respondent Morgan Stanley D.W., Inc. which alleged that Morgan Stanley had breached its fiduciary and contractual duties, made numerous misrepresentations and omissions, and violated Washington’s Consumer Protection Act (Washington Revised Code §19.86) in managing his father’s investment account prior to his death. The dispute was submitted by the parties to arbitration by the National Association of Securities Dealers, which resulted in the arbitration panel dismissing all of Broom’s claims on grounds that the statute of limitations had expired. Broom subsequently petitioned the Superior Court for King County to vacate the arbitration panel’s decision, asserting that the decision had been based upon a facial legal error insofar as the state’s statute of limitations does not apply to arbitration. The trial court agreed and vacated the arbitration panel’s decision. Upon appeal, the Washington Court of Appeals affirmed the trial court’s decision. Morgan Stanley appealed this decision to the Supreme Court of Washington.",
@@ -5247,6 +5325,7 @@
     "argument_day": "Thursday, January 28, 2010",
     "decision": "2010-07-22",
     "decision_day": "Thursday, July 22, 2010",
+    "citation": "169 Wn.2d 231 (2010)",
     "bench": "madsen1",
     "score": "5-4",
     "votes": [
@@ -5314,6 +5393,7 @@
     "argument_day": "Thursday, January 28, 2010",
     "decision": "2010-09-30",
     "decision_day": "Thursday, September 30, 2010",
+    "citation": "170 Wn.2d 103 (2010)",
     "bench": "madsen1",
     "score": "8-1",
     "votes": [
@@ -5382,6 +5462,7 @@
     "argument_day": "Thursday, January 28, 2010",
     "decision": "2010-07-01",
     "decision_day": "Thursday, July 1, 2010",
+    "citation": "169 Wn.2d 185 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -5449,6 +5530,7 @@
     "argument_day": "Tuesday, February 23, 2010",
     "decision": "2010-08-26",
     "decision_day": "Thursday, August 26, 2010",
+    "citation": "169 Wn.2d 571 (2010)",
     "score": "8-1",
     "votes": [
       {
@@ -5511,6 +5593,7 @@
     "argument_day": "Tuesday, February 23, 2010",
     "decision": "2010-09-23",
     "decision_day": "Thursday, September 23, 2010",
+    "citation": "170 Wn.2d 1 (2010)",
     "bench": "madsen1",
     "score": "5-4",
     "votes": [
@@ -5578,6 +5661,7 @@
     "argument_day": "Tuesday, February 23, 2010",
     "decision": "2010-08-19",
     "decision_day": "Thursday, August 19, 2010",
+    "citation": "169 Wn.2d 487 (2010)",
     "result": "petitioning party received a favorable disposition",
     "score": "9-0",
     "votes": [
@@ -5644,6 +5728,7 @@
     "argument_day": "Thursday, February 25, 2010",
     "decision": "2010-08-12",
     "decision_day": "Thursday, August 12, 2010",
+    "citation": "169 Wn.2d 422 (2010)",
     "bench": "madsen1",
     "score": "7-2",
     "votes": [
@@ -5713,6 +5798,7 @@
     "argument_day": "Thursday, February 25, 2010",
     "decision": "2010-05-06",
     "decision_day": "Thursday, May 6, 2010",
+    "citation": "168 Wn.2d 754 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -5768,6 +5854,7 @@
     "argument_day": "Thursday, February 25, 2010",
     "decision": "2010-07-22",
     "decision_day": "Thursday, July 22, 2010",
+    "citation": "169 Wn.2d 220 (2010)",
     "bench": "madsen1",
     "score": "9-0",
     "votes": [
@@ -5836,6 +5923,7 @@
     "argument_day": "Thursday, February 25, 2010",
     "decision": "2010-07-01",
     "decision_day": "Thursday, July 1, 2010",
+    "citation": "169 Wn.2d 152 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "6-3",
@@ -5959,6 +6047,7 @@
     "argument_day": "Tuesday, March 9, 2010",
     "decision": "2010-06-10",
     "decision_day": "Thursday, June 10, 2010",
+    "citation": "168 Wn.2d 936 (2010)",
     "events": [
       {
         "source": "tvw",
@@ -5984,6 +6073,7 @@
     "argument_day": "Tuesday, March 9, 2010",
     "decision": "2010-10-07",
     "decision_day": "Thursday, October 7, 2010",
+    "citation": "170 Wn.2d 117 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "8-1",
@@ -6052,6 +6142,7 @@
     "argument_day": "Tuesday, March 16, 2010",
     "decision": "2010-05-06",
     "decision_day": "Thursday, May 6, 2010",
+    "citation": "168 Wn.2d 775 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -6109,7 +6200,7 @@
   },
   {
     "id": "2010-094",
-    "title": "Little Mountain Estates Tenants Association v. Little Mountain Estates Mobile Home Community, L.L.C.",
+    "title": "Little Mountain Estates Tenants Ass'n v. Little Mountain Estates MHC, LLC",
     "number": "82574-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100316",
     "facts": "Respondent Little Mountain Estates Tenants Association filed suit against petitioner Little Mountain Estates Mobile Home Community, L.L.C. in the Superior Court for Skagit County on behalf of tenants who had assigned their leases, claiming that lease provisions converting leases’ original twenty-five year terms into one or two year terms upon assignment violated the Manufactured/Mobile Home Landlord Tenant Act (Washington Revised Code §59.20), which protects mobile home tenants’ right to assign their leases. The trial court dismissed the suit, ruling that the lease terms did not violate §59.20. The Washington Court of Appeals reversed the trial court’s decision, concluding that the lease provisions constituted an unenforceable waiver of the right to assign a mobile home lease. Little Mountain Estates appealed this decision to the Supreme Court of Washington.",
@@ -6119,6 +6210,7 @@
     "argument_day": "Tuesday, March 16, 2010",
     "decision": "2010-07-22",
     "decision_day": "Thursday, July 22, 2010",
+    "citation": "169 Wn.2d 265 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "5-4",
@@ -6187,6 +6279,7 @@
     "argument_day": "Tuesday, March 16, 2010",
     "decision": "2010-11-10",
     "decision_day": "Wednesday, November 10, 2010",
+    "citation": "170 Wn.2d 476 (2010)",
     "bench": "madsen1",
     "score": "9-0",
     "votes": [
@@ -6255,6 +6348,7 @@
     "argument_day": "Tuesday, March 16, 2010",
     "decision": "2010-10-07",
     "decision_day": "Thursday, October 7, 2010",
+    "citation": "170 Wn.2d 138 (2010)",
     "bench": "madsen1",
     "score": "5-4",
     "votes": [
@@ -6322,6 +6416,7 @@
     "argument_day": "Thursday, March 18, 2010",
     "decision": "2010-07-29",
     "decision_day": "Thursday, July 29, 2010",
+    "citation": "169 Wn.2d 318 (2010)",
     "score": "9-0",
     "votes": [
       {
@@ -6382,6 +6477,7 @@
     "argument_day": "Thursday, March 18, 2010",
     "decision": "2010-05-27",
     "decision_day": "Thursday, May 27, 2010",
+    "citation": "168 Wn.2d 881 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -6445,7 +6541,8 @@
     "argument": "2010-03-18",
     "argument_day": "Thursday, March 18, 2010",
     "decision": "2010-06-10",
-    "decision_day": "Thursday, June 10, 2010"
+    "decision_day": "Thursday, June 10, 2010",
+    "citation": "168 Wn.2d 888 (2010)"
   },
   {
     "id": "2010-100",
@@ -6459,6 +6556,7 @@
     "argument_day": "Wednesday, March 31, 2010",
     "decision": "2010-09-16",
     "decision_day": "Thursday, September 16, 2010",
+    "citation": "169 Wn.2d 827 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -6579,6 +6677,7 @@
     "argument_day": "Thursday, May 6, 2010",
     "decision": "2010-09-23",
     "decision_day": "Thursday, September 23, 2010",
+    "citation": "170 Wn.2d 57 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "6-3",
@@ -6648,6 +6747,7 @@
     "argument_day": "Thursday, May 6, 2010",
     "decision": "2010-09-09",
     "decision_day": "Thursday, September 9, 2010",
+    "citation": "169 Wn.2d 796 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "6-3",
@@ -6712,7 +6812,8 @@
     "argument": "2010-05-06",
     "argument_day": "Thursday, May 6, 2010",
     "decision": "2010-09-09",
-    "decision_day": "Thursday, September 9, 2010"
+    "decision_day": "Thursday, September 9, 2010",
+    "citation": "169 Wn.2d 697 (2010)"
   },
   {
     "id": "2010-105",
@@ -6724,6 +6825,7 @@
     "argument_day": "Tuesday, May 11, 2010",
     "decision": "2010-09-09",
     "decision_day": "Thursday, September 9, 2010",
+    "citation": "169 Wn.2d 782 (2010)",
     "events": [
       {
         "source": "tvw",
@@ -6739,7 +6841,7 @@
   },
   {
     "id": "2010-106",
-    "title": "Ameriquest Mortgage Company v. Office of the Attorney General",
+    "title": "Ameriquest Mortgage Co. v. Office of the Attorney General",
     "number": "82690-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100511",
     "facts": "After the petitioner Office of the Attorney General initiated an investigation of respondent Ameriquest Mortgage Company's lending practices for alleged violations of Washington's Consumer Protection Act (Washington Revised Code §19.86), a member of the public filed a request for records collected during the investigation pursuant to the Public Records Act (Washington Revised Code §42.56). Ameriquest Mortgage Company subsequently petitioned the Superior Court for Thurston County for an injunction barring the attorney general from releasing the records, asserting that some of the records contained confidential customer information and that their release would violate the federal Gramm-Leach-Bliley Act (15 U.S.C. §§6801-6809). The trial court declined to issue an injunction but directed the attorney general to redact any personal identifiers from the records. Upon appeal, the Washington Court of Appeals reversed and remanded the case to the trial court, ruling that the Gramm-Leach-Bliley Act preempts the Public Records Act and prohibits any disclosure if compliance with the Public Records Act is inconsistent with the Gramm-Leach-Bliley Act. The attorney general appealed this decision to the Supreme Court of Washington.",
@@ -6749,6 +6851,7 @@
     "argument_day": "Tuesday, May 11, 2010",
     "decision": "2010-11-04",
     "decision_day": "Thursday, November 4, 2010",
+    "citation": "170 Wn.2d 418 (2010)",
     "bench": "madsen1",
     "score": "9-0",
     "votes": [
@@ -6815,6 +6918,7 @@
     "argument_day": "Tuesday, May 11, 2010",
     "decision": "2010-11-18",
     "decision_day": "Thursday, November 18, 2010",
+    "citation": "170 Wn.2d 536 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "5-4",
@@ -6883,6 +6987,7 @@
     "argument_day": "Thursday, May 13, 2010",
     "decision": "2010-11-18",
     "decision_day": "Thursday, November 18, 2010",
+    "citation": "170 Wn.2d 517 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -6941,7 +7046,7 @@
   },
   {
     "id": "2010-109",
-    "title": "Sunnyside v. Contreras",
+    "title": "Guillen v. Contreras",
     "number": "82531-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100513",
     "facts": "Petitioner Lorena Contreras filed suit against the respondent city of Sunnyside in the Superior Court for Yakima County seeking the return of assets that had been seized by the city from her deceased son as assets used in drug dealing pursuant to Washington Revised Code §69.50.505. The trial court entered a mixed judgment, finding that the automobile and a portion of the money that had been seized were not subject to forfeiture but that the preponderance of the money had been properly seized by the city of Sunnyside. As this represented three quarters of the value of the property that had initially been seized, the trial court ruled that Contreras had not substantially prevailed for purposes of §69.50.505(6) and therefore was not entitled to reimbursement of her attorney’s fees. Upon appeal, the Washington Court of Appeals affirmed the trial court’s decision. Contreras appealed this decision to the Supreme Court of Washington.",
@@ -6951,6 +7056,7 @@
     "argument_day": "Thursday, May 13, 2010",
     "decision": "2010-09-09",
     "decision_day": "Thursday, September 9, 2010",
+    "citation": "169 Wn.2d 769 (2010)",
     "bench": "madsen1",
     "score": "8-1",
     "votes": [
@@ -7018,6 +7124,7 @@
     "argument_day": "Tuesday, May 18, 2010",
     "decision": "2010-11-18",
     "decision_day": "Thursday, November 18, 2010",
+    "citation": "170 Wn.2d 556 (2010)",
     "bench": "madsen1",
     "score": "8-1",
     "votes": [
@@ -7075,7 +7182,7 @@
   },
   {
     "id": "2010-111",
-    "title": "Overlake Hospital Association v. Department of Health",
+    "title": "Overlake Hospital Ass'n v. Department of Health",
     "number": "82728-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100520",
     "facts": "After Swedish Health Services was issued a certificate of need by the petitioner Department of Health permitting it to open an ambulatory surgical facility in eastern King County, respondent Overlake Hospital Association filed suit against the Department of Health in the Superior Court for King County, asserting that the formula that the Department of Health had relied upon in estimating the need for an additional ambulatory surgical facility had been erroneous. The trial court affirmed the Department of Health's decision, ruling that excluding existing facilities exempt from the statutory definition of an ambulatory surgical facility (those that do not extend the privilege of using the facility to physicians outside the individual or group practice) in calculating existing capacity but including surgeries performed in such facilities in calculating future need was a reasonable interpretation of the legislative mandate of Washington Revised Code §70.38.015(2), which delegates control of the number and types of healthcare services provided in a given planning area to the Department of Health. The Washington Court of Appeals reversed the trial court's decision, holding that the formula relied upon to calculate the need for an additional facility had been arbitrary and capricious and inconsistent with §70.38.015(2). The Department of Health appealed this decision to the Supreme Court of Washington.",
@@ -7085,6 +7192,7 @@
     "argument_day": "Thursday, May 20, 2010",
     "decision": "2010-09-23",
     "decision_day": "Thursday, September 23, 2010",
+    "citation": "170 Wn.2d 43 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -7152,6 +7260,7 @@
     "argument_day": "Thursday, May 20, 2010",
     "decision": "2010-10-28",
     "decision_day": "Thursday, October 28, 2010",
+    "citation": "170 Wn.2d 322 (2010)",
     "bench": "madsen1",
     "score": "9-0",
     "votes": [
@@ -7220,6 +7329,7 @@
     "reargument_day": "Thursday, May 20, 2010",
     "decision": "2010-09-09",
     "decision_day": "Thursday, September 9, 2010",
+    "citation": "169 Wn.2d 723 (2010)",
     "score": "6-3",
     "votes": [
       {
@@ -7284,6 +7394,7 @@
     "argument_day": "Thursday, May 27, 2010",
     "decision": "2010-09-23",
     "decision_day": "Thursday, September 23, 2010",
+    "citation": "170 Wn.2d 70 (2010)",
     "bench": "madsen1",
     "score": "9-0",
     "votes": [
@@ -7350,6 +7461,7 @@
     "argument_day": "Thursday, May 27, 2010",
     "decision": "2010-10-28",
     "decision_day": "Thursday, October 28, 2010",
+    "citation": "170 Wn.2d 302 (2010)",
     "bench": "madsen1",
     "score": "9-0",
     "votes": [
@@ -7408,7 +7520,7 @@
   },
   {
     "id": "2010-116",
-    "title": "Internet Community and Entertainment Corporation v. Washington State Gambling Commission",
+    "title": "Internet Community & Entertainment Corp. v. Washington State Gambling Commission",
     "number": "82845-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100527",
     "facts": "Respondent Internet Community and Entertainment Corporation was ordered to cease operation of its website Betcha.com by the petitioner Washington State Gambling Commission, which asserted that Betcha.com was a professional gambling operation and therefore in violation of Washington Revised Code §9.46. Betcha.com subsequently petitioned the Superior Court for Thurston County for a declaratory judgment that its operations do not violate §9.46. The trial court granted summary judgment in favor of the Washington State Gambling Commission, ruling that Betcha.com’s activities do constitute an illegal professional gambling operation. The Washington Court of Appeals reversed the trial court’s ruling, holding that Betcha.com’s users had not engaged in gambling as defined by §9.46 as losing bettors were offered the option of not honoring their bets (and thereby lowering their “honor” rating). The Washington State Gambling Commission appealed this decision to the Supreme Court of Washington.",
@@ -7418,6 +7530,7 @@
     "argument_day": "Thursday, May 27, 2010",
     "decision": "2010-09-02",
     "decision_day": "Thursday, September 2, 2010",
+    "citation": "169 Wn.2d 687 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -7485,6 +7598,7 @@
     "argument_day": "Tuesday, June 8, 2010",
     "decision": "2010-09-16",
     "decision_day": "Thursday, September 16, 2010",
+    "citation": "169 Wn.2d 872 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "6-3",
@@ -7553,6 +7667,7 @@
     "argument_day": "Thursday, June 10, 2010",
     "decision": "2010-10-14",
     "decision_day": "Thursday, October 14, 2010",
+    "citation": "170 Wn.2d 230 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -7620,6 +7735,7 @@
     "argument_day": "Tuesday, June 22, 2010",
     "decision": "2010-08-26",
     "decision_day": "Thursday, August 26, 2010",
+    "citation": "169 Wn.2d 586 (2010)",
     "bench": "madsen1",
     "score": "9-0",
     "votes": [
@@ -7686,6 +7802,7 @@
     "argument_day": "Tuesday, June 22, 2010",
     "decision": "2010-12-09",
     "decision_day": "Thursday, December 9, 2010",
+    "citation": "170 Wn.2d 599 (2010)",
     "bench": "madsen1",
     "score": "8-1",
     "votes": [
@@ -7755,6 +7872,7 @@
     "argument_day": "Tuesday, June 22, 2010",
     "decision": "2010-09-23",
     "decision_day": "Thursday, September 23, 2010",
+    "citation": "170 Wn.2d 92 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -7822,6 +7940,7 @@
     "argument_day": "Thursday, June 24, 2010",
     "decision": "2010-12-16",
     "decision_day": "Thursday, December 16, 2010",
+    "citation": "170 Wn.2d 659 (2010)",
     "bench": "madsen1",
     "score": "5-4",
     "votes": [
@@ -7880,7 +7999,7 @@
   },
   {
     "id": "2010-123",
-    "title": "Humphrey Industries, Ltd. v. Clay Street Associates, L.L.C.",
+    "title": "Humphrey Industries, Ltd. v. Clay Street Associates, LLC",
     "number": "82687-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100624",
     "facts": "Via its principal, George Humphrey, and his business partners, petitioner Humphrey Industries, Ltd. created respondent Clay Street Associates, L.L.C. to manage a property. Following a dispute between Humphrey and his partners regarding the sale of the property, the partners merged Clay Street Associates into a new limited liability company in order to proceed with the sale despite Humphrey's opposition. Humphrey dissented from the merger and subsequently demanded the fair market value of his interest in Clay Street Associates pursuant to Washington Revised Code §25.15. After receiving what his former partners deemed the fair market value of his interest, Humphrey filed suit against Clay Street Associates in the Superior Court for King County, asserting that Clay Street Associates had violated §25.15 by failing to tender payment within thirty days of the merger and that his interest was worth more at the time of the merger than the amount that his partners had paid him. The trial court ruled that Clay Street Associates had violated §25.15 by failing to pay Humphrey the fair market value of his interest within thirty days of the merger date and awarded Humphrey damages. However, the trial court also concluded that Clay Street Associates had substantially complied with §25.15 insofar as the delay in paying Humphrey was a result of its inability to pay Humphrey prior to receiving the proceeds from the sale of the property and therefore declined to award attorney's fees to Humphrey and instead awarded attorney's fees to Clay Street Associates on grounds that Humphrey had acted arbitrarily, vexatiously, and not in good faith in pursuing his claims. Upon appeal, the Washington Court of Appeals affirmed the trial court's ruling. Humphrey appealed this decision to the Supreme Court of Washington.",
@@ -7890,6 +8009,7 @@
     "argument_day": "Thursday, June 24, 2010",
     "decision": "2010-11-10",
     "decision_day": "Wednesday, November 10, 2010",
+    "citation": "170 Wn.2d 495 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "5-4",
@@ -7958,6 +8078,7 @@
     "argument_day": "Thursday, June 24, 2010",
     "decision": "2010-10-07",
     "decision_day": "Thursday, October 7, 2010",
+    "citation": "170 Wn.2d 176 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -8025,6 +8146,7 @@
     "argument_day": "Tuesday, June 29, 2010",
     "decision": "2010-10-07",
     "decision_day": "Thursday, October 7, 2010",
+    "citation": "170 Wn.2d 157 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -8092,6 +8214,7 @@
     "argument_day": "Tuesday, June 29, 2010",
     "decision": "2010-08-12",
     "decision_day": "Thursday, August 12, 2010",
+    "citation": "169 Wn.2d 437 (2010)",
     "bench": "madsen1",
     "score": "9-0",
     "votes": [
@@ -8158,6 +8281,7 @@
     "argument_day": "Tuesday, June 29, 2010",
     "decision": "2010-09-09",
     "decision_day": "Thursday, September 9, 2010",
+    "citation": "169 Wn.2d 815 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -8225,6 +8349,7 @@
     "argument_day": "Tuesday, June 29, 2010",
     "decision": "2010-10-07",
     "decision_day": "Thursday, October 7, 2010",
+    "citation": "170 Wn.2d 189 (2010)",
     "bench": "madsen1",
     "score": "8-1",
     "votes": [
@@ -8293,6 +8418,7 @@
     "argument_day": "Thursday, July 1, 2010",
     "decision": "2010-10-07",
     "decision_day": "Thursday, October 7, 2010",
+    "citation": "170 Wn.2d 169 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -8348,6 +8474,7 @@
     "argument_day": "Thursday, July 1, 2010",
     "decision": "2010-09-16",
     "decision_day": "Thursday, September 16, 2010",
+    "citation": "169 Wn.2d 884 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -8406,7 +8533,7 @@
   },
   {
     "id": "2010-131",
-    "title": "Seattle Times Company v. Serko",
+    "title": "Seattle Times Co. v. Serko",
     "number": "84691-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2010&file=20100914",
     "facts": "The petitioner Seattle Times Company requested public records related to the fatal shootings of four police officers from the Pierce County Sheriff's Office pursuant to the Public Records Act (Washington Revised Code §42.56). The alleged accomplices of the shooter subsequently petitioned the Superior Court for Pierce County to enjoin the release of the documents, asserting that the records were not subject to disclosure under §42.56 as their release would impair their right to a fair trial. Respondent Judge Susan Serko's decision for the court agreed, ruling that the alleged accomplices' right to a fair trial would be impaired by the records' release. In response, the Seattle Times Company petitioned the Supreme Court of Washington for a writ of mandamus compelling Serko to order the requesed records' release.",
@@ -8416,6 +8543,7 @@
     "argument_day": "Tuesday, September 14, 2010",
     "decision": "2010-11-18",
     "decision_day": "Thursday, November 18, 2010",
+    "citation": "170 Wn.2d 581 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -8483,6 +8611,7 @@
     "argument_day": "Tuesday, September 21, 2010",
     "decision": "2010-12-30",
     "decision_day": "Thursday, December 30, 2010",
+    "citation": "170 Wn.2d 691 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -8550,6 +8679,7 @@
     "argument_day": "Tuesday, October 26, 2010",
     "decision": "2010-12-23",
     "decision_day": "Thursday, December 23, 2010",
+    "citation": "170 Wn.2d 682 (2010)",
     "result": "petitioning party received a favorable disposition",
     "bench": "madsen1",
     "score": "9-0",
@@ -8617,6 +8747,7 @@
     "argument_day": "Tuesday, November 16, 2010",
     "decision": "2010-12-30",
     "decision_day": "Thursday, December 30, 2010",
+    "citation": "170 Wn.2d 704 (2010)",
     "bench": "madsen1",
     "score": "9-0",
     "votes": [
@@ -8676,69 +8807,79 @@
     "title": "Merriman v. Cokeley",
     "number": "83700-7",
     "decision": "2010-04-08",
-    "decision_day": "Thursday, April 8, 2010"
+    "decision_day": "Thursday, April 8, 2010",
+    "citation": "168 Wn.2d 627 (2010)"
   },
   {
     "id": "2010-136",
     "title": "State v. Lucero",
     "number": "83777-5",
     "decision": "2010-05-06",
-    "decision_day": "Thursday, May 6, 2010"
+    "decision_day": "Thursday, May 6, 2010",
+    "citation": "168 Wn.2d 785 (2010)"
   },
   {
     "id": "2010-137",
     "title": "State v. Brown",
     "number": "84083-1",
     "decision": "2010-07-15",
-    "decision_day": "Thursday, July 15, 2010"
+    "decision_day": "Thursday, July 15, 2010",
+    "citation": "169 Wn.2d 195 (2010)"
   },
   {
     "id": "2010-138",
     "title": "State v. Willingham",
     "number": "84036-9",
     "decision": "2010-07-15",
-    "decision_day": "Thursday, July 15, 2010"
+    "decision_day": "Thursday, July 15, 2010",
+    "citation": "169 Wn.2d 192 (2010)"
   },
   {
     "id": "2010-139",
     "title": "State v. Werner",
     "number": "84388-1",
     "decision": "2010-10-28",
-    "decision_day": "Thursday, October 28, 2010"
+    "decision_day": "Thursday, October 28, 2010",
+    "citation": "170 Wn.2d 333 (2010)"
   },
   {
     "id": "2010-140",
-    "title": "In re Custody of S.C.D.-L.",
+    "title": "Littell v. Littell",
     "number": "84186-1",
     "decision": "2010-11-10",
-    "decision_day": "Wednesday, November 10, 2010"
+    "decision_day": "Wednesday, November 10, 2010",
+    "citation": "170 Wn.2d 513 (2010)"
   },
   {
     "id": "2010-141",
     "title": "Advocates for Responsible Dev. v. W. Wash. Growth Mgmt. Hearings Bd.",
     "number": "84501-8",
     "decision": "2010-11-18",
-    "decision_day": "Thursday, November 18, 2010"
+    "decision_day": "Thursday, November 18, 2010",
+    "citation": "170 Wn.2d 577 (2010)"
   },
   {
     "id": "2010-142",
     "title": "West v. Reed",
     "number": "83612-4",
     "decision": "2010-12-09",
-    "decision_day": "Thursday, December 9, 2010"
+    "decision_day": "Thursday, December 9, 2010",
+    "citation": "170 Wn.2d 680 (2010)"
   },
   {
     "id": "2010-143",
     "title": "State v. Gudgel",
     "number": "83821-6",
     "decision": "2010-12-09",
-    "decision_day": "Thursday, December 9, 2010"
+    "decision_day": "Thursday, December 9, 2010",
+    "citation": "170 Wn.2d 656 (2010)"
   },
   {
     "id": "2010-144",
-    "title": "In re Pers. Restraint Petition of Gentry",
+    "title": "In re Personal Restraint of Gentry",
     "number": "84039-3",
     "decision": "2010-12-30",
-    "decision_day": "Thursday, December 30, 2010"
+    "decision_day": "Thursday, December 30, 2010",
+    "citation": "170 Wn.2d 711 (2010)"
   }
 ]

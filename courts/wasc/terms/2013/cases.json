@@ -1,7 +1,7 @@
 [
   {
     "id": "2013-001",
-    "title": "In re Personal Restraint of Cross v. State of Washington",
+    "title": "In re Personal Restraint of Cross",
     "number": "79761-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2009&file=20090625",
     "questions": "Can a defendant facing a death penalty plead \"no contest\"?",
@@ -9,6 +9,7 @@
     "argument_day": "Thursday, June 25, 2009",
     "decision": "2013-09-26",
     "decision_day": "Thursday, September 26, 2013",
+    "citation": "178 Wn.2d 519 (2013)",
     "decision_gov": "http://www.courts.wa.gov/opinions/pdf/797617.pdf",
     "events": [
       {
@@ -26,7 +27,7 @@
   },
   {
     "id": "2013-002",
-    "title": "Cedell v. Farmers Ins. Co. of Wash.",
+    "title": "Cedell v. Farmers Insurance",
     "number": "85366-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2011&file=20110922",
     "questions": "Whether an insurer who employed an attorney to help determine coverage may invoke the attorney-client privilege to defeat the insureds discovery request in a first party action for bad faith denial of coverage.",
@@ -34,6 +35,7 @@
     "argument_day": "Thursday, September 22, 2011",
     "decision": "2013-02-21",
     "decision_day": "Thursday, February 21, 2013",
+    "citation": "176 Wn.2d 686 (2013)",
     "events": [
       {
         "source": "tvw",
@@ -58,6 +60,7 @@
     "argument_day": "Tuesday, October 18, 2011",
     "decision": "2013-01-10",
     "decision_day": "Thursday, January 10, 2013",
+    "citation": "176 Wn.2d 303 (2013)",
     "events": [
       {
         "source": "tvw",
@@ -81,6 +84,7 @@
     "argument_day": "Tuesday, January 10, 2012",
     "decision": "2013-01-31",
     "decision_day": "Thursday, January 31, 2013",
+    "citation": "176 Wn.2d 502 (2013)",
     "events": [
       {
         "source": "tvw",
@@ -104,6 +108,7 @@
     "argument_day": "Thursday, January 12, 2012",
     "decision": "2013-11-14",
     "decision_day": "Thursday, November 14, 2013",
+    "citation": "179 Wn.2d 59 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/853673.pdf",
     "events": [
       {
@@ -128,6 +133,7 @@
     "argument_day": "Tuesday, February 14, 2012",
     "decision": "2013-07-18",
     "decision_day": "Thursday, July 18, 2013",
+    "citation": "177 Wn.2d 851 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/2009263.pdf",
     "events": [
       {
@@ -152,6 +158,7 @@
     "argument_day": "Thursday, February 16, 2012",
     "decision": "2013-01-31",
     "decision_day": "Thursday, January 31, 2013",
+    "citation": "176 Wn.2d 441 (2013)",
     "events": [
       {
         "source": "tvw",
@@ -177,6 +184,7 @@
     "argument_day": "Thursday, February 16, 2012",
     "decision": "2013-01-31",
     "decision_day": "Thursday, January 31, 2013",
+    "citation": "176 Wn.2d 460 (2013)",
     "events": [
       {
         "source": "tvw",
@@ -200,6 +208,7 @@
     "argument_day": "Tuesday, February 28, 2012",
     "decision": "2013-07-18",
     "decision_day": "Thursday, July 18, 2013",
+    "citation": "177 Wn.2d 872 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/2009603.pdf",
     "events": [
       {
@@ -216,7 +225,7 @@
   },
   {
     "id": "2013-010",
-    "title": "Tan & Vietnamese Cmty. of Thurston County v. Le",
+    "title": "Duc Tan v. Le",
     "number": "86021-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120301",
     "questions": "Whether statements accusing a Vietnamese immigrant and public figure of being a communist and an agent of the government of the Socialist Republic of Vietnam were defamatory assertions of purported fact, and if so, whether they were made with actual malice.",
@@ -224,6 +233,7 @@
     "argument_day": "Thursday, March 1, 2012",
     "decision": "2013-05-09",
     "decision_day": "Thursday, May 9, 2013",
+    "citation": "177 Wn.2d 649 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/860211.pdf",
     "events": [
       {
@@ -248,6 +258,7 @@
     "argument_day": "Thursday, March 1, 2012",
     "decision": "2013-05-09",
     "decision_day": "Thursday, May 9, 2013",
+    "citation": "177 Wn.2d 370 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/861455.pdf",
     "events": [
       {
@@ -272,6 +283,7 @@
     "argument_day": "Thursday, March 1, 2012",
     "decision": "2013-01-24",
     "decision_day": "Thursday, January 24, 2013",
+    "citation": "176 Wn.2d 611 (2013)",
     "events": [
       {
         "source": "tvw",
@@ -295,6 +307,7 @@
     "argument_day": "Thursday, March 15, 2012",
     "decision": "2013-03-21",
     "decision_day": "Thursday, March 21, 2013",
+    "citation": "177 Wn.2d 116 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/857881.pdf",
     "events": [
       {
@@ -319,6 +332,7 @@
     "argument_day": "Thursday, March 15, 2012",
     "decision": "2013-01-31",
     "decision_day": "Thursday, January 31, 2013",
+    "citation": "176 Wn.2d 427 (2013)",
     "events": [
       {
         "source": "tvw",
@@ -334,7 +348,7 @@
   },
   {
     "id": "2013-015",
-    "title": "In re Custody of A.F.J.",
+    "title": "Franklin v. Johnston",
     "number": "86188-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120315",
     "questions": "Whether a foster parent who is also the former intimate partner of the child’s biological mother may seek the status of a de facto parent.",
@@ -342,11 +356,12 @@
     "argument_day": "Thursday, March 15, 2012",
     "decision": "2013-11-27",
     "decision_day": "Wednesday, November 27, 2013",
+    "citation": "179 Wn.2d 179 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/861889.pdf"
   },
   {
     "id": "2013-016",
-    "title": "In re Custody of A.F.J.",
+    "title": "Franklin v. Johnston",
     "number": "86188-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120315",
     "questions": "The court must decide if service as a foster parent alone precludes a finding of de facto parentage.",
@@ -354,6 +369,7 @@
     "argument_day": "Thursday, March 15, 2012",
     "decision": "2013-11-27",
     "decision_day": "Wednesday, November 27, 2013",
+    "citation": "179 Wn.2d 179 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/861889.pdf",
     "events": [
       {
@@ -378,6 +394,7 @@
     "argument_day": "Tuesday, May 1, 2012",
     "decision": "2013-02-07",
     "decision_day": "Thursday, February 7, 2013",
+    "citation": "176 Wn.2d 573 (2013)",
     "events": [
       {
         "source": "tvw",
@@ -401,6 +418,7 @@
     "argument_day": "Tuesday, May 8, 2012",
     "decision": "2013-01-31",
     "decision_day": "Thursday, January 31, 2013",
+    "citation": "176 Wn.2d 555 (2013)",
     "events": [
       {
         "source": "tvw",
@@ -424,6 +442,7 @@
     "argument_day": "Tuesday, May 8, 2012",
     "decision": "2013-03-07",
     "decision_day": "Thursday, March 7, 2013",
+    "citation": "176 Wn.2d 872 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/865353.pdf",
     "events": [
       {
@@ -448,6 +467,7 @@
     "argument_day": "Thursday, May 10, 2012",
     "decision": "2013-08-01",
     "decision_day": "Thursday, August 1, 2013",
+    "citation": "178 Wn.2d 34 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/862575.pdf",
     "events": [
       {
@@ -464,7 +484,7 @@
   },
   {
     "id": "2013-021",
-    "title": "Cornu-Labat v. Hospital District No. 2 Grant County",
+    "title": "Cornu-Labat v. Hospital District No. 2",
     "number": "86842-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120515",
     "questions": "Whether records of a public hospital's investigation of a staff physician are exempt from public disclosure as privileged peer review committee records under RCW 4.24.250, privileged quality improvement committee records under RCW 70.41.200, or confidential public hospital district commission deliberations concerning a physician's medical staff privileges under RCW 70.44.062(1).",
@@ -472,6 +492,7 @@
     "argument_day": "Tuesday, May 15, 2012",
     "decision": "2013-04-11",
     "decision_day": "Thursday, April 11, 2013",
+    "citation": "177 Wn.2d 221 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/868425.pdf",
     "events": [
       {
@@ -496,6 +517,7 @@
     "argument_day": "Tuesday, May 15, 2012",
     "decision": "2013-10-10",
     "decision_day": "Thursday, October 10, 2013",
+    "citation": "178 Wn.2d 611 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/863997.pdf",
     "events": [
       {
@@ -520,6 +542,7 @@
     "argument_day": "Tuesday, May 22, 2012",
     "decision": "2013-11-27",
     "decision_day": "Wednesday, November 27, 2013",
+    "citation": "179 Wn.2d 195 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/862141.pdf",
     "events": [
       {
@@ -536,7 +559,7 @@
   },
   {
     "id": "2013-024",
-    "title": "Lowman v. Puget Sound Energy",
+    "title": "Lowman v. Wilbur",
     "number": "86584-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120524",
     "questions": "Whether in this personal injury action a utility company's approved placement of a utility pole closer to a roadway than allowed by county regulations constituted a legal cause of damages the plaintiff suffered when the car he was riding in struck the pole while being driven recklessly.",
@@ -544,6 +567,7 @@
     "argument_day": "Thursday, May 24, 2012",
     "decision": "2013-08-08",
     "decision_day": "Thursday, August 8, 2013",
+    "citation": "178 Wn.2d 165 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/865841.pdf",
     "events": [
       {
@@ -568,6 +592,7 @@
     "argument_day": "Thursday, May 24, 2012",
     "decision": "2013-01-31",
     "decision_day": "Thursday, January 31, 2013",
+    "citation": "176 Wn.2d 531 (2013)",
     "events": [
       {
         "source": "tvw",
@@ -583,7 +608,7 @@
   },
   {
     "id": "2013-026",
-    "title": "In re Dependency of Sleasman",
+    "title": "Gladin v. Department of Social & Health Services",
     "number": "86124-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120612",
     "questions": "Whether in a proceeding to terminate parental rights a finding that the conditions underlying the child's dependency are unlikely to be remedied in the near future necessarily supports a finding that continuation of the parent-child relationship diminishes the child's prospects for integration into a stable and permanent home. See RCW 13.34.180(e), (f).",
@@ -591,6 +616,7 @@
     "argument_day": "Tuesday, June 12, 2012",
     "decision": "2013-02-14",
     "decision_day": "Thursday, February 14, 2013",
+    "citation": "176 Wn.2d 644 (2013)",
     "events": [
       {
         "source": "tvw",
@@ -616,6 +642,7 @@
     "argument_day": "Tuesday, June 12, 2012",
     "decision": "2013-01-24",
     "decision_day": "Thursday, January 24, 2013",
+    "citation": "176 Wn.2d 404 (2013)",
     "events": [
       {
         "source": "tvw",
@@ -633,7 +660,7 @@
   },
   {
     "id": "2013-028",
-    "title": "In re Estate of James W. Haviland",
+    "title": "In re Estate of Haviland",
     "number": "86412-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120612",
     "questions": "Whether an amendment to the slayer statute, RCW 11.84.020, extending the statute to abusers is given improper retroactive effect when applied to a petition to adjudicate as an abuser a beneficiary of a decedent who died before the effective date of the amendment.",
@@ -641,6 +668,7 @@
     "argument_day": "Tuesday, June 12, 2012",
     "decision": "2013-03-14",
     "decision_day": "Thursday, March 14, 2013",
+    "citation": "177 Wn.2d 68 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/864128.pdf",
     "events": [
       {
@@ -659,7 +687,7 @@
   },
   {
     "id": "2013-029",
-    "title": "Clark County Washington v. Western Washington Growth Management Hearings Review Board",
+    "title": "Clark County v. Western Washington Growth Management Hearings Board",
     "number": "85989-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120614",
     "questions": "Did the Growth Management Hearings Review Board's review of Clark County's designation of certain lands as UGA become moot when those lands were annexed?",
@@ -667,6 +695,7 @@
     "argument_day": "Thursday, June 14, 2012",
     "decision": "2013-03-21",
     "decision_day": "Thursday, March 21, 2013",
+    "citation": "177 Wn.2d 136 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/859892.pdf",
     "events": [
       {
@@ -691,6 +720,7 @@
     "argument_day": "Tuesday, June 26, 2012",
     "decision": "2013-02-28",
     "decision_day": "Thursday, February 28, 2013",
+    "citation": "177 Wn.2d 94 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/86433-1%20opinion.pdf",
     "events": [
       {
@@ -715,6 +745,7 @@
     "argument_day": "Tuesday, June 26, 2012",
     "decision": "2013-03-07",
     "decision_day": "Thursday, March 7, 2013",
+    "citation": "176 Wn.2d 849 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/858608.pdf",
     "events": [
       {
@@ -739,6 +770,7 @@
     "argument_day": "Thursday, June 28, 2012",
     "decision": "2013-10-31",
     "decision_day": "Thursday, October 31, 2013",
+    "citation": "178 Wn.2d 813 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/866333.pdf",
     "events": [
       {
@@ -763,6 +795,7 @@
     "argument_day": "Thursday, June 28, 2012",
     "decision": "2013-01-17",
     "decision_day": "Thursday, January 17, 2013",
+    "citation": "176 Wn.2d 342 (2013)",
     "events": [
       {
         "source": "tvw",
@@ -786,6 +819,7 @@
     "argument_day": "Tuesday, September 11, 2012",
     "decision": "2013-02-14",
     "decision_day": "Thursday, February 14, 2013",
+    "citation": "176 Wn.2d 678 (2013)",
     "events": [
       {
         "source": "tvw",
@@ -810,6 +844,7 @@
     "argument_day": "Tuesday, September 11, 2012",
     "decision": "2013-04-11",
     "decision_day": "Thursday, April 11, 2013",
+    "citation": "177 Wn.2d 186 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/867721.pdf",
     "events": [
       {
@@ -827,7 +862,7 @@
   },
   {
     "id": "2013-036",
-    "title": "In re Personal Restraint of Toledo-Sotelo, Jose Toledo-Sotelo v. State of Washington",
+    "title": "In re Personal Restraint of Toledo-Sotelo",
     "number": "85377-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120911",
     "questions": "Whether a judgment and sentence that misstates the seriousness level and standard sentencing range for the crime is facially invalid for purposes of exempting a personal restraint petition from the one-year time limit on collateral attack, and if so, whether the petitioner may challenge the validity of his plea of guilty to the crime on the ground that he was misinformed of sentencing consequences.",
@@ -835,6 +870,7 @@
     "argument_day": "Tuesday, September 11, 2012",
     "decision": "2013-02-21",
     "decision_day": "Thursday, February 21, 2013",
+    "citation": "176 Wn.2d 759 (2013)",
     "events": [
       {
         "source": "tvw",
@@ -859,6 +895,7 @@
     "argument_day": "Tuesday, September 11, 2012",
     "decision": "2013-11-14",
     "decision_day": "Thursday, November 14, 2013",
+    "citation": "179 Wn.2d 84 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/865906.pdf",
     "events": [
       {
@@ -884,6 +921,7 @@
     "argument_day": "Thursday, September 13, 2012",
     "decision": "2013-05-02",
     "decision_day": "Thursday, May 2, 2013",
+    "citation": "177 Wn.2d 289 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/868531.pdf",
     "events": [
       {
@@ -909,6 +947,7 @@
     "argument_day": "Thursday, September 13, 2012",
     "decision": "2013-08-08",
     "decision_day": "Thursday, August 8, 2013",
+    "citation": "178 Wn.2d 180 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/868255.pdf",
     "events": [
       {
@@ -934,6 +973,7 @@
     "argument_day": "Thursday, September 13, 2012",
     "decision": "2013-06-27",
     "decision_day": "Thursday, June 27, 2013",
+    "citation": "177 Wn.2d 604 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/838828.pdf",
     "events": [
       {
@@ -959,6 +999,7 @@
     "argument_day": "Tuesday, September 18, 2012",
     "decision": "2013-03-07",
     "decision_day": "Thursday, March 7, 2013",
+    "citation": "177 Wn.2d 299 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/862117.pdf",
     "events": [
       {
@@ -984,6 +1025,7 @@
     "argument_day": "Thursday, September 20, 2012",
     "decision": "2013-02-14",
     "decision_day": "Thursday, February 14, 2013",
+    "citation": "176 Wn.2d 662 (2013)",
     "events": [
       {
         "source": "tvw",
@@ -1008,6 +1050,7 @@
     "argument_day": "Thursday, September 20, 2012",
     "decision": "2013-01-17",
     "decision_day": "Thursday, January 17, 2013",
+    "citation": "176 Wn.2d 368 (2013)",
     "events": [
       {
         "source": "tvw",
@@ -1032,6 +1075,7 @@
     "argument_day": "Thursday, September 20, 2012",
     "decision": "2013-10-17",
     "decision_day": "Thursday, October 17, 2013",
+    "citation": "178 Wn.2d 686 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/863849.pdf",
     "events": [
       {
@@ -1057,6 +1101,7 @@
     "argument_day": "Tuesday, September 25, 2012",
     "decision": "2013-05-02",
     "decision_day": "Thursday, May 2, 2013",
+    "citation": "177 Wn.2d 263 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/861480.pdf",
     "events": [
       {
@@ -1082,6 +1127,7 @@
     "argument_day": "Tuesday, September 25, 2012",
     "decision": "2013-05-23",
     "decision_day": "Thursday, May 23, 2013",
+    "citation": "177 Wn.2d 501 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/860181.pdf",
     "events": [
       {
@@ -1107,6 +1153,7 @@
     "argument_day": "Tuesday, September 25, 2012",
     "decision": "2013-02-28",
     "decision_day": "Thursday, February 28, 2013",
+    "citation": "176 Wn.2d 808 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/87425-5%20opinion.pdf",
     "events": [
       {
@@ -1132,6 +1179,7 @@
     "argument_day": "Tuesday, September 25, 2012",
     "decision": "2013-01-17",
     "decision_day": "Thursday, January 17, 2013",
+    "citation": "176 Wn.2d 333 (2013)",
     "events": [
       {
         "source": "tvw",
@@ -1156,6 +1204,7 @@
     "argument_day": "Thursday, September 27, 2012",
     "decision": "2013-06-06",
     "decision_day": "Thursday, June 6, 2013",
+    "citation": "177 Wn.2d 533 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/869511.pdf",
     "events": [
       {
@@ -1173,7 +1222,7 @@
   },
   {
     "id": "2013-050",
-    "title": "In re Custody of B.M.H.",
+    "title": "Holt v. Holt",
     "number": "86895-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20120927",
     "questions": "Whether a former stepparent may acquire the status of defacto parent of a child with only one living biological parent, and whether the former stepparent in this case made an adequate showing that relocation of the child to a different city would be detrimental to the child's growth and development, justifying a",
@@ -1181,6 +1230,7 @@
     "argument_day": "Thursday, September 27, 2012",
     "decision": "2013-11-27",
     "decision_day": "Wednesday, November 27, 2013",
+    "citation": "179 Wn.2d 224 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/868956.pdf",
     "events": [
       {
@@ -1206,6 +1256,7 @@
     "argument_day": "Thursday, October 4, 2012",
     "decision": "2013-05-30",
     "decision_day": "Thursday, May 30, 2013",
+    "citation": "177 Wn.2d 690 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/871043.pdf",
     "events": [
       {
@@ -1223,7 +1274,7 @@
   },
   {
     "id": "2013-052",
-    "title": "Barton v. State Department of Transportation",
+    "title": "Barton v. Department of Transportation",
     "number": "86924-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20121004",
     "questions": "Whether two defendants in a negligence action remained jointly and severally liable after one of the defendants entered into an undisclosed pretrial agreement with the plaintiff limiting that defendant's liability should the plaintiff prevail at trial.",
@@ -1231,6 +1282,7 @@
     "argument_day": "Thursday, October 4, 2012",
     "decision": "2013-08-15",
     "decision_day": "Thursday, August 15, 2013",
+    "citation": "178 Wn.2d 193 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/869243.pdf",
     "events": [
       {
@@ -1256,6 +1308,7 @@
     "argument_day": "Thursday, October 4, 2012",
     "decision": "2013-11-21",
     "decision_day": "Thursday, November 21, 2013",
+    "citation": "179 Wn.2d 145 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/874484.pdf",
     "events": [
       {
@@ -1281,6 +1334,7 @@
     "argument_day": "Thursday, October 4, 2012",
     "decision": "2013-05-09",
     "decision_day": "Thursday, May 9, 2013",
+    "citation": "177 Wn.2d 351 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/856656.pdf",
     "events": [
       {
@@ -1306,6 +1360,7 @@
     "argument_day": "Tuesday, October 16, 2012",
     "decision": "2013-02-28",
     "decision_day": "Thursday, February 28, 2013",
+    "citation": "176 Wn.2d 771 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/871051.pdf",
     "events": [
       {
@@ -1330,6 +1385,7 @@
     "argument_day": "Tuesday, October 16, 2012",
     "decision": "2013-09-19",
     "decision_day": "Thursday, September 19, 2013",
+    "citation": "178 Wn.2d 466 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/870781.pdf",
     "events": [
       {
@@ -1354,6 +1410,7 @@
     "argument_day": "Tuesday, October 16, 2012",
     "decision": "2013-07-11",
     "decision_day": "Thursday, July 11, 2013",
+    "citation": "177 Wn.2d 718 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/867968.pdf",
     "events": [
       {
@@ -1378,6 +1435,7 @@
     "argument_day": "Thursday, October 18, 2012",
     "decision": "2013-02-07",
     "decision_day": "Thursday, February 7, 2013",
+    "citation": "176 Wn.2d 598 (2013)",
     "events": [
       {
         "source": "tvw",
@@ -1401,6 +1459,7 @@
     "argument_day": "Thursday, October 18, 2012",
     "decision": "2013-03-07",
     "decision_day": "Thursday, March 7, 2013",
+    "citation": "176 Wn.2d 909 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/876797.pdf",
     "events": [
       {
@@ -1425,6 +1484,7 @@
     "argument_day": "Thursday, October 18, 2012",
     "decision": "2013-05-09",
     "decision_day": "Thursday, May 9, 2013",
+    "citation": "177 Wn.2d 417 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/876568.pdf",
     "events": [
       {
@@ -1449,6 +1509,7 @@
     "argument_day": "Tuesday, October 23, 2012",
     "decision": "2013-02-21",
     "decision_day": "Thursday, February 21, 2013",
+    "citation": "176 Wn.2d 727 (2013)",
     "events": [
       {
         "source": "tvw",
@@ -1472,6 +1533,7 @@
     "argument_day": "Tuesday, October 23, 2012",
     "decision": "2013-03-21",
     "decision_day": "Thursday, March 21, 2013",
+    "citation": "177 Wn.2d 150 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/861307.pdf",
     "events": [
       {
@@ -1496,6 +1558,7 @@
     "argument_day": "Thursday, October 25, 2012",
     "decision": "2013-01-17",
     "decision_day": "Thursday, January 17, 2013",
+    "citation": "176 Wn.2d 390 (2013)",
     "events": [
       {
         "source": "tvw",
@@ -1519,6 +1582,7 @@
     "argument_day": "Thursday, October 25, 2012",
     "decision": "2013-08-01",
     "decision_day": "Thursday, August 1, 2013",
+    "citation": "178 Wn.2d 120 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/872155.pdf",
     "events": [
       {
@@ -1543,6 +1607,7 @@
     "argument_day": "Thursday, October 25, 2012",
     "decision": "2013-01-31",
     "decision_day": "Thursday, January 31, 2013",
+    "citation": "176 Wn.2d 742 (2013)",
     "events": [
       {
         "source": "tvw",
@@ -1558,7 +1623,7 @@
   },
   {
     "id": "2013-066",
-    "title": "Swinomish Indian Tribal Community v. Washington State Department of Ecology",
+    "title": "Swinomish Indian Tribal Community v. Department of Ecology",
     "number": "87672-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20121113",
     "questions": "Whether the Department of Ecology exceeded its authority and acted arbitrarily and capriciously in amending the Skagit River Instream Flow Rule to authorize new appropriations of water from Skagit River tributary subbasins for domestic, commercial, municipal, and agricultural uses.",
@@ -1566,6 +1631,7 @@
     "argument_day": "Tuesday, November 13, 2012",
     "decision": "2013-10-03",
     "decision_day": "Thursday, October 3, 2013",
+    "citation": "178 Wn.2d 571 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/876720.pdf",
     "events": [
       {
@@ -1590,6 +1656,7 @@
     "argument_day": "Tuesday, November 13, 2012",
     "decision": "2013-08-15",
     "decision_day": "Thursday, August 15, 2013",
+    "citation": "178 Wn.2d 227 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/877033.pdf",
     "events": [
       {
@@ -1606,7 +1673,7 @@
   },
   {
     "id": "2013-068",
-    "title": "Ameriquest Mortgage Company v. Washington State Office of the Attorney General",
+    "title": "Ameriquest Mortgage Co. v. Office of Attorney General",
     "number": "87661-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2012&file=20121113",
     "questions": "Whether in relation to a public disclosure request for records supplied to the Washington attorney general by a mortgage company in an investigation of its lending practices, the attorney general is prohibited by the federal Gramm-Leach-Bliley Act from releasing emails generated by company employees during the processing of consumer loans, whether the materials are exempt from disclosure under the Public Records Act as investigative records, and whether the Consumer Protection Act prohibits disclosure of the records because they are the result of a civil investigative demand.",
@@ -1614,6 +1681,7 @@
     "argument_day": "Tuesday, November 13, 2012",
     "decision": "2013-05-09",
     "decision_day": "Thursday, May 9, 2013",
+    "citation": "177 Wn.2d 467 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/876614.pdf",
     "events": [
       {
@@ -1638,6 +1706,7 @@
     "argument_day": "Tuesday, November 13, 2012",
     "decision": "2013-02-21",
     "decision_day": "Thursday, February 21, 2013",
+    "citation": "176 Wn.2d 712 (2013)",
     "events": [
       {
         "source": "tvw",
@@ -1653,7 +1722,7 @@
   },
   {
     "id": "2013-070",
-    "title": "Sargent v. Seattle Police Department",
+    "title": "Sargent v. Seattle Police Dept.",
     "number": "87417-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130115",
     "questions": "Whether the exemption from the Public Records Act for law enforcement investigative records expired when the underlying case was referred for prosecution, and if so, whether the law enforcement agency was thereafter required to comply with the original public records request.",
@@ -1661,6 +1730,7 @@
     "argument_day": "Tuesday, January 15, 2013",
     "decision": "2013-12-19",
     "decision_day": "Thursday, December 19, 2013",
+    "citation": "179 Wn.2d 376 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/874174.pdf",
     "events": [
       {
@@ -1685,6 +1755,7 @@
     "argument_day": "Tuesday, January 22, 2013",
     "decision": "2013-07-25",
     "decision_day": "Thursday, July 25, 2013",
+    "citation": "178 Wn.2d 19 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/873763.pdf",
     "events": [
       {
@@ -1709,6 +1780,7 @@
     "argument_day": "Tuesday, January 22, 2013",
     "decision": "2013-06-27",
     "decision_day": "Thursday, June 27, 2013",
+    "citation": "177 Wn.2d 636 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/875146.pdf",
     "events": [
       {
@@ -1733,6 +1805,7 @@
     "argument_day": "Thursday, January 24, 2013",
     "decision": "2013-10-24",
     "decision_day": "Thursday, October 24, 2013",
+    "citation": "178 Wn.2d 763 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/862931.pdf",
     "events": [
       {
@@ -1757,6 +1830,7 @@
     "argument_day": "Thursday, January 24, 2013",
     "decision": "2013-06-20",
     "decision_day": "Thursday, June 20, 2013",
+    "citation": "177 Wn.2d 566 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/871744.pdf",
     "events": [
       {
@@ -1781,6 +1855,7 @@
     "argument_day": "Tuesday, February 12, 2013",
     "decision": "2013-07-18",
     "decision_day": "Thursday, July 18, 2013",
+    "citation": "177 Wn.2d 804 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/874832.pdf",
     "events": [
       {
@@ -1797,7 +1872,7 @@
   },
   {
     "id": "2013-076",
-    "title": "In re Estate of Virgil Becker",
+    "title": "Becker v. White",
     "number": "87544-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130212",
     "questions": "Whether the spouse of a decedent, who is not a beneficiary under the will, had standing to intervene in a will contest in order to challenge a settlement between the will challengers and the guardian ad litem of the surviving spouse’s minor child, the sole beneficiary under the will.",
@@ -1805,6 +1880,7 @@
     "argument_day": "Tuesday, February 12, 2013",
     "decision": "2013-04-11",
     "decision_day": "Thursday, April 11, 2013",
+    "citation": "177 Wn.2d 242 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/875448.pdf",
     "events": [
       {
@@ -1829,6 +1905,7 @@
     "argument_day": "Thursday, February 14, 2013",
     "decision": "2013-06-20",
     "decision_day": "Thursday, June 20, 2013",
+    "citation": "177 Wn.2d 584 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/873950.pdf",
     "events": [
       {
@@ -1853,6 +1930,7 @@
     "argument_day": "Thursday, February 14, 2013",
     "decision": "2013-10-03",
     "decision_day": "Thursday, October 3, 2013",
+    "citation": "178 Wn.2d 561 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/870870.pdf",
     "events": [
       {
@@ -1877,6 +1955,7 @@
     "argument_day": "Thursday, February 14, 2013",
     "decision": "2013-05-09",
     "decision_day": "Thursday, May 9, 2013",
+    "citation": "177 Wn.2d 399 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/874077.pdf",
     "events": [
       {
@@ -1901,6 +1980,7 @@
     "argument_day": "Tuesday, February 19, 2013",
     "decision": "2013-09-12",
     "decision_day": "Thursday, September 12, 2013",
+    "citation": "178 Wn.2d 435 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/875294.pdf",
     "events": [
       {
@@ -1925,6 +2005,7 @@
     "argument_day": "Tuesday, February 19, 2013",
     "decision": "2013-11-27",
     "decision_day": "Wednesday, November 27, 2013",
+    "citation": "179 Wn.2d 274 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/872317.pdf",
     "events": [
       {
@@ -1949,6 +2030,7 @@
     "argument_day": "Tuesday, February 19, 2013",
     "decision": "2013-09-12",
     "decision_day": "Thursday, September 12, 2013",
+    "citation": "178 Wn.2d 387 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/872678.pdf",
     "events": [
       {
@@ -1971,6 +2053,7 @@
     "argument_day": "Thursday, February 21, 2013",
     "decision": "2013-07-18",
     "decision_day": "Thursday, July 18, 2013",
+    "citation": "177 Wn.2d 771 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/2010733.pdf",
     "events": [
       {
@@ -1995,6 +2078,7 @@
     "argument_day": "Thursday, February 21, 2013",
     "decision": "2013-07-18",
     "decision_day": "Thursday, July 18, 2013",
+    "citation": "177 Wn.2d 835 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/877408.pdf",
     "events": [
       {
@@ -2019,6 +2103,7 @@
     "argument_day": "Tuesday, March 12, 2013",
     "decision": "2013-10-17",
     "decision_day": "Thursday, October 17, 2013",
+    "citation": "178 Wn.2d 653 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/2010881.pdf",
     "events": [
       {
@@ -2043,6 +2128,7 @@
     "argument_day": "Tuesday, March 12, 2013",
     "decision": "2013-08-15",
     "decision_day": "Thursday, August 15, 2013",
+    "citation": "178 Wn.2d 258 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/879532.pdf",
     "events": [
       {
@@ -2067,6 +2153,7 @@
     "argument_day": "Tuesday, March 12, 2013",
     "decision": "2013-05-23",
     "decision_day": "Thursday, May 23, 2013",
+    "citation": "177 Wn.2d 520 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/870098.pdf",
     "events": [
       {
@@ -2091,6 +2178,7 @@
     "argument_day": "Tuesday, March 19, 2013",
     "decision": "2013-07-25",
     "decision_day": "Thursday, July 25, 2013",
+    "citation": "178 Wn.2d 1 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/872821.pdf",
     "events": [
       {
@@ -2107,7 +2195,7 @@
   },
   {
     "id": "2013-089",
-    "title": "King County Public Hospital No. 2 v. Washington State Department of Health",
+    "title": "King County Public Hospital District No. 2 v. Department of Health",
     "number": "87574-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130321",
     "questions": "Whether the Department of Health properly issued a certificate of need in settlement of an adjudicative hearing on the validity of the department’s original decision denying a certificate, and whether in doing so it properly relied on data collected after the original decision.",
@@ -2115,6 +2203,7 @@
     "argument_day": "Thursday, March 21, 2013",
     "decision": "2013-09-05",
     "decision_day": "Thursday, September 5, 2013",
+    "citation": "178 Wn.2d 363 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/875740.pdf",
     "events": [
       {
@@ -2139,6 +2228,7 @@
     "argument_day": "Thursday, March 21, 2013",
     "decision": "2013-06-06",
     "decision_day": "Thursday, June 6, 2013",
+    "citation": "177 Wn.2d 743 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/2010491.pdf",
     "events": [
       {
@@ -2163,6 +2253,7 @@
     "argument_day": "Thursday, March 21, 2013",
     "decision": "2013-11-07",
     "decision_day": "Thursday, November 7, 2013",
+    "citation": "179 Wn.2d 1 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/871094.pdf",
     "events": [
       {
@@ -2187,6 +2278,7 @@
     "argument_day": "Tuesday, May 7, 2013",
     "decision": "2013-09-19",
     "decision_day": "Thursday, September 19, 2013",
+    "citation": "178 Wn.2d 487 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/878820.pdf",
     "score": "9-0",
     "votes": [
@@ -2249,6 +2341,7 @@
     "argument_day": "Tuesday, May 7, 2013",
     "decision": "2013-09-12",
     "decision_day": "Thursday, September 12, 2013",
+    "citation": "178 Wn.2d 417 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/875014.pdf",
     "score": "8-1",
     "votes": [
@@ -2311,6 +2404,7 @@
     "argument_day": "Thursday, May 9, 2013",
     "decision": "2013-09-05",
     "decision_day": "Thursday, September 5, 2013",
+    "citation": "179 Wn.2d 32 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/884102.pdf",
     "score": "9-0",
     "votes": [
@@ -2362,6 +2456,7 @@
     "argument_day": "Thursday, May 9, 2013",
     "decision": "2013-08-22",
     "decision_day": "Thursday, August 22, 2013",
+    "citation": "178 Wn.2d 308 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/876975.pdf",
     "score": "7-2",
     "votes": [
@@ -2424,6 +2519,7 @@
     "argument_day": "Tuesday, May 14, 2013",
     "decision": "2013-09-05",
     "decision_day": "Thursday, September 5, 2013",
+    "citation": "178 Wn.2d 350 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/873500.pdf",
     "score": "9-0",
     "votes": [
@@ -2506,6 +2602,7 @@
     "argument_day": "Thursday, May 16, 2013",
     "decision": "2013-09-26",
     "decision_day": "Thursday, September 26, 2013",
+    "citation": "178 Wn.2d 541 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/879290.pdf",
     "score": "9-0",
     "votes": [
@@ -2568,6 +2665,7 @@
     "argument_day": "Thursday, May 16, 2013",
     "decision": "2013-10-10",
     "decision_day": "Thursday, October 10, 2013",
+    "citation": "178 Wn.2d 635 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/879648.pdf",
     "score": "9-0",
     "votes": [
@@ -2630,6 +2728,7 @@
     "argument_day": "Tuesday, May 21, 2013",
     "decision": "2013-10-31",
     "decision_day": "Thursday, October 31, 2013",
+    "citation": "178 Wn.2d 890 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/878552.pdf",
     "score": "5-4",
     "votes": [
@@ -2692,6 +2791,7 @@
     "argument_day": "Tuesday, May 21, 2013",
     "decision": "2013-09-12",
     "decision_day": "Thursday, September 12, 2013",
+    "citation": "179 Wn.2d 47 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/878773.pdf",
     "score": "9-0",
     "votes": [
@@ -2754,6 +2854,7 @@
     "argument_day": "Tuesday, May 21, 2013",
     "decision": "2013-12-05",
     "decision_day": "Thursday, December 5, 2013",
+    "citation": "179 Wn.2d 301 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/879273.pdf",
     "score": "9-0",
     "votes": [
@@ -2816,6 +2917,7 @@
     "argument_day": "Thursday, May 23, 2013",
     "decision": "2013-08-01",
     "decision_day": "Thursday, August 1, 2013",
+    "citation": "178 Wn.2d 153 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/876142.pdf",
     "score": "9-0",
     "votes": [
@@ -2878,6 +2980,7 @@
     "argument_day": "Tuesday, June 11, 2013",
     "decision": "2013-10-31",
     "decision_day": "Thursday, October 31, 2013",
+    "citation": "178 Wn.2d 868 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/877262.pdf",
     "score": "9-0",
     "votes": [
@@ -2940,6 +3043,7 @@
     "argument_day": "Tuesday, June 11, 2013",
     "decision": "2013-08-22",
     "decision_day": "Thursday, August 22, 2013",
+    "citation": "178 Wn.2d 280 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/2011152.pdf",
     "score": "9-0",
     "votes": [
@@ -3002,6 +3106,7 @@
     "argument_day": "Tuesday, June 11, 2013",
     "decision": "2013-09-26",
     "decision_day": "Thursday, September 26, 2013",
+    "citation": "178 Wn.2d 532 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/862419.pdf",
     "score": "9-0",
     "votes": [
@@ -3064,6 +3169,7 @@
     "argument_day": "Thursday, June 13, 2013",
     "decision": "2013-12-26",
     "decision_day": "Thursday, December 26, 2013",
+    "citation": "179 Wn.2d 438 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/876801.pdf",
     "score": "9-0",
     "votes": [
@@ -3126,6 +3232,7 @@
     "argument_day": "Thursday, June 13, 2013",
     "decision": "2013-12-12",
     "decision_day": "Thursday, December 12, 2013",
+    "citation": "179 Wn.2d 322 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/873437.pdf",
     "score": "9-0",
     "votes": [
@@ -3184,6 +3291,7 @@
     "argument_day": "Tuesday, June 25, 2013",
     "decision": "2013-10-17",
     "decision_day": "Thursday, October 17, 2013",
+    "citation": "178 Wn.2d 732 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/879061.pdf",
     "score": "9-0",
     "votes": [
@@ -3238,7 +3346,7 @@
   },
   {
     "id": "2013-110",
-    "title": "In re Parentage of C.M.F.",
+    "title": "State of Washington v. Fairfax",
     "number": "88029-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20130625",
     "questions": "Whether a parentage order is a custody decree that a court cannot change without following the statutory requirements, found in RCW 26.09.260 and .270, for modification.",
@@ -3246,6 +3354,7 @@
     "argument_day": "Tuesday, June 25, 2013",
     "decision": "2013-12-19",
     "decision_day": "Thursday, December 19, 2013",
+    "citation": "179 Wn.2d 411 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/880298.pdf",
     "score": "6-3",
     "votes": [
@@ -3308,6 +3417,7 @@
     "argument_day": "Thursday, June 27, 2013",
     "decision": "2013-08-29",
     "decision_day": "Thursday, August 29, 2013",
+    "citation": "178 Wn.2d 320 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/880891.pdf",
     "score": "9-0",
     "votes": [
@@ -3370,6 +3480,7 @@
     "argument_day": "Thursday, June 27, 2013",
     "decision": "2013-11-14",
     "decision_day": "Thursday, November 14, 2013",
+    "citation": "179 Wn.2d 122 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/885222.pdf",
     "score": "9-0",
     "votes": [
@@ -3420,94 +3531,83 @@
   },
   {
     "id": "2013-113",
-    "title": "Washington Education Association, Et Al. v. Washington Department of Retirement Systems",
-    "number": "88546-0",
-    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2013&file=20131024",
-    "questions": "The Uniform Cost of Living Adjustment (UCOLA) added an extra sum onto each state retiree's monthly pension payment to account for changes in cost of living and increased inflation. This court considers whether the repeal provisions of UCOLA unconstitutionally impaired the state's contract with its employees.",
-    "argument": "2013-10-24",
-    "argument_day": "Thursday, October 24, 2013",
-    "events": [
-      {
-        "source": "tvw",
-        "type": "argument",
-        "date": "2013-10-24",
-        "title": "Oral Argument on Thursday, October 24, 2013",
-        "page_url": "https://tvw.org/video/washington-state-supreme-court-2013101023/",
-        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/201310/2013100005A.mp4",
-        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2013101023/media.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "2013-114",
     "title": "In re Personal Restraint of Yates",
     "number": "82101-1",
     "decision": "2013-03-14",
     "decision_day": "Thursday, March 14, 2013",
+    "citation": "177 Wn.2d 1 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/821011.pdf"
   },
   {
-    "id": "2013-115",
+    "id": "2013-114",
     "title": "State of Washington v. Flaherty",
     "number": "87751-3",
     "decision": "2013-03-14",
     "decision_day": "Thursday, March 14, 2013",
+    "citation": "177 Wn.2d 90 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/877513.pdf"
   },
   {
-    "id": "2013-116",
+    "id": "2013-115",
     "title": "In re Recall of Bolt",
     "number": "88227-4",
     "decision": "2013-03-28",
     "decision_day": "Thursday, March 28, 2013",
+    "citation": "177 Wn.2d 168 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/882274.pdf"
   },
   {
-    "id": "2013-117",
+    "id": "2013-116",
     "title": "In re Recall of Sun",
     "number": "88005-1",
     "decision": "2013-04-25",
     "decision_day": "Thursday, April 25, 2013",
+    "citation": "177 Wn.2d 251 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/880051.pdf"
   },
   {
-    "id": "2013-118",
+    "id": "2013-117",
     "title": "State of Washington v. Contreras-Rebollar",
     "number": "87650-9",
     "decision": "2013-06-13",
     "decision_day": "Thursday, June 13, 2013",
+    "citation": "177 Wn.2d 563 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/876509.pdf"
   },
   {
-    "id": "2013-119",
+    "id": "2013-118",
     "title": "In re Personal Restraint of Netherton",
     "number": "83925-5",
     "decision": "2013-07-18",
     "decision_day": "Thursday, July 18, 2013",
+    "citation": "177 Wn.2d 798 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/839255.pdf"
   },
   {
-    "id": "2013-120",
-    "title": "Weidert v. Producers Agric. Ins. Co.",
+    "id": "2013-119",
+    "title": "Weidert v. Hanson",
     "number": "88293-2",
     "decision": "2013-09-12",
     "decision_day": "Thursday, September 12, 2013",
+    "citation": "178 Wn.2d 462 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/882932.pdf"
   },
   {
-    "id": "2013-121",
+    "id": "2013-120",
     "title": "In re Personal Restraint of Cross",
     "number": "79761-7",
     "decision": "2013-09-26",
     "decision_day": "Thursday, September 26, 2013",
+    "citation": "178 Wn.2d 519 (2013)",
     "decision_gov": "http://www.courts.wa.gov/opinions/pdf/797617.pdf"
   },
   {
-    "id": "2013-122",
+    "id": "2013-121",
     "title": "In re Personal Restraint of Gronquist",
     "number": "87666-5",
     "decision": "2013-11-14",
     "decision_day": "Thursday, November 14, 2013",
+    "citation": "179 Wn.2d 120 (2013)",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/876665.pdf"
   }
 ]

@@ -1,6 +1,228 @@
 [
   {
     "id": "2006-001",
+    "title": "State of Washington v. Washington Education",
+    "number": "74268-5",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2004&file=20040527",
+    "argument": "2004-05-27",
+    "argument_day": "Thursday, May 27, 2004",
+    "decision": "2006-03-16",
+    "decision_day": "Thursday, March 16, 2006",
+    "citation": "156 Wn.2d 543 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2004-05-27",
+        "title": "Oral Argument on Thursday, May 27, 2004",
+        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-461/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/5acca0195cf366b4809879661d308e3cf3688cc2.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2004051011/media.m3u8",
+        "length": "01:08:04",
+        "size": 324009984
+      }
+    ]
+  },
+  {
+    "id": "2006-002",
+    "title": "State ex rel. Public Disclosure Commission v. Washington Education Ass'n",
+    "number": "74316-9",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2004&file=20040527",
+    "argument": "2004-05-27",
+    "argument_day": "Thursday, May 27, 2004",
+    "decision": "2006-03-16",
+    "decision_day": "Thursday, March 16, 2006",
+    "citation": "156 Wn.2d 543 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2004-05-27",
+        "title": "Oral Argument on Thursday, May 27, 2004",
+        "page_url": "https://tvw.org/video/wa-st-supreme-court-oral-arguments-461/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/5acca0195cf366b4809879661d308e3cf3688cc2.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2004051011/media.m3u8",
+        "length": "01:08:04",
+        "size": 324009984
+      }
+    ]
+  },
+  {
+    "id": "2006-003",
+    "title": "State of Washington v. Cross",
+    "number": "71267-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2004&file=20040622",
+    "questions": "Was Davya Cross's death sentence the result of legal error?",
+    "argument": "2004-06-22",
+    "argument_day": "Tuesday, June 22, 2004",
+    "decision": "2006-03-30",
+    "decision_day": "Thursday, March 30, 2006",
+    "citation": "156 Wn.2d 580 (2006)"
+  },
+  {
+    "id": "2006-004",
+    "title": "City of Sequim v. Malkasian",
+    "number": "74987-6",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050113",
+    "questions": "The City wishes to test the validity of an initiative that was adopted as a city ordinance by 78% of the voters. Did the City sue the correct party when it sued an individual citizen who had been a member of the organization that sponsored the initiative, and if it sued the wrong party, should that citizen recover his attorney fees for defending the ordinance?",
+    "argument": "2005-01-13",
+    "argument_day": "Thursday, January 13, 2005",
+    "decision": "2006-07-13",
+    "decision_day": "Thursday, July 13, 2006",
+    "citation": "157 Wn.2d 251 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-01-13",
+        "title": "Oral Argument on Thursday, January 13, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005011301/",
+        "audio_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/dff6489cb65e44177fc7ec7bf26ab2b14e1145ea_audio.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005011301/media.m3u8",
+        "length": "00:46:19",
+        "size": 26214400
+      }
+    ]
+  },
+  {
+    "id": "2006-005",
+    "title": "Alby v. Banc One Financial",
+    "number": "75001-7",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050113",
+    "questions": "Susan Alby sold property to her niece. The deed transferring the property contained a clause providing that ownership of the property would return to Alby if the property was mortgaged or encumbered during Alby’s lifetime. Was this clause an unlawful restraint on alienation of property and therefore invalid?",
+    "argument": "2005-01-13",
+    "argument_day": "Thursday, January 13, 2005",
+    "decision": "2006-02-09",
+    "decision_day": "Thursday, February 9, 2006",
+    "citation": "156 Wn.2d 367 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-01-13",
+        "title": "Oral Argument on Thursday, January 13, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005011300/",
+        "audio_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/3ffb0c414436a9c424cfc70cb66c88beafd4f6d4_audio.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005011300/media.m3u8",
+        "length": "00:45:45",
+        "size": 25165824
+      }
+    ]
+  },
+  {
+    "id": "2006-006",
+    "title": "McClarty v. Totem Electric",
+    "number": "75024-6",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050119",
+    "questions": "What does the word “disability” mean in employment discrimination cases?",
+    "argument": "2005-01-19",
+    "argument_day": "Wednesday, January 19, 2005",
+    "decision": "2006-07-06",
+    "decision_day": "Thursday, July 6, 2006",
+    "citation": "157 Wn.2d 214 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-01-19",
+        "title": "Oral Argument on Wednesday, January 19, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005011207/",
+        "audio_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/008555f139564fddee83609bb87015caf459fb28_audio.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005011207/media.m3u8",
+        "length": "01:03:50",
+        "size": 36700160
+      }
+    ]
+  },
+  {
+    "id": "2006-007",
+    "title": "City of Olympia v. Drebick",
+    "number": "75270-2",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050208",
+    "questions": "In calculating the transportation impact fees imposed on the developer of an office building, did the City of Olympia comply with the standards set by the legislature for apportioning such fees?",
+    "argument": "2005-02-08",
+    "argument_day": "Tuesday, February 8, 2005",
+    "decision": "2006-01-19",
+    "decision_day": "Thursday, January 19, 2006",
+    "citation": "156 Wn.2d 289 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-02-08",
+        "title": "Oral Argument on Tuesday, February 8, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005021377/",
+        "audio_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/66aa121e8785d2172fc5ba5275284bf53996bb3a_audio.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005021377/media.m3u8",
+        "length": "00:45:33",
+        "size": 25165824
+      }
+    ]
+  },
+  {
+    "id": "2006-008",
+    "title": "State of Washington v. Korum",
+    "number": "75491-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050210",
+    "questions": "Was Mr. Korum vindictively prosecuted after withdrawing his guilty plea?",
+    "argument": "2005-02-10",
+    "argument_day": "Thursday, February 10, 2005",
+    "decision": "2006-08-17",
+    "decision_day": "Thursday, August 17, 2006",
+    "citation": "157 Wn.2d 614 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-02-10",
+        "title": "Oral Argument on Thursday, February 10, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005021312/",
+        "audio_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/ee1f4f27d8155038a4eaf8d6c3da615ad382f01f_audio.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005021312/media.m3u8",
+        "length": "00:47:34",
+        "size": 25165824
+      }
+    ]
+  },
+  {
+    "id": "2006-009",
+    "title": "Cunningham v. State of Washington",
+    "number": "75956-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050308",
+    "questions": "Whether Washington’s Defense of Marriage Act, which prohibits same-sex marriages, is unconstitutional under the state constitution.",
+    "argument": "2005-03-08",
+    "argument_day": "Tuesday, March 8, 2005",
+    "decision": "2006-07-26",
+    "decision_day": "Wednesday, July 26, 2006",
+    "citation": "158 Wn.2d 1 (2006)"
+  },
+  {
+    "id": "2006-010",
+    "title": "Christian v. State of Washington",
+    "number": "75934-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050308",
+    "questions": "Whether Washington’s Defense of Marriage Act, which prohibits same-sex marriages, is unconstitutional under the state constitution.",
+    "argument": "2005-03-08",
+    "argument_day": "Tuesday, March 8, 2005",
+    "decision": "2006-07-26",
+    "decision_day": "Wednesday, July 26, 2006",
+    "citation": "158 Wn.2d 1 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-03-08",
+        "title": "Oral Argument on Tuesday, March 8, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005031345/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200503/2005030003C.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005031345/media.m3u8",
+        "length": "01:28:50",
+        "size": 668991488
+      }
+    ]
+  },
+  {
+    "id": "2006-011",
     "title": "State of Washington v. Gregory",
     "number": "71155-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050322",
@@ -9,6 +231,7 @@
     "argument_day": "Tuesday, March 22, 2005",
     "decision": "2006-11-30",
     "decision_day": "Thursday, November 30, 2006",
+    "citation": "158 Wn.2d 759 (2006)",
     "score": "8-1",
     "votes": [
       {
@@ -61,7 +284,637 @@
     ]
   },
   {
-    "id": "2006-002",
+    "id": "2006-012",
+    "title": "In re Disciplinary Proceeding Against Haley",
+    "number": "200153-0",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050510",
+    "argument": "2005-05-10",
+    "argument_day": "Tuesday, May 10, 2005",
+    "decision": "2006-01-26",
+    "decision_day": "Thursday, January 26, 2006",
+    "citation": "156 Wn.2d 324 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-05-10",
+        "title": "Oral Argument on Tuesday, May 10, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005051109/",
+        "audio_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/d628d7599b5312359238ad2f4297db64fcb1e1c6_audio.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005051109/media.m3u8",
+        "length": "00:51:14",
+        "size": 27262976
+      }
+    ]
+  },
+  {
+    "id": "2006-013",
+    "title": "In re Disciplinary Proceeding Against Poole",
+    "number": "200124-6",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050510",
+    "argument": "2005-05-10",
+    "argument_day": "Tuesday, May 10, 2005",
+    "decision": "2006-01-05",
+    "decision_day": "Thursday, January 5, 2006",
+    "citation": "156 Wn.2d 196 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-05-10",
+        "title": "Oral Argument on Tuesday, May 10, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005051111/",
+        "audio_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/becf289c345cd8ec999ebd5c150404fe5a466b41_audio.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005051111/media.m3u8",
+        "length": "00:46:59",
+        "size": 26214400
+      }
+    ]
+  },
+  {
+    "id": "2006-014",
+    "title": "State of Washington v. Leyda",
+    "number": "75866-2",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050524",
+    "questions": "Leyda claims the trial court violated constitutional prohibitions against double jeopardy in determining the unit of prosecution for identity theft, and Leyda claims that the document charging him with his crimes improperly omitted the value of the property stolen in alleging second degree identity theft and third degree theft.",
+    "argument": "2005-05-24",
+    "argument_day": "Tuesday, May 24, 2005",
+    "decision": "2006-07-20",
+    "decision_day": "Thursday, July 20, 2006",
+    "citation": "157 Wn.2d 335 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-05-24",
+        "title": "Oral Argument on Tuesday, May 24, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005051024/",
+        "audio_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/2c302624386761a9e4aef9d1a74e7f6eb6d922f9_audio.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005051024/media.m3u8",
+        "length": "00:50:29",
+        "size": 27262976
+      }
+    ]
+  },
+  {
+    "id": "2006-015",
+    "title": "State of Washington v. Linton",
+    "number": "75784-4",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050526",
+    "questions": "Where a jury is unable to agree on whether a defendant is guilty of first degree assault, but convicts the defendant of second degree assault, can the State retry the defendant for first degree assault?",
+    "argument": "2005-05-26",
+    "argument_day": "Thursday, May 26, 2005",
+    "decision": "2006-04-13",
+    "decision_day": "Thursday, April 13, 2006",
+    "citation": "156 Wn.2d 777 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-05-26",
+        "title": "Oral Argument on Thursday, May 26, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005051011/",
+        "audio_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/7b894cf059792dbea647de6b663c229cb1210d3e_audio.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005051011/media.m3u8",
+        "length": "00:46:00",
+        "size": 25165824
+      }
+    ]
+  },
+  {
+    "id": "2006-016",
+    "title": "Central Puget Sound Regional Transit Authority v. Miller",
+    "number": "76284-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050526",
+    "questions": "Can a web site \"furnish\" notice of government action?",
+    "argument": "2005-05-26",
+    "argument_day": "Thursday, May 26, 2005",
+    "decision": "2006-02-16",
+    "decision_day": "Thursday, February 16, 2006",
+    "citation": "156 Wn.2d 403 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-05-26",
+        "title": "Oral Argument on Thursday, May 26, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005051012/",
+        "audio_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/63569552fa9197627af2763aae7e64bb484c1aa7_audio.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005051012/media.m3u8",
+        "length": "01:31:00",
+        "size": 49283072
+      }
+    ]
+  },
+  {
+    "id": "2006-017",
+    "title": "Aba Sheikh v. Choe",
+    "number": "76723-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050609",
+    "questions": "Does DSHS owe a duty to a person assaulted by dependent children?",
+    "argument": "2005-06-09",
+    "argument_day": "Thursday, June 9, 2005",
+    "decision": "2006-02-16",
+    "decision_day": "Thursday, February 16, 2006",
+    "citation": "156 Wn.2d 441 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-06-09",
+        "title": "Oral Argument on Thursday, June 9, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005061090/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200506/2005060017B.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005061090/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-018",
+    "title": "In re Trummel",
+    "number": "75977-4",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050623",
+    "questions": "Whether an antiharassment order that restricts a respondent from contacting petitioners and publishing certain information on the internet is valid.",
+    "argument": "2005-06-23",
+    "argument_day": "Thursday, June 23, 2005",
+    "decision": "2006-03-30",
+    "decision_day": "Thursday, March 30, 2006",
+    "citation": "156 Wn.2d 653 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-06-23",
+        "title": "Oral Argument on Thursday, June 23, 2005",
+        "page_url": "https://tvw.org/video/wa-state-supreme-court-2005061038/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200506/2005060098C.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005061038/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-019",
+    "title": "Kershaw Sunnyside Ranches v. State of Washington",
+    "number": "75982-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050628",
+    "questions": "Did a turn of the century railroad right of way deed convey fee title or an easement, and if an easement only, does a buried fiber optic cable on the right of way constitutes trespass?",
+    "argument": "2005-06-28",
+    "argument_day": "Tuesday, June 28, 2005",
+    "decision": "2006-01-12",
+    "decision_day": "Thursday, January 12, 2006",
+    "citation": "156 Wn.2d 253 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-06-28",
+        "title": "Oral Argument on Tuesday, June 28, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005061019/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200506/2005060018C.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005061019/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-020",
+    "title": "Koenig v. City of Des Moines",
+    "number": "75889-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050628",
+    "questions": "Where the identities of child victims of sexual assault are exempt from public disclosure, and a citizen requests the records of one child victim of sexual assault specifically by that child’s name, must the agency withhold disclosure entirely to protect the identity of the child?",
+    "argument": "2005-06-28",
+    "argument_day": "Tuesday, June 28, 2005",
+    "decision": "2006-08-31",
+    "decision_day": "Thursday, August 31, 2006",
+    "citation": "158 Wn.2d 173 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-06-28",
+        "title": "Oral Argument on Tuesday, June 28, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005061024/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200506/2005060018A.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005061024/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-021",
+    "title": "State of Washington v. Bisson",
+    "number": "75771-2",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050628",
+    "questions": "As a remedy for his involuntary plea agreement, is Bisson entitled to a sentence imposing concurrent deadly weapon enhancements?",
+    "argument": "2005-06-28",
+    "argument_day": "Tuesday, June 28, 2005",
+    "decision": "2006-03-16",
+    "decision_day": "Thursday, March 16, 2006",
+    "citation": "156 Wn.2d 507 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-06-28",
+        "title": "Oral Argument on Tuesday, June 28, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005061018/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200506/2005060018D.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005061018/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-022",
+    "title": "State of Washington v. Shafer",
+    "number": "75605-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050630",
+    "questions": "Does RCW 9A.44.120, Washington's child hearsay statute, violate the Confrontation Clause of the Sixth Amendment or article I, section 22 of the Washington Constitution?",
+    "argument": "2005-06-30",
+    "argument_day": "Thursday, June 30, 2005",
+    "decision": "2006-02-09",
+    "decision_day": "Thursday, February 9, 2006",
+    "citation": "156 Wn.2d 381 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-06-30",
+        "title": "Oral Argument on Thursday, June 30, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005061007/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200506/2005060019A.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005061007/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-023",
+    "title": "Cummins v. Lewis County",
+    "number": "76249-0",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050913",
+    "questions": "The Petitioner’s husband passed away shortly after calling 911. Did the 911 call create a “special relationship” with the County that exempts the Petitioner’s suit from the public duty doctrine, which prohibits imposing governmental liability on alleged breaches of obligations owed only to the public generally?",
+    "argument": "2005-09-13",
+    "argument_day": "Tuesday, September 13, 2005",
+    "decision": "2006-05-04",
+    "decision_day": "Thursday, May 4, 2006",
+    "citation": "156 Wn.2d 844 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-09-13",
+        "title": "Oral Argument on Tuesday, September 13, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005091100/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200509/2005090040D.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005091100/media.m3u8",
+        "length": "00:50:04",
+        "size": 169869312
+      }
+    ]
+  },
+  {
+    "id": "2006-024",
+    "title": "Osborn v. Mason County",
+    "number": "76101-9",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050913",
+    "questions": "Joseph Rosenow, a registered sex offender living in Mason County, raped and murdered 15-year-old Jennie Mae Osborn. Did Mason County have a duty to inform the Osborns of Rosenow’s presence?",
+    "argument": "2005-09-13",
+    "argument_day": "Tuesday, September 13, 2005",
+    "decision": "2006-05-18",
+    "decision_day": "Thursday, May 18, 2006",
+    "citation": "157 Wn.2d 18 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-09-13",
+        "title": "Oral Argument on Tuesday, September 13, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005091101/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200509/2005090040C.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005091101/media.m3u8",
+        "length": "01:20:20",
+        "size": 271581184
+      }
+    ]
+  },
+  {
+    "id": "2006-025",
+    "title": "In re Halgren",
+    "number": "76161-2",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050915",
+    "questions": "The trial court involuntarily committed Halgren after determining he was a sexually violent predator. Halgren challenges the medical exam and penile plethsmograph evidence used to support the involuntary commitment, and the trial court’s denial of his proposed unanimity jury instruction.",
+    "argument": "2005-09-15",
+    "argument_day": "Thursday, September 15, 2005",
+    "decision": "2006-04-13",
+    "decision_day": "Thursday, April 13, 2006",
+    "citation": "156 Wn.2d 795 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-09-15",
+        "title": "Oral Argument on Thursday, September 15, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005091090/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200509/2005090041B.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005091090/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-026",
+    "title": "In re Gourley",
+    "number": "76270-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050915",
+    "questions": "Must the rules of evidence be applied in domestic violence protection order proceedings under chapter 26.50 RCW, and was the respondent in this case improperly denied an opportunity to cross examine witnesses in a protection order proceeding?",
+    "argument": "2005-09-15",
+    "argument_day": "Thursday, September 15, 2005",
+    "decision": "2006-10-26",
+    "decision_day": "Thursday, October 26, 2006",
+    "citation": "158 Wn.2d 460 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-09-15",
+        "title": "Oral Argument on Thursday, September 15, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005091086/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200509/2005090041C.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005091086/media.m3u8",
+        "length": "01:03:40",
+        "size": 213909504
+      }
+    ]
+  },
+  {
+    "id": "2006-027",
+    "title": "Pacific Northwest Shooting v. State of Washington",
+    "number": "76109-4",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050927",
+    "argument": "2005-09-27",
+    "argument_day": "Tuesday, September 27, 2005",
+    "decision": "2006-10-12",
+    "decision_day": "Thursday, October 12, 2006",
+    "citation": "158 Wn.2d 342 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-09-27",
+        "title": "Oral Argument on Tuesday, September 27, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005091020/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200509/2005090042B.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005091020/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-028",
+    "title": "Larson v. Seattle Popular Monorail Authority",
+    "number": "77073-5",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050927",
+    "argument": "2005-09-27",
+    "argument_day": "Tuesday, September 27, 2005",
+    "decision": "2006-03-30",
+    "decision_day": "Thursday, March 30, 2006",
+    "citation": "156 Wn.2d 752 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-09-27",
+        "title": "Oral Argument on Tuesday, September 27, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005091016/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200509/2005090042D.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005091016/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-029",
+    "title": "Gildon v. Simon Property Group, Inc.",
+    "number": "76292-9",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20050927",
+    "argument": "2005-09-27",
+    "argument_day": "Tuesday, September 27, 2005",
+    "decision": "2006-10-26",
+    "decision_day": "Thursday, October 26, 2006",
+    "citation": "158 Wn.2d 483 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-09-27",
+        "title": "Oral Argument on Tuesday, September 27, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005091017/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200509/2005090042C.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005091017/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-030",
+    "title": "T.S. v. Boy Scouts of America",
+    "number": "76726-2",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051011",
+    "questions": "The Boy Scouts sought a protective order for their \"Ineligible Volunteer Files.\" Did the trial court abuse its discretion by requiring disclosure of the files with the names of alleged sexual abuse victims and perpetrators deleted?",
+    "argument": "2005-10-11",
+    "argument_day": "Tuesday, October 11, 2005",
+    "decision": "2006-07-27",
+    "decision_day": "Thursday, July 27, 2006",
+    "citation": "157 Wn.2d 416 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-10-11",
+        "title": "Oral Argument on Tuesday, October 11, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005101113/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200510/2005100029B.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005101113/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-031",
+    "title": "State of Washington v. Johnston",
+    "number": "76544-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051011",
+    "questions": "Johnston challenges the constitutionality of his conviction for threatening to bomb Sea-Tac International Airport.",
+    "argument": "2005-10-11",
+    "argument_day": "Tuesday, October 11, 2005",
+    "decision": "2006-01-26",
+    "decision_day": "Thursday, January 26, 2006",
+    "citation": "156 Wn.2d 355 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-10-11",
+        "title": "Oral Argument on Tuesday, October 11, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005101114/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200510/2005100029C.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005101114/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-032",
+    "title": "Cobra Roofing Services, Inc. v. Department of Labor & Industries",
+    "number": "76064-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051018",
+    "questions": "Cobra Roofing was cited for not having fall protection for its employees. The court must decide whether this was a repeat violation and whether attorney fees are awardable for Cobra Roofing’s appeal.",
+    "argument": "2005-10-18",
+    "argument_day": "Tuesday, October 18, 2005",
+    "decision": "2006-06-01",
+    "decision_day": "Thursday, June 1, 2006",
+    "citation": "157 Wn.2d 90 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-10-18",
+        "title": "Oral Argument on Tuesday, October 18, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005101065/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200510/2005100030A.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005101065/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-033",
+    "title": "State of Washington v. Borboa",
+    "number": "76547-2",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051018",
+    "questions": "Does a law authorizing judges to make factual findings necessary to lengthen a defendant’s minimum sentence violate the right to a jury trial? Does admitting statements a child made in police custody violate the right to confront one’s accusers?",
+    "argument": "2005-10-18",
+    "argument_day": "Tuesday, October 18, 2005",
+    "decision": "2006-06-01",
+    "decision_day": "Thursday, June 1, 2006",
+    "citation": "157 Wn.2d 108 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-10-18",
+        "title": "Oral Argument on Tuesday, October 18, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005101060/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200510/2005100030C.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005101060/media.m3u8",
+        "length": "00:40:26",
+        "size": 137363456
+      }
+    ]
+  },
+  {
+    "id": "2006-034",
+    "title": "State of Washington v. Clarke",
+    "number": "76602-9",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051018",
+    "questions": "Does a law authorizing judges to make factual findings necessary to lengthen a defendant’s minimum sentence violate the right to a jury trial?",
+    "argument": "2005-10-18",
+    "argument_day": "Tuesday, October 18, 2005",
+    "decision": "2006-05-11",
+    "decision_day": "Thursday, May 11, 2006",
+    "citation": "156 Wn.2d 880 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-10-18",
+        "title": "Oral Argument on Tuesday, October 18, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005101062/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200510/2005100030B.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005101062/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-035",
+    "title": "State of Washington v. Cantu",
+    "number": "76198-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051025",
+    "argument": "2005-10-25",
+    "argument_day": "Tuesday, October 25, 2005",
+    "decision": "2006-04-20",
+    "decision_day": "Thursday, April 20, 2006",
+    "citation": "156 Wn.2d 819 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-10-25",
+        "title": "Oral Argument on Tuesday, October 25, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005101031/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200510/2005100031B.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005101031/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-036",
+    "title": "State of Washington v. Cooper",
+    "number": "76164-7",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051025",
+    "argument": "2005-10-25",
+    "argument_day": "Tuesday, October 25, 2005",
+    "decision": "2006-02-23",
+    "decision_day": "Thursday, February 23, 2006",
+    "citation": "156 Wn.2d 475 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-10-25",
+        "title": "Oral Argument on Tuesday, October 25, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005101033/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200510/2005100031A.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005101033/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-037",
+    "title": "State of Washington v. Jackman",
+    "number": "76574-0",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051027",
+    "argument": "2005-10-27",
+    "argument_day": "Thursday, October 27, 2005",
+    "decision": "2006-04-13",
+    "decision_day": "Thursday, April 13, 2006",
+    "citation": "156 Wn.2d 736 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-10-27",
+        "title": "Oral Argument on Thursday, October 27, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005101008/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200510/2005100032D.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005101008/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-038",
+    "title": "City of Fircrest v. Jensen",
+    "number": "76738-6",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051027",
+    "argument": "2005-10-27",
+    "argument_day": "Thursday, October 27, 2005",
+    "decision": "2006-10-05",
+    "decision_day": "Thursday, October 5, 2006",
+    "citation": "158 Wn.2d 384 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-10-27",
+        "title": "Oral Argument on Thursday, October 27, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005101010/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200510/2005100032B.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005101010/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-039",
     "title": "State of Washington v. Williams",
     "number": "76625-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051027",
@@ -69,6 +922,7 @@
     "argument_day": "Thursday, October 27, 2005",
     "decision": "2006-11-30",
     "decision_day": "Thursday, November 30, 2006",
+    "citation": "158 Wn.2d 904 (2006)",
     "score": "5-4",
     "votes": [
       {
@@ -121,7 +975,261 @@
     ]
   },
   {
-    "id": "2006-003",
+    "id": "2006-040",
+    "title": "State of Washington v. Levy",
+    "number": "75913-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051027",
+    "argument": "2005-10-27",
+    "argument_day": "Thursday, October 27, 2005",
+    "decision": "2006-04-13",
+    "decision_day": "Thursday, April 13, 2006",
+    "citation": "156 Wn.2d 709 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-10-27",
+        "title": "Oral Argument on Thursday, October 27, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005101009/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200510/2005100032C.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005101009/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-041",
+    "title": "State of Washington v. Easterling",
+    "number": "76458-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051109",
+    "questions": "Is Easterling entitled to have his conviction reversed and a new trial awarded because the trial court improperly closed a courtroom during consideration of a codefendant’s pre-trial motions to sever the joint trial and to dismiss the criminal charge?",
+    "argument": "2005-11-09",
+    "argument_day": "Wednesday, November 9, 2005",
+    "decision": "2006-06-29",
+    "decision_day": "Thursday, June 29, 2006",
+    "citation": "157 Wn.2d 167 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-11-09",
+        "title": "Oral Argument on Wednesday, November 9, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005111101/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200511/2005110022A.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005111101/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-042",
+    "title": "Amunrud v. Board of Appeals",
+    "number": "76590-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051109",
+    "questions": "Whether the suspension of a father’s commercial driver’s license due to his failure to pay child support payments for his son violated the father’s due process rights.",
+    "argument": "2005-11-09",
+    "argument_day": "Wednesday, November 9, 2005",
+    "decision": "2006-09-21",
+    "decision_day": "Thursday, September 21, 2006",
+    "citation": "158 Wn.2d 208 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-11-09",
+        "title": "Oral Argument on Wednesday, November 9, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005111099/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200511/2005110022B.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005111099/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-043",
+    "title": "In re Personal Restraint of Dyer",
+    "number": "76730-1",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051110",
+    "questions": "Did the Indeterminate Sentence Review Board abuse its discretion or violate Dyer’s constitutional rights when it determined Dyer was not parolable? 1:00 P.M.",
+    "argument": "2005-11-10",
+    "argument_day": "Thursday, November 10, 2005",
+    "decision": "2006-07-27",
+    "decision_day": "Thursday, July 27, 2006",
+    "citation": "157 Wn.2d 358 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-11-10",
+        "title": "Oral Argument on Thursday, November 10, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005111090/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200511/2005110023B.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005111090/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-044",
+    "title": "State of Washington v. McKenzie",
+    "number": "76585-5",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051110",
+    "questions": "Did McKenzie show that prosecutorial misconduct prejudiced his right to a fair trial?",
+    "argument": "2005-11-10",
+    "argument_day": "Thursday, November 10, 2005",
+    "decision": "2006-05-18",
+    "decision_day": "Thursday, May 18, 2006",
+    "citation": "157 Wn.2d 44 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-11-10",
+        "title": "Oral Argument on Thursday, November 10, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005111091/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200511/2005110023D.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005111091/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-045",
+    "title": "Lewis County v. Western Washington Growth Management Hearings Board",
+    "number": "76553-7",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051110",
+    "questions": "The state Growth Management Act requires counties to conserve agricultural land. Can a county conserve land based on the local farm industry’s expected needs, or must it focus on soil quality and other land characteristics instead?",
+    "argument": "2005-11-10",
+    "argument_day": "Thursday, November 10, 2005",
+    "decision": "2006-08-10",
+    "decision_day": "Thursday, August 10, 2006",
+    "citation": "157 Wn.2d 488 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-11-10",
+        "title": "Oral Argument on Thursday, November 10, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005111092/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200511/2005110023A.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005111092/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-046",
+    "title": "In re Harwood",
+    "number": "75263-0",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051115",
+    "questions": "Did the trial court properly award custody of a child to a child’s stepparent instead of the child’s parent?",
+    "argument": "2005-11-15",
+    "argument_day": "Tuesday, November 15, 2005",
+    "decision": "2006-06-08",
+    "decision_day": "Thursday, June 8, 2006",
+    "citation": "157 Wn.2d 126 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-11-15",
+        "title": "Oral Argument on Tuesday, November 15, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005111064/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200511/2005110024E.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005111064/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-047",
+    "title": "State of Washington v. Suleiman",
+    "number": "76807-2",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051115",
+    "questions": "In his guilty plea Suleiman stipulated to certain underlying facts, but not that there was a basis for the exceptional sentence. Should his exceptional sentence be reversed pursuant to Blakely? 1:00 P.M.",
+    "argument": "2005-11-15",
+    "argument_day": "Tuesday, November 15, 2005",
+    "decision": "2006-10-05",
+    "decision_day": "Thursday, October 5, 2006",
+    "citation": "158 Wn.2d 280 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-11-15",
+        "title": "Oral Argument on Tuesday, November 15, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005111068/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200511/2005110024B.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005111068/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-048",
+    "title": "State of Washington v. Hagar",
+    "number": "77138-3",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051115",
+    "questions": "May a petitioner challenge his exceptional sentence under Blakely without also challenging his entire plea agreement?",
+    "argument": "2005-11-15",
+    "argument_day": "Tuesday, November 15, 2005",
+    "decision": "2006-10-12",
+    "decision_day": "Thursday, October 12, 2006",
+    "citation": "158 Wn.2d 369 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-11-15",
+        "title": "Oral Argument on Tuesday, November 15, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005111065/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200511/2005110024D.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005111065/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-049",
+    "title": "State of Washington v. Ermels",
+    "number": "76665-7",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051115",
+    "questions": "In his guilty plea Ermels stipulated there was a basis for an exceptional sentence and waived his right to appeal its basis and propriety. Should his exceptional sentence be reversed pursuant to Blakely?",
+    "argument": "2005-11-15",
+    "argument_day": "Tuesday, November 15, 2005",
+    "decision": "2006-03-16",
+    "decision_day": "Thursday, March 16, 2006",
+    "citation": "156 Wn.2d 528 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-11-15",
+        "title": "Oral Argument on Tuesday, November 15, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005111070/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200511/2005110024A.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005111070/media.m3u8",
+        "length": "01:03:37",
+        "size": 213909504
+      }
+    ]
+  },
+  {
+    "id": "2006-050",
+    "title": "State of Washington v. Mehlhaff",
+    "number": "76776-9",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051115",
+    "questions": "May a petitioner challenge his exceptional sentence under Blakely without also challenging his entire plea agreement?",
+    "argument": "2005-11-15",
+    "argument_day": "Tuesday, November 15, 2005",
+    "decision": "2006-10-12",
+    "decision_day": "Thursday, October 12, 2006",
+    "citation": "158 Wn.2d 363 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-11-15",
+        "title": "Oral Argument on Tuesday, November 15, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005111065/",
+        "video_url": "https://f005.backblazeb2.com/file/invintus-client-media/tvw-legacy-media/200511/2005110024D.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005111065/media.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2006-051",
     "title": "Ongom v. State of Washington",
     "number": "76618-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051117",
@@ -130,6 +1238,7 @@
     "argument_day": "Thursday, November 17, 2005",
     "decision": "2006-12-14",
     "decision_day": "Thursday, December 14, 2006",
+    "citation": "159 Wn.2d 132 (2006)",
     "score": "5-4",
     "votes": [
       {
@@ -182,7 +1291,32 @@
     ]
   },
   {
-    "id": "2006-004",
+    "id": "2006-052",
+    "title": "Harvey v. Snohomish County",
+    "number": "76575-8",
+    "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2005&file=20051117",
+    "questions": "Harvey called 9-1-1 to report being threatened. Is Snohomish County potentially liable for an inadequate response?",
+    "argument": "2005-11-17",
+    "argument_day": "Thursday, November 17, 2005",
+    "decision": "2006-05-18",
+    "decision_day": "Thursday, May 18, 2006",
+    "citation": "157 Wn.2d 33 (2006)",
+    "events": [
+      {
+        "source": "tvw",
+        "type": "argument",
+        "date": "2005-11-17",
+        "title": "Oral Argument on Thursday, November 17, 2005",
+        "page_url": "https://tvw.org/video/washington-state-supreme-court-2005111055/",
+        "audio_url": "https://f005.backblazeb2.com/file/invintus-client-media/9375922947/254827cd166d36ece184c071343e5f4570f4b8fa_audio.mp4",
+        "hls_url": "https://api.v3.invintus.com/StreamURI/hls/9375922947/2005111055/media.m3u8",
+        "length": "00:45:26",
+        "size": 24117248
+      }
+    ]
+  },
+  {
+    "id": "2006-053",
     "title": "Pierce County v. State of Washington",
     "number": "76534-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060124",
@@ -191,6 +1325,7 @@
     "argument_day": "Tuesday, January 24, 2006",
     "decision": "2006-12-07",
     "decision_day": "Thursday, December 7, 2006",
+    "citation": "159 Wn.2d 16 (2006)",
     "score": "8-1",
     "votes": [
       {
@@ -245,13 +1380,16 @@
     ]
   },
   {
-    "id": "2006-005",
+    "id": "2006-054",
     "title": "State of Washington v. Walker",
     "number": "76743-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060124",
     "questions": "Does RCW 10.31.100, a statute allowing for warrantless misdemeanor arrests, violate article 1, section 7 of the Washington Constitution?",
     "argument": "2006-01-24",
     "argument_day": "Tuesday, January 24, 2006",
+    "decision": "2006-07-13",
+    "decision_day": "Thursday, July 13, 2006",
+    "citation": "157 Wn.2d 307 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -267,13 +1405,16 @@
     ]
   },
   {
-    "id": "2006-006",
+    "id": "2006-055",
     "title": "State of Washington v. Hosier",
     "number": "76785-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060124",
     "questions": "Hosier was convicted of 2 counts of communicating with a minor for immoral purposes. He claims that there was not sufficient evidence supporting his convictions.",
     "argument": "2006-01-24",
     "argument_day": "Tuesday, January 24, 2006",
+    "decision": "2006-05-11",
+    "decision_day": "Thursday, May 11, 2006",
+    "citation": "157 Wn.2d 1 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -289,8 +1430,8 @@
     ]
   },
   {
-    "id": "2006-007",
-    "title": "1000 Friends of Wash. v. McFarland",
+    "id": "2006-056",
+    "title": "1000 Friends v. McFarland",
     "number": "76581-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060126",
     "questions": "In Brisbane, this court held that critical area ordinances could not be repealed by local referenda. Should that decision be overruled?",
@@ -298,6 +1439,7 @@
     "argument_day": "Thursday, January 26, 2006",
     "decision": "2006-12-21",
     "decision_day": "Thursday, December 21, 2006",
+    "citation": "159 Wn.2d 165 (2006)",
     "score": "7-2",
     "votes": [
       {
@@ -352,7 +1494,7 @@
     ]
   },
   {
-    "id": "2006-008",
+    "id": "2006-057",
     "title": "State of Washington v. Jones",
     "number": "76900-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060207",
@@ -361,6 +1503,7 @@
     "argument_day": "Tuesday, February 7, 2006",
     "decision": "2006-12-28",
     "decision_day": "Thursday, December 28, 2006",
+    "citation": "159 Wn.2d 231 (2006)",
     "score": "7-2",
     "votes": [
       {
@@ -415,13 +1558,16 @@
     ]
   },
   {
-    "id": "2006-009",
+    "id": "2006-058",
     "title": "State of Washington v. Luther",
     "number": "76849-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060207",
     "questions": "The defendant argues that he was unlawfully convicted of attempted possession of child pornography.",
     "argument": "2006-02-07",
     "argument_day": "Tuesday, February 7, 2006",
+    "decision": "2006-05-18",
+    "decision_day": "Thursday, May 18, 2006",
+    "citation": "157 Wn.2d 63 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -437,7 +1583,7 @@
     ]
   },
   {
-    "id": "2006-010",
+    "id": "2006-059",
     "title": "State of Washington v. Allen",
     "number": "76912-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060209",
@@ -446,6 +1592,7 @@
     "argument_day": "Thursday, February 9, 2006",
     "decision": "2006-11-30",
     "decision_day": "Thursday, November 30, 2006",
+    "citation": "159 Wn.2d 1 (2006)",
     "score": "5-4",
     "votes": [
       {
@@ -500,13 +1647,16 @@
     ]
   },
   {
-    "id": "2006-011",
+    "id": "2006-060",
     "title": "State of Washington v. Zhao",
     "number": "76822-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060209",
     "questions": "Can a defendant plead guilty to charges for which there is no factual basis?",
     "argument": "2006-02-09",
     "argument_day": "Thursday, February 9, 2006",
+    "decision": "2006-06-29",
+    "decision_day": "Thursday, June 29, 2006",
+    "citation": "157 Wn.2d 188 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -522,13 +1672,16 @@
     ]
   },
   {
-    "id": "2006-012",
+    "id": "2006-061",
     "title": "Heg v. Alldredge",
     "number": "76706-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060209",
     "questions": "Is Heg entitled to an easement over Alldredge's property?",
     "argument": "2006-02-09",
     "argument_day": "Thursday, February 9, 2006",
+    "decision": "2006-06-22",
+    "decision_day": "Thursday, June 22, 2006",
+    "citation": "157 Wn.2d 154 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -544,13 +1697,16 @@
     ]
   },
   {
-    "id": "2006-013",
+    "id": "2006-062",
     "title": "Lewis v. Dep't of Lic.",
     "number": "76824-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060214",
     "questions": "Must police officers warn traffic stop detainees that the officer is recording their conversation?",
     "argument": "2006-02-14",
     "argument_day": "Tuesday, February 14, 2006",
+    "decision": "2006-08-03",
+    "decision_day": "Thursday, August 3, 2006",
+    "citation": "157 Wn.2d 446 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -566,13 +1722,16 @@
     ]
   },
   {
-    "id": "2006-014",
+    "id": "2006-063",
     "title": "Mayer v. Sto Indus., Inc.",
     "number": "76720-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060214",
     "questions": "Did the trial court abuse its discretion in awarding monetary compensatory sanctions for discovery abuse without considering on the record a lesser sanction, the willfulness of the abuse, and the prejudice arising from it?",
     "argument": "2006-02-14",
     "argument_day": "Tuesday, February 14, 2006",
+    "decision": "2006-04-06",
+    "decision_day": "Thursday, April 6, 2006",
+    "citation": "156 Wn.2d 677 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -588,13 +1747,16 @@
     ]
   },
   {
-    "id": "2006-015",
+    "id": "2006-064",
     "title": "In re Personal Restraint of Cruz",
     "number": "77317-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060214",
     "questions": "Does RCW 69.50.408's language \"twice the term otherwise authorized\" refer to the standard range sentence or the maximum sentence or both?",
     "argument": "2006-02-14",
     "argument_day": "Tuesday, February 14, 2006",
+    "decision": "2006-05-25",
+    "decision_day": "Thursday, May 25, 2006",
+    "citation": "157 Wn.2d 83 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -610,13 +1772,16 @@
     ]
   },
   {
-    "id": "2006-016",
+    "id": "2006-065",
     "title": "SuperValu Holdings, Inc. v. Dep't of Labor & Indus.",
     "number": "76527-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060214",
     "questions": "Did Initiative Measure 841 eliminate the Department of Labor & Industries' ability to enforce ergonomic-related workplace hazards under the \"general duty clause?\"",
     "argument": "2006-02-14",
     "argument_day": "Tuesday, February 14, 2006",
+    "decision": "2006-10-19",
+    "decision_day": "Thursday, October 19, 2006",
+    "citation": "158 Wn.2d 422 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -632,13 +1797,16 @@
     ]
   },
   {
-    "id": "2006-017",
+    "id": "2006-066",
     "title": "State of Washington v. Stevens",
     "number": "77112-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060216",
     "questions": "Is a defendant charged with second degree child molestation entitled to a jury instruction on voluntary intoxication? Is a defendant charged with second degree child molestation entitled to instruct the jury on fourth degree assault as a lesser included offense?",
     "argument": "2006-02-16",
     "argument_day": "Thursday, February 16, 2006",
+    "decision": "2006-10-05",
+    "decision_day": "Thursday, October 5, 2006",
+    "citation": "158 Wn.2d 304 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -654,13 +1822,16 @@
     ]
   },
   {
-    "id": "2006-018",
+    "id": "2006-067",
     "title": "State of Washington v. Punsalan",
     "number": "77490-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060216",
     "questions": "Is an indigent criminal defendant represented by a private counsel entitled to necessary expert assistance at public expense?",
     "argument": "2006-02-16",
     "argument_day": "Thursday, February 16, 2006",
+    "decision": "2006-05-04",
+    "decision_day": "Thursday, May 4, 2006",
+    "citation": "156 Wn.2d 875 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -676,13 +1847,16 @@
     ]
   },
   {
-    "id": "2006-019",
+    "id": "2006-068",
     "title": "State of Washington v. Osman",
     "number": "76948-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060216",
     "questions": "Did the trial court violate the Sentencing Reform Act or the Equal Protection clause by considering the defendant's possible deportation in denying a sentence under the special sex offender sentencing alternative?",
     "argument": "2006-02-16",
     "argument_day": "Thursday, February 16, 2006",
+    "decision": "2006-08-03",
+    "decision_day": "Thursday, August 3, 2006",
+    "citation": "157 Wn.2d 474 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -698,13 +1872,16 @@
     ]
   },
   {
-    "id": "2006-020",
+    "id": "2006-069",
     "title": "Kruger Clinic Orthopaedics, LLC v. Regence Blueshield",
     "number": "76719-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060228",
     "questions": "Are the arbitration provisions in Regence's agreements with these health care providers enforceable?",
     "argument": "2006-02-28",
     "argument_day": "Tuesday, February 28, 2006",
+    "decision": "2006-07-13",
+    "decision_day": "Thursday, July 13, 2006",
+    "citation": "157 Wn.2d 290 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -720,13 +1897,16 @@
     ]
   },
   {
-    "id": "2006-021",
+    "id": "2006-070",
     "title": "Lakemont Ridge Homeowners Ass'n v. Lakemont Ridge Ltd. P'ship",
     "number": "76850-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060302",
     "questions": "Does the \"notice and opportunity to cure\" provision of the Construction Defect Claims Act apply to a homeowner's lawsuit when the construction professionals did not give initial notice of the requirement because they constructed the condominiums before the statute became effective?",
     "argument": "2006-03-02",
     "argument_day": "Thursday, March 2, 2006",
+    "decision": "2006-04-06",
+    "decision_day": "Thursday, April 6, 2006",
+    "citation": "156 Wn.2d 696 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -742,12 +1922,15 @@
     ]
   },
   {
-    "id": "2006-022",
+    "id": "2006-071",
     "title": "State of Washington v. Welker",
     "number": "77122-7",
     "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060302",
     "argument": "2006-03-02",
     "argument_day": "Thursday, March 2, 2006",
+    "decision": "2006-08-17",
+    "decision_day": "Thursday, August 17, 2006",
+    "citation": "157 Wn.2d 557 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -763,13 +1946,16 @@
     ]
   },
   {
-    "id": "2006-023",
+    "id": "2006-072",
     "title": "Ballard Square Condo. Owners Ass'n v. Dynasty Constr. Co.",
     "number": "76938-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060302",
     "questions": "May a claimant bring a lawsuit against a dissolved corporation?",
     "argument": "2006-03-02",
     "argument_day": "Thursday, March 2, 2006",
+    "decision": "2006-11-09",
+    "decision_day": "Thursday, November 9, 2006",
+    "citation": "158 Wn.2d 603 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -785,7 +1971,7 @@
     ]
   },
   {
-    "id": "2006-024",
+    "id": "2006-073",
     "title": "State of Washington v. Easterlin",
     "number": "76861-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060314",
@@ -794,6 +1980,7 @@
     "argument_day": "Tuesday, March 14, 2006",
     "decision": "2006-12-21",
     "decision_day": "Thursday, December 21, 2006",
+    "citation": "159 Wn.2d 203 (2006)",
     "score": "8-1",
     "votes": [
       {
@@ -848,13 +2035,16 @@
     ]
   },
   {
-    "id": "2006-025",
+    "id": "2006-074",
     "title": "State of Washington v. Devin",
     "number": "76947-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060314",
     "questions": "Should a conviction be vacated when the defendant dies before an appeal is resolved?",
     "argument": "2006-03-14",
     "argument_day": "Tuesday, March 14, 2006",
+    "decision": "2006-08-24",
+    "decision_day": "Thursday, August 24, 2006",
+    "citation": "158 Wn.2d 157 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -870,13 +2060,16 @@
     ]
   },
   {
-    "id": "2006-026",
+    "id": "2006-075",
     "title": "Cowlitz Stud Co. v. Clevenger",
     "number": "77267-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060316",
     "questions": "The Court must decide whether the last injurious exposure rule applies in cases involving industrial injuries and whether the rule may be raised by an earlier employer as a defense to shift liability to a later employer.",
     "argument": "2006-03-16",
     "argument_day": "Thursday, March 16, 2006",
+    "decision": "2006-08-17",
+    "decision_day": "Thursday, August 17, 2006",
+    "citation": "157 Wn.2d 569 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -892,13 +2085,16 @@
     ]
   },
   {
-    "id": "2006-027",
+    "id": "2006-076",
     "title": "State of Washington v. Potter",
     "number": "77822-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060321",
     "questions": "In City of Redmond v. Moore, the court held some procedures for suspending a driver's license unconstitutional. Defendants were arrested for driving with suspended licenses before the court decided Moore. Were these arrests valid? Should the court exclude evidence of drugs found during the arrests?",
     "argument": "2006-03-21",
     "argument_day": "Tuesday, March 21, 2006",
+    "decision": "2006-04-27",
+    "decision_day": "Thursday, April 27, 2006",
+    "citation": "156 Wn.2d 835 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -914,13 +2110,16 @@
     ]
   },
   {
-    "id": "2006-028",
-    "title": "In re Estate of Kordon, Helen Cleveland v. Leilani Duke",
+    "id": "2006-077",
+    "title": "Cleveland v. Duke",
     "number": "77164-2",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060321",
     "questions": "Does failure to issue a citation deprive the superior court of jurisdiction over a will contest?",
     "argument": "2006-03-21",
     "argument_day": "Tuesday, March 21, 2006",
+    "decision": "2006-06-22",
+    "decision_day": "Thursday, June 22, 2006",
+    "citation": "157 Wn.2d 206 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -936,13 +2135,16 @@
     ]
   },
   {
-    "id": "2006-029",
+    "id": "2006-078",
     "title": "State of Washington v. Price",
     "number": "77152-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060321",
     "questions": "Did admission of a child victim's pretrial, out of court statements violate the confrontation clause?",
     "argument": "2006-03-21",
     "argument_day": "Tuesday, March 21, 2006",
+    "decision": "2006-11-16",
+    "decision_day": "Thursday, November 16, 2006",
+    "citation": "158 Wn.2d 630 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -958,13 +2160,16 @@
     ]
   },
   {
-    "id": "2006-030",
+    "id": "2006-079",
     "title": "State of Washington v. Fowler",
     "number": "77250-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060321",
     "questions": "Was it legal for the court to play for the jury recorded phone conversations the defendant had with the victim, given that the defendant did not consent to the recordings?",
     "argument": "2006-03-21",
     "argument_day": "Tuesday, March 21, 2006",
+    "decision": "2006-08-03",
+    "decision_day": "Thursday, August 3, 2006",
+    "citation": "157 Wn.2d 387 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -980,13 +2185,16 @@
     ]
   },
   {
-    "id": "2006-031",
+    "id": "2006-080",
     "title": "State of Washington v. Cromwell",
     "number": "77356-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060323",
     "questions": "Is a former statute intended to punish those who possess the salt form of methamphetamine, or only those who possess its liquid form?",
     "argument": "2006-03-23",
     "argument_day": "Thursday, March 23, 2006",
+    "decision": "2006-08-10",
+    "decision_day": "Thursday, August 10, 2006",
+    "citation": "157 Wn.2d 529 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -1002,13 +2210,16 @@
     ]
   },
   {
-    "id": "2006-032",
-    "title": "In re: Jeffrey Thornton Haley, an Attorney at Law.",
+    "id": "2006-081",
+    "title": "In re Disciplinary Proceeding Against Haley",
     "number": "200,262-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060323",
     "questions": "Did Mr. Haley violate various sections of RPC 1.8 when he entered into several letter agreements with his client?",
     "argument": "2006-03-23",
     "argument_day": "Thursday, March 23, 2006",
+    "decision": "2006-07-27",
+    "decision_day": "Thursday, July 27, 2006",
+    "citation": "157 Wn.2d 398 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -1024,7 +2235,7 @@
     ]
   },
   {
-    "id": "2006-033",
+    "id": "2006-082",
     "title": "State of Washington v. Weber",
     "number": "77395-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060323",
@@ -1033,6 +2244,7 @@
     "argument_day": "Thursday, March 23, 2006",
     "decision": "2006-12-28",
     "decision_day": "Thursday, December 28, 2006",
+    "citation": "159 Wn.2d 252 (2006)",
     "score": "5-4",
     "votes": [
       {
@@ -1087,8 +2299,8 @@
     ]
   },
   {
-    "id": "2006-034",
-    "title": "In re Personal Restraint of VanDelft v. State of Washington",
+    "id": "2006-083",
+    "title": "In re Personal Restraint of VanDelft",
     "number": "77733-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060509",
     "questions": "Whether the judgment and sentence in this case became final after the decision in Blakely v. Washington, and if so, whether Blakely applies to an exceptional sentence consisting of consecutive standard range terms.",
@@ -1096,6 +2308,7 @@
     "argument_day": "Tuesday, May 9, 2006",
     "decision": "2006-11-30",
     "decision_day": "Thursday, November 30, 2006",
+    "citation": "158 Wn.2d 731 (2006)",
     "score": "7-2",
     "votes": [
       {
@@ -1149,13 +2362,16 @@
     ]
   },
   {
-    "id": "2006-035",
+    "id": "2006-084",
     "title": "In re A. Graham Greenlee, Attorney at Law",
     "number": "200,294-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060511",
     "questions": "Whether the rules of professional conduct prohibit an attorney from potential malpractice claims with unrepresented former clients where no actual claim was ever raised?",
     "argument": "2006-05-11",
     "argument_day": "Thursday, May 11, 2006",
+    "decision": "2006-10-05",
+    "decision_day": "Thursday, October 5, 2006",
+    "citation": "158 Wn.2d 259 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -1170,13 +2386,16 @@
     ]
   },
   {
-    "id": "2006-036",
+    "id": "2006-085",
     "title": "Mazon v. Krafchik",
     "number": "77398-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060516",
     "questions": "May an attorney sue co-counsel for the fee the attorney expected to earn in representing their mutual client? May an attorney sue co-counsel for money paid by the attorney's malpractice insurance company to settle their malpractice lawsuit?",
     "argument": "2006-05-16",
     "argument_day": "Tuesday, May 16, 2006",
+    "decision": "2006-10-19",
+    "decision_day": "Thursday, October 19, 2006",
+    "citation": "158 Wn.2d 440 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -1191,13 +2410,16 @@
     ]
   },
   {
-    "id": "2006-037",
+    "id": "2006-086",
     "title": "Sorenson v. Pyeatt",
     "number": "77229-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060516",
     "questions": "Should the Supreme Court grant equitable relief to the Petitioners (commercial Lenders) by placing an equitable lien on the Respondent's (Carole Sorenson) real property or by estopping her from quieting title in the property?",
     "argument": "2006-05-16",
     "argument_day": "Tuesday, May 16, 2006",
+    "decision": "2006-11-09",
+    "decision_day": "Thursday, November 9, 2006",
+    "citation": "158 Wn.2d 523 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -1212,7 +2434,7 @@
     ]
   },
   {
-    "id": "2006-038",
+    "id": "2006-087",
     "title": "Wright v. Colville Tribal Enter. Corp.",
     "number": "77558-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060516",
@@ -1221,6 +2443,7 @@
     "argument_day": "Tuesday, May 16, 2006",
     "decision": "2006-12-07",
     "decision_day": "Thursday, December 7, 2006",
+    "citation": "159 Wn.2d 108 (2006)",
     "score": "6-3",
     "votes": [
       {
@@ -1274,13 +2497,16 @@
     ]
   },
   {
-    "id": "2006-039",
+    "id": "2006-088",
     "title": "1000 Virginia Ltd. P'ship v. Vertecs Corp.",
     "number": "77362-9",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060516",
     "questions": "The defendants maintain that the plaintiffs' suits for breach of construction contracts were filed too late.",
     "argument": "2006-05-16",
     "argument_day": "Tuesday, May 16, 2006",
+    "decision": "2006-11-09",
+    "decision_day": "Thursday, November 9, 2006",
+    "citation": "158 Wn.2d 566 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -1295,13 +2521,16 @@
     ]
   },
   {
-    "id": "2006-040",
+    "id": "2006-089",
     "title": "Cerrillo v. Esparza",
     "number": "77283-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060518",
     "questions": "Were truck drivers who delivered agricultural goods entitled to overtime wages under the Minimum Wage Act?",
     "argument": "2006-05-18",
     "argument_day": "Thursday, May 18, 2006",
+    "decision": "2006-08-31",
+    "decision_day": "Thursday, August 31, 2006",
+    "citation": "158 Wn.2d 194 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -1316,13 +2545,16 @@
     ]
   },
   {
-    "id": "2006-041",
+    "id": "2006-090",
     "title": "Qwest Corp. v. City of Kent",
     "number": "78293-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060523",
     "questions": "Whether the term \"aerial supporting structures\" as used in RCW 35.99.060(3)(b) refers only to poles and pole-like structures or if it also includes any hardware used by a telecommunications company to attach its cable to a pole. Whether the city is required to reimburse a telecommunications company for the full cost of aerial to underground relocations.",
     "argument": "2006-05-23",
     "argument_day": "Tuesday, May 23, 2006",
+    "decision": "2006-08-10",
+    "decision_day": "Thursday, August 10, 2006",
+    "citation": "157 Wn.2d 545 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -1337,7 +2569,7 @@
     ]
   },
   {
-    "id": "2006-042",
+    "id": "2006-091",
     "title": "Cosmopolitan Eng'g Group, Inc. v. Ondeo Degremont, Inc.",
     "number": "77661-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060525",
@@ -1346,6 +2578,7 @@
     "argument_day": "Thursday, May 25, 2006",
     "decision": "2006-12-28",
     "decision_day": "Thursday, December 28, 2006",
+    "citation": "159 Wn.2d 292 (2006)",
     "score": "8-1",
     "votes": [
       {
@@ -1399,13 +2632,16 @@
     ]
   },
   {
-    "id": "2006-043",
+    "id": "2006-092",
     "title": "Go2Net, Inc. v. FreeYellow.com",
     "number": "77663-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060525",
     "questions": "In an action claiming that a seller violated the Securities Act of Washington by misrepresenting or omitting material facts prior to sale, may the seller assert the equitable defenses of waiver and estoppel?",
     "argument": "2006-05-25",
     "argument_day": "Thursday, May 25, 2006",
+    "decision": "2006-09-28",
+    "decision_day": "Thursday, September 28, 2006",
+    "citation": "158 Wn.2d 247 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -1420,7 +2656,7 @@
     ]
   },
   {
-    "id": "2006-044",
+    "id": "2006-093",
     "title": "State of Washington v. Crawford",
     "number": "77532-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060606",
@@ -1429,6 +2665,7 @@
     "argument_day": "Tuesday, June 6, 2006",
     "decision": "2006-12-07",
     "decision_day": "Thursday, December 7, 2006",
+    "citation": "159 Wn.2d 86 (2006)",
     "score": "5-4",
     "votes": [
       {
@@ -1482,8 +2719,8 @@
     ]
   },
   {
-    "id": "2006-045",
-    "title": "In re Detention of Audett, State v. Daniel Audett",
+    "id": "2006-094",
+    "title": "State of Washington v. Audett",
     "number": "77576-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060606",
     "questions": "Did the trial court have authority to order a second mental exam for respondent in sexually violent predator proceedings? If not, was it proper for the judge to allow the psychologist to testify at trial?",
@@ -1491,6 +2728,7 @@
     "argument_day": "Tuesday, June 6, 2006",
     "decision": "2006-11-30",
     "decision_day": "Thursday, November 30, 2006",
+    "citation": "158 Wn.2d 712 (2006)",
     "score": "8-1",
     "votes": [
       {
@@ -1544,13 +2782,16 @@
     ]
   },
   {
-    "id": "2006-046",
+    "id": "2006-095",
     "title": "Scoccolo Constr., Inc. v. City of Renton",
     "number": "77459-5",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060606",
     "questions": "Renton hired Scoccolo to perform a street widening project. Is Renton liable for costs incurred by Scoccolo as a result of delays caused by utilities operating under franchise agreements with the City?",
     "argument": "2006-06-06",
     "argument_day": "Tuesday, June 6, 2006",
+    "decision": "2006-10-26",
+    "decision_day": "Thursday, October 26, 2006",
+    "citation": "158 Wn.2d 506 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -1565,13 +2806,16 @@
     ]
   },
   {
-    "id": "2006-047",
+    "id": "2006-096",
     "title": "In re: Stephen Blanchard, Attorney at Law.",
     "number": "200,316-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060606",
     "questions": "What is the proper remedy when the Board fails to state its reasons for amending the Hearing Officer's recommendation? What is the proper sanction for Mr. Blanchard's violations of the Rules of Professional Conduct?",
     "argument": "2006-06-06",
     "argument_day": "Tuesday, June 6, 2006",
+    "decision": "2006-10-12",
+    "decision_day": "Thursday, October 12, 2006",
+    "citation": "158 Wn.2d 317 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -1586,7 +2830,7 @@
     ]
   },
   {
-    "id": "2006-048",
+    "id": "2006-097",
     "title": "State of Washington v. Tracy",
     "number": "77534-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060608",
@@ -1595,6 +2839,7 @@
     "argument_day": "Thursday, June 8, 2006",
     "decision": "2006-11-22",
     "decision_day": "Wednesday, November 22, 2006",
+    "citation": "158 Wn.2d 683 (2006)",
     "score": "6-3",
     "votes": [
       {
@@ -1648,7 +2893,7 @@
     ]
   },
   {
-    "id": "2006-049",
+    "id": "2006-098",
     "title": "State of Washington v. Brockob",
     "number": "78571-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060608",
@@ -1657,6 +2902,7 @@
     "argument_day": "Thursday, June 8, 2006",
     "decision": "2006-12-28",
     "decision_day": "Thursday, December 28, 2006",
+    "citation": "159 Wn.2d 311 (2006)",
     "score": "7-2",
     "votes": [
       {
@@ -1710,13 +2956,16 @@
     ]
   },
   {
-    "id": "2006-050",
+    "id": "2006-099",
     "title": "Interlake Sporting Ass'n v. Wash. State Boundary Review Bd.",
     "number": "78578-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060613",
     "questions": "The court must decide whether a boundary review board may order the wholesale expansion of acreage for a proposed annexation beyond the acreage designated in an annexation for petition. The court must decide whether, under statute, citizen consent is a pre-requisite for annexation.",
     "argument": "2006-06-13",
     "argument_day": "Tuesday, June 13, 2006",
+    "decision": "2006-11-09",
+    "decision_day": "Thursday, November 9, 2006",
+    "citation": "158 Wn.2d 545 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -1731,13 +2980,16 @@
     ]
   },
   {
-    "id": "2006-051",
+    "id": "2006-100",
     "title": "State of Washington v. French",
     "number": "78569-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060613",
     "questions": "Does a defendant who flees the jurisdiction after being convicted but before being sentenced waive his right to appeal the conviction? Did the trial court err in refusing to admit additional evidence of a witness' motive to lie? Does a defendant have the right to have extradition papers translated into English at public expense? Is child molestation a lesser included offense to child rape? Do the convictions of rape in this case constitute the \"same criminal conduct?\"",
     "argument": "2006-06-13",
     "argument_day": "Tuesday, June 13, 2006",
+    "decision": "2006-08-17",
+    "decision_day": "Thursday, August 17, 2006",
+    "citation": "157 Wn.2d 593 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -1752,13 +3004,16 @@
     ]
   },
   {
-    "id": "2006-052",
+    "id": "2006-101",
     "title": "City of Spokane v. Spokane County",
     "number": "77723-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060615",
     "questions": "Was an agreement between the City of Spokane and Spokane County adequate to satisfy a statutory prerequisite such that the City can replace the municipal department in Spokane County District Court with an independent city municipal court? If so, which court will have jurisdiction over municipal cases that remain open on the date the transfer occurs?",
     "argument": "2006-06-15",
     "argument_day": "Thursday, June 15, 2006",
+    "decision": "2006-11-16",
+    "decision_day": "Thursday, November 16, 2006",
+    "citation": "158 Wn.2d 661 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -1773,13 +3028,16 @@
     ]
   },
   {
-    "id": "2006-053",
+    "id": "2006-102",
     "title": "Wright v. Jeckle",
     "number": "78635-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060615",
     "questions": "Does RCW 19.68.010 prohibit Dr. Jeckle from selling prescription drugs to his patients for a profit?",
     "argument": "2006-06-15",
     "argument_day": "Thursday, June 15, 2006",
+    "decision": "2006-10-12",
+    "decision_day": "Thursday, October 12, 2006",
+    "citation": "158 Wn.2d 375 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -1794,7 +3052,7 @@
     ]
   },
   {
-    "id": "2006-054",
+    "id": "2006-103",
     "title": "State of Washington v. Dixon",
     "number": "77342-4",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060627",
@@ -1803,6 +3061,7 @@
     "argument_day": "Tuesday, June 27, 2006",
     "decision": "2006-12-07",
     "decision_day": "Thursday, December 7, 2006",
+    "citation": "159 Wn.2d 65 (2006)",
     "score": "6-3",
     "votes": [
       {
@@ -1856,7 +3115,7 @@
     ]
   },
   {
-    "id": "2006-055",
+    "id": "2006-104",
     "title": "State of Washington v. Nelson",
     "number": "77629-6",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060627",
@@ -1865,6 +3124,7 @@
     "argument_day": "Tuesday, June 27, 2006",
     "decision": "2006-11-22",
     "decision_day": "Wednesday, November 22, 2006",
+    "citation": "158 Wn.2d 699 (2006)",
     "score": "6-3",
     "votes": [
       {
@@ -1918,13 +3178,16 @@
     ]
   },
   {
-    "id": "2006-056",
+    "id": "2006-105",
     "title": "State of Washington v. Mendoza",
     "number": "77587-7",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060629",
     "questions": "May a defendant withdraw his guilty plea when the actual sentence he faces turns out to be lower than what the parties believed when the defendant entered the plea?",
     "argument": "2006-06-29",
     "argument_day": "Thursday, June 29, 2006",
+    "decision": "2006-08-17",
+    "decision_day": "Thursday, August 17, 2006",
+    "citation": "157 Wn.2d 582 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -1939,13 +3202,16 @@
     ]
   },
   {
-    "id": "2006-057",
+    "id": "2006-106",
     "title": "Cashmere Valley Bank v. Brender",
     "number": "77708-0",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060912",
     "questions": "Under the federal Truth in Lending Act loans for personal, family, and household purposes are subject to disclosure requirements; those primarily for business, commercial, or agricultural purposes are exempt. By what method should Washington courts determine whether an extension of credit is primarily for business or commercial purposes?",
     "argument": "2006-09-12",
     "argument_day": "Tuesday, September 12, 2006",
+    "decision": "2006-11-16",
+    "decision_day": "Thursday, November 16, 2006",
+    "citation": "158 Wn.2d 655 (2006)",
     "events": [
       {
         "source": "tvw",
@@ -1960,7 +3226,7 @@
     ]
   },
   {
-    "id": "2006-058",
+    "id": "2006-107",
     "title": "U.S. Tobacco Sales & Mktg. Co. v. Dep't of Revenue",
     "number": "77690-3",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060919",
@@ -1981,7 +3247,7 @@
     ]
   },
   {
-    "id": "2006-059",
+    "id": "2006-108",
     "title": "State of Washington v. Ervin",
     "number": "78062-5",
     "docket_url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20060921",
@@ -1989,6 +3255,7 @@
     "argument_day": "Thursday, September 21, 2006",
     "decision": "2006-11-30",
     "decision_day": "Thursday, November 30, 2006",
+    "citation": "158 Wn.2d 746 (2006)",
     "score": "9-0",
     "votes": [
       {
@@ -2042,7 +3309,7 @@
     ]
   },
   {
-    "id": "2006-060",
+    "id": "2006-109",
     "title": "Woldson v. Woodhead",
     "number": "77707-1",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061017",
@@ -2051,6 +3318,7 @@
     "argument_day": "Tuesday, October 17, 2006",
     "decision": "2006-12-21",
     "decision_day": "Thursday, December 21, 2006",
+    "citation": "159 Wn.2d 215 (2006)",
     "score": "9-0",
     "votes": [
       {
@@ -2105,7 +3373,7 @@
     ]
   },
   {
-    "id": "2006-061",
+    "id": "2006-110",
     "title": "State of Washington v. Swiger",
     "number": "78097-8",
     "docket_url": "http://www.courts.wa.gov/appellate_trial_courts/supreme/calendar/?fa=atc_supreme_calendar.display&year=2006&file=20061109",
@@ -2114,6 +3382,7 @@
     "argument_day": "Thursday, November 9, 2006",
     "decision": "2006-12-21",
     "decision_day": "Thursday, December 21, 2006",
+    "citation": "159 Wn.2d 224 (2006)",
     "score": "9-0",
     "votes": [
       {
@@ -2168,10 +3437,11 @@
     ]
   },
   {
-    "id": "2006-062",
+    "id": "2006-111",
     "title": "State v. Watson",
     "number": "78391-8",
     "decision": "2006-12-14",
-    "decision_day": "Thursday, December 14, 2006"
+    "decision_day": "Thursday, December 14, 2006",
+    "citation": "159 Wn.2d 162 (2006)"
   }
 ]

@@ -1,20 +1,380 @@
 {
+  "2003-01-23": [
+    {
+      "type": "argument",
+      "id": "2004-002",
+      "term": "2004",
+      "number": "72509-8",
+      "title": "State of Washington v. Rankin"
+    }
+  ],
   "2003-02-13": [
     {
       "type": "argument",
-      "id": "2004-001",
+      "id": "2004-003",
       "term": "2004",
       "number": "72614-1",
-      "title": "City of Redmond, v. Dean A. Moore; City of Redmond, v. Jason D. Wilson"
+      "title": "City of Redmond v. Moore"
+    }
+  ],
+  "2003-05-06": [
+    {
+      "type": "argument",
+      "id": "2004-004",
+      "term": "2004",
+      "number": "72807-1",
+      "title": "Butzberger v. Foster"
+    },
+    {
+      "type": "argument",
+      "id": "2004-005",
+      "term": "2004",
+      "number": "73412-7",
+      "title": "American Continental Insurance v. Steen"
+    }
+  ],
+  "2003-05-08": [
+    {
+      "type": "argument",
+      "id": "2004-006",
+      "term": "2004",
+      "number": "70727-8",
+      "title": "State of Washington v. Thomas"
+    }
+  ],
+  "2003-05-15": [
+    {
+      "type": "argument",
+      "id": "2004-007",
+      "term": "2004",
+      "number": "72984-1",
+      "title": "Barrett v. Lucky Seven Saloon, Inc."
+    }
+  ],
+  "2003-05-22": [
+    {
+      "type": "argument",
+      "id": "2004-008",
+      "term": "2004",
+      "number": "72588-8",
+      "title": "In re Grasso"
+    }
+  ],
+  "2003-06-10": [
+    {
+      "type": "argument",
+      "id": "2004-009",
+      "term": "2004",
+      "number": "72997-2",
+      "title": "State of Washington v. Thompson"
+    },
+    {
+      "type": "argument",
+      "id": "2004-010",
+      "term": "2004",
+      "number": "73413-5",
+      "title": "Sane Transit v. Sound Transit"
+    }
+  ],
+  "2003-06-12": [
+    {
+      "type": "argument",
+      "id": "2004-011",
+      "term": "2004",
+      "number": "73005-9",
+      "title": "City of Seattle v. Mighty Movers, Inc."
+    }
+  ],
+  "2003-06-24": [
+    {
+      "type": "argument",
+      "id": "2004-012",
+      "term": "2004",
+      "number": "72975-1",
+      "title": "State of Washington v. Porter"
+    }
+  ],
+  "2003-06-26": [
+    {
+      "type": "argument",
+      "id": "2004-013",
+      "term": "2004",
+      "number": "73177-2",
+      "title": "State of Washington v. Goins"
+    }
+  ],
+  "2003-09-09": [
+    {
+      "type": "argument",
+      "id": "2004-014",
+      "term": "2004",
+      "number": "73088-1",
+      "title": "Brooks v. State of Washington"
+    },
+    {
+      "type": "argument",
+      "id": "2004-015",
+      "term": "2004",
+      "number": "72992-1",
+      "title": "State of Washington v. Carter"
+    }
+  ],
+  "2003-09-11": [
+    {
+      "type": "argument",
+      "id": "2004-016",
+      "term": "2004",
+      "number": "72816-0",
+      "title": "State of Washington v. Ramer"
+    },
+    {
+      "type": "argument",
+      "id": "2004-017",
+      "term": "2004",
+      "number": "73202-7",
+      "title": "Seattle Police Officers Guild v. City of Seattle"
+    }
+  ],
+  "2003-09-18": [
+    {
+      "type": "argument",
+      "id": "2004-018",
+      "term": "2004",
+      "number": "73745-2",
+      "title": "State ex rel. Citizens v. Murphy"
+    },
+    {
+      "type": "argument",
+      "id": "2004-019",
+      "term": "2004",
+      "number": "73306-6",
+      "title": "Blaney v. International Ass'n of Machinists & Aerospace Workers"
+    },
+    {
+      "type": "argument",
+      "id": "2004-020",
+      "term": "2004",
+      "number": "73734-7",
+      "title": "Parkland Light & Water Co. v. Tacoma-Pierce County Board of Health"
+    }
+  ],
+  "2003-10-16": [
+    {
+      "type": "argument",
+      "id": "2004-021",
+      "term": "2004",
+      "number": "73345-7",
+      "title": "State of Washington v. Willis"
+    },
+    {
+      "type": "argument",
+      "id": "2004-022",
+      "term": "2004",
+      "number": "73085-7",
+      "title": "State of Washington v. Downing"
+    }
+  ],
+  "2003-10-21": [
+    {
+      "type": "argument",
+      "id": "2004-023",
+      "term": "2004",
+      "number": "73301-5",
+      "title": "State of Washington v. Kilburn"
+    },
+    {
+      "type": "argument",
+      "id": "2004-024",
+      "term": "2004",
+      "number": "73930-7",
+      "title": "Hangartner v. City of Seattle"
+    }
+  ],
+  "2003-10-22": [
+    {
+      "type": "argument",
+      "id": "2004-025",
+      "term": "2004",
+      "number": "73477-1",
+      "title": "Safeco Insurance v. Woodley"
+    },
+    {
+      "type": "argument",
+      "id": "2004-026",
+      "term": "2004",
+      "number": "73614-6",
+      "title": "Hamm v. State Farm Mutual Automobile Insurance"
+    }
+  ],
+  "2003-10-28": [
+    {
+      "type": "argument",
+      "id": "2004-027",
+      "term": "2004",
+      "number": "73504-2",
+      "title": "In re Petitioners"
+    },
+    {
+      "type": "argument",
+      "id": "2004-028",
+      "term": "2004",
+      "number": "73533-6",
+      "title": "State of Washington v. Goodman"
+    },
+    {
+      "type": "argument",
+      "id": "2004-029",
+      "term": "2004",
+      "number": "74079-8",
+      "title": "State of Washington v. Hanson"
+    }
+  ],
+  "2003-10-30": [
+    {
+      "type": "argument",
+      "id": "2004-030",
+      "term": "2004",
+      "number": "73531-0",
+      "title": "Estate of Otani v. Broudy"
+    },
+    {
+      "type": "argument",
+      "id": "2004-031",
+      "term": "2004",
+      "number": "73357-1",
+      "title": "Hisle v. Todd Pacific Shipyards Corp."
+    },
+    {
+      "type": "argument",
+      "id": "2004-032",
+      "term": "2004",
+      "number": "73197-7",
+      "title": "Arborwood Idaho v. State of Washington"
+    }
+  ],
+  "2003-11-13": [
+    {
+      "type": "argument",
+      "id": "2004-033",
+      "term": "2004",
+      "number": "73740-1",
+      "title": "Washington State Council v. Hahn"
+    },
+    {
+      "type": "argument",
+      "id": "2004-034",
+      "term": "2004",
+      "number": "73603-1",
+      "title": "Gary Anderson and Amelia Anderson, husband and wife, Appellants, v. Galvin Flying Service , a Washington corporation, Respondent"
+    },
+    {
+      "type": "argument",
+      "id": "2004-035",
+      "term": "2004",
+      "number": "73736-3",
+      "title": "John D. Carlisle (deceased), a single man by and through Delbert D. Carlisle as the personal representative of his estate; and Delbert D. Carlisle and Myrna L. Carlisle, individually, Appellants, v. Group Health Cooperative of Puget Sound and Unknown John Does, Respondents"
+    },
+    {
+      "type": "argument",
+      "id": "2004-036",
+      "term": "2004",
+      "number": "74098-4",
+      "title": "Nancy Loomis and Gerald Loomis, husband and wife, and as personal representatives of the Estate of Kelly Loomis, Plaintiff, v. City of Puyallup Police Department, a municipal corporation; Ambrose J. Seitz and “Jane Doe” Seitz, husband and wife; and Rodger Cool and “Jane Doe” Cool, husband and wife, Defendants"
+    },
+    {
+      "type": "argument",
+      "id": "2004-037",
+      "term": "2004",
+      "number": "73239-6",
+      "title": "Philippides v. Bernard"
+    },
+    {
+      "type": "argument",
+      "id": "2004-038",
+      "term": "2004",
+      "number": "73287-6",
+      "title": "Clark v. Baines"
+    },
+    {
+      "type": "argument",
+      "id": "2004-039",
+      "term": "2004",
+      "number": "73756-8",
+      "title": "Dreiling v. Jain"
+    }
+  ],
+  "2003-11-18": [
+    {
+      "type": "argument",
+      "id": "2004-040",
+      "term": "2004",
+      "number": "73522-1",
+      "title": "State of Washington v. Heritage"
+    },
+    {
+      "type": "argument",
+      "id": "2004-041",
+      "term": "2004",
+      "number": "73543-3",
+      "title": "Urban Development, Inc., v. Dryvit Systems, Inc."
+    },
+    {
+      "type": "argument",
+      "id": "2004-042",
+      "term": "2004",
+      "number": "73419-4",
+      "title": "Port of Seattle v. Pollution Control Hearings Board"
+    },
+    {
+      "type": "argument",
+      "id": "2005-001",
+      "term": "2005",
+      "number": "17502-1",
+      "title": "In re Disciplinary Proceeding Against Lopez"
     }
   ],
   "2003-11-19": [
     {
       "type": "argument",
-      "id": "2004-002",
+      "id": "2004-043",
+      "term": "2004",
+      "number": "73642-1",
+      "title": "State of Washington v. Tuupo"
+    },
+    {
+      "type": "argument",
+      "id": "2004-044",
       "term": "2004",
       "number": "74375-4",
-      "title": "State v. State"
+      "title": "State of Washington v. Varga"
+    },
+    {
+      "type": "argument",
+      "id": "2004-045",
+      "term": "2004",
+      "number": "74206-5",
+      "title": "Hurd v. State of Washington"
+    },
+    {
+      "type": "argument",
+      "id": "2004-046",
+      "term": "2004",
+      "number": "74204-9",
+      "title": "Campbell v. State of Washington"
+    },
+    {
+      "type": "argument",
+      "id": "2005-002",
+      "term": "2005",
+      "number": "73894-7",
+      "title": "State of Washington v. Mills"
+    },
+    {
+      "type": "argument",
+      "id": "2005-003",
+      "term": "2005",
+      "number": "73893-9",
+      "title": "State of Washington v. Davis"
     }
   ]
 }

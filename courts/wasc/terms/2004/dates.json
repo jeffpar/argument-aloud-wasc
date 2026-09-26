@@ -1,20 +1,475 @@
 {
+  "2004-01-13": [
+    {
+      "type": "argument",
+      "id": "2005-004",
+      "term": "2005",
+      "number": "73747-9",
+      "title": "James v. Kitsap County"
+    }
+  ],
   "2004-01-15": [
     {
       "type": "argument",
-      "id": "2005-001",
+      "id": "2005-005",
       "term": "2005",
       "number": "73839-4; 74231-6",
       "title": "State of Washington v. Roggenkamp"
+    },
+    {
+      "type": "argument",
+      "id": "2005-006",
+      "term": "2005",
+      "number": "73839-4",
+      "title": "State of Washington v. Roggenkamp"
+    },
+    {
+      "type": "argument",
+      "id": "2005-007",
+      "term": "2005",
+      "number": "74231-6",
+      "title": "State of Washington v. Clark"
+    },
+    {
+      "type": "argument",
+      "id": "2005-008",
+      "term": "2005",
+      "number": "73621-9",
+      "title": "Owen v. Burlington Northern Santa Fe Railroad"
+    }
+  ],
+  "2004-02-10": [
+    {
+      "type": "argument",
+      "id": "2005-009",
+      "term": "2005",
+      "number": "73944-7",
+      "title": "State of Washington v. Tvedt"
+    }
+  ],
+  "2004-02-19": [
+    {
+      "type": "argument",
+      "id": "2005-010",
+      "term": "2005",
+      "number": "73913-7",
+      "title": "Kitsap County v. Mattress Outlet"
+    }
+  ],
+  "2004-02-24": [
+    {
+      "type": "argument",
+      "id": "2005-011",
+      "term": "2005",
+      "number": "73906-4",
+      "title": "Grundy v. Thurston County"
+    },
+    {
+      "type": "argument",
+      "id": "2005-012",
+      "term": "2005",
+      "number": "74073-9",
+      "title": "Watch v. Skagit County"
+    }
+  ],
+  "2004-05-13": [
+    {
+      "type": "argument",
+      "id": "2005-013",
+      "term": "2005",
+      "number": "74208-1",
+      "title": "Mohr v. Grant"
+    }
+  ],
+  "2004-05-27": [
+    {
+      "type": "argument",
+      "id": "2005-014",
+      "term": "2005",
+      "number": "74176-0",
+      "title": "Joyce v. State of Washington"
+    },
+    {
+      "type": "argument",
+      "id": "2006-001",
+      "term": "2006",
+      "number": "74268-5",
+      "title": "State of Washington v. Washington Education"
+    },
+    {
+      "type": "argument",
+      "id": "2006-002",
+      "term": "2006",
+      "number": "74316-9",
+      "title": "State ex rel. Public Disclosure Commission v. Washington Education Ass'n"
+    }
+  ],
+  "2004-06-08": [
+    {
+      "type": "argument",
+      "id": "2005-015",
+      "term": "2005",
+      "number": "74408-4",
+      "title": "State of Washington v. Barnes"
+    },
+    {
+      "type": "argument",
+      "id": "2005-016",
+      "term": "2005",
+      "number": "74561-7",
+      "title": "State of Washington v. Willis"
+    }
+  ],
+  "2004-06-10": [
+    {
+      "type": "argument",
+      "id": "2005-017",
+      "term": "2005",
+      "number": "75384-9",
+      "title": "Washington State Grange v. Locke"
+    }
+  ],
+  "2004-06-22": [
+    {
+      "type": "argument",
+      "id": "2006-003",
+      "term": "2006",
+      "number": "71267-1",
+      "title": "State of Washington v. Cross"
+    }
+  ],
+  "2004-06-29": [
+    {
+      "type": "argument",
+      "id": "2005-018",
+      "term": "2005",
+      "number": "74554-4",
+      "title": "State of Washington v. Graham"
+    },
+    {
+      "type": "argument",
+      "id": "2005-019",
+      "term": "2005",
+      "number": "200064-9",
+      "title": "In re Disciplinary Proceeding Against Christopher"
+    }
+  ],
+  "2004-06-30": [
+    {
+      "type": "argument",
+      "id": "2005-020",
+      "term": "2005",
+      "number": "74126-3",
+      "title": "Born v. Thompson"
+    },
+    {
+      "type": "argument",
+      "id": "2005-021",
+      "term": "2005",
+      "number": "74280-4",
+      "title": "Thompson v. King Feed & Nutrition Service, Inc."
+    }
+  ],
+  "2004-09-14": [
+    {
+      "type": "argument",
+      "id": "2005-022",
+      "term": "2005",
+      "number": "74619-2",
+      "title": "Dickgieser v. State of Washington"
+    },
+    {
+      "type": "argument",
+      "id": "2005-023",
+      "term": "2005",
+      "number": "74611-7",
+      "title": "State of Washington v. Robinson"
+    }
+  ],
+  "2004-09-23": [
+    {
+      "type": "argument",
+      "id": "2005-024",
+      "term": "2005",
+      "number": "75214-1",
+      "title": "Christensen v. Royal School District No. 160"
+    },
+    {
+      "type": "argument",
+      "id": "2005-025",
+      "term": "2005",
+      "number": "74390-8",
+      "title": "State of Washington v. Law"
+    }
+  ],
+  "2004-09-28": [
+    {
+      "type": "argument",
+      "id": "2005-026",
+      "term": "2005",
+      "number": "74663-0",
+      "title": "Quadrant Corp. v. American States Insurance"
+    },
+    {
+      "type": "argument",
+      "id": "2005-027",
+      "term": "2005",
+      "number": "74861-6",
+      "title": "State of Washington v. Zumwalt"
+    },
+    {
+      "type": "argument",
+      "id": "2005-028",
+      "term": "2005",
+      "number": "74656-7",
+      "title": "State of Washington v. Freeman"
+    },
+    {
+      "type": "argument",
+      "id": "2005-029",
+      "term": "2005",
+      "number": "74731-8",
+      "title": "Burton v. Lehman"
+    },
+    {
+      "type": "argument",
+      "id": "2005-030",
+      "term": "2005",
+      "number": "74526-9",
+      "title": "Tiffany Family Trust Corp. v. City of Kent"
+    }
+  ],
+  "2004-09-30": [
+    {
+      "type": "argument",
+      "id": "2005-031",
+      "term": "2005",
+      "number": "74508-1",
+      "title": "In re Kolde"
+    },
+    {
+      "type": "argument",
+      "id": "2005-032",
+      "term": "2005",
+      "number": "74974-4",
+      "title": "Estate of Wylie v. State of Washington"
+    }
+  ],
+  "2004-10-19": [
+    {
+      "type": "argument",
+      "id": "2005-033",
+      "term": "2005",
+      "number": "74699-1",
+      "title": "Luby v. Da Silva"
+    },
+    {
+      "type": "argument",
+      "id": "2005-034",
+      "term": "2005",
+      "number": "74782-2",
+      "title": "Niemann v. Vaughn Community Church"
+    },
+    {
+      "type": "argument",
+      "id": "2005-035",
+      "term": "2005",
+      "number": "74478-5",
+      "title": "Agrilink Foods v. State of Washington"
+    }
+  ],
+  "2004-10-21": [
+    {
+      "type": "argument",
+      "id": "2005-036",
+      "term": "2005",
+      "number": "74890-0",
+      "title": "Prison Legal News, Inc. v. Department of Corrections"
+    },
+    {
+      "type": "argument",
+      "id": "2005-037",
+      "term": "2005",
+      "number": "74886-1",
+      "title": "State of Washington v. Woods"
+    },
+    {
+      "type": "argument",
+      "id": "2005-038",
+      "term": "2005",
+      "number": "74908-6",
+      "title": "Department of Labor & Industries v. Gongyin"
+    },
+    {
+      "type": "argument",
+      "id": "2005-039",
+      "term": "2005",
+      "number": "74907-8",
+      "title": "State of Washington v. Carter"
+    }
+  ],
+  "2004-10-26": [
+    {
+      "type": "argument",
+      "id": "2005-040",
+      "term": "2005",
+      "number": "74913-2",
+      "title": "State of Washington v. Grayson"
+    },
+    {
+      "type": "argument",
+      "id": "2005-041",
+      "term": "2005",
+      "number": "74698-2",
+      "title": "Ang v. Martin"
+    },
+    {
+      "type": "argument",
+      "id": "2005-042",
+      "term": "2005",
+      "number": "74934-5",
+      "title": "Bosteder v. City of Renton"
+    },
+    {
+      "type": "argument",
+      "id": "2005-043",
+      "term": "2005",
+      "number": "74857-8",
+      "title": "Vallandigham v. Clover Park School District No. 400"
+    }
+  ],
+  "2004-10-28": [
+    {
+      "type": "argument",
+      "id": "2005-044",
+      "term": "2005",
+      "number": "75061-1",
+      "title": "In re (gilbert)"
+    },
+    {
+      "type": "argument",
+      "id": "2005-045",
+      "term": "2005",
+      "number": "200096-7",
+      "title": "In re Disciplinary Proceeding Against Schwimmer"
+    },
+    {
+      "type": "argument",
+      "id": "2005-046",
+      "term": "2005",
+      "number": "75023-8",
+      "title": "State of Washington v. O'Connor"
     }
   ],
   "2004-11-09": [
     {
       "type": "argument",
-      "id": "2005-002",
+      "id": "2005-047",
+      "term": "2005",
+      "number": "75053-0",
+      "title": "State of Washington v. Selvidge"
+    },
+    {
+      "type": "argument",
+      "id": "2005-048",
+      "term": "2005",
+      "number": "200104-1",
+      "title": "In re Disability Proceeding Against Diamondstone"
+    },
+    {
+      "type": "argument",
+      "id": "2005-049",
       "term": "2005",
       "number": "74147-6; 75053-0; 75063-7",
       "title": "State of Washington v. Hughes"
+    },
+    {
+      "type": "argument",
+      "id": "2005-050",
+      "term": "2005",
+      "number": "74147-6",
+      "title": "State of Washington v. Hughes"
+    },
+    {
+      "type": "argument",
+      "id": "2005-051",
+      "term": "2005",
+      "number": "75340-7",
+      "title": "In re Lavery"
+    },
+    {
+      "type": "argument",
+      "id": "2005-052",
+      "term": "2005",
+      "number": "75063-7",
+      "title": "State of Washington v. Anderson"
+    }
+  ],
+  "2004-11-10": [
+    {
+      "type": "argument",
+      "id": "2005-053",
+      "term": "2005",
+      "number": "75459-4",
+      "title": "In re Petitioners"
+    },
+    {
+      "type": "argument",
+      "id": "2005-054",
+      "term": "2005",
+      "number": "75766-6",
+      "title": "In re Personal Restraint of Shawn Swenson"
+    },
+    {
+      "type": "argument",
+      "id": "2005-055",
+      "term": "2005",
+      "number": "74986-8",
+      "title": "Troxell v. Rainier Public School District No. 307"
+    },
+    {
+      "type": "argument",
+      "id": "2005-056",
+      "term": "2005",
+      "number": "74414-9",
+      "title": "State of Washington v. Gamble"
+    },
+    {
+      "type": "argument",
+      "id": "2005-057",
+      "term": "2005",
+      "number": "74851-9",
+      "title": "State of Washington v. Evans"
+    }
+  ],
+  "2004-11-16": [
+    {
+      "type": "argument",
+      "id": "2005-058",
+      "term": "2005",
+      "number": "75262-1",
+      "title": "In re Intervenor/"
+    },
+    {
+      "type": "argument",
+      "id": "2005-059",
+      "term": "2005",
+      "number": "75064-5",
+      "title": "Renshaw v. State of Washington"
+    },
+    {
+      "type": "argument",
+      "id": "2005-060",
+      "term": "2005",
+      "number": "74849-7",
+      "title": "Gallo v. Department of Labor & Industries"
+    },
+    {
+      "type": "argument",
+      "id": "2005-061",
+      "term": "2005",
+      "number": "75675-9",
+      "title": "Entertainment Industry Coalition v. Tacoma-Pierce County Health Department"
     }
   ]
 }
