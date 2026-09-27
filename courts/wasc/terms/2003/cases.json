@@ -10,6 +10,7 @@
     "decision": "2003-01-30",
     "decision_day": "Thursday, January 30, 2003",
     "citation": "148 Wn.2d 564 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -35,6 +36,7 @@
     "decision": "2003-01-16",
     "decision_day": "Thursday, January 16, 2003",
     "citation": "148 Wn.2d 403 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -60,6 +62,7 @@
     "decision": "2003-01-23",
     "decision_day": "Thursday, January 23, 2003",
     "citation": "148 Wn.2d 490 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -84,6 +87,7 @@
     "decision": "2003-04-17",
     "decision_day": "Thursday, April 17, 2003",
     "citation": "149 Wn.2d 148 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -109,6 +113,7 @@
     "decision": "2003-04-10",
     "decision_day": "Thursday, April 10, 2003",
     "citation": "149 Wn.2d 82 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -134,6 +139,7 @@
     "decision": "2003-05-01",
     "decision_day": "Thursday, May 1, 2003",
     "citation": "149 Wn.2d 288 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -159,6 +165,7 @@
     "decision": "2003-01-09",
     "decision_day": "Thursday, January 9, 2003",
     "citation": "148 Wn.2d 350 (2003)",
+    "bench": "alexander1",
     "events": [
       {
         "source": "tvw",
@@ -184,6 +191,7 @@
     "decision": "2003-07-10",
     "decision_day": "Thursday, July 10, 2003",
     "citation": "149 Wn.2d 724 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -209,6 +217,7 @@
     "decision": "2003-07-10",
     "decision_day": "Thursday, July 10, 2003",
     "citation": "149 Wn.2d 724 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -234,6 +243,7 @@
     "decision": "2003-07-10",
     "decision_day": "Thursday, July 10, 2003",
     "citation": "149 Wn.2d 724 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -259,6 +269,7 @@
     "decision": "2003-08-28",
     "decision_day": "Thursday, August 28, 2003",
     "citation": "150 Wn.2d 102 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -284,6 +295,7 @@
     "decision": "2003-07-10",
     "decision_day": "Thursday, July 10, 2003",
     "citation": "149 Wn.2d 724 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -308,7 +320,8 @@
     "argument_day": "Wednesday, May 29, 2002",
     "decision": "2003-07-10",
     "decision_day": "Thursday, July 10, 2003",
-    "citation": "149 Wn.2d 724 (2003)"
+    "citation": "149 Wn.2d 724 (2003)",
+    "bench": "alexander2"
   },
   {
     "id": "2003-014",
@@ -321,6 +334,7 @@
     "decision": "2003-07-10",
     "decision_day": "Thursday, July 10, 2003",
     "citation": "149 Wn.2d 724 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -346,6 +360,7 @@
     "decision": "2003-03-06",
     "decision_day": "Thursday, March 6, 2003",
     "citation": "148 Wn.2d 788 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -371,6 +386,7 @@
     "decision": "2003-03-06",
     "decision_day": "Thursday, March 6, 2003",
     "citation": "148 Wn.2d 760 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -396,6 +412,7 @@
     "decision": "2003-05-22",
     "decision_day": "Thursday, May 22, 2003",
     "citation": "149 Wn.2d 381 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -421,6 +438,7 @@
     "decision": "2003-02-06",
     "decision_day": "Thursday, February 6, 2003",
     "citation": "148 Wn.2d 672 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -446,6 +464,7 @@
     "decision": "2003-01-30",
     "decision_day": "Thursday, January 30, 2003",
     "citation": "148 Wn.2d 602 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -472,6 +491,7 @@
     "decision": "2003-04-03",
     "decision_day": "Thursday, April 3, 2003",
     "citation": "149 Wn.2d 130 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -498,6 +518,7 @@
     "decision": "2003-04-10",
     "decision_day": "Thursday, April 10, 2003",
     "citation": "149 Wn.2d 67 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -524,6 +545,7 @@
     "decision": "2003-04-03",
     "decision_day": "Thursday, April 3, 2003",
     "citation": "149 Wn.2d 29 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -550,6 +572,7 @@
     "decision": "2003-03-13",
     "decision_day": "Thursday, March 13, 2003",
     "citation": "148 Wn.2d 911 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -576,6 +599,7 @@
     "decision": "2003-05-15",
     "decision_day": "Thursday, May 15, 2003",
     "citation": "149 Wn.2d 402 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -602,6 +626,7 @@
     "decision": "2003-02-06",
     "decision_day": "Thursday, February 6, 2003",
     "citation": "148 Wn.2d 654 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -628,6 +653,7 @@
     "decision": "2003-05-08",
     "decision_day": "Thursday, May 8, 2003",
     "citation": "149 Wn.2d 359 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -654,6 +680,7 @@
     "decision": "2003-03-06",
     "decision_day": "Thursday, March 6, 2003",
     "citation": "148 Wn.2d 803 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -680,6 +707,7 @@
     "decision": "2003-01-23",
     "decision_day": "Thursday, January 23, 2003",
     "citation": "148 Wn.2d 451 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -705,6 +733,7 @@
     "decision": "2003-06-05",
     "decision_day": "Thursday, June 5, 2003",
     "citation": "149 Wn.2d 521 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -731,6 +760,7 @@
     "decision": "2003-02-20",
     "decision_day": "Thursday, February 20, 2003",
     "citation": "148 Wn.2d 723 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -757,6 +787,7 @@
     "decision": "2003-03-06",
     "decision_day": "Thursday, March 6, 2003",
     "citation": "148 Wn.2d 820 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -783,6 +814,7 @@
     "decision": "2003-01-23",
     "decision_day": "Thursday, January 23, 2003",
     "citation": "148 Wn.2d 528 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -809,6 +841,7 @@
     "decision": "2003-04-10",
     "decision_day": "Thursday, April 10, 2003",
     "citation": "149 Wn.2d 135 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -835,6 +868,7 @@
     "decision": "2003-06-26",
     "decision_day": "Thursday, June 26, 2003",
     "citation": "149 Wn.2d 660 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -861,6 +895,7 @@
     "decision": "2003-02-13",
     "decision_day": "Thursday, February 13, 2003",
     "citation": "148 Wn.2d 701 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -887,6 +922,7 @@
     "decision": "2003-03-13",
     "decision_day": "Thursday, March 13, 2003",
     "citation": "149 Wn.2d 1 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -913,6 +949,7 @@
     "decision": "2003-03-13",
     "decision_day": "Thursday, March 13, 2003",
     "citation": "149 Wn.2d 1 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -939,6 +976,7 @@
     "decision": "2003-03-06",
     "decision_day": "Thursday, March 6, 2003",
     "citation": "148 Wn.2d 849 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -965,6 +1003,7 @@
     "decision": "2003-01-09",
     "decision_day": "Thursday, January 9, 2003",
     "citation": "148 Wn.2d 383 (2003)",
+    "bench": "alexander1",
     "events": [
       {
         "source": "tvw",
@@ -991,6 +1030,7 @@
     "decision": "2003-03-13",
     "decision_day": "Thursday, March 13, 2003",
     "citation": "148 Wn.2d 929 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1017,6 +1057,7 @@
     "decision": "2003-04-03",
     "decision_day": "Thursday, April 3, 2003",
     "citation": "149 Wn.2d 38 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1043,6 +1084,7 @@
     "decision": "2003-06-05",
     "decision_day": "Thursday, June 5, 2003",
     "citation": "149 Wn.2d 458 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1131,6 +1173,7 @@
     "decision": "2003-03-06",
     "decision_day": "Thursday, March 6, 2003",
     "citation": "148 Wn.2d 876 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1157,6 +1200,7 @@
     "decision": "2003-07-17",
     "decision_day": "Thursday, July 17, 2003",
     "citation": "149 Wn.2d 842 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1183,6 +1227,7 @@
     "decision": "2003-02-27",
     "decision_day": "Thursday, February 27, 2003",
     "citation": "148 Wn.2d 738 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1209,6 +1254,7 @@
     "decision": "2003-03-27",
     "decision_day": "Thursday, March 27, 2003",
     "citation": "149 Wn.2d 123 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1235,6 +1281,7 @@
     "decision": "2003-03-06",
     "decision_day": "Thursday, March 6, 2003",
     "citation": "148 Wn.2d 835 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1261,6 +1308,7 @@
     "decision": "2003-03-06",
     "decision_day": "Thursday, March 6, 2003",
     "citation": "148 Wn.2d 887 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1286,7 +1334,8 @@
     "argument_day": "Tuesday, November 19, 2002",
     "decision": "2003-12-18",
     "decision_day": "Thursday, December 18, 2003",
-    "citation": "150 Wn.2d 689 (2003)"
+    "citation": "150 Wn.2d 689 (2003)",
+    "bench": "alexander2"
   },
   {
     "id": "2003-051",
@@ -1299,6 +1348,7 @@
     "decision": "2003-06-19",
     "decision_day": "Thursday, June 19, 2003",
     "citation": "149 Wn.2d 622 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1324,7 +1374,8 @@
     "argument_day": "Thursday, November 21, 2002",
     "decision": "2003-01-23",
     "decision_day": "Thursday, January 23, 2003",
-    "citation": "148 Wn.2d 550 (2003)"
+    "citation": "148 Wn.2d 550 (2003)",
+    "bench": "alexander2"
   },
   {
     "id": "2003-053",
@@ -1337,6 +1388,7 @@
     "decision": "2003-02-20",
     "decision_day": "Thursday, February 20, 2003",
     "citation": "149 Wn.2d 98 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1363,6 +1415,7 @@
     "decision": "2003-04-03",
     "decision_day": "Thursday, April 3, 2003",
     "citation": "149 Wn.2d 48 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1389,6 +1442,7 @@
     "decision": "2003-04-17",
     "decision_day": "Thursday, April 17, 2003",
     "citation": "149 Wn.2d 178 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1415,6 +1469,7 @@
     "decision": "2003-09-04",
     "decision_day": "Thursday, September 4, 2003",
     "citation": "150 Wn.2d 159 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1441,6 +1496,7 @@
     "decision": "2003-03-20",
     "decision_day": "Thursday, March 20, 2003",
     "citation": "149 Wn.2d 17 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1466,6 +1522,7 @@
     "decision": "2003-04-24",
     "decision_day": "Thursday, April 24, 2003",
     "citation": "149 Wn.2d 237 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1492,6 +1549,7 @@
     "decision": "2003-06-05",
     "decision_day": "Thursday, June 5, 2003",
     "citation": "149 Wn.2d 557 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1518,6 +1576,7 @@
     "decision": "2003-09-11",
     "decision_day": "Thursday, September 11, 2003",
     "citation": "150 Wn.2d 221 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1544,6 +1603,7 @@
     "decision": "2003-10-02",
     "decision_day": "Thursday, October 2, 2003",
     "citation": "150 Wn.2d 337 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1570,6 +1630,7 @@
     "decision": "2003-04-17",
     "decision_day": "Thursday, April 17, 2003",
     "citation": "149 Wn.2d 192 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1595,6 +1656,7 @@
     "decision": "2003-04-24",
     "decision_day": "Thursday, April 24, 2003",
     "citation": "149 Wn.2d 262 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1620,6 +1682,7 @@
     "decision": "2003-07-10",
     "decision_day": "Thursday, July 10, 2003",
     "citation": "149 Wn.2d 707 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1676,6 +1739,7 @@
     "decision": "2003-08-21",
     "decision_day": "Thursday, August 21, 2003",
     "citation": "150 Wn.2d 41 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1701,6 +1765,7 @@
     "decision": "2003-05-08",
     "decision_day": "Thursday, May 8, 2003",
     "citation": "149 Wn.2d 323 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1727,6 +1792,7 @@
     "decision": "2003-07-10",
     "decision_day": "Thursday, July 10, 2003",
     "citation": "149 Wn.2d 775 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1752,6 +1818,7 @@
     "decision": "2003-04-17",
     "decision_day": "Thursday, April 17, 2003",
     "citation": "149 Wn.2d 204 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1778,6 +1845,7 @@
     "decision": "2003-06-12",
     "decision_day": "Thursday, June 12, 2003",
     "citation": "149 Wn.2d 607 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1804,6 +1872,7 @@
     "decision": "2003-05-08",
     "decision_day": "Thursday, May 8, 2003",
     "citation": "149 Wn.2d 342 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1829,6 +1898,7 @@
     "decision": "2003-04-17",
     "decision_day": "Thursday, April 17, 2003",
     "citation": "149 Wn.2d 214 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1855,6 +1925,7 @@
     "decision": "2003-08-14",
     "decision_day": "Thursday, August 14, 2003",
     "citation": "150 Wn.2d 1 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1881,6 +1952,7 @@
     "decision": "2003-09-11",
     "decision_day": "Thursday, September 11, 2003",
     "citation": "150 Wn.2d 237 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1907,6 +1979,7 @@
     "decision": "2003-06-19",
     "decision_day": "Thursday, June 19, 2003",
     "citation": "149 Wn.2d 647 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1933,6 +2006,7 @@
     "decision": "2003-07-24",
     "decision_day": "Thursday, July 24, 2003",
     "citation": "149 Wn.2d 873 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1959,6 +2033,7 @@
     "decision": "2003-09-11",
     "decision_day": "Thursday, September 11, 2003",
     "citation": "150 Wn.2d 288 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -1985,6 +2060,7 @@
     "decision": "2003-06-05",
     "decision_day": "Thursday, June 5, 2003",
     "citation": "149 Wn.2d 477 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2011,6 +2087,7 @@
     "decision": "2003-05-22",
     "decision_day": "Thursday, May 22, 2003",
     "citation": "149 Wn.2d 431 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2037,6 +2114,7 @@
     "decision": "2003-09-11",
     "decision_day": "Thursday, September 11, 2003",
     "citation": "150 Wn.2d 288 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2063,6 +2141,7 @@
     "decision": "2003-04-17",
     "decision_day": "Thursday, April 17, 2003",
     "citation": "149 Wn.2d 230 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2089,6 +2168,7 @@
     "decision": "2003-07-03",
     "decision_day": "Thursday, July 3, 2003",
     "citation": "149 Wn.2d 695 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2115,6 +2195,7 @@
     "decision": "2003-08-28",
     "decision_day": "Thursday, August 28, 2003",
     "citation": "150 Wn.2d 135 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2141,6 +2222,7 @@
     "decision": "2003-09-04",
     "decision_day": "Thursday, September 4, 2003",
     "citation": "150 Wn.2d 181 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2166,6 +2248,7 @@
     "decision": "2003-06-12",
     "decision_day": "Thursday, June 12, 2003",
     "citation": "149 Wn.2d 575 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2191,7 +2274,8 @@
     "argument_day": "Thursday, March 13, 2003",
     "decision": "2003-06-19",
     "decision_day": "Thursday, June 19, 2003",
-    "citation": "149 Wn.2d 896 (2003)"
+    "citation": "149 Wn.2d 896 (2003)",
+    "bench": "alexander2"
   },
   {
     "id": "2003-088",
@@ -2203,6 +2287,7 @@
     "decision": "2003-07-17",
     "decision_day": "Thursday, July 17, 2003",
     "citation": "149 Wn.2d 793 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2229,6 +2314,7 @@
     "decision": "2003-08-21",
     "decision_day": "Thursday, August 21, 2003",
     "citation": "150 Wn.2d 71 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2255,6 +2341,7 @@
     "decision": "2003-05-22",
     "decision_day": "Thursday, May 22, 2003",
     "citation": "149 Wn.2d 395 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2303,7 +2390,8 @@
     "argument_day": "Tuesday, March 25, 2003",
     "decision": "2003-05-22",
     "decision_day": "Thursday, May 22, 2003",
-    "citation": "149 Wn.2d 444 (2003)"
+    "citation": "149 Wn.2d 444 (2003)",
+    "bench": "alexander2"
   },
   {
     "id": "2003-093",
@@ -2316,6 +2404,7 @@
     "decision": "2003-11-06",
     "decision_day": "Thursday, November 6, 2003",
     "citation": "150 Wn.2d 448 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2342,6 +2431,7 @@
     "decision": "2003-08-07",
     "decision_day": "Thursday, August 7, 2003",
     "citation": "149 Wn.2d 914 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2368,6 +2458,7 @@
     "decision": "2003-08-07",
     "decision_day": "Thursday, August 7, 2003",
     "citation": "149 Wn.2d 906 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2394,6 +2485,7 @@
     "decision": "2003-07-17",
     "decision_day": "Thursday, July 17, 2003",
     "citation": "149 Wn.2d 827 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2420,6 +2512,7 @@
     "decision": "2003-08-14",
     "decision_day": "Thursday, August 14, 2003",
     "citation": "150 Wn.2d 29 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2512,6 +2605,7 @@
     "decision": "2003-10-30",
     "decision_day": "Thursday, October 30, 2003",
     "citation": "150 Wn.2d 409 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2538,6 +2632,7 @@
     "decision": "2003-11-06",
     "decision_day": "Thursday, November 6, 2003",
     "citation": "150 Wn.2d 489 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2564,6 +2659,7 @@
     "decision": "2003-10-09",
     "decision_day": "Thursday, October 9, 2003",
     "citation": "150 Wn.2d 360 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2590,6 +2686,7 @@
     "decision": "2003-09-25",
     "decision_day": "Thursday, September 25, 2003",
     "citation": "150 Wn.2d 310 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2616,6 +2713,7 @@
     "decision": "2003-11-20",
     "decision_day": "Thursday, November 20, 2003",
     "citation": "150 Wn.2d 559 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2642,6 +2740,7 @@
     "decision": "2003-11-13",
     "decision_day": "Thursday, November 13, 2003",
     "citation": "150 Wn.2d 498 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2668,6 +2767,7 @@
     "decision": "2003-11-13",
     "decision_day": "Thursday, November 13, 2003",
     "citation": "150 Wn.2d 540 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2694,6 +2794,7 @@
     "decision": "2003-11-13",
     "decision_day": "Thursday, November 13, 2003",
     "citation": "150 Wn.2d 540 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2720,6 +2821,7 @@
     "decision": "2003-07-24",
     "decision_day": "Thursday, July 24, 2003",
     "citation": "149 Wn.2d 888 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2746,6 +2848,7 @@
     "decision": "2003-09-11",
     "decision_day": "Thursday, September 11, 2003",
     "citation": "150 Wn.2d 251 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2772,6 +2875,7 @@
     "decision": "2003-11-06",
     "decision_day": "Thursday, November 6, 2003",
     "citation": "150 Wn.2d 478 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2821,6 +2925,7 @@
     "decision": "2003-11-06",
     "decision_day": "Thursday, November 6, 2003",
     "citation": "150 Wn.2d 462 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2869,6 +2974,7 @@
     "decision": "2003-10-23",
     "decision_day": "Thursday, October 23, 2003",
     "citation": "150 Wn.2d 375 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2895,6 +3001,7 @@
     "decision": "2003-09-11",
     "decision_day": "Thursday, September 11, 2003",
     "citation": "150 Wn.2d 277 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2921,6 +3028,7 @@
     "decision": "2003-09-04",
     "decision_day": "Thursday, September 4, 2003",
     "citation": "150 Wn.2d 197 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2947,6 +3055,7 @@
     "decision": "2003-08-21",
     "decision_day": "Thursday, August 21, 2003",
     "citation": "150 Wn.2d 91 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2973,6 +3082,7 @@
     "decision": "2003-12-11",
     "decision_day": "Thursday, December 11, 2003",
     "citation": "150 Wn.2d 612 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -2999,6 +3109,7 @@
     "decision": "2003-08-21",
     "decision_day": "Thursday, August 21, 2003",
     "citation": "150 Wn.2d 59 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -3047,6 +3158,7 @@
     "decision": "2003-12-11",
     "decision_day": "Thursday, December 11, 2003",
     "citation": "150 Wn.2d 626 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -3073,6 +3185,7 @@
     "decision": "2003-10-30",
     "decision_day": "Thursday, October 30, 2003",
     "citation": "150 Wn.2d 422 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -3099,6 +3212,7 @@
     "decision": "2003-12-04",
     "decision_day": "Thursday, December 4, 2003",
     "citation": "150 Wn.2d 583 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -3125,6 +3239,7 @@
     "decision": "2003-12-04",
     "decision_day": "Thursday, December 4, 2003",
     "citation": "150 Wn.2d 583 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -3173,6 +3288,7 @@
     "decision": "2003-11-13",
     "decision_day": "Thursday, November 13, 2003",
     "citation": "150 Wn.2d 518 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -3199,6 +3315,7 @@
     "decision": "2003-09-25",
     "decision_day": "Thursday, September 25, 2003",
     "citation": "150 Wn.2d 325 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -3225,6 +3342,7 @@
     "decision": "2003-12-11",
     "decision_day": "Thursday, December 11, 2003",
     "citation": "150 Wn.2d 674 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -3251,6 +3369,7 @@
     "decision": "2003-12-18",
     "decision_day": "Thursday, December 18, 2003",
     "citation": "150 Wn.2d 716 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -3276,6 +3395,7 @@
     "decision": "2003-12-11",
     "decision_day": "Thursday, December 11, 2003",
     "citation": "150 Wn.2d 666 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",
@@ -3301,7 +3421,8 @@
     "argument_day": "Tuesday, October 21, 2003",
     "decision": "2003-12-11",
     "decision_day": "Thursday, December 11, 2003",
-    "citation": "150 Wn.2d 604 (2003)"
+    "citation": "150 Wn.2d 604 (2003)",
+    "bench": "alexander2"
   },
   {
     "id": "2003-131",
@@ -3314,6 +3435,7 @@
     "decision": "2003-12-11",
     "decision_day": "Thursday, December 11, 2003",
     "citation": "150 Wn.2d 599 (2003)",
+    "bench": "alexander2",
     "events": [
       {
         "source": "tvw",

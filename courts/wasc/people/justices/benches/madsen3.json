@@ -1,0 +1,40 @@
+{
+  "details": {
+    "page": "/courts/wasc/justices/benches/?id=madsen3"
+  },
+  "highlights": [],
+  "cases": [
+    {
+      "title": "State of Washington v. Gresham (2012)",
+      "term": "2012",
+      "number": "84148-9",
+      "argument": "2011-03-17",
+      "decision": "2012-01-05",
+      "score": "7-2"
+    },
+    {
+      "title": "McCleary v. Washington (2012)",
+      "term": "2012",
+      "number": "84362-7",
+      "argument": "2011-06-28",
+      "decision": "2012-01-05",
+      "score": "9-0"
+    },
+    {
+      "title": "Townsend v. Quadrant Corp. (2012)",
+      "term": "2012",
+      "number": "84422-4",
+      "argument": "2011-05-19",
+      "decision": "2012-01-05",
+      "score": "9-0"
+    },
+    {
+      "title": "State of Washington v. Griffin (2012)",
+      "term": "2012",
+      "number": "84554-9",
+      "argument": "2011-05-10",
+      "decision": "2012-01-05",
+      "score": "9-0"
+    }
+  ]
+}

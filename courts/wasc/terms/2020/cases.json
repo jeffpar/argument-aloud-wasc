@@ -10,6 +10,7 @@
     "decision": "2020-02-27",
     "decision_day": "Thursday, February 27, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/950806.pdf",
+    "bench": "stephens1",
     "score": "9-0",
     "votes": [
       {
@@ -70,6 +71,7 @@
     "decision": "2020-01-16",
     "decision_day": "Thursday, January 16, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/958858.pdf",
+    "bench": "stephens1",
     "score": "5-4",
     "votes": [
       {
@@ -130,6 +132,7 @@
     "decision": "2020-01-09",
     "decision_day": "Thursday, January 9, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/963444.pdf",
+    "bench": "stephens1",
     "score": "5-4",
     "votes": [
       {
@@ -194,6 +197,7 @@
     "decision": "2020-01-16",
     "decision_day": "Thursday, January 16, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/963835.pdf",
+    "bench": "stephens1",
     "score": "5-4",
     "votes": [
       {
@@ -254,6 +258,7 @@
     "decision": "2020-02-06",
     "decision_day": "Thursday, February 6, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/967750.pdf",
+    "bench": "stephens1",
     "score": "6-3",
     "votes": [
       {
@@ -314,6 +319,7 @@
     "decision": "2020-02-13",
     "decision_day": "Thursday, February 13, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/971951.pdf",
+    "bench": "stephens1",
     "score": "7-2",
     "votes": [
       {
@@ -374,6 +380,7 @@
     "decision": "2020-01-30",
     "decision_day": "Thursday, January 30, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/967091.pdf",
+    "bench": "stephens1",
     "score": "9-0",
     "votes": [
       {
@@ -434,6 +441,7 @@
     "decision": "2020-05-07",
     "decision_day": "Thursday, May 7, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/967261.pdf",
+    "bench": "stephens3",
     "score": "6-3",
     "votes": [
       {
@@ -490,6 +498,7 @@
     "decision": "2020-01-30",
     "decision_day": "Thursday, January 30, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/969434.pdf",
+    "bench": "stephens1",
     "score": "5-4",
     "votes": [
       {
@@ -550,6 +559,7 @@
     "decision": "2020-04-30",
     "decision_day": "Thursday, April 30, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/966630.pdf",
+    "bench": "stephens3",
     "score": "6-3",
     "votes": [
       {
@@ -610,6 +620,7 @@
     "decision": "2020-01-23",
     "decision_day": "Thursday, January 23, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/968306.pdf",
+    "bench": "stephens1",
     "score": "9-0",
     "votes": [
       {
@@ -670,6 +681,7 @@
     "decision": "2020-04-16",
     "decision_day": "Thursday, April 16, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/966044.pdf",
+    "bench": "stephens2",
     "score": "5-4",
     "votes": [
       {
@@ -730,6 +742,7 @@
     "decision": "2020-03-26",
     "decision_day": "Thursday, March 26, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/968535.pdf",
+    "bench": "stephens1",
     "score": "9-0",
     "votes": [
       {
@@ -790,6 +803,7 @@
     "decision": "2020-03-19",
     "decision_day": "Thursday, March 19, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/967776.pdf",
+    "bench": "stephens1",
     "events": [
       {
         "source": "tvw",
@@ -815,6 +829,7 @@
     "decision": "2020-11-05",
     "decision_day": "Thursday, November 5, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/962677.pdf",
+    "bench": "stephens3",
     "score": "5-4",
     "votes": [
       {
@@ -871,6 +886,7 @@
     "decision": "2020-04-09",
     "decision_day": "Thursday, April 9, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/969906.pdf",
+    "bench": "stephens2",
     "score": "6-3",
     "votes": [
       {
@@ -931,6 +947,7 @@
     "decision": "2020-06-25",
     "decision_day": "Thursday, June 25, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/967661.pdf",
+    "bench": "stephens3",
     "score": "9-0",
     "votes": [
       {
@@ -995,6 +1012,7 @@
     "decision": "2020-04-02",
     "decision_day": "Thursday, April 2, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/964645.pdf",
+    "bench": "stephens2",
     "score": "9-0",
     "votes": [
       {
@@ -1055,6 +1073,7 @@
     "decision": "2020-03-19",
     "decision_day": "Thursday, March 19, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/968217.pdf",
+    "bench": "stephens1",
     "events": [
       {
         "source": "tvw",
@@ -1080,6 +1099,7 @@
     "decision": "2020-02-27",
     "decision_day": "Thursday, February 27, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/969809.pdf",
+    "bench": "stephens1",
     "score": "9-0",
     "votes": [
       {
@@ -1140,6 +1160,7 @@
     "decision": "2020-07-02",
     "decision_day": "Thursday, July 2, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/966699.pdf",
+    "bench": "stephens3",
     "score": "7-2",
     "votes": [
       {
@@ -1196,6 +1217,7 @@
     "decision": "2020-02-27",
     "decision_day": "Thursday, February 27, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/971480.pdf",
+    "bench": "stephens1",
     "score": "6-3",
     "votes": [
       {
@@ -1256,6 +1278,7 @@
     "decision": "2020-01-23",
     "decision_day": "Thursday, January 23, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/971501.pdf",
+    "bench": "stephens1",
     "events": [
       {
         "source": "tvw",
@@ -1281,6 +1304,7 @@
     "decision": "2020-02-20",
     "decision_day": "Thursday, February 20, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/971838.pdf",
+    "bench": "stephens1",
     "score": "1-0",
     "votes": [
       {
@@ -1313,6 +1337,7 @@
     "decision": "2020-11-12",
     "decision_day": "Thursday, November 12, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/972770.pdf",
+    "bench": "stephens3",
     "score": "9-0",
     "votes": [
       {
@@ -1369,6 +1394,7 @@
     "decision": "2020-04-23",
     "decision_day": "Thursday, April 23, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/973750.pdf",
+    "bench": "stephens2",
     "score": "5-4",
     "votes": [
       {
@@ -1433,6 +1459,7 @@
     "decision": "2020-06-18",
     "decision_day": "Thursday, June 18, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/965854.pdf",
+    "bench": "stephens3",
     "score": "6-3",
     "votes": [
       {
@@ -1493,6 +1520,7 @@
     "decision": "2020-02-20",
     "decision_day": "Thursday, February 20, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/2018726.pdf",
+    "bench": "stephens1",
     "score": "9-0",
     "votes": [
       {
@@ -1540,6 +1568,7 @@
     "decision": "2020-04-16",
     "decision_day": "Thursday, April 16, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/974101.pdf",
+    "bench": "stephens2",
     "score": "9-0",
     "votes": [
       {
@@ -1626,6 +1655,7 @@
     "decision": "2020-04-30",
     "decision_day": "Thursday, April 30, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/972834.pdf",
+    "bench": "stephens3",
     "score": "5-4",
     "votes": [
       {
@@ -1690,6 +1720,7 @@
     "decision": "2020-08-20",
     "decision_day": "Thursday, August 20, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/974292.pdf",
+    "bench": "stephens3",
     "events": [
       {
         "source": "tvw",
@@ -1715,6 +1746,7 @@
     "decision": "2020-05-14",
     "decision_day": "Thursday, May 14, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/974632.pdf",
+    "bench": "stephens3",
     "score": "6-3",
     "votes": [
       {
@@ -1775,6 +1807,7 @@
     "decision": "2020-08-13",
     "decision_day": "Thursday, August 13, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/975329.pdf",
+    "bench": "stephens3",
     "score": "5-4",
     "votes": [
       {
@@ -1835,6 +1868,7 @@
     "decision": "2020-09-17",
     "decision_day": "Thursday, September 17, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/972052.pdf",
+    "bench": "stephens3",
     "score": "6-3",
     "votes": [
       {
@@ -1895,6 +1929,7 @@
     "decision": "2020-06-04",
     "decision_day": "Thursday, June 4, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/973113.pdf",
+    "bench": "stephens3",
     "score": "6-3",
     "votes": [
       {
@@ -1955,6 +1990,7 @@
     "decision": "2020-09-17",
     "decision_day": "Thursday, September 17, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/955786.pdf",
+    "bench": "stephens3",
     "score": "6-3",
     "votes": [
       {
@@ -2015,6 +2051,7 @@
     "decision": "2020-09-17",
     "decision_day": "Thursday, September 17, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/975175.pdf",
+    "bench": "stephens3",
     "score": "5-4",
     "votes": [
       {
@@ -2075,6 +2112,7 @@
     "decision": "2020-04-16",
     "decision_day": "Thursday, April 16, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/973237.pdf",
+    "bench": "stephens2",
     "score": "9-0",
     "votes": [
       {
@@ -2139,6 +2177,7 @@
     "decision": "2020-05-21",
     "decision_day": "Thursday, May 21, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/975639.pdf",
+    "bench": "stephens3",
     "score": "9-0",
     "votes": [
       {
@@ -2199,6 +2238,7 @@
     "decision": "2020-10-08",
     "decision_day": "Thursday, October 8, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/970661.pdf",
+    "bench": "stephens3",
     "score": "5-4",
     "votes": [
       {
@@ -2263,6 +2303,7 @@
     "decision": "2020-07-23",
     "decision_day": "Thursday, July 23, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/977313.pdf",
+    "bench": "stephens3",
     "score": "9-0",
     "votes": [
       {
@@ -2327,6 +2368,7 @@
     "decision": "2020-09-17",
     "decision_day": "Thursday, September 17, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/974527.pdf",
+    "bench": "stephens3",
     "score": "9-0",
     "votes": [
       {
@@ -2391,6 +2433,7 @@
     "decision": "2020-08-06",
     "decision_day": "Thursday, August 6, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/976848.pdf",
+    "bench": "stephens3",
     "score": "9-0",
     "votes": [
       {
@@ -2455,6 +2498,7 @@
     "decision": "2020-10-15",
     "decision_day": "Thursday, October 15, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/975990.pdf",
+    "bench": "stephens3",
     "score": "9-0",
     "votes": [
       {
@@ -2519,6 +2563,7 @@
     "decision": "2020-08-06",
     "decision_day": "Thursday, August 6, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/975574.pdf",
+    "bench": "stephens3",
     "score": "9-0",
     "votes": [
       {
@@ -2583,6 +2628,7 @@
     "decision": "2020-12-10",
     "decision_day": "Thursday, December 10, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/97652-0%20Opinion.pdf",
+    "bench": "stephens3",
     "events": [
       {
         "source": "tvw",
@@ -2608,6 +2654,7 @@
     "decision": "2020-09-24",
     "decision_day": "Thursday, September 24, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/975761.pdf",
+    "bench": "stephens3",
     "score": "9-0",
     "votes": [
       {
@@ -2672,6 +2719,7 @@
     "decision": "2020-09-10",
     "decision_day": "Thursday, September 10, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/976902.pdf",
+    "bench": "stephens3",
     "score": "9-0",
     "votes": [
       {
@@ -2736,6 +2784,7 @@
     "decision": "2020-07-16",
     "decision_day": "Thursday, July 16, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/976813.pdf",
+    "bench": "stephens3",
     "score": "9-0",
     "votes": [
       {
@@ -2800,6 +2849,7 @@
     "decision": "2020-09-03",
     "decision_day": "Thursday, September 3, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/980837.pdf",
+    "bench": "stephens3",
     "score": "9-0",
     "votes": [
       {
@@ -2864,6 +2914,7 @@
     "decision": "2020-11-19",
     "decision_day": "Thursday, November 19, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/974969.pdf",
+    "bench": "stephens3",
     "score": "8-1",
     "votes": [
       {
@@ -2928,6 +2979,7 @@
     "decision": "2020-07-02",
     "decision_day": "Thursday, July 2, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/979103.pdf",
+    "bench": "stephens3",
     "score": "9-0",
     "votes": [
       {
@@ -2992,6 +3044,7 @@
     "decision": "2020-11-12",
     "decision_day": "Thursday, November 12, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/977836.pdf",
+    "bench": "stephens3",
     "score": "6-3",
     "votes": [
       {
@@ -3052,6 +3105,7 @@
     "decision": "2020-08-20",
     "decision_day": "Thursday, August 20, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/974438.pdf",
+    "bench": "stephens3",
     "events": [
       {
         "source": "tvw",
@@ -3077,6 +3131,7 @@
     "decision": "2020-09-03",
     "decision_day": "Thursday, September 3, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/980039%20rev.pdf",
+    "bench": "stephens3",
     "score": "9-0",
     "votes": [
       {
@@ -3141,6 +3196,7 @@
     "decision": "2020-08-20",
     "decision_day": "Thursday, August 20, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/977399.pdf",
+    "bench": "stephens3",
     "events": [
       {
         "source": "tvw",
@@ -3166,6 +3222,7 @@
     "decision": "2020-10-22",
     "decision_day": "Thursday, October 22, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/980942.pdf",
+    "bench": "stephens3",
     "score": "9-0",
     "votes": [
       {
@@ -3230,6 +3287,7 @@
     "decision": "2020-08-20",
     "decision_day": "Thursday, August 20, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/980438.pdf",
+    "bench": "stephens3",
     "events": [
       {
         "source": "tvw",
@@ -3255,6 +3313,7 @@
     "decision": "2020-10-15",
     "decision_day": "Thursday, October 15, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/983208.pdf",
+    "bench": "stephens3",
     "score": "9-0",
     "votes": [
       {
@@ -3328,6 +3387,7 @@
     "decision": "2020-12-24",
     "decision_day": "Thursday, December 24, 2020",
     "decision_gov": "https://www.courts.wa.gov/opinions/pdf/984875.pdf",
+    "bench": "stephens3",
     "score": "9-0",
     "votes": [
       {
@@ -3409,7 +3469,8 @@
     "number": "97268-1",
     "decision": "2020-04-23",
     "decision_day": "Thursday, April 23, 2020",
-    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/972681.pdf"
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/972681.pdf",
+    "bench": "stephens2"
   },
   {
     "id": "2020-065",
@@ -3417,7 +3478,8 @@
     "number": "97494-2",
     "decision": "2020-05-07",
     "decision_day": "Thursday, May 7, 2020",
-    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/974942.pdf"
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/974942.pdf",
+    "bench": "stephens3"
   },
   {
     "id": "2020-066",
@@ -3425,7 +3487,8 @@
     "number": "97201-0",
     "decision": "2020-06-04",
     "decision_day": "Thursday, June 4, 2020",
-    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/972010.pdf"
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/972010.pdf",
+    "bench": "stephens3"
   },
   {
     "id": "2020-067",
@@ -3433,7 +3496,8 @@
     "number": "97630-9",
     "decision": "2020-06-18",
     "decision_day": "Thursday, June 18, 2020",
-    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/976309.pdf"
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/976309.pdf",
+    "bench": "stephens3"
   },
   {
     "id": "2020-068",
@@ -3441,7 +3505,8 @@
     "number": "98317-8",
     "decision": "2020-07-23",
     "decision_day": "Thursday, July 23, 2020",
-    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/983178.pdf"
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/983178.pdf",
+    "bench": "stephens3"
   },
   {
     "id": "2020-069",
@@ -3449,7 +3514,8 @@
     "number": "97325-3",
     "decision": "2020-08-27",
     "decision_day": "Thursday, August 27, 2020",
-    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/973253.pdf"
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/973253.pdf",
+    "bench": "stephens3"
   },
   {
     "id": "2020-070",
@@ -3457,7 +3523,8 @@
     "number": "97778-0",
     "decision": "2020-09-24",
     "decision_day": "Thursday, September 24, 2020",
-    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/977780.pdf"
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/977780.pdf",
+    "bench": "stephens3"
   },
   {
     "id": "2020-071",
@@ -3465,7 +3532,8 @@
     "number": "98731-9",
     "decision": "2020-10-22",
     "decision_day": "Thursday, October 22, 2020",
-    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/987319.pdf"
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/987319.pdf",
+    "bench": "stephens3"
   },
   {
     "id": "2020-072",
@@ -3473,7 +3541,8 @@
     "number": "98663-1",
     "decision": "2020-10-29",
     "decision_day": "Thursday, October 29, 2020",
-    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/986631.pdf"
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/986631.pdf",
+    "bench": "stephens3"
   },
   {
     "id": "2020-073",
@@ -3481,7 +3550,8 @@
     "number": "98897-8",
     "decision": "2020-12-10",
     "decision_day": "Thursday, December 10, 2020",
-    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/98897-8%20Opinion.pdf"
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/98897-8%20Opinion.pdf",
+    "bench": "stephens3"
   },
   {
     "id": "2020-074",
@@ -3489,6 +3559,7 @@
     "number": "97617-1",
     "decision": "2020-12-24",
     "decision_day": "Thursday, December 24, 2020",
-    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/976171.pdf"
+    "decision_gov": "https://www.courts.wa.gov/opinions/pdf/976171.pdf",
+    "bench": "stephens3"
   }
 ]

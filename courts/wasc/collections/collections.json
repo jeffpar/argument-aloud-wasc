@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Justices",
+    "collections": [
+      {
+        "id": "gallery",
+        "name": "Gallery",
+        "file": "/courts/wasc/people/justices/gallery.json",
+        "page": "/courts/wasc/justices/",
+        "search": "name"
+      },
+      {
+        "id": "benches",
+        "name": "Benches",
+        "file": "/courts/wasc/people/justices/benches.json",
+        "folder": "/courts/wasc/people/justices/benches",
+        "page": "/courts/wasc/justices/benches",
+        "order": "decision:ascending",
+        "search": "name"
+      }
+    ]
+  },
+  {
+    "id": "qa",
+    "name": "Supreme Court Q&A",
+    "file": "/courts/wasc/collections/qa.json",
+    "sort": "name:ascending,cases[].argument:ascending"
+  }
+]

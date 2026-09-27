@@ -1,0 +1,963 @@
+{
+  "details": {
+    "page": "/courts/wasc/justices/benches/?id=guy1"
+  },
+  "highlights": [],
+  "cases": [
+    {
+      "title": "State of Washington v. Greene (1999)",
+      "term": "1999",
+      "number": "67250-4",
+      "argument": "1999-05-27",
+      "decision": "1999-09-30"
+    },
+    {
+      "title": "State of Washington v. Elmore (1999)",
+      "term": "1999",
+      "number": "64085-8",
+      "argument": "1998-11-19",
+      "decision": "1999-10-07"
+    },
+    {
+      "title": "State of Washington v. Tili (1999)",
+      "term": "1999",
+      "number": "66695-4",
+      "argument": "1999-06-08",
+      "decision": "1999-10-07"
+    },
+    {
+      "title": "Washington State Legislature v. State of Washington (1999)",
+      "term": "1999",
+      "number": "66710-1",
+      "argument": "1999-02-25",
+      "decision": "1999-10-07"
+    },
+    {
+      "title": "State of Washington v. Clark (1999)",
+      "term": "1999",
+      "number": "66828-1",
+      "argument": "1999-01-27",
+      "decision": "1999-10-07"
+    },
+    {
+      "title": "In re Ecklund (1999)",
+      "term": "1999",
+      "number": "66992-9",
+      "argument": "1999-03-10",
+      "decision": "1999-10-07"
+    },
+    {
+      "title": "State of Washington v. Cruz (1999)",
+      "term": "1999",
+      "number": "67147-8",
+      "argument": "1999-05-18",
+      "decision": "1999-10-07"
+    },
+    {
+      "title": "In re Smith (1999)",
+      "term": "1999",
+      "number": "67182-6",
+      "argument": "1999-06-10",
+      "decision": "1999-10-14"
+    },
+    {
+      "title": "State of Washington v. T.K. (1999)",
+      "term": "1999",
+      "number": "67185-1",
+      "argument": "1999-06-17",
+      "decision": "1999-10-14"
+    },
+    {
+      "title": "In re Gronquist (1999)",
+      "term": "1999",
+      "number": "67390-0",
+      "argument": "1999-06-10",
+      "decision": "1999-10-14"
+    },
+    {
+      "title": "State of Washington v. Casciato (1999)",
+      "term": "1999",
+      "number": "67435-3",
+      "argument": "1999-06-17",
+      "decision": "1999-10-14"
+    },
+    {
+      "title": "State of Washington v. Keough (1999)",
+      "term": "1999",
+      "number": "67819-7",
+      "argument": "1999-06-17",
+      "decision": "1999-10-14"
+    },
+    {
+      "title": "In re Campbell (1999)",
+      "term": "1999",
+      "number": "63986-8",
+      "argument": "1998-05-13",
+      "decision": "1999-10-21"
+    },
+    {
+      "title": "In re Turay (1999)",
+      "term": "1999",
+      "number": "64100-5",
+      "argument": "1998-05-13",
+      "decision": "1999-10-21"
+    },
+    {
+      "title": "Allstate Insurance v. Batacan (1999)",
+      "term": "1999",
+      "number": "66493-5",
+      "argument": "1998-11-18",
+      "decision": "1999-10-21"
+    },
+    {
+      "title": "Cowles Publishing Co. v. Spokane Police Department (1999)",
+      "term": "1999",
+      "number": "67290-3",
+      "argument": "1999-06-17",
+      "decision": "1999-10-21"
+    },
+    {
+      "title": "State of Washington v. Barnett (1999)",
+      "term": "1999",
+      "number": "67171-1",
+      "argument": "1999-05-25",
+      "decision": "1999-10-28"
+    },
+    {
+      "title": "State of Washington v. Parker (1999)",
+      "term": "1999",
+      "number": "66147-2",
+      "argument": "1998-09-23",
+      "decision": "1999-11-04"
+    },
+    {
+      "title": "State of Washington v. Jines (1999)",
+      "term": "1999",
+      "number": "66522-2",
+      "argument": "1998-09-23",
+      "decision": "1999-11-04"
+    },
+    {
+      "title": "State of Washington v. Hunnel (1999)",
+      "term": "1999",
+      "number": "66523-1",
+      "argument": "1998-09-23",
+      "decision": "1999-11-04"
+    },
+    {
+      "title": "Egelhoff v. Egelhoff (1999)",
+      "term": "1999",
+      "number": "67626-7",
+      "argument": "1999-10-14",
+      "decision": "1999-11-18"
+    },
+    {
+      "title": "J.R. Simplot, Inc. v. Knight (1999)",
+      "term": "1999",
+      "number": "67652-6",
+      "argument": "1999-09-21",
+      "decision": "1999-11-18"
+    },
+    {
+      "title": "In re Personal Restraint of Yim (1999)",
+      "term": "1999",
+      "number": "67183-4",
+      "argument": "1999-05-20",
+      "decision": "1999-12-02"
+    },
+    {
+      "title": "State of Washington v. Yokley (1999)",
+      "term": "1999",
+      "number": "67214-8",
+      "argument": "1999-05-20",
+      "decision": "1999-12-02"
+    },
+    {
+      "title": "Enterprise Leasing, Inc. v. City of Tacoma (1999)",
+      "term": "1999",
+      "number": "67721-2",
+      "argument": "1999-10-28",
+      "decision": "1999-12-02",
+      "score": "9-0"
+    },
+    {
+      "title": "Harbour Village Apartments v. City of Mukilteo (1999)",
+      "term": "1999",
+      "number": "66920-1",
+      "argument": "1999-05-18",
+      "decision": "1999-12-16"
+    },
+    {
+      "title": "Waremart, Inc. v. Progressive Campaigns, Inc. (1999)",
+      "term": "1999",
+      "number": "67029-3",
+      "argument": "1999-06-10",
+      "decision": "1999-12-16"
+    },
+    {
+      "title": "Brand v. State of Washington (1999)",
+      "term": "1999",
+      "number": "67319-5",
+      "argument": "1999-05-27",
+      "decision": "1999-12-16"
+    },
+    {
+      "title": "State of Washington v. Dahl (1999)",
+      "term": "1999",
+      "number": "67173-7",
+      "argument": "1999-05-25",
+      "decision": "1999-12-23"
+    },
+    {
+      "title": "In re Johns-pape (1999)",
+      "term": "1999",
+      "number": "67527-9",
+      "argument": "1999-06-10",
+      "decision": "1999-12-23"
+    },
+    {
+      "title": "Staats v. Brown (2000)",
+      "term": "2000",
+      "number": "65681-9",
+      "argument": "1999-02-10",
+      "decision": "2000-01-06"
+    },
+    {
+      "title": "State of Washington v. Wadsworth (2000)",
+      "term": "2000",
+      "number": "67454-0",
+      "argument": "1999-09-14",
+      "decision": "2000-01-13"
+    },
+    {
+      "title": "Hoffman v. Shield (2000)",
+      "term": "2000",
+      "number": "68060-4",
+      "argument": "1999-11-18",
+      "decision": "2000-01-13"
+    },
+    {
+      "title": "In re Addleman (2000)",
+      "term": "2000",
+      "number": "67658-5",
+      "argument": "1999-10-28",
+      "decision": "2000-01-20"
+    },
+    {
+      "title": "Smith v. Bates Technical College (2000)",
+      "term": "2000",
+      "number": "67374-8",
+      "argument": "1999-06-24",
+      "decision": "2000-01-27"
+    },
+    {
+      "title": "State of Washington v. Boeing (2000)",
+      "term": "2000",
+      "number": "67519-8",
+      "argument": "1999-10-26",
+      "decision": "2000-01-27"
+    },
+    {
+      "title": "State of Washington v. Arnestad (2000)",
+      "term": "2000",
+      "number": "66875-2",
+      "argument": "1999-11-16",
+      "decision": "2000-02-03"
+    },
+    {
+      "title": "State of Washington v. Baity (2000)",
+      "term": "2000",
+      "number": "66876-1",
+      "argument": "1999-11-16",
+      "decision": "2000-02-03",
+      "score": "9-0"
+    },
+    {
+      "title": "City of Bellevue v. Lorang (2000)",
+      "term": "2000",
+      "number": "67488-4",
+      "argument": "1999-09-14",
+      "decision": "2000-02-03"
+    },
+    {
+      "title": "Clark County Public Utility District No. 1 v. Wilkinson (2000)",
+      "term": "2000",
+      "number": "67533-3",
+      "argument": "1999-09-16",
+      "decision": "2000-02-03"
+    },
+    {
+      "title": "Hubbard v. State of Washington (2000)",
+      "term": "2000",
+      "number": "67632-1",
+      "argument": "1999-09-21",
+      "decision": "2000-02-03"
+    },
+    {
+      "title": "Shorewood West Condominium Ass'n v. Sadri (2000)",
+      "term": "2000",
+      "number": "67529-5",
+      "argument": "1999-09-14",
+      "decision": "2000-02-10"
+    },
+    {
+      "title": "Roberts v. Dudley (2000)",
+      "term": "2000",
+      "number": "67365-9",
+      "argument": "1999-06-15",
+      "decision": "2000-02-17"
+    },
+    {
+      "title": "Trimble v. Washington State University (2000)",
+      "term": "2000",
+      "number": "67409-4",
+      "argument": "1999-10-12",
+      "decision": "2000-02-24"
+    },
+    {
+      "title": "Jones v. Sisters of Providence in Washington, Inc. (2000)",
+      "term": "2000",
+      "number": "67740-9",
+      "argument": "1999-11-16",
+      "decision": "2000-03-09"
+    },
+    {
+      "title": "Tyrrell v. Farmers Insurance (2000)",
+      "term": "2000",
+      "number": "67862-6",
+      "argument": "2000-01-13",
+      "decision": "2000-03-09"
+    },
+    {
+      "title": "Open Door Baptist v. State of Washington (2000)",
+      "term": "2000",
+      "number": "67075-7",
+      "argument": "1999-05-13",
+      "decision": "2000-03-16"
+    },
+    {
+      "title": "Kucera v. Department of Transportation (2000)",
+      "term": "2000",
+      "number": "68428-6",
+      "argument": "2000-01-25",
+      "decision": "2000-03-16"
+    },
+    {
+      "title": "State of Washington v. Taylor (2000)",
+      "term": "2000",
+      "number": "67105-2",
+      "argument": "1999-06-08",
+      "decision": "2000-03-30"
+    },
+    {
+      "title": "Drinkwitz v. Alliant Techsystems, Inc. (2000)",
+      "term": "2000",
+      "number": "67019-6",
+      "argument": "1999-03-23",
+      "decision": "2000-04-06"
+    },
+    {
+      "title": "State of Washington v. Martenuic (2000)",
+      "term": "2000",
+      "number": "67948-7",
+      "argument": "2000-01-11",
+      "decision": "2000-04-06"
+    },
+    {
+      "title": "Lenzi v. Redland Insurance (2000)",
+      "term": "2000",
+      "number": "68070-1",
+      "argument": "2000-02-17",
+      "decision": "2000-04-06"
+    },
+    {
+      "title": "Department of Labor & Industries v. Avundes (2000)",
+      "term": "2000",
+      "number": "68103-1",
+      "argument": "2000-01-25",
+      "decision": "2000-04-06"
+    },
+    {
+      "title": "Waterjet Technology v. Flow International Corp. (2000)",
+      "term": "2000",
+      "number": "68500-2",
+      "argument": "2000-03-09",
+      "decision": "2000-04-06"
+    },
+    {
+      "title": "Allen v. State of Washington (2000)",
+      "term": "2000",
+      "number": "67294-6",
+      "argument": "1999-11-16",
+      "decision": "2000-04-20"
+    },
+    {
+      "title": "Schwindt v. Commonwealth Insurance (2000)",
+      "term": "2000",
+      "number": "67905-3",
+      "argument": "2000-01-13",
+      "decision": "2000-04-20"
+    },
+    {
+      "title": "State of Washington v. Batten (2000)",
+      "term": "2000",
+      "number": "68095-7",
+      "argument": "2000-02-17",
+      "decision": "2000-04-20"
+    },
+    {
+      "title": "In re Schoessler (2000)",
+      "term": "2000",
+      "number": "69048-1",
+      "argument": "2000-03-20",
+      "decision": "2000-04-20"
+    },
+    {
+      "title": "Kent Farms, Inc. v. Zurich Insurance (2000)",
+      "term": "2000",
+      "number": "67635-6",
+      "argument": "1999-09-21",
+      "decision": "2000-04-27"
+    },
+    {
+      "title": "Sundquist Homes, Inc. v. Snohomish County Public Utility District No. 1 (2000)",
+      "term": "2000",
+      "number": "67715-8",
+      "argument": "1999-10-12",
+      "decision": "2000-04-27"
+    },
+    {
+      "title": "State of Washington v. McCarty (2000)",
+      "term": "2000",
+      "number": "67902-9",
+      "argument": "2000-01-13",
+      "decision": "2000-04-27"
+    },
+    {
+      "title": "State of Washington v. Chapman (2000)",
+      "term": "2000",
+      "number": "68416-2",
+      "argument": "2000-03-07",
+      "decision": "2000-04-27"
+    },
+    {
+      "title": "Aluminum Co. of America v. Aetna Casualty & Surety Co. (2000)",
+      "term": "2000",
+      "number": "67340-3",
+      "argument": "2000-01-27",
+      "decision": "2000-05-04"
+    },
+    {
+      "title": "M.A. Mortenson Co. v. Timberline Software Corp. (2000)",
+      "term": "2000",
+      "number": "67796-4",
+      "argument": "1999-10-26",
+      "decision": "2000-05-04"
+    },
+    {
+      "title": "State of Washington v. Brown (2000)",
+      "term": "2000",
+      "number": "67935-5",
+      "argument": "2000-01-13",
+      "decision": "2000-05-04"
+    },
+    {
+      "title": "Western Telepage v. City of Tacoma (2000)",
+      "term": "2000",
+      "number": "68028-1",
+      "argument": "2000-03-01",
+      "decision": "2000-05-11"
+    },
+    {
+      "title": "Mendoza v. Rivera-Chavez (2000)",
+      "term": "2000",
+      "number": "66246-1",
+      "argument": "1998-10-20",
+      "decision": "2000-05-18"
+    },
+    {
+      "title": "State of Washington v. Washington Education (2000)",
+      "term": "2000",
+      "number": "67126-5",
+      "argument": "1999-11-18",
+      "decision": "2000-05-18"
+    },
+    {
+      "title": "Henrickson v. State of Washington (2000)",
+      "term": "2000",
+      "number": "67520-1",
+      "argument": "1999-09-23",
+      "decision": "2000-05-18"
+    },
+    {
+      "title": "In re Halgren (2000)",
+      "term": "2000",
+      "number": "67793-0",
+      "argument": "1999-09-23",
+      "decision": "2000-05-18"
+    },
+    {
+      "title": "Huff v. Budbill (2000)",
+      "term": "2000",
+      "number": "67619-4",
+      "argument": "1999-10-26",
+      "decision": "2000-06-08"
+    },
+    {
+      "title": "Lybbert v. Grant County (2000)",
+      "term": "2000",
+      "number": "67805-7",
+      "argument": "1999-09-23",
+      "decision": "2000-06-08"
+    },
+    {
+      "title": "In re Bailey (2000)",
+      "term": "2000",
+      "number": "68188-1",
+      "argument": "2000-03-20",
+      "decision": "2000-06-08"
+    },
+    {
+      "title": "Tyner v. Department of Social & Health Services (2000)",
+      "term": "2000",
+      "number": "67602-0",
+      "argument": "1999-09-16",
+      "decision": "2000-06-15"
+    },
+    {
+      "title": "Hayden v. Mutual of Enumclaw Insurance (2000)",
+      "term": "2000",
+      "number": "68096-5",
+      "argument": "2000-02-17",
+      "decision": "2000-06-15"
+    },
+    {
+      "title": "State of Washington v. Berry (2000)",
+      "term": "2000",
+      "number": "67470-1",
+      "argument": "1999-10-12",
+      "decision": "2000-07-06"
+    },
+    {
+      "title": "State of Washington v. Haddock (2000)",
+      "term": "2000",
+      "number": "67577-5",
+      "argument": "1999-09-16",
+      "decision": "2000-07-13"
+    },
+    {
+      "title": "Simpson Investment v. State of Washington (2000)",
+      "term": "2000",
+      "number": "67630-5",
+      "argument": "1999-10-14",
+      "decision": "2000-07-13"
+    },
+    {
+      "title": "Wenatchee Sportsmen Ass'n v. Chelan County (2000)",
+      "term": "2000",
+      "number": "67785-9",
+      "argument": "1999-11-18",
+      "decision": "2000-07-20"
+    },
+    {
+      "title": "Association of Rural Residents v. Kitsap County (2000)",
+      "term": "2000",
+      "number": "68027-2",
+      "argument": "1999-11-18",
+      "decision": "2000-07-20"
+    },
+    {
+      "title": "Washington State Republican Party v. Public Disclosure Commission (2000)",
+      "term": "2000",
+      "number": "67442-6",
+      "argument": "1999-09-23",
+      "decision": "2000-07-27"
+    },
+    {
+      "title": "Tunstall v. Bergeson (2000)",
+      "term": "2000",
+      "number": "67448-5",
+      "argument": "1999-09-14",
+      "decision": "2000-07-27"
+    },
+    {
+      "title": "State of Washington v. Ross (2000)",
+      "term": "2000",
+      "number": "67996-7",
+      "argument": "1999-10-28",
+      "decision": "2000-07-27"
+    },
+    {
+      "title": "In re Nielsen (2000)",
+      "term": "2000",
+      "number": "68017-5",
+      "argument": "2000-05-31",
+      "decision": "2000-07-27"
+    },
+    {
+      "title": "State of Washington v. Kinzy (2000)",
+      "term": "2000",
+      "number": "68239-9",
+      "argument": "2000-03-01",
+      "decision": "2000-07-27"
+    },
+    {
+      "title": "In re Stoudmire (2000)",
+      "term": "2000",
+      "number": "67711-5",
+      "argument": "2000-03-20",
+      "decision": "2000-08-10"
+    },
+    {
+      "title": "State of Washington v. Anderson (2000)",
+      "term": "2000",
+      "number": "67826-0",
+      "argument": "2000-03-09",
+      "decision": "2000-08-10"
+    },
+    {
+      "title": "Cox v. Spangler (2000)",
+      "term": "2000",
+      "number": "67907-0",
+      "argument": "2000-01-25",
+      "decision": "2000-08-17"
+    },
+    {
+      "title": "State of Washington v. Longshore (2000)",
+      "term": "2000",
+      "number": "68531-2",
+      "argument": "2000-05-31",
+      "decision": "2000-08-17"
+    },
+    {
+      "title": "State of Washington v. Perez-Cervantes (2000)",
+      "term": "2000",
+      "number": "66719-5",
+      "argument": "1999-03-24",
+      "decision": "2000-08-24"
+    },
+    {
+      "title": "State of Washington v. Fernandez-Medina (2000)",
+      "term": "2000",
+      "number": "67736-1",
+      "argument": "1999-12-09",
+      "decision": "2000-08-24"
+    },
+    {
+      "title": "Ruiz-Guzman v. AMVAC Chemical Corp. (2000)",
+      "term": "2000",
+      "number": "68434-1",
+      "argument": "2000-02-17",
+      "decision": "2000-08-24"
+    },
+    {
+      "title": "Inniss v. Tandy Corp. (2000)",
+      "term": "2000",
+      "number": "68225-9",
+      "argument": "2000-05-09",
+      "decision": "2000-08-31"
+    },
+    {
+      "title": "In re Anschell (2000)",
+      "term": "2000",
+      "number": "09756-9",
+      "argument": "2000-05-23",
+      "decision": "2000-09-14"
+    },
+    {
+      "title": "In re Tasker (2000)",
+      "term": "2000",
+      "number": "12426-4",
+      "argument": "2000-05-18",
+      "decision": "2000-09-14"
+    },
+    {
+      "title": "In re Crabtree (2000)",
+      "term": "2000",
+      "number": "67176-1",
+      "argument": "2000-03-20",
+      "decision": "2000-09-14"
+    },
+    {
+      "title": "In re Crabtree (2000)",
+      "term": "2000",
+      "number": "67536-8",
+      "argument": "2000-03-20",
+      "decision": "2000-09-14"
+    },
+    {
+      "title": "Pitzer v. Union Bank of California (2000)",
+      "term": "2000",
+      "number": "67701-8",
+      "argument": "2000-02-15",
+      "decision": "2000-09-14"
+    },
+    {
+      "title": "Pulcino v. Federal Express Corp. (2000)",
+      "term": "2000",
+      "number": "68118-0",
+      "argument": "2000-01-27",
+      "decision": "2000-09-14"
+    },
+    {
+      "title": "State of Washington v. Nolan (2000)",
+      "term": "2000",
+      "number": "69046-4",
+      "argument": "2000-06-29",
+      "decision": "2000-09-14"
+    },
+    {
+      "title": "In re Greening (2000)",
+      "term": "2000",
+      "number": "68559-2",
+      "argument": "2000-05-18",
+      "decision": "2000-09-21"
+    },
+    {
+      "title": "Broad v. Anlagenbau (2000)",
+      "term": "2000",
+      "number": "68804-4",
+      "argument": "2000-06-15",
+      "decision": "2000-09-21"
+    },
+    {
+      "title": "State of Washington v. Davis (2000)",
+      "term": "2000",
+      "number": "66537-1",
+      "argument": "2000-05-25",
+      "decision": "2000-09-28",
+      "score": "8-1"
+    },
+    {
+      "title": "In re Thompson (2000)",
+      "term": "2000",
+      "number": "67705-1",
+      "argument": "2000-03-20",
+      "decision": "2000-09-28"
+    },
+    {
+      "title": "State of Washington v. Root (2000)",
+      "term": "2000",
+      "number": "68098-1",
+      "argument": "2000-05-18",
+      "decision": "2000-09-28"
+    },
+    {
+      "title": "In re Pearsall-Stipek (2000)",
+      "term": "2000",
+      "number": "68216-0",
+      "argument": "2000-01-11",
+      "decision": "2000-09-28"
+    },
+    {
+      "title": "State of Washington v. Bradley (2000)",
+      "term": "2000",
+      "number": "68320-4",
+      "argument": "2000-05-16",
+      "decision": "2000-09-28"
+    },
+    {
+      "title": "City of Kennewick v. Day (2000)",
+      "term": "2000",
+      "number": "67994-1",
+      "argument": "2000-01-25",
+      "decision": "2000-10-12"
+    },
+    {
+      "title": "State of Washington v. Greiff (2000)",
+      "term": "2000",
+      "number": "68370-1",
+      "argument": "2000-06-15",
+      "decision": "2000-10-12"
+    },
+    {
+      "title": "State of Washington v. Conwell (2000)",
+      "term": "2000",
+      "number": "68465-1",
+      "argument": "2000-06-27",
+      "decision": "2000-10-12"
+    },
+    {
+      "title": "Postema v. Pollution Control Hearings Board (2000)",
+      "term": "2000",
+      "number": "67549-0",
+      "argument": "2000-03-01",
+      "decision": "2000-10-19"
+    },
+    {
+      "title": "State of Washington v. Williams (2000)",
+      "term": "2000",
+      "number": "67963-1",
+      "argument": "2000-03-09",
+      "decision": "2000-10-19"
+    },
+    {
+      "title": "Wilson v. State of Washington (2000)",
+      "term": "2000",
+      "number": "68297-6",
+      "argument": "2000-01-27",
+      "decision": "2000-10-19"
+    },
+    {
+      "title": "State of Washington v. Brown (2000)",
+      "term": "2000",
+      "number": "68466-9",
+      "argument": "2000-06-15",
+      "decision": "2000-10-26"
+    },
+    {
+      "title": "Amalgamated Transit v. State of Washington (2000)",
+      "term": "2000",
+      "number": "69433-8",
+      "argument": "2000-06-29",
+      "decision": "2000-10-26"
+    },
+    {
+      "title": "Haley v. Highland (2000)",
+      "term": "2000",
+      "number": "67402-7",
+      "argument": "1999-12-09",
+      "decision": "2000-11-02"
+    },
+    {
+      "title": "In re Davis (2000)",
+      "term": "2000",
+      "number": "68053-1",
+      "argument": "2000-05-16",
+      "decision": "2000-11-02"
+    },
+    {
+      "title": "Sebastian v. State of Washington (2000)",
+      "term": "2000",
+      "number": "68228-3",
+      "argument": "2000-06-27",
+      "decision": "2000-11-02"
+    },
+    {
+      "title": "In re Matteson (2000)",
+      "term": "2000",
+      "number": "68310-7",
+      "argument": "2000-05-09",
+      "decision": "2000-11-02"
+    },
+    {
+      "title": "In re Taylor (2000)",
+      "term": "2000",
+      "number": "68486-3",
+      "argument": "2000-05-09",
+      "decision": "2000-11-02"
+    },
+    {
+      "title": "In re Hull (2000)",
+      "term": "2000",
+      "number": "68492-8",
+      "argument": "2000-05-09",
+      "decision": "2000-11-02"
+    },
+    {
+      "title": "Manufactured Housing Communities v. State of Washington (2000)",
+      "term": "2000",
+      "number": "66831-1",
+      "argument": "1999-02-25",
+      "decision": "2000-11-09"
+    },
+    {
+      "title": "McGee Guest Home v. State of Washington (2000)",
+      "term": "2000",
+      "number": "68588-6",
+      "argument": "2000-09-21",
+      "decision": "2000-11-09"
+    },
+    {
+      "title": "State ex rel. Peninsula Neighborhood Ass'n v. Department of Transportation (2000)",
+      "term": "2000",
+      "number": "69432-0",
+      "argument": "2000-06-22",
+      "decision": "2000-11-09"
+    },
+    {
+      "title": "International Brotherhood of Electrical Workers, Local Union No. 46 v. Trig Electric Construction Co. (2000)",
+      "term": "2000",
+      "number": "68504-5",
+      "argument": "2000-06-20",
+      "decision": "2000-11-16"
+    },
+    {
+      "title": "State of Washington v. Roberts (2000)",
+      "term": "2000",
+      "number": "65512-0",
+      "argument": "2000-05-11",
+      "decision": "2000-12-14"
+    },
+    {
+      "title": "Ellis v. City of Seattle (2000)",
+      "term": "2000",
+      "number": "68252-6",
+      "argument": "2000-06-20",
+      "decision": "2000-12-14"
+    },
+    {
+      "title": "King v. State of Washington (2000)",
+      "term": "2000",
+      "number": "68284-4",
+      "argument": "2000-05-31",
+      "decision": "2000-12-14"
+    },
+    {
+      "title": "State of Washington v. Cronin (2000)",
+      "term": "2000",
+      "number": "69043-0",
+      "argument": "2000-05-16",
+      "decision": "2000-12-14"
+    },
+    {
+      "title": "State of Washington v. Bui (2000)",
+      "term": "2000",
+      "number": "69050-2",
+      "argument": "2000-05-16",
+      "decision": "2000-12-14"
+    },
+    {
+      "title": "Weyerhaeuser Co. v. Commercial Union Insurance (2000)",
+      "term": "2000",
+      "number": "67694-1",
+      "argument": "1999-06-08",
+      "decision": "2000-12-21"
+    },
+    {
+      "title": "In re Pennington (2000)",
+      "term": "2000",
+      "number": "67900-2",
+      "argument": "2000-02-15",
+      "decision": "2000-12-21"
+    },
+    {
+      "title": "Chesterfield v. Nash (2000)",
+      "term": "2000",
+      "number": "68323-9",
+      "argument": "2000-02-15",
+      "decision": "2000-12-21"
+    },
+    {
+      "title": "In re Meyer (2001)",
+      "term": "2001",
+      "number": "68271-2",
+      "argument": "2000-06-22",
+      "decision": "2001-01-04"
+    },
+    {
+      "title": "State of Washington v. Burleson (2001)",
+      "term": "2001",
+      "number": "68337-9",
+      "argument": "2000-05-18",
+      "decision": "2001-01-04"
+    },
+    {
+      "title": "State of Washington v. Ferguson (2001)",
+      "term": "2001",
+      "number": "68899-1",
+      "argument": "2000-10-19",
+      "decision": "2001-01-04"
+    }
+  ]
+}

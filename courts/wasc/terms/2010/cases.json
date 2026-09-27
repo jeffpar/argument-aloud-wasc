@@ -614,7 +614,8 @@
     "argument_day": "Tuesday, February 24, 2009",
     "decision": "2010-06-17",
     "decision_day": "Thursday, June 17, 2010",
-    "citation": "169 Wn.2d 1 (2010)"
+    "citation": "169 Wn.2d 1 (2010)",
+    "bench": "madsen1"
   },
   {
     "id": "2010-011",
@@ -2473,7 +2474,7 @@
     "decision_day": "Thursday, January 7, 2010",
     "citation": "167 Wn.2d 873 (2010)",
     "result": "petitioning party received a favorable disposition",
-    "bench": "madsen1",
+    "bench": "alexander4",
     "score": "9-0",
     "votes": [
       {
@@ -3147,6 +3148,7 @@
     "decision": "2010-01-21",
     "decision_day": "Thursday, January 21, 2010",
     "citation": "168 Wn.2d 41 (2010)",
+    "bench": "madsen1",
     "score": "9-0",
     "votes": [
       {
@@ -3213,6 +3215,7 @@
     "decision": "2010-08-26",
     "decision_day": "Thursday, August 26, 2010",
     "citation": "169 Wn.2d 537 (2010)",
+    "bench": "madsen1",
     "score": "7-2",
     "votes": [
       {
@@ -3552,7 +3555,7 @@
     "decision_day": "Thursday, January 7, 2010",
     "citation": "167 Wn.2d 867 (2010)",
     "result": "petitioning party received a favorable disposition",
-    "bench": "madsen1",
+    "bench": "alexander4",
     "score": "9-0",
     "votes": [
       {
@@ -5531,6 +5534,7 @@
     "decision": "2010-08-26",
     "decision_day": "Thursday, August 26, 2010",
     "citation": "169 Wn.2d 571 (2010)",
+    "bench": "madsen1",
     "score": "8-1",
     "votes": [
       {
@@ -5663,6 +5667,7 @@
     "decision_day": "Thursday, August 19, 2010",
     "citation": "169 Wn.2d 487 (2010)",
     "result": "petitioning party received a favorable disposition",
+    "bench": "madsen1",
     "score": "9-0",
     "votes": [
       {
@@ -6048,6 +6053,7 @@
     "decision": "2010-06-10",
     "decision_day": "Thursday, June 10, 2010",
     "citation": "168 Wn.2d 936 (2010)",
+    "bench": "madsen1",
     "events": [
       {
         "source": "tvw",
@@ -6417,6 +6423,7 @@
     "decision": "2010-07-29",
     "decision_day": "Thursday, July 29, 2010",
     "citation": "169 Wn.2d 318 (2010)",
+    "bench": "madsen1",
     "score": "9-0",
     "votes": [
       {
@@ -6542,7 +6549,8 @@
     "argument_day": "Thursday, March 18, 2010",
     "decision": "2010-06-10",
     "decision_day": "Thursday, June 10, 2010",
-    "citation": "168 Wn.2d 888 (2010)"
+    "citation": "168 Wn.2d 888 (2010)",
+    "bench": "madsen1"
   },
   {
     "id": "2010-100",
@@ -6813,7 +6821,8 @@
     "argument_day": "Thursday, May 6, 2010",
     "decision": "2010-09-09",
     "decision_day": "Thursday, September 9, 2010",
-    "citation": "169 Wn.2d 697 (2010)"
+    "citation": "169 Wn.2d 697 (2010)",
+    "bench": "madsen1"
   },
   {
     "id": "2010-105",
@@ -6826,6 +6835,7 @@
     "decision": "2010-09-09",
     "decision_day": "Thursday, September 9, 2010",
     "citation": "169 Wn.2d 782 (2010)",
+    "bench": "madsen1",
     "events": [
       {
         "source": "tvw",
@@ -7330,6 +7340,7 @@
     "decision": "2010-09-09",
     "decision_day": "Thursday, September 9, 2010",
     "citation": "169 Wn.2d 723 (2010)",
+    "bench": "madsen1",
     "score": "6-3",
     "votes": [
       {
@@ -8808,7 +8819,8 @@
     "number": "83700-7",
     "decision": "2010-04-08",
     "decision_day": "Thursday, April 8, 2010",
-    "citation": "168 Wn.2d 627 (2010)"
+    "citation": "168 Wn.2d 627 (2010)",
+    "bench": "madsen1"
   },
   {
     "id": "2010-136",
@@ -8816,7 +8828,8 @@
     "number": "83777-5",
     "decision": "2010-05-06",
     "decision_day": "Thursday, May 6, 2010",
-    "citation": "168 Wn.2d 785 (2010)"
+    "citation": "168 Wn.2d 785 (2010)",
+    "bench": "madsen1"
   },
   {
     "id": "2010-137",
@@ -8824,7 +8837,8 @@
     "number": "84083-1",
     "decision": "2010-07-15",
     "decision_day": "Thursday, July 15, 2010",
-    "citation": "169 Wn.2d 195 (2010)"
+    "citation": "169 Wn.2d 195 (2010)",
+    "bench": "madsen1"
   },
   {
     "id": "2010-138",
@@ -8832,7 +8846,8 @@
     "number": "84036-9",
     "decision": "2010-07-15",
     "decision_day": "Thursday, July 15, 2010",
-    "citation": "169 Wn.2d 192 (2010)"
+    "citation": "169 Wn.2d 192 (2010)",
+    "bench": "madsen1"
   },
   {
     "id": "2010-139",
@@ -8840,7 +8855,8 @@
     "number": "84388-1",
     "decision": "2010-10-28",
     "decision_day": "Thursday, October 28, 2010",
-    "citation": "170 Wn.2d 333 (2010)"
+    "citation": "170 Wn.2d 333 (2010)",
+    "bench": "madsen1"
   },
   {
     "id": "2010-140",
@@ -8848,7 +8864,8 @@
     "number": "84186-1",
     "decision": "2010-11-10",
     "decision_day": "Wednesday, November 10, 2010",
-    "citation": "170 Wn.2d 513 (2010)"
+    "citation": "170 Wn.2d 513 (2010)",
+    "bench": "madsen1"
   },
   {
     "id": "2010-141",
@@ -8856,7 +8873,8 @@
     "number": "84501-8",
     "decision": "2010-11-18",
     "decision_day": "Thursday, November 18, 2010",
-    "citation": "170 Wn.2d 577 (2010)"
+    "citation": "170 Wn.2d 577 (2010)",
+    "bench": "madsen1"
   },
   {
     "id": "2010-142",
@@ -8864,7 +8882,8 @@
     "number": "83612-4",
     "decision": "2010-12-09",
     "decision_day": "Thursday, December 9, 2010",
-    "citation": "170 Wn.2d 680 (2010)"
+    "citation": "170 Wn.2d 680 (2010)",
+    "bench": "madsen1"
   },
   {
     "id": "2010-143",
@@ -8872,7 +8891,8 @@
     "number": "83821-6",
     "decision": "2010-12-09",
     "decision_day": "Thursday, December 9, 2010",
-    "citation": "170 Wn.2d 656 (2010)"
+    "citation": "170 Wn.2d 656 (2010)",
+    "bench": "madsen1"
   },
   {
     "id": "2010-144",
@@ -8880,6 +8900,7 @@
     "number": "84039-3",
     "decision": "2010-12-30",
     "decision_day": "Thursday, December 30, 2010",
-    "citation": "170 Wn.2d 711 (2010)"
+    "citation": "170 Wn.2d 711 (2010)",
+    "bench": "madsen1"
   }
 ]

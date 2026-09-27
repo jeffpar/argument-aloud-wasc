@@ -1,0 +1,62 @@
+{
+  "details": {
+    "page": "/courts/wasc/justices/benches/?id=stephens2"
+  },
+  "highlights": [],
+  "cases": [
+    {
+      "title": "Ehrhart v. King County (2020)",
+      "term": "2020",
+      "number": "96464-5",
+      "argument": "2019-11-12",
+      "decision": "2020-04-02",
+      "score": "9-0"
+    },
+    {
+      "title": "Rocha v. King County (2020)",
+      "term": "2020",
+      "number": "96990-6",
+      "argument": "2019-10-29",
+      "decision": "2020-04-09",
+      "score": "6-3"
+    },
+    {
+      "title": "State of Washington v. Grocery Mfrs. Ass'n (2020)",
+      "term": "2020",
+      "number": "96604-4",
+      "argument": "2019-10-22",
+      "decision": "2020-04-16",
+      "score": "5-4"
+    },
+    {
+      "title": "State of Washington v. Cyr (2020)",
+      "term": "2020",
+      "number": "97323-7",
+      "argument": "2020-02-25",
+      "decision": "2020-04-16",
+      "score": "9-0"
+    },
+    {
+      "title": "Peterson v. Dep't of Revenue (2020)",
+      "term": "2020",
+      "number": "97410-1",
+      "argument": "2020-01-21",
+      "decision": "2020-04-16",
+      "score": "9-0"
+    },
+    {
+      "title": "State of Washington v. Escalante (2020)",
+      "term": "2020",
+      "number": "97268-1",
+      "decision": "2020-04-23"
+    },
+    {
+      "title": "State of Washington v. Haggard (2020)",
+      "term": "2020",
+      "number": "97375-0",
+      "argument": "2020-01-14",
+      "decision": "2020-04-23",
+      "score": "5-4"
+    }
+  ]
+}

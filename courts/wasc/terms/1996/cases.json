@@ -10,6 +10,7 @@
     "decision": "1996-08-08",
     "decision_day": "Thursday, August 8, 1996",
     "citation": "129 Wn.2d 736 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -36,6 +37,7 @@
     "decision": "1996-08-08",
     "decision_day": "Thursday, August 8, 1996",
     "citation": "129 Wn.2d 697 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -89,6 +91,7 @@
     "decision": "1996-08-08",
     "decision_day": "Thursday, August 8, 1996",
     "citation": "129 Wn.2d 652 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -115,6 +118,7 @@
     "decision": "1996-04-04",
     "decision_day": "Thursday, April 4, 1996",
     "citation": "128 Wn.2d 918 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -141,6 +145,7 @@
     "decision": "1996-10-03",
     "decision_day": "Thursday, October 3, 1996",
     "citation": "130 Wn.2d 401 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -167,6 +172,7 @@
     "decision": "1996-07-25",
     "decision_day": "Thursday, July 25, 1996",
     "citation": "129 Wn.2d 565 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -193,6 +199,7 @@
     "decision": "1996-09-05",
     "decision_day": "Thursday, September 5, 1996",
     "citation": "130 Wn.2d 58 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -219,6 +226,7 @@
     "decision": "1996-10-24",
     "decision_day": "Thursday, October 24, 1996",
     "citation": "130 Wn.2d 464 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -245,6 +253,7 @@
     "decision": "1996-03-28",
     "decision_day": "Thursday, March 28, 1996",
     "citation": "128 Wn.2d 896 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -287,6 +296,7 @@
     "decision": "1996-06-27",
     "decision_day": "Thursday, June 27, 1996",
     "citation": "129 Wn.2d 439 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -313,6 +323,7 @@
     "decision": "1996-12-12",
     "decision_day": "Thursday, December 12, 1996",
     "citation": "130 Wn.2d 747 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -339,6 +350,7 @@
     "decision": "1996-02-22",
     "decision_day": "Thursday, February 22, 1996",
     "citation": "128 Wn.2d 605 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -363,7 +375,8 @@
     "argument_day": "Thursday, February 1, 1996",
     "decision": "1996-07-18",
     "decision_day": "Thursday, July 18, 1996",
-    "citation": "129 Wn.2d 529 (1996)"
+    "citation": "129 Wn.2d 529 (1996)",
+    "bench": "durham3"
   },
   {
     "id": "1996-017",
@@ -374,7 +387,8 @@
     "argument_day": "Thursday, February 1, 1996",
     "decision": "1996-07-18",
     "decision_day": "Thursday, July 18, 1996",
-    "citation": "129 Wn.2d 512 (1996)"
+    "citation": "129 Wn.2d 512 (1996)",
+    "bench": "durham3"
   },
   {
     "id": "1996-018",
@@ -385,7 +399,8 @@
     "argument_day": "Thursday, February 1, 1996",
     "decision": "1996-07-18",
     "decision_day": "Thursday, July 18, 1996",
-    "citation": "129 Wn.2d 535 (1996)"
+    "citation": "129 Wn.2d 535 (1996)",
+    "bench": "durham3"
   },
   {
     "id": "1996-019",
@@ -398,6 +413,7 @@
     "decision": "1996-05-30",
     "decision_day": "Thursday, May 30, 1996",
     "citation": "129 Wn.2d 320 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -424,6 +440,7 @@
     "decision": "1996-06-06",
     "decision_day": "Thursday, June 6, 1996",
     "citation": "129 Wn.2d 368 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -450,6 +467,7 @@
     "decision": "1996-03-07",
     "decision_day": "Thursday, March 7, 1996",
     "citation": "128 Wn.2d 739 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -543,6 +561,7 @@
     "decision": "1996-05-16",
     "decision_day": "Thursday, May 16, 1996",
     "citation": "129 Wn.2d 279 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -569,6 +588,7 @@
     "decision": "1996-05-09",
     "decision_day": "Thursday, May 9, 1996",
     "citation": "129 Wn.2d 113 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -595,6 +615,7 @@
     "decision": "1996-09-12",
     "decision_day": "Thursday, September 12, 1996",
     "citation": "130 Wn.2d 160 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -621,6 +642,7 @@
     "decision": "1996-05-16",
     "decision_day": "Thursday, May 16, 1996",
     "citation": "129 Wn.2d 289 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -647,6 +669,7 @@
     "decision": "1996-10-24",
     "decision_day": "Thursday, October 24, 1996",
     "citation": "130 Wn.2d 486 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -673,6 +696,7 @@
     "decision": "1996-06-20",
     "decision_day": "Thursday, June 20, 1996",
     "citation": "129 Wn.2d 386 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -699,6 +723,7 @@
     "decision": "1996-05-09",
     "decision_day": "Thursday, May 9, 1996",
     "citation": "129 Wn.2d 303 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -725,6 +750,7 @@
     "decision": "1996-09-12",
     "decision_day": "Thursday, September 12, 1996",
     "citation": "130 Wn.2d 189 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -751,6 +777,7 @@
     "decision": "1996-11-27",
     "decision_day": "Wednesday, November 27, 1996",
     "citation": "130 Wn.2d 615 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -843,6 +870,7 @@
     "decision": "1996-08-01",
     "decision_day": "Thursday, August 1, 1996",
     "citation": "129 Wn.2d 621 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -869,6 +897,7 @@
     "decision": "1996-09-26",
     "decision_day": "Thursday, September 26, 1996",
     "citation": "130 Wn.2d 335 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -895,6 +924,7 @@
     "decision": "1996-10-24",
     "decision_day": "Thursday, October 24, 1996",
     "citation": "130 Wn.2d 517 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -921,6 +951,7 @@
     "decision": "1996-05-30",
     "decision_day": "Thursday, May 30, 1996",
     "citation": "129 Wn.2d 336 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -947,6 +978,7 @@
     "decision": "1996-03-29",
     "decision_day": "Friday, March 29, 1996",
     "citation": "128 Wn.2d 915 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -973,6 +1005,7 @@
     "decision": "1996-07-25",
     "decision_day": "Thursday, July 25, 1996",
     "citation": "129 Wn.2d 572 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -997,7 +1030,8 @@
     "argument_day": "Thursday, March 28, 1996",
     "decision": "1996-11-07",
     "decision_day": "Thursday, November 7, 1996",
-    "citation": "130 Wn.2d 553 (1996)"
+    "citation": "130 Wn.2d 553 (1996)",
+    "bench": "durham3"
   },
   {
     "id": "1996-040",
@@ -1010,6 +1044,7 @@
     "decision": "1996-08-01",
     "decision_day": "Thursday, August 1, 1996",
     "citation": "129 Wn.2d 601 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -1036,6 +1071,7 @@
     "decision": "1996-09-12",
     "decision_day": "Thursday, September 12, 1996",
     "citation": "130 Wn.2d 203 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -1062,6 +1098,7 @@
     "decision": "1996-11-27",
     "decision_day": "Wednesday, November 27, 1996",
     "citation": "130 Wn.2d 640 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -1088,6 +1125,7 @@
     "decision": "1996-12-20",
     "decision_day": "Friday, December 20, 1996",
     "citation": "130 Wn.2d 782 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -1114,6 +1152,7 @@
     "decision": "1996-09-12",
     "decision_day": "Thursday, September 12, 1996",
     "citation": "130 Wn.2d 142 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -1140,6 +1179,7 @@
     "decision": "1996-09-26",
     "decision_day": "Thursday, September 26, 1996",
     "citation": "130 Wn.2d 368 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -1166,6 +1206,7 @@
     "decision": "1996-11-27",
     "decision_day": "Wednesday, November 27, 1996",
     "citation": "130 Wn.2d 688 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -1192,6 +1233,7 @@
     "decision": "1996-07-18",
     "decision_day": "Thursday, July 18, 1996",
     "citation": "129 Wn.2d 497 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -1218,6 +1260,7 @@
     "decision": "1996-09-26",
     "decision_day": "Thursday, September 26, 1996",
     "citation": "130 Wn.2d 351 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -1244,6 +1287,7 @@
     "decision": "1996-08-01",
     "decision_day": "Thursday, August 1, 1996",
     "citation": "129 Wn.2d 635 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -1270,6 +1314,7 @@
     "decision": "1996-08-29",
     "decision_day": "Thursday, August 29, 1996",
     "citation": "130 Wn.2d 48 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -1296,6 +1341,7 @@
     "decision": "1996-08-29",
     "decision_day": "Thursday, August 29, 1996",
     "citation": "130 Wn.2d 35 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -1317,6 +1363,7 @@
     "decision": "1996-09-19",
     "decision_day": "Thursday, September 19, 1996",
     "citation": "130 Wn.2d 215 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -1343,6 +1390,7 @@
     "decision": "1996-11-07",
     "decision_day": "Thursday, November 7, 1996",
     "citation": "130 Wn.2d 580 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -1369,6 +1417,7 @@
     "decision": "1996-12-05",
     "decision_day": "Thursday, December 5, 1996",
     "citation": "130 Wn.2d 726 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -1395,6 +1444,7 @@
     "decision": "1996-12-26",
     "decision_day": "Thursday, December 26, 1996",
     "citation": "130 Wn.2d 862 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -1421,6 +1471,7 @@
     "decision": "1996-08-08",
     "decision_day": "Thursday, August 8, 1996",
     "citation": "129 Wn.2d 787 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -1447,6 +1498,7 @@
     "decision": "1996-09-19",
     "decision_day": "Thursday, September 19, 1996",
     "citation": "130 Wn.2d 228 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -1473,6 +1525,7 @@
     "decision": "1996-12-05",
     "decision_day": "Thursday, December 5, 1996",
     "citation": "130 Wn.2d 700 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -1499,6 +1552,7 @@
     "decision": "1996-07-18",
     "decision_day": "Thursday, July 18, 1996",
     "citation": "129 Wn.2d 504 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -1659,6 +1713,7 @@
     "decision": "1996-11-27",
     "decision_day": "Wednesday, November 27, 1996",
     "citation": "130 Wn.2d 673 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -1680,6 +1735,7 @@
     "decision": "1996-08-08",
     "decision_day": "Thursday, August 8, 1996",
     "citation": "129 Wn.2d 805 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -1706,6 +1762,7 @@
     "decision": "1996-11-07",
     "decision_day": "Thursday, November 7, 1996",
     "citation": "130 Wn.2d 594 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -1732,6 +1789,7 @@
     "decision": "1996-09-26",
     "decision_day": "Thursday, September 26, 1996",
     "citation": "130 Wn.2d 392 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -1758,6 +1816,7 @@
     "decision": "1996-12-19",
     "decision_day": "Thursday, December 19, 1996",
     "citation": "130 Wn.2d 770 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -1784,6 +1843,7 @@
     "decision": "1996-12-05",
     "decision_day": "Thursday, December 5, 1996",
     "citation": "130 Wn.2d 711 (1996)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",

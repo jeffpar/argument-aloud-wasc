@@ -150,7 +150,7 @@
     "decision_day": "Friday, October 3, 2008",
     "citation": "165 Wn.2d 200 (2008)",
     "result": "petitioning party received a favorable disposition",
-    "bench": "alexander3",
+    "bench": "alexander4",
     "score": "5-4",
     "votes": [
       {
@@ -496,6 +496,7 @@
     "decision": "2008-04-17",
     "decision_day": "Thursday, April 17, 2008",
     "citation": "163 Wn.2d 428 (2008)",
+    "bench": "alexander4",
     "score": "5-4",
     "votes": [
       {
@@ -527,7 +528,7 @@
         "side": "minority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "minority"
       },
       {
@@ -1065,7 +1066,7 @@
         "side": "minority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "minority"
       },
       {
@@ -2055,6 +2056,7 @@
     "decision": "2008-09-11",
     "decision_day": "Thursday, September 11, 2008",
     "citation": "164 Wn.2d 461 (2008)",
+    "bench": "alexander4",
     "events": [
       {
         "source": "tvw",
@@ -2894,7 +2896,7 @@
     "decision": "2008-09-11",
     "decision_day": "Thursday, September 11, 2008",
     "citation": "164 Wn.2d 570 (2008)",
-    "bench": "alexander3",
+    "bench": "alexander4",
     "score": "5-4",
     "votes": [
       {
@@ -3573,10 +3575,11 @@
     "decision": "2008-07-17",
     "decision_day": "Thursday, July 17, 2008",
     "citation": "164 Wn.2d 108 (2008)",
+    "bench": "alexander4",
     "score": "5-4",
     "votes": [
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -7542,7 +7545,8 @@
     "number": "80061-8",
     "decision": "2008-05-08",
     "decision_day": "Thursday, May 8, 2008",
-    "citation": "163 Wn.2d 554 (2008)"
+    "citation": "163 Wn.2d 554 (2008)",
+    "bench": "alexander4"
   },
   {
     "id": "2008-116",
@@ -7550,6 +7554,7 @@
     "number": "80144-4",
     "decision": "2008-06-12",
     "decision_day": "Thursday, June 12, 2008",
-    "citation": "163 Wn.2d 699 (2008)"
+    "citation": "163 Wn.2d 699 (2008)",
+    "bench": "alexander4"
   }
 ]

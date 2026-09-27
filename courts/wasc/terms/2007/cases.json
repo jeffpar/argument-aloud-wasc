@@ -9,6 +9,7 @@
     "decision": "2007-01-25",
     "decision_day": "Thursday, January 25, 2007",
     "citation": "159 Wn.2d 459 (2007)",
+    "bench": "alexander3",
     "events": [
       {
         "source": "tvw",
@@ -31,6 +32,7 @@
     "decision": "2007-01-25",
     "decision_day": "Thursday, January 25, 2007",
     "citation": "159 Wn.2d 459 (2007)",
+    "bench": "alexander3",
     "events": [
       {
         "source": "tvw",
@@ -53,6 +55,7 @@
     "decision": "2007-01-25",
     "decision_day": "Thursday, January 25, 2007",
     "citation": "159 Wn.2d 459 (2007)",
+    "bench": "alexander3",
     "events": [
       {
         "source": "tvw",
@@ -941,6 +944,7 @@
     "decision_day": "Thursday, July 12, 2007",
     "citation": "160 Wn.2d 843 (2007)",
     "result": "petitioning party received a favorable disposition",
+    "bench": "alexander3",
     "score": "6-3",
     "votes": [
       {
@@ -2865,6 +2869,7 @@
     "decision": "2007-05-10",
     "decision_day": "Thursday, May 10, 2007",
     "citation": "160 Wn.2d 317 (2007)",
+    "bench": "alexander3",
     "score": "6-3",
     "votes": [
       {
@@ -2876,7 +2881,7 @@
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -4120,6 +4125,7 @@
     "decision": "2007-05-03",
     "decision_day": "Thursday, May 3, 2007",
     "citation": "160 Wn.2d 287 (2007)",
+    "bench": "alexander3",
     "score": "6-3",
     "votes": [
       {
@@ -4131,7 +4137,7 @@
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -5833,6 +5839,7 @@
     "decision": "2007-03-22",
     "decision_day": "Thursday, March 22, 2007",
     "citation": "159 Wn.2d 822 (2007)",
+    "bench": "alexander3",
     "score": "9-0",
     "votes": [
       {
@@ -5844,7 +5851,7 @@
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -7010,6 +7017,7 @@
     "decision": "2007-06-07",
     "decision_day": "Thursday, June 7, 2007",
     "citation": "160 Wn.2d 605 (2007)",
+    "bench": "alexander3",
     "score": "9-0",
     "votes": [
       {
@@ -7021,7 +7029,7 @@
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -7511,6 +7519,7 @@
     "decision": "2007-12-20",
     "decision_day": "Thursday, December 20, 2007",
     "citation": "162 Wn.2d 527 (2007)",
+    "bench": "alexander3",
     "score": "8-1",
     "votes": [
       {
@@ -7522,7 +7531,7 @@
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -8659,6 +8668,7 @@
     "decision": "2007-08-16",
     "decision_day": "Thursday, August 16, 2007",
     "citation": "161 Wn.2d 249 (2007)",
+    "bench": "alexander3",
     "score": "9-0",
     "votes": [
       {
@@ -8670,7 +8680,7 @@
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -9834,7 +9844,8 @@
     "number": "78855-3",
     "decision": "2007-02-08",
     "decision_day": "Thursday, February 8, 2007",
-    "citation": "159 Wn.2d 649 (2007)"
+    "citation": "159 Wn.2d 649 (2007)",
+    "bench": "alexander3"
   },
   {
     "id": "2007-155",
@@ -9842,7 +9853,8 @@
     "number": "79691-2",
     "decision": "2007-06-14",
     "decision_day": "Thursday, June 14, 2007",
-    "citation": "160 Wn.2d 669 (2007)"
+    "citation": "160 Wn.2d 669 (2007)",
+    "bench": "alexander3"
   },
   {
     "id": "2007-156",
@@ -9850,7 +9862,8 @@
     "number": "79542-8",
     "decision": "2007-11-08",
     "decision_day": "Thursday, November 8, 2007",
-    "citation": "162 Wn.2d 192 (2007)"
+    "citation": "162 Wn.2d 192 (2007)",
+    "bench": "alexander3"
   },
   {
     "id": "2007-157",
@@ -9859,6 +9872,7 @@
     "decision": "2007-11-21",
     "decision_day": "Wednesday, November 21, 2007",
     "citation": "162 Wn.2d 236 (2007)",
+    "bench": "alexander3",
     "score": "8-1",
     "votes": [
       {
@@ -9870,7 +9884,7 @@
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {
@@ -9905,7 +9919,8 @@
     "number": "79554-1",
     "decision": "2007-12-13",
     "decision_day": "Thursday, December 13, 2007",
-    "citation": "162 Wn.2d 488 (2007)"
+    "citation": "162 Wn.2d 488 (2007)",
+    "bench": "alexander3"
   },
   {
     "id": "2007-159",
@@ -9913,7 +9928,8 @@
     "number": "79609-2",
     "decision": "2007-12-13",
     "decision_day": "Thursday, December 13, 2007",
-    "citation": "162 Wn.2d 493 (2007)"
+    "citation": "162 Wn.2d 493 (2007)",
+    "bench": "alexander3"
   },
   {
     "id": "2007-160",
@@ -9922,6 +9938,7 @@
     "decision": "2007-12-13",
     "decision_day": "Thursday, December 13, 2007",
     "citation": "162 Wn.2d 501 (2007)",
+    "bench": "alexander3",
     "score": "9-0",
     "votes": [
       {
@@ -9929,7 +9946,7 @@
         "side": "majority"
       },
       {
-        "name": "TOM CHAMBERS",
+        "name": "THOMAS J. CHAMBERS",
         "side": "majority"
       },
       {

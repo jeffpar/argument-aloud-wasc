@@ -8,7 +8,8 @@
     "argument_day": "Tuesday, October 14, 1997",
     "decision": "1999-01-07",
     "decision_day": "Thursday, January 7, 1999",
-    "citation": "137 Wn.2d 118 (1999)"
+    "citation": "137 Wn.2d 118 (1999)",
+    "bench": "durham3"
   },
   {
     "id": "1999-002",
@@ -20,6 +21,7 @@
     "decision": "1999-05-06",
     "decision_day": "Thursday, May 6, 1999",
     "citation": "137 Wn.2d 792 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -44,6 +46,7 @@
     "decision": "1999-01-07",
     "decision_day": "Thursday, January 7, 1999",
     "citation": "137 Wn.2d 93 (1999)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -68,6 +71,7 @@
     "decision": "1999-01-07",
     "decision_day": "Thursday, January 7, 1999",
     "citation": "137 Wn.2d 149 (1999)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -91,7 +95,8 @@
     "argument_day": "Wednesday, May 13, 1998",
     "decision": "1999-10-21",
     "decision_day": "Thursday, October 21, 1999",
-    "citation": "139 Wn.2d 379 (1999)"
+    "citation": "139 Wn.2d 379 (1999)",
+    "bench": "guy1"
   },
   {
     "id": "1999-006",
@@ -102,7 +107,8 @@
     "argument_day": "Wednesday, May 13, 1998",
     "decision": "1999-10-21",
     "decision_day": "Thursday, October 21, 1999",
-    "citation": "139 Wn.2d 341 (1999)"
+    "citation": "139 Wn.2d 341 (1999)",
+    "bench": "guy1"
   },
   {
     "id": "1999-007",
@@ -114,6 +120,7 @@
     "decision": "1999-07-22",
     "decision_day": "Thursday, July 22, 1999",
     "citation": "138 Wn.2d 561 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -202,6 +209,7 @@
     "decision": "1999-04-01",
     "decision_day": "Thursday, April 1, 1999",
     "citation": "137 Wn.2d 580 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -226,6 +234,7 @@
     "decision": "1999-04-01",
     "decision_day": "Thursday, April 1, 1999",
     "citation": "137 Wn.2d 580 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -250,6 +259,7 @@
     "decision": "1999-03-11",
     "decision_day": "Thursday, March 11, 1999",
     "citation": "137 Wn.2d 500 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -273,7 +283,8 @@
     "argument_day": "Tuesday, June 16, 1998",
     "decision": "1999-04-01",
     "decision_day": "Thursday, April 1, 1999",
-    "citation": "137 Wn.2d 533 (1999)"
+    "citation": "137 Wn.2d 533 (1999)",
+    "bench": "durham4"
   },
   {
     "id": "1999-013",
@@ -284,7 +295,8 @@
     "argument_day": "Tuesday, June 16, 1998",
     "decision": "1999-04-01",
     "decision_day": "Thursday, April 1, 1999",
-    "citation": "137 Wn.2d 533 (1999)"
+    "citation": "137 Wn.2d 533 (1999)",
+    "bench": "durham4"
   },
   {
     "id": "1999-014",
@@ -296,6 +308,7 @@
     "decision": "1999-04-01",
     "decision_day": "Thursday, April 1, 1999",
     "citation": "137 Wn.2d 533 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -320,6 +333,7 @@
     "decision": "1999-05-13",
     "decision_day": "Thursday, May 13, 1999",
     "citation": "137 Wn.2d 904 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -343,7 +357,8 @@
     "argument_day": "Tuesday, June 16, 1998",
     "decision": "1999-04-01",
     "decision_day": "Thursday, April 1, 1999",
-    "citation": "137 Wn.2d 533 (1999)"
+    "citation": "137 Wn.2d 533 (1999)",
+    "bench": "durham4"
   },
   {
     "id": "1999-017",
@@ -354,7 +369,8 @@
     "argument_day": "Tuesday, June 16, 1998",
     "decision": "1999-04-01",
     "decision_day": "Thursday, April 1, 1999",
-    "citation": "137 Wn.2d 533 (1999)"
+    "citation": "137 Wn.2d 533 (1999)",
+    "bench": "durham4"
   },
   {
     "id": "1999-018",
@@ -365,7 +381,8 @@
     "argument_day": "Tuesday, June 16, 1998",
     "decision": "1999-04-01",
     "decision_day": "Thursday, April 1, 1999",
-    "citation": "137 Wn.2d 533 (1999)"
+    "citation": "137 Wn.2d 533 (1999)",
+    "bench": "durham4"
   },
   {
     "id": "1999-019",
@@ -377,6 +394,7 @@
     "decision": "1999-06-24",
     "decision_day": "Thursday, June 24, 1999",
     "citation": "138 Wn.2d 388 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -401,6 +419,7 @@
     "decision": "1999-04-08",
     "decision_day": "Thursday, April 8, 1999",
     "citation": "137 Wn.2d 651 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -425,6 +444,7 @@
     "decision": "1999-02-11",
     "decision_day": "Thursday, February 11, 1999",
     "citation": "137 Wn.2d 319 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -449,6 +469,7 @@
     "decision": "1999-02-04",
     "decision_day": "Thursday, February 4, 1999",
     "citation": "137 Wn.2d 296 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -473,6 +494,7 @@
     "decision": "1999-06-03",
     "decision_day": "Thursday, June 3, 1999",
     "citation": "138 Wn.2d 9 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -497,6 +519,7 @@
     "decision": "1999-06-10",
     "decision_day": "Thursday, June 10, 1999",
     "citation": "138 Wn.2d 70 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -521,6 +544,7 @@
     "decision": "1999-07-15",
     "decision_day": "Thursday, July 15, 1999",
     "citation": "138 Wn.2d 486 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -545,6 +569,7 @@
     "decision": "1999-01-14",
     "decision_day": "Thursday, January 14, 1999",
     "citation": "137 Wn.2d 179 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -569,6 +594,7 @@
     "decision": "1999-01-07",
     "decision_day": "Thursday, January 7, 1999",
     "citation": "137 Wn.2d 166 (1999)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -593,6 +619,7 @@
     "decision": "1999-07-29",
     "decision_day": "Thursday, July 29, 1999",
     "citation": "138 Wn.2d 699 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -617,6 +644,7 @@
     "decision": "1999-07-29",
     "decision_day": "Thursday, July 29, 1999",
     "citation": "138 Wn.2d 699 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -641,6 +669,7 @@
     "decision": "1999-02-11",
     "decision_day": "Thursday, February 11, 1999",
     "citation": "137 Wn.2d 340 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -664,7 +693,8 @@
     "argument_day": "Tuesday, September 22, 1998",
     "decision": "1999-07-29",
     "decision_day": "Thursday, July 29, 1999",
-    "citation": "138 Wn.2d 699 (1999)"
+    "citation": "138 Wn.2d 699 (1999)",
+    "bench": "durham4"
   },
   {
     "id": "1999-032",
@@ -676,6 +706,7 @@
     "decision": "1999-04-15",
     "decision_day": "Thursday, April 15, 1999",
     "citation": "137 Wn.2d 712 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -700,6 +731,7 @@
     "decision": "1999-01-28",
     "decision_day": "Thursday, January 28, 1999",
     "citation": "137 Wn.2d 208 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -723,7 +755,8 @@
     "argument_day": "Wednesday, September 23, 1998",
     "decision": "1999-11-04",
     "decision_day": "Thursday, November 4, 1999",
-    "citation": "139 Wn.2d 486 (1999)"
+    "citation": "139 Wn.2d 486 (1999)",
+    "bench": "guy1"
   },
   {
     "id": "1999-035",
@@ -735,6 +768,7 @@
     "decision": "1999-11-04",
     "decision_day": "Thursday, November 4, 1999",
     "citation": "139 Wn.2d 486 (1999)",
+    "bench": "guy1",
     "events": [
       {
         "source": "tvw",
@@ -758,7 +792,8 @@
     "argument_day": "Wednesday, September 23, 1998",
     "decision": "1999-11-04",
     "decision_day": "Thursday, November 4, 1999",
-    "citation": "139 Wn.2d 486 (1999)"
+    "citation": "139 Wn.2d 486 (1999)",
+    "bench": "guy1"
   },
   {
     "id": "1999-037",
@@ -770,6 +805,7 @@
     "decision": "1999-04-15",
     "decision_day": "Thursday, April 15, 1999",
     "citation": "137 Wn.2d 683 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -794,6 +830,7 @@
     "decision": "1999-04-01",
     "decision_day": "Thursday, April 1, 1999",
     "citation": "137 Wn.2d 632 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -818,6 +855,7 @@
     "decision": "1999-03-11",
     "decision_day": "Thursday, March 11, 1999",
     "citation": "137 Wn.2d 472 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -842,6 +880,7 @@
     "decision": "1999-02-25",
     "decision_day": "Thursday, February 25, 1999",
     "citation": "137 Wn.2d 427 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -929,6 +968,7 @@
     "decision": "1999-01-07",
     "decision_day": "Thursday, January 7, 1999",
     "citation": "137 Wn.2d 84 (1999)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -953,6 +993,7 @@
     "decision": "1999-07-22",
     "decision_day": "Thursday, July 22, 1999",
     "citation": "138 Wn.2d 506 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -977,6 +1018,7 @@
     "decision": "1999-01-07",
     "decision_day": "Thursday, January 7, 1999",
     "citation": "137 Wn.2d 84 (1999)",
+    "bench": "durham3",
     "events": [
       {
         "source": "tvw",
@@ -1001,6 +1043,7 @@
     "decision": "1999-03-25",
     "decision_day": "Thursday, March 25, 1999",
     "citation": "137 Wn.2d 518 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1026,6 +1069,7 @@
     "decision": "1999-06-24",
     "decision_day": "Thursday, June 24, 1999",
     "citation": "138 Wn.2d 265 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1051,6 +1095,7 @@
     "decision": "1999-02-11",
     "decision_day": "Thursday, February 11, 1999",
     "citation": "137 Wn.2d 357 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1075,6 +1120,7 @@
     "decision": "1999-03-04",
     "decision_day": "Thursday, March 4, 1999",
     "citation": "137 Wn.2d 450 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1099,6 +1145,7 @@
     "decision": "1999-07-08",
     "decision_day": "Thursday, July 8, 1999",
     "citation": "138 Wn.2d 413 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1123,6 +1170,7 @@
     "decision": "1999-10-21",
     "decision_day": "Thursday, October 21, 1999",
     "citation": "139 Wn.2d 443 (1999)",
+    "bench": "guy1",
     "events": [
       {
         "source": "tvw",
@@ -1147,6 +1195,7 @@
     "decision": "1999-06-17",
     "decision_day": "Thursday, June 17, 1999",
     "citation": "138 Wn.2d 186 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1171,6 +1220,7 @@
     "decision": "1999-10-07",
     "decision_day": "Thursday, October 7, 1999",
     "citation": "139 Wn.2d 250 (1999)",
+    "bench": "guy1",
     "events": [
       {
         "source": "tvw",
@@ -1195,6 +1245,7 @@
     "decision": "1999-02-04",
     "decision_day": "Thursday, February 4, 1999",
     "citation": "137 Wn.2d 268 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1219,6 +1270,7 @@
     "decision": "1999-06-24",
     "decision_day": "Thursday, June 24, 1999",
     "citation": "138 Wn.2d 298 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1243,6 +1295,7 @@
     "decision": "1999-06-10",
     "decision_day": "Thursday, June 10, 1999",
     "citation": "138 Wn.2d 151 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1267,6 +1320,7 @@
     "decision": "1999-07-29",
     "decision_day": "Thursday, July 29, 1999",
     "citation": "138 Wn.2d 658 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1291,6 +1345,7 @@
     "decision": "1999-04-15",
     "decision_day": "Thursday, April 15, 1999",
     "citation": "137 Wn.2d 703 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1315,6 +1370,7 @@
     "decision": "1999-06-10",
     "decision_day": "Thursday, June 10, 1999",
     "citation": "138 Wn.2d 107 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1339,6 +1395,7 @@
     "decision": "1999-06-10",
     "decision_day": "Thursday, June 10, 1999",
     "citation": "138 Wn.2d 161 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1363,6 +1420,7 @@
     "decision": "1999-05-06",
     "decision_day": "Thursday, May 6, 1999",
     "citation": "137 Wn.2d 756 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1387,6 +1445,7 @@
     "decision": "1999-07-29",
     "decision_day": "Thursday, July 29, 1999",
     "citation": "138 Wn.2d 595 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1411,6 +1470,7 @@
     "decision": "1999-04-15",
     "decision_day": "Thursday, April 15, 1999",
     "citation": "137 Wn.2d 675 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1456,6 +1516,7 @@
     "decision": "1999-05-06",
     "decision_day": "Thursday, May 6, 1999",
     "citation": "137 Wn.2d 887 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1548,6 +1609,7 @@
     "decision": "1999-10-07",
     "decision_day": "Thursday, October 7, 1999",
     "citation": "139 Wn.2d 152 (1999)",
+    "bench": "guy1",
     "events": [
       {
         "source": "tvw",
@@ -1572,6 +1634,7 @@
     "decision": "1999-09-09",
     "decision_day": "Thursday, September 9, 1999",
     "citation": "139 Wn.2d 20 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1596,6 +1659,7 @@
     "decision": "1999-08-19",
     "decision_day": "Thursday, August 19, 1999",
     "citation": "138 Wn.2d 753 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1620,6 +1684,7 @@
     "decision": "1999-05-27",
     "decision_day": "Thursday, May 27, 1999",
     "citation": "137 Wn.2d 979 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1644,6 +1709,7 @@
     "decision": "1999-05-06",
     "decision_day": "Thursday, May 6, 1999",
     "citation": "137 Wn.2d 897 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1668,6 +1734,7 @@
     "decision": "1999-05-27",
     "decision_day": "Thursday, May 27, 1999",
     "citation": "137 Wn.2d 957 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1692,6 +1759,7 @@
     "decision": "1999-09-09",
     "decision_day": "Thursday, September 9, 1999",
     "citation": "138 Wn.2d 858 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1716,6 +1784,7 @@
     "decision": "1999-06-03",
     "decision_day": "Thursday, June 3, 1999",
     "citation": "138 Wn.2d 1 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1740,6 +1809,7 @@
     "decision": "1999-05-13",
     "decision_day": "Thursday, May 13, 1999",
     "citation": "137 Wn.2d 918 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1764,6 +1834,7 @@
     "decision": "1999-06-17",
     "decision_day": "Thursday, June 17, 1999",
     "citation": "138 Wn.2d 213 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1788,6 +1859,7 @@
     "decision": "1999-04-22",
     "decision_day": "Thursday, April 22, 1999",
     "citation": "137 Wn.2d 746 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1812,6 +1884,7 @@
     "decision": "1999-10-07",
     "decision_day": "Thursday, October 7, 1999",
     "citation": "139 Wn.2d 129 (1999)",
+    "bench": "guy1",
     "events": [
       {
         "source": "tvw",
@@ -1837,6 +1910,7 @@
     "decision": "1999-07-01",
     "decision_day": "Thursday, July 1, 1999",
     "citation": "138 Wn.2d 318 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1861,6 +1935,7 @@
     "decision": "1999-05-13",
     "decision_day": "Thursday, May 13, 1999",
     "citation": "137 Wn.2d 933 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1885,6 +1960,7 @@
     "decision": "1999-09-09",
     "decision_day": "Thursday, September 9, 1999",
     "citation": "138 Wn.2d 875 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1909,6 +1985,7 @@
     "decision": "1999-06-10",
     "decision_day": "Thursday, June 10, 1999",
     "citation": "138 Wn.2d 133 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1934,6 +2011,7 @@
     "decision": "1999-06-17",
     "decision_day": "Thursday, June 17, 1999",
     "citation": "138 Wn.2d 227 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -1957,7 +2035,8 @@
     "argument_day": "Wednesday, March 10, 1999",
     "decision": "1999-09-09",
     "decision_day": "Thursday, September 9, 1999",
-    "citation": "138 Wn.2d 898 (1999)"
+    "citation": "138 Wn.2d 898 (1999)",
+    "bench": "durham4"
   },
   {
     "id": "1999-084",
@@ -1969,6 +2048,7 @@
     "decision": "1999-06-03",
     "decision_day": "Thursday, June 3, 1999",
     "citation": "138 Wn.2d 43 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -2001,6 +2081,7 @@
     "decision": "1999-10-07",
     "decision_day": "Thursday, October 7, 1999",
     "citation": "139 Wn.2d 166 (1999)",
+    "bench": "guy1",
     "events": [
       {
         "source": "tvw",
@@ -2025,6 +2106,7 @@
     "decision": "1999-08-19",
     "decision_day": "Thursday, August 19, 1999",
     "citation": "138 Wn.2d 773 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -2049,6 +2131,7 @@
     "decision": "1999-05-06",
     "decision_day": "Thursday, May 6, 1999",
     "citation": "137 Wn.2d 774 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -2073,6 +2156,7 @@
     "decision": "1999-06-03",
     "decision_day": "Thursday, June 3, 1999",
     "citation": "138 Wn.2d 55 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -2097,6 +2181,7 @@
     "decision": "1999-08-05",
     "decision_day": "Thursday, August 5, 1999",
     "citation": "138 Wn.2d 680 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -2120,7 +2205,8 @@
     "argument_day": "Tuesday, May 11, 1999",
     "decision": "1999-07-29",
     "decision_day": "Thursday, July 29, 1999",
-    "citation": "138 Wn.2d 638 (1999)"
+    "citation": "138 Wn.2d 638 (1999)",
+    "bench": "durham4"
   },
   {
     "id": "1999-092",
@@ -2132,6 +2218,7 @@
     "decision": "1999-09-16",
     "decision_day": "Thursday, September 16, 1999",
     "citation": "139 Wn.2d 53 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -2156,6 +2243,7 @@
     "decision": "1999-07-29",
     "decision_day": "Thursday, July 29, 1999",
     "citation": "138 Wn.2d 588 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -2180,6 +2268,7 @@
     "decision": "1999-06-17",
     "decision_day": "Thursday, June 17, 1999",
     "citation": "138 Wn.2d 248 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -2204,6 +2293,7 @@
     "decision": "1999-07-29",
     "decision_day": "Thursday, July 29, 1999",
     "citation": "138 Wn.2d 588 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -2228,6 +2318,7 @@
     "decision": "1999-09-09",
     "decision_day": "Thursday, September 9, 1999",
     "citation": "138 Wn.2d 950 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -2252,6 +2343,7 @@
     "decision": "1999-12-16",
     "decision_day": "Thursday, December 16, 1999",
     "citation": "139 Wn.2d 604 (1999)",
+    "bench": "guy1",
     "events": [
       {
         "source": "tvw",
@@ -2276,6 +2368,7 @@
     "decision": "1999-07-29",
     "decision_day": "Thursday, July 29, 1999",
     "citation": "138 Wn.2d 612 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -2300,6 +2393,7 @@
     "decision": "1999-08-05",
     "decision_day": "Thursday, August 5, 1999",
     "citation": "138 Wn.2d 650 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -2324,6 +2418,7 @@
     "decision": "1999-10-07",
     "decision_day": "Thursday, October 7, 1999",
     "citation": "139 Wn.2d 186 (1999)",
+    "bench": "guy1",
     "events": [
       {
         "source": "tvw",
@@ -2348,6 +2443,7 @@
     "decision": "1999-07-29",
     "decision_day": "Thursday, July 29, 1999",
     "citation": "138 Wn.2d 630 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -2372,6 +2468,7 @@
     "decision": "1999-12-02",
     "decision_day": "Thursday, December 2, 1999",
     "citation": "139 Wn.2d 581 (1999)",
+    "bench": "guy1",
     "events": [
       {
         "source": "tvw",
@@ -2396,6 +2493,7 @@
     "decision": "1999-09-09",
     "decision_day": "Thursday, September 9, 1999",
     "citation": "138 Wn.2d 937 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -2419,7 +2517,8 @@
     "argument_day": "Thursday, May 20, 1999",
     "decision": "1999-12-02",
     "decision_day": "Thursday, December 2, 1999",
-    "citation": "139 Wn.2d 581 (1999)"
+    "citation": "139 Wn.2d 581 (1999)",
+    "bench": "guy1"
   },
   {
     "id": "1999-105",
@@ -2431,6 +2530,7 @@
     "decision": "1999-10-28",
     "decision_day": "Thursday, October 28, 1999",
     "citation": "139 Wn.2d 462 (1999)",
+    "bench": "guy1",
     "events": [
       {
         "source": "tvw",
@@ -2455,6 +2555,7 @@
     "decision": "1999-08-19",
     "decision_day": "Thursday, August 19, 1999",
     "citation": "138 Wn.2d 783 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -2479,6 +2580,7 @@
     "decision": "1999-12-23",
     "decision_day": "Thursday, December 23, 1999",
     "citation": "139 Wn.2d 678 (1999)",
+    "bench": "guy1",
     "events": [
       {
         "source": "tvw",
@@ -2503,6 +2605,7 @@
     "decision": "1999-07-01",
     "decision_day": "Thursday, July 1, 1999",
     "citation": "138 Wn.2d 374 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -2527,6 +2630,7 @@
     "decision": "1999-09-30",
     "decision_day": "Thursday, September 30, 1999",
     "citation": "139 Wn.2d 64 (1999)",
+    "bench": "guy1",
     "events": [
       {
         "source": "tvw",
@@ -2551,6 +2655,7 @@
     "decision": "1999-09-09",
     "decision_day": "Thursday, September 9, 1999",
     "citation": "139 Wn.2d 1 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -2575,6 +2680,7 @@
     "decision": "1999-12-16",
     "decision_day": "Thursday, December 16, 1999",
     "citation": "139 Wn.2d 659 (1999)",
+    "bench": "guy1",
     "events": [
       {
         "source": "tvw",
@@ -2599,6 +2705,7 @@
     "decision": "1999-07-22",
     "decision_day": "Thursday, July 22, 1999",
     "citation": "138 Wn.2d 550 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -2623,6 +2730,7 @@
     "decision": "1999-07-15",
     "decision_day": "Thursday, July 15, 1999",
     "citation": "138 Wn.2d 466 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -2647,6 +2755,7 @@
     "decision": "1999-07-15",
     "decision_day": "Thursday, July 15, 1999",
     "citation": "138 Wn.2d 466 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -2671,6 +2780,7 @@
     "decision": "1999-10-07",
     "decision_day": "Thursday, October 7, 1999",
     "citation": "139 Wn.2d 107 (1999)",
+    "bench": "guy1",
     "events": [
       {
         "source": "tvw",
@@ -2695,6 +2805,7 @@
     "decision": "1999-10-14",
     "decision_day": "Thursday, October 14, 1999",
     "citation": "139 Wn.2d 199 (1999)",
+    "bench": "guy1",
     "events": [
       {
         "source": "tvw",
@@ -2719,6 +2830,7 @@
     "decision": "1999-12-16",
     "decision_day": "Thursday, December 16, 1999",
     "citation": "139 Wn.2d 623 (1999)",
+    "bench": "guy1",
     "events": [
       {
         "source": "tvw",
@@ -2743,6 +2855,7 @@
     "decision": "1999-10-14",
     "decision_day": "Thursday, October 14, 1999",
     "citation": "139 Wn.2d 199 (1999)",
+    "bench": "guy1",
     "events": [
       {
         "source": "tvw",
@@ -2767,6 +2880,7 @@
     "decision": "1999-12-23",
     "decision_day": "Thursday, December 23, 1999",
     "citation": "139 Wn.2d 694 (1999)",
+    "bench": "guy1",
     "events": [
       {
         "source": "tvw",
@@ -2812,6 +2926,7 @@
     "decision": "1999-09-09",
     "decision_day": "Thursday, September 9, 1999",
     "citation": "139 Wn.2d 37 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -2836,6 +2951,7 @@
     "decision": "1999-09-02",
     "decision_day": "Thursday, September 2, 1999",
     "citation": "138 Wn.2d 815 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -2860,6 +2976,7 @@
     "decision": "1999-09-09",
     "decision_day": "Thursday, September 9, 1999",
     "citation": "138 Wn.2d 964 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -2884,6 +3001,7 @@
     "decision": "1999-10-14",
     "decision_day": "Thursday, October 14, 1999",
     "citation": "139 Wn.2d 320 (1999)",
+    "bench": "guy1",
     "events": [
       {
         "source": "tvw",
@@ -2908,6 +3026,7 @@
     "decision": "1999-10-21",
     "decision_day": "Thursday, October 21, 1999",
     "citation": "139 Wn.2d 472 (1999)",
+    "bench": "guy1",
     "events": [
       {
         "source": "tvw",
@@ -2932,6 +3051,7 @@
     "decision": "1999-10-14",
     "decision_day": "Thursday, October 14, 1999",
     "citation": "139 Wn.2d 320 (1999)",
+    "bench": "guy1",
     "events": [
       {
         "source": "tvw",
@@ -2956,6 +3076,7 @@
     "decision": "1999-08-26",
     "decision_day": "Thursday, August 26, 1999",
     "citation": "138 Wn.2d 800 (1999)",
+    "bench": "durham4",
     "events": [
       {
         "source": "tvw",
@@ -2979,7 +3100,8 @@
     "argument_day": "Thursday, June 17, 1999",
     "decision": "1999-10-14",
     "decision_day": "Thursday, October 14, 1999",
-    "citation": "139 Wn.2d 320 (1999)"
+    "citation": "139 Wn.2d 320 (1999)",
+    "bench": "guy1"
   },
   {
     "id": "1999-129",
@@ -3012,6 +3134,7 @@
     "decision": "1999-11-18",
     "decision_day": "Thursday, November 18, 1999",
     "citation": "139 Wn.2d 534 (1999)",
+    "bench": "guy1",
     "events": [
       {
         "source": "tvw",
@@ -3057,6 +3180,7 @@
     "decision": "1999-11-18",
     "decision_day": "Thursday, November 18, 1999",
     "citation": "139 Wn.2d 557 (1999)",
+    "bench": "guy1",
     "events": [
       {
         "source": "tvw",

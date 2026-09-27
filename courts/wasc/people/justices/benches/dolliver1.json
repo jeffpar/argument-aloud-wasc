@@ -1,0 +1,24 @@
+{
+  "details": {
+    "page": "/courts/wasc/justices/benches/?id=dolliver1"
+  },
+  "highlights": [],
+  "cases": [
+    {
+      "title": "Northwest Airlines v. Hughes Air Corp. (1985)",
+      "term": "1985",
+      "number": "50855-1",
+      "argument": "1985-02-20",
+      "decision": "1985-07-18",
+      "score": "9-0"
+    },
+    {
+      "title": "Washington v. Gunwall (1986)",
+      "term": "1986",
+      "number": "50979-4",
+      "argument": "1985-10-02",
+      "decision": "1986-06-12",
+      "score": "9-0"
+    }
+  ]
+}
