@@ -15,6 +15,7 @@
     "dateStart": "1993-01-11",
     "dateStop": "2026-04-03",
     "yearsServed": 33.2266,
+    "cjStart": "2010-01-11",
     "page": "/courts/wasc/justices/barbara_a_madsen",
     "cases": [],
     "title": "Justice"
@@ -25,6 +26,7 @@
     "dateStart": "1985-01-14",
     "dateStop": "1999-09-30",
     "yearsServed": 14.7105,
+    "cjStart": "1995-01-09",
     "page": "/courts/wasc/justices/barbara_m_durham",
     "cases": [],
     "title": "Justice"
@@ -45,6 +47,7 @@
     "dateStart": "1932-12-01",
     "dateStop": "1946-08-31",
     "yearsServed": 13.7495,
+    "cjStart": "1939-01-09",
     "page": "/courts/wasc/justices/bruce_blake",
     "cases": [],
     "title": "Justice"
@@ -75,6 +78,7 @@
     "dateStart": "1970-01-01",
     "dateStop": "1984-07-03",
     "yearsServed": 14.5051,
+    "cjStart": "1975-01-13",
     "page": "/courts/wasc/justices/charles_f_stafford",
     "cases": [],
     "title": "Justice"
@@ -105,6 +109,7 @@
     "dateStart": "1949-09-12",
     "dateStop": "1967-12-31",
     "yearsServed": 18.3025,
+    "cjStart": "1956-07-06",
     "page": "/courts/wasc/justices/charles_t_donworth",
     "cases": [],
     "title": "Justice"
@@ -115,6 +120,7 @@
     "dateStart": "1971-01-11",
     "dateStop": "1980-11-06",
     "yearsServed": 9.8234,
+    "cjStart": "1977-01-10",
     "page": "/courts/wasc/justices/charles_t_wright",
     "cases": [],
     "title": "Justice"
@@ -144,6 +150,7 @@
     "dateStart": "1939-01-09",
     "dateStop": "1949-08-08",
     "yearsServed": 10.5818,
+    "cjStart": "1949-01-10",
     "page": "/courts/wasc/justices/clyde_g_jeffers",
     "cases": [],
     "title": "Justice"
@@ -162,6 +169,7 @@
     "name": "Debra L. Stephens",
     "dateStart": "2008-01-01",
     "dateStop": "",
+    "cjStart": "2025-01-13",
     "page": "/courts/wasc/justices/debra_l_stephens",
     "cases": [],
     "title": "Chief Justice"
@@ -182,6 +190,7 @@
     "dateStart": "1946-09-03",
     "dateStop": "1957-09-22",
     "yearsServed": 11.0554,
+    "cjStart": "1951-01-08",
     "page": "/courts/wasc/justices/e_w_schwellenbach",
     "cases": [],
     "title": "Justice"
@@ -202,6 +211,7 @@
     "dateStart": "1889-11-11",
     "dateStop": "1899-01-09",
     "yearsServed": 9.1636,
+    "cjStart": "1897-01-11",
     "page": "/courts/wasc/justices/elmon_scott",
     "cases": [],
     "title": "Justice"
@@ -212,6 +222,7 @@
     "dateStart": "1909-02-26",
     "dateStop": "1933-08-15",
     "yearsServed": 24.4682,
+    "cjStart": "1921-01-10",
     "page": "/courts/wasc/justices/emmett_n_parker",
     "cases": [],
     "title": "Justice"
@@ -242,6 +253,7 @@
     "dateStart": "1905-01-10",
     "dateStop": "1911-02-14",
     "yearsServed": 6.0972,
+    "cjStart": "1909-01-11",
     "page": "/courts/wasc/justices/frank_h_rudkin",
     "cases": [],
     "title": "Justice"
@@ -252,6 +264,7 @@
     "dateStart": "1963-01-14",
     "dateStop": "1975-01-13",
     "yearsServed": 12,
+    "cjStart": "1973-01-08",
     "page": "/courts/wasc/justices/frank_hale",
     "cases": [],
     "title": "Justice"
@@ -262,6 +275,7 @@
     "dateStart": "1951-05-21",
     "dateStop": "1970-05-21",
     "yearsServed": 19.0034,
+    "cjStart": "1959-01-12",
     "page": "/courts/wasc/justices/frank_p_weaver",
     "cases": [],
     "title": "Justice"
@@ -272,6 +286,7 @@
     "dateStart": "1981-01-02",
     "dateStop": "1993-01-11",
     "yearsServed": 12.0274,
+    "cjStart": "1991-01-14",
     "page": "/courts/wasc/justices/fred_h_dore",
     "cases": [],
     "title": "Justice"
@@ -292,6 +307,7 @@
     "dateStart": "1949-09-06",
     "dateStop": "1956-07-06",
     "yearsServed": 6.8337,
+    "cjStart": "1955-01-10",
     "page": "/courts/wasc/justices/frederick_g_hamley",
     "cases": [],
     "title": "Justice"
@@ -311,6 +327,7 @@
     "dateStart": "1937-09-20",
     "dateStop": "1951-01-08",
     "yearsServed": 13.3032,
+    "cjStart": "1943-01-11",
     "page": "/courts/wasc/justices/george_b_simpson",
     "cases": [],
     "title": "Justice"
@@ -321,6 +338,7 @@
     "dateStart": "1909-02-26",
     "dateStop": "1918-03-30",
     "yearsServed": 9.0897,
+    "cjStart": "1915-01-11",
     "page": "/courts/wasc/justices/george_e_morris",
     "cases": [],
     "title": "Justice"
@@ -331,6 +349,7 @@
     "dateStart": "1995-01-09",
     "dateStop": "2011-12-31",
     "yearsServed": 16.9774,
+    "cjStart": "2001-01-08",
     "page": "/courts/wasc/justices/gerry_l_alexander",
     "cases": [],
     "title": "Justice"
@@ -361,6 +380,7 @@
     "dateStart": "1905-01-19",
     "dateStop": "1915-10-22",
     "yearsServed": 10.757,
+    "cjStart": "1913-01-13",
     "page": "/courts/wasc/justices/herman_d_crow",
     "cases": [],
     "title": "Justice"
@@ -371,6 +391,7 @@
     "dateStart": "1901-03-20",
     "dateStop": "1909-01-11",
     "yearsServed": 7.5537,
+    "cjStart": "1907-01-14",
     "page": "/courts/wasc/justices/hiram_e_hadley",
     "cases": [],
     "title": "Justice"
@@ -381,6 +402,7 @@
     "dateStart": "1955-01-10",
     "dateStop": "1984-11-26",
     "yearsServed": 29.8809,
+    "cjStart": "1965-01-11",
     "page": "/courts/wasc/justices/hugh_j_rosellini",
     "cases": [],
     "title": "Justice"
@@ -391,6 +413,7 @@
     "dateStart": "1984-07-24",
     "dateStop": "1995-01-09",
     "yearsServed": 10.4641,
+    "cjStart": "1993-01-11",
     "page": "/courts/wasc/justices/james_a_andersen",
     "cases": [],
     "title": "Justice"
@@ -401,6 +424,7 @@
     "dateStart": "1897-01-11",
     "dateStop": "1903-01-12",
     "yearsServed": 6.0014,
+    "cjStart": "1901-01-14",
     "page": "/courts/wasc/justices/james_bradley_reavis",
     "cases": [],
     "title": "Justice"
@@ -411,6 +435,7 @@
     "dateStart": "1976-05-06",
     "dateStop": "1999-01-11",
     "yearsServed": 22.6858,
+    "cjStart": "1985-01-14",
     "page": "/courts/wasc/justices/james_m_dolliver",
     "cases": [],
     "title": "Justice"
@@ -451,6 +476,7 @@
     "dateStart": "1912-09-27",
     "dateStop": "1943-10-13",
     "yearsServed": 31.0445,
+    "cjStart": "1918-05-11",
     "page": "/courts/wasc/justices/john_f_main",
     "cases": [],
     "title": "Justice"
@@ -461,6 +487,7 @@
     "dateStart": "1889-11-11",
     "dateStop": "1897-01-11",
     "yearsServed": 7.1704,
+    "cjStart": "1895-01-14",
     "page": "/courts/wasc/justices/john_p_hoyt",
     "cases": [],
     "title": "Justice"
@@ -471,6 +498,7 @@
     "dateStart": "1918-05-11",
     "dateStop": "1937-01-11",
     "yearsServed": 18.6749,
+    "cjStart": "1929-01-14",
     "page": "/courts/wasc/justices/john_r_mitchell",
     "cases": [],
     "title": "Justice"
@@ -481,6 +509,7 @@
     "dateStart": "1937-01-11",
     "dateStop": "1951-05-21",
     "yearsServed": 14.3573,
+    "cjStart": "1941-01-13",
     "page": "/courts/wasc/justices/john_s_robinson",
     "cases": [],
     "title": "Justice"
@@ -501,6 +530,7 @@
     "dateStart": "1942-11-09",
     "dateStop": "1962-01-15",
     "yearsServed": 19.1869,
+    "cjStart": "1947-01-13",
     "page": "/courts/wasc/justices/joseph_a_mallery",
     "cases": [],
     "title": "Justice"
@@ -511,6 +541,7 @@
     "dateStart": "1985-01-05",
     "dateStop": "1991-01-14",
     "yearsServed": 6.026,
+    "cjStart": "1989-01-09",
     "page": "/courts/wasc/justices/keith_m_callow",
     "cases": [],
     "title": "Justice"
@@ -521,6 +552,7 @@
     "dateStart": "1918-03-30",
     "dateStop": "1928-04-16",
     "yearsServed": 10.0507,
+    "cjStart": "1927-01-10",
     "page": "/courts/wasc/justices/kenneth_mackintosh",
     "cases": [],
     "title": "Justice"
@@ -541,6 +573,7 @@
     "dateStart": "1899-01-09",
     "dateStop": "1931-09-21",
     "yearsServed": 32.6982,
+    "cjStart": "1903-01-12",
     "page": "/courts/wasc/justices/mark_a_fullerton",
     "cases": [],
     "title": "Justice"
@@ -561,6 +594,7 @@
     "dateStart": "2003-01-13",
     "dateStop": "2020-01-05",
     "yearsServed": 16.9802,
+    "cjStart": "2017-01-09",
     "page": "/courts/wasc/justices/mary_e_fairhurst",
     "cases": [],
     "title": "Justice"
@@ -581,6 +615,7 @@
     "dateStart": "1947-01-13",
     "dateStop": "1969-12-31",
     "yearsServed": 22.9678,
+    "cjStart": "1957-01-14",
     "page": "/courts/wasc/justices/matthew_w_hill",
     "cases": [],
     "title": "Justice"
@@ -591,6 +626,7 @@
     "dateStart": "1895-01-14",
     "dateStop": "1900-06-01",
     "yearsServed": 5.3799,
+    "cjStart": "1899-01-09",
     "page": "/courts/wasc/justices/merritt_j_gordon",
     "cases": [],
     "title": "Justice"
@@ -621,6 +657,7 @@
     "dateStart": "1962-01-22",
     "dateStop": "1979-01-08",
     "yearsServed": 16.9637,
+    "cjStart": "1971-01-11",
     "page": "/courts/wasc/justices/orris_l_hamilton",
     "cases": [],
     "title": "Justice"
@@ -631,6 +668,7 @@
     "dateStart": "1915-01-11",
     "dateStop": "1939-01-09",
     "yearsServed": 23.7207,
+    "cjStart": "1919-06-01",
     "page": "/courts/wasc/justices/oscar_r_holcomb",
     "cases": [],
     "title": "Justice"
@@ -641,6 +679,7 @@
     "dateStart": "1911-05-10",
     "dateStop": "1918-05-11",
     "yearsServed": 7.0062,
+    "cjStart": "1917-01-08",
     "page": "/courts/wasc/justices/overton_g_ellis",
     "cases": [],
     "title": "Justice"
@@ -661,6 +700,7 @@
     "dateStart": "1889-11-11",
     "dateStop": "1912-09-19",
     "yearsServed": 22.8556,
+    "cjStart": "1893-01-09",
     "page": "/courts/wasc/justices/ralph_o_dunbar",
     "cases": [],
     "title": "Justice"
@@ -690,6 +730,7 @@
     "dateStart": "1955-01-24",
     "dateStop": "1967-03-31",
     "yearsServed": 12.1834,
+    "cjStart": "1963-01-14",
     "page": "/courts/wasc/justices/richard_b_ott",
     "cases": [],
     "title": "Justice"
@@ -710,6 +751,7 @@
     "dateStart": "1989-11-01",
     "dateStop": "2001-01-08",
     "yearsServed": 11.1896,
+    "cjStart": "1999-09-30",
     "page": "/courts/wasc/justices/richard_p_guy",
     "cases": [],
     "title": "Justice"
@@ -720,6 +762,7 @@
     "dateStart": "1951-01-08",
     "dateStop": "1976-03-23",
     "yearsServed": 25.2074,
+    "cjStart": "1961-01-09",
     "page": "/courts/wasc/justices/robert_c_finley",
     "cases": [],
     "title": "Justice"
@@ -730,6 +773,7 @@
     "dateStart": "1972-11-20",
     "dateStop": "1995-01-09",
     "yearsServed": 22.1383,
+    "cjStart": "1981-01-12",
     "page": "/courts/wasc/justices/robert_f_brachtenbach",
     "cases": [],
     "title": "Justice"
@@ -740,6 +784,7 @@
     "dateStart": "1971-12-20",
     "dateStop": "1995-04-25",
     "yearsServed": 23.3484,
+    "cjStart": "1979-01-08",
     "page": "/courts/wasc/justices/robert_f_utter",
     "cases": [],
     "title": "Justice"
@@ -750,6 +795,7 @@
     "dateStart": "1957-10-11",
     "dateStop": "1977-01-10",
     "yearsServed": 19.2526,
+    "cjStart": "1969-01-13",
     "page": "/courts/wasc/justices/robert_t_hunter",
     "cases": [],
     "title": "Justice"
@@ -779,6 +825,7 @@
     "dateStart": "1940-05-09",
     "dateStop": "1946-04-22",
     "yearsServed": 2.9295,
+    "cjStart": "1945-12-18",
     "page": "/courts/wasc/justices/samuel_m_driver",
     "cases": [],
     "title": "Justice"
@@ -798,6 +845,7 @@
     "dateStart": "1908-12-03",
     "dateStop": "1919-06-01",
     "yearsServed": 10.4942,
+    "cjStart": "1919-01-13",
     "page": "/courts/wasc/justices/stephen_j_chadwick",
     "cases": [],
     "title": "Justice"
@@ -807,6 +855,7 @@
     "name": "Steven C. González",
     "dateStart": "2012-01-09",
     "dateStop": "",
+    "cjStart": "2021-01-11",
     "page": "/courts/wasc/justices/steven_c_gonzalez",
     "cases": [],
     "title": "Justice"
@@ -846,6 +895,7 @@
     "dateStart": "1942-11-25",
     "dateStop": "1955-01-10",
     "yearsServed": 9.0185,
+    "cjStart": "1953-01-12",
     "page": "/courts/wasc/justices/thomas_e_grady",
     "cases": [],
     "title": "Justice"
@@ -856,6 +906,7 @@
     "dateStart": "1889-11-11",
     "dateStop": "1905-01-10",
     "yearsServed": 15.165,
+    "cjStart": "1889-11-11",
     "page": "/courts/wasc/justices/thomas_j_anders",
     "cases": [],
     "title": "Justice"
@@ -876,6 +927,7 @@
     "dateStart": "1982-01-18",
     "dateStop": "1989-10-31",
     "yearsServed": 7.7864,
+    "cjStart": "1987-01-10",
     "page": "/courts/wasc/justices/vernon_r_pearson",
     "cases": [],
     "title": "Justice"
@@ -886,6 +938,7 @@
     "dateStart": "1901-01-14",
     "dateStop": "1921-09-04",
     "yearsServed": 20.6407,
+    "cjStart": "1905-01-09",
     "page": "/courts/wasc/justices/wallace_mount",
     "cases": [],
     "title": "Justice"
@@ -896,6 +949,7 @@
     "dateStart": "1928-04-16",
     "dateStop": "1951-09-10",
     "yearsServed": 22.4641,
+    "cjStart": "1933-01-09",
     "page": "/courts/wasc/justices/walter_b_beals",
     "cases": [],
     "title": "Justice"
@@ -926,6 +980,7 @@
     "dateStart": "1918-05-11",
     "dateStop": "1937-09-20",
     "yearsServed": 19.3648,
+    "cjStart": "1925-01-12",
     "page": "/courts/wasc/justices/warren_w_tolman",
     "cases": [],
     "title": "Justice"
@@ -976,6 +1031,7 @@
     "dateStart": "1979-01-08",
     "dateStop": "1985-01-14",
     "yearsServed": 6.0205,
+    "cjStart": "1983-01-10",
     "page": "/courts/wasc/justices/william_h_williams",
     "cases": [],
     "title": "Justice"
@@ -986,6 +1042,7 @@
     "dateStart": "1928-12-01",
     "dateStop": "1957-01-14",
     "yearsServed": 20.2218,
+    "cjStart": "1935-01-14",
     "page": "/courts/wasc/justices/william_j_millard",
     "cases": [],
     "title": "Justice"
@@ -996,6 +1053,7 @@
     "dateStart": "1932-05-23",
     "dateStop": "1949-09-12",
     "yearsServed": 17.3087,
+    "cjStart": "1937-01-11",
     "page": "/courts/wasc/justices/william_j_steinert",
     "cases": [],
     "title": "Justice"
